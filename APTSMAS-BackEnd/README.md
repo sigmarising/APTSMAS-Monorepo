@@ -37,3 +37,9 @@ java -jar ./data-service-version.jar -Dspring.profiles.active=prod
 ## Postman and JMeter dumped collection
 
 The related APIs and test dumped from postman and JMeter collection are in [`assets/`](./assets/)
+
+## LICENSE
+
+***All the APTSMAS relevant software copyright has been obtained (Chinese Software Copyright 2022SR0393788).***
+
+The ***Ancient Poets Temporal and Spatial Mobility Analysis System*** (*APTSMAS*) related things follow the **[GPL-3.0](../LICENSE) license**.

@@ -66,4 +66,9 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-> All ***Ancient Poets Temporal and Spatial Mobility Analysis System*** related repositories will not be open source.
+## LICENSE
+
+***All the APTSMAS relevant software copyright has been obtained (Chinese Software Copyright 2022SR0393788).***
+
+The ***Ancient Poets Temporal and Spatial Mobility Analysis System*** (*APTSMAS*) related things follow the **[GPL-3.0](../LICENSE) license**.
+
