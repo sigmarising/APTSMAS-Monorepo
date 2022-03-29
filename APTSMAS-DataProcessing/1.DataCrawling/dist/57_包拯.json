@@ -1,0 +1,340 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.82687,
+            "CenterLongitude": 117.235447,
+            "ZoomLevel": 6,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "5b367147752645d9aeecbc8324550150",
+                            "Latitude": 31.82687,
+                            "Longitude": 117.235447,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3401",
+                            "Title": "合肥"
+                        },
+                        {
+                            "Id": "1ac8684e89d64bb4bf86b97e560e1845",
+                            "Latitude": 32.695335,
+                            "Longitude": 119.010093,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341181",
+                            "Title": "天长"
+                        },
+                        {
+                            "Id": "9a4708336c174a47b6b14b42609f31b8",
+                            "Latitude": 23.052984,
+                            "Longitude": 112.47177,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4412",
+                            "Title": "肇庆"
+                        },
+                        {
+                            "Id": "787327b01c88435ca1a8fd08c443820c",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "93a544f7ef624bc88eefe2c9c636a4e1",
+                            "Latitude": 43.977116,
+                            "Longitude": 119.386055,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN150422",
+                            "Title": "巴林左旗"
+                        },
+                        {
+                            "Id": "2c402be5adf0423d8d82040eed4e221d",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "ebcd200935744146bcac2e10b17cb777",
+                            "Latitude": 36.778223,
+                            "Longitude": 118.440962,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370781002",
+                            "Title": "益都"
+                        },
+                        {
+                            "Id": "3dca23051f9f40ee9f44d549fbfbc2b2",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "608d2ec401c345dc9d3ebe42d63dc0f7",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "1fa3c8cee6ff448a8bce43f7ef1ad9ec",
+                            "Latitude": 38.042284,
+                            "Longitude": 114.476188,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN13",
+                            "Title": "河北"
+                        },
+                        {
+                            "Id": "2693837a686349b8b1933b2d9483da26",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "f051269a3ea148c099d16ad257afdcf3",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "aebb1103561d4e398a15e8bd22ecb48e",
+                            "Latitude": 36.291268,
+                            "Longitude": 115.154493,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130425",
+                            "Title": "大名"
+                        },
+                        {
+                            "Id": "3fc43971e7084806a26e1816981afc8a",
+                            "Latitude": 38.451137,
+                            "Longitude": 116.105628,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130984",
+                            "Title": "河间"
+                        },
+                        {
+                            "Id": "beffe1f21dd143a1a2126cf52296ff71",
+                            "Latitude": 31.82687,
+                            "Longitude": 117.235447,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3401",
+                            "Title": "合肥"
+                        },
+                        {
+                            "Id": "908ca95a72e4484cb030b96f7cb9728e",
+                            "Latitude": 30.692676,
+                            "Longitude": 117.573824,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341702",
+                            "Title": "贵池"
+                        },
+                        {
+                            "Id": "8c8522d7dbe1454cbf95e97e62ebf131",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "258ceec4437c4948bc3b4b30067716e2",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "729b32d595ee4e90af1f6ce4c60d792b",
+                            "Latitude": 31.82687,
+                            "Longitude": 117.235447,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3401",
+                            "Title": "合肥"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.82687,
+                    "Longitude": 117.235447,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3401",
+                    "Title": "合肥 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5b367147752645d9aeecbc8324550150\");'><span id='5b367147752645d9aeecbc8324550150_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=999&endYear=1036')\">999-1036年</a>，1-38岁</div><div id='5b367147752645d9aeecbc8324550150' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=999&endYear=1000')\">999-1000年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1001&endYear=1001')\">1001年</a>　居乡，其妻董氏出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1011')\">1002-1011年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1012&endYear=1012')\">1012年</a>　居乡，其父包令仪任福建惠安县知县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1013&endYear=1022')\">1013-1022年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1023&endYear=1023')\">1023年</a>　居乡，少刻苦读书。时文彦博之父泊与包拯之父令仪同官阁中，拯与文彦博方业进士，交友深厚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1026')\">1024-1026年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年1月</a>　进士及第。初授大理评事、知建昌县，续改监和州税，因父母春秋高，遂解官侍养。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1031')\">1028-1031年</a>　居乡，奉养父母。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1032')\">1032年</a>　母张氏卒，拯庐墓守丧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')\">1033年</a>　除服，家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1036')\">1034-1036年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"beffe1f21dd143a1a2126cf52296ff71\");'><span id='beffe1f21dd143a1a2126cf52296ff71_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1054')\">1053-1054年</a>，55-56岁</div><div id='beffe1f21dd143a1a2126cf52296ff71' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年</a>　丧子，乞便郡，得知扬州，旋改庐州。亲旧有扰官府者，绳之以法。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年</a>　知庐州。请求免除高阳路欠负。<span class='label'>作品：</span>请放高阳一路欠负。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')\">1054年</a>　知庐州。迁刑部郎中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')\">1054年</a>　任刑部郎中、知庐州。韩琦曾上《乞罢诸路里正》<span class='label'>作品：</span>请罢里正只差衙前。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"729b32d595ee4e90af1f6ce4c60d792b\");'><span id='729b32d595ee4e90af1f6ce4c60d792b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>，65岁</div><div id='729b32d595ee4e90af1f6ce4c60d792b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年8月</a>　女婿文效护丧归，葬于合肥县公城乡公城里。<br /></div>"
+                },
+                {
+                    "Latitude": 32.695335,
+                    "Longitude": 119.010093,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341181",
+                    "Title": "天长",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1ac8684e89d64bb4bf86b97e560e1845\");'><span id='1ac8684e89d64bb4bf86b97e560e1845_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1039')\">1037-1039年</a>，39-41岁</div><div id='1ac8684e89d64bb4bf86b97e560e1845' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1037')\">1037年</a>　毕亲丧，重新出仕，知扬州天长县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1037')\">1037年</a>　知扬州天长县。察割牛舌盗，官迁大理寺丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1039')\">1038-1039年</a>　知扬州天长县。<br /></div>"
+                },
+                {
+                    "Latitude": 23.052984,
+                    "Longitude": 112.47177,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4412",
+                    "Title": "肇庆",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9a4708336c174a47b6b14b42609f31b8\");'><span id='9a4708336c174a47b6b14b42609f31b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1042')\">1040-1042年</a>，42-44岁</div><div id='9a4708336c174a47b6b14b42609f31b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')\">1040年</a>　徙知端州，官迁殿中丞。病民之汲于江，凿七井以便其用。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1041&endYear=1041')\">1041年</a>　知端州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年3月9日</a>　知端州。与提点刑狱周湛、同提点刑狱钱聿游端州城北石室大岩（即七星岩），并题名留念。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年冬</a>　知端州任满，由朱显之接任。任满不持一砚归，律己之义凛乎严凝。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"787327b01c88435ca1a8fd08c443820c\");'><span id='787327b01c88435ca1a8fd08c443820c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1045')\">1043-1045年</a>，45-47岁</div><div id='787327b01c88435ca1a8fd08c443820c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年春夏间</a>　入朝任勾当京东排岸司官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年11月</a>　因权御史中丞王拱辰推荐，拜监察御史里行。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年</a>　任监察御史里行。因睹其时“官吏升陟，贤否相混，世族补荫，愚智不分”，认为治乱之源，在于慎取贤士。<span class='label'>作品：</span>论取士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年</a>　任监察御史里行。此年十一月初二日夜，上清宫火。拯上疏请求勿再修缮。<span class='label'>作品：</span>请不修上清宫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年冬</a>　任监察御史里行。针对时权贵子弟调任州郡长官情况，提出不任县令者不得为按察官、通判、知州。<span class='label'>作品：</span>论县令轻授。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年</a>　任监察御史里行。时范仲淹等条陈十事，其四“择官长”。针对推举出的官员不能及时上任之问题，拯提出要随举随用，不拖延，不冗繁。<span class='label'>作品：</span>请先用举到官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年</a>　任监察御史里行。时右侍禁李用和应募杀“军贼”张海，而朝廷未按事前所立赏格封赏。<span class='label'>作品：</span>论李用和捉获张海乞依赏格酬奖。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年8月</a>　由监察御史里行迁为监察御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年3月</a>　任监察御史。范仲淹等人推行“庆历新政”，其《详定贡举条制》中有“不封弥誊录”条文。<span class='label'>作品：</span>请依旧封弥誊录考校举人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年夏</a>　任监察御史。江淮等地自去秋至今春，三时亢旱。<span class='label'>作品：</span>请免江淮两浙折变四章。<span class='inlineComment2'>（此文凡四章，前两章分别作于庆历四年4月9日、4月28日，后两章稍后奏上。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年夏</a>　任监察御史。时陈州去冬遇大雨雪，故庄稼收获欠佳。<span class='label'>作品：</span>请免陈州添折见钱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。庆历和议后，西夏向北宋称臣，元昊复遣杨守素来议事。拯反对议和。<span class='label'>作品：</span>论杨素守。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年6月</a>　任监察御史。时魏兼于部内置业，并剩量过职田斛斗，已下法寺详断”，拯上疏要求重断，以警贪猥。<span class='label'>作品：</span>请法外断魏兼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年盛夏</a>　任监察御史。因出榜召到蔡州驻泊都监阎士良罪状87状，拯请疾速理勘，一就结案。<span class='label'>作品：</span>请勘阎士良。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年7月</a>　任监察御史。拯提出整顿吏治，对刻薄好进、苛酷官员“屏而不用”<span class='label'>作品：</span>请不用苛虐之人充监司二章。<span class='inlineComment2'>（此疏第一章上于庆历四年七月，至八月乙卯前奏上第二章。欧阳修曾上疏《论台官所言按察使不当》驳斥包拯之言。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年8月</a>　任监察御史。拯要求朝廷从重处罚张可久贩私盐，以儆效尤。<span class='label'>作品：</span>请重断张可久。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年8月</a>　任监察御史。庆历四年八月初五日，保州兵乱。<span class='label'>作品：</span>论保州事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。庆历四年七月契丹遣使者告伐夏国，八月宋遣余靖报使契丹。<span class='label'>作品：</span>论契丹事宜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年9月</a>　任监察御史。八月余靖使契丹回，拯反对赐契丹誓书，主张稍缓与之议和。未成。<span class='label'>作品：</span>论昊贼事宜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年9月</a>　任监察御史。时保州兵马监押韦贵降充岳州监税，拯言其罪大责轻，当重行处置。<span class='label'>作品：</span>乞断韦贵二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。蒋堂推举前保州通判石待制不当，罚铜四十斤。拯言责轻不足以诫滥举者。<span class='label'>作品：</span>请重坐举边吏者。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时晏殊罢相，拯建言慎择贤才任相。<span class='label'>作品：</span>晏殊罢相后上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年冬</a>　任监察御史。时孙甫言丁度有罪，丁上疏求皇帝辨明。然仁宗对丁度奏折未予答复，拯乞各与辨明。<span class='label'>作品：</span>论丁度孙甫事乞辨明。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年冬</a>　任监察御史。庆历四年十一月，蛮贼于连、韶州界处打劫。<span class='label'>作品：</span>论蛮贼事二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时张若谷年近八十，仍不致仕。<span class='label'>作品：</span>弹张若谷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时兴国寺僧鹿皮道者绍宗多行恶端，拯建言严惩此辈。<span class='label'>作品：</span>请安置鹿皮道者。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时仁宗以“内降”之法宽赦罪犯周景，破坏法纪。<span class='label'>作品：</span>论内降周景札子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时冬雷震发，雨木成冰，有巨嵎之震。拯建言要谨慎对待，不可忽视。<span class='label'>作品：</span>谨天戒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。针对招募宣毅军时存在问题，提出“互换屯驻”之法。<span class='label'>作品：</span>论宣毅军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。庆历初宋夏战事不息，朝廷曾下诏臣僚举贤人，合并充河北、陕西、河东三路知县。拯乞各与改差本路知县。<span class='label'>作品：</span>论先举三路知县不得令监当。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时普遍存在提点刑狱失职渎职问题，拯提出针对大辟死罪或有过审判期而未决之案，提刑官应亲自审问决断。<span class='label'>作品：</span>请令提刑亲按罪人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。建言广南知州，不可轻授，应选有知县经验、政绩好、有官员保举者。<span class='label'>作品：</span>请选广南知州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时广南知州、县令缺员。<span class='label'>作品：</span>请广南添差职官二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。时封驳制度名存实亡，拯提出恢复封驳的具体建议。<span class='label'>作品：</span>请复封驳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。为劝赏廉吏，警示贪官，请求不任用赃吏。<span class='label'>作品：</span>乞不用赃吏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年</a>　任监察御史。京东等地暴发小规模农民起义、士兵暴动。拯提议及时安抚平定。<span class='label'>作品：</span>请差京东安抚二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年3月</a>　任监察御史。考试奏荫子弟，是“庆历新政”措施之一，于庆历三年十一月颁行。时欲废止。<span class='label'>作品：</span>请依旧考试奏荫子弟。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年4月</a>　任监察御史。庆历五年四月丁亥朔，发生日食。<span class='label'>作品：</span>论日食。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　任监察御史。由伴送契丹使返回御史任上，建言选用有才略武臣守边。<span class='label'>作品：</span>论边将。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　任监察御史。见河北沿边州郡军粮未备。<span class='label'>作品：</span>请添河北入中粮草。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　任监察御史。因河北二麦大熟，乞内库尽早支借银绢，收籴诸色斛斗。<span class='label'>作品：</span>请河北及时计置斛斗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　任监察御史。因拯前伴送契丹使，睹迎送三番使臣的费用过大。<span class='label'>作品：</span>请止绝三番取索。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年8月3日</a>　任监察御史。与张郯、何中立考试开封府举人。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2c402be5adf0423d8d82040eed4e221d\");'><span id='2c402be5adf0423d8d82040eed4e221d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>，48岁</div><div id='2c402be5adf0423d8d82040eed4e221d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年春</a>　任监察御史。使契丹还。将启程时，与契丹馆伴论列雄州便门事，使之“但言极是，颇有愧色”。返至雄州，询问此事，归上此疏。<span class='label'>作品：</span>奉使契丹辨雄州便门事状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　任监察御史。主张“无恃其不来，恃吾之不可攻也”<span class='label'>作品：</span>论契丹事宜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　任监察御史。时任命郭承祐知代州，拯认为不妥，乞将其召回。<span class='label'>作品：</span>论边将。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年5月</a>　任监察御史。庆历六年三月，登州地震；五月，京师地震。<span class='label'>作品：</span>论地震。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年春夏间</a>　除任三司户部判官，受赐五品服。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　任三司户部判官。拯批判朝廷大修土木，建议除营房、仓库外，一般寺观祠宇停止修葺。<span class='label'>作品：</span>应修造使臣乞依宣命不得乞转官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年春夏间</a>　任三司户部判官。王逵行事任性，苛政暴敛，非理配率钱物，拯上疏弹劾。<span class='label'>作品：</span>弹王逵三章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　任三司户部判官。杨景宗在任地方官时曾用刑过苛，涂炭生灵。<span class='label'>作品：</span>乞不遣杨景宗知磁州。<span class='inlineComment2'>（杨景宗为宋仁宗章惠皇太后的从父弟。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　任三司户部判官。因蔡河上供斛斗数量较定额亏损巨大，拯乞修缮。<span class='label'>作品：</span>请修蔡河堰并斗门。<span class='inlineComment2'>（蔡河，一名惠民河。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年夏</a>　任三司户部判官。因向绶迫死太常博士江中立，拯乞对其严惩，以戒将来。<span class='label'>作品：</span>乞断向绶二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年夏</a>　任三司户部判官。马军副都指挥使许怀德上殿自乞为留后，拯上疏反对，不果。<span class='label'>作品：</span>奏许怀德上殿陈乞。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"608d2ec401c345dc9d3ebe42d63dc0f7\");'><span id='608d2ec401c345dc9d3ebe42d63dc0f7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1049')\">1048-1049年</a>，50-51岁</div><div id='608d2ec401c345dc9d3ebe42d63dc0f7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年6月22日</a>　为三司户部副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年夏</a>　任三司户部副使。乞将同州韩城县的冶铁户除名。<span class='label'>作品：</span>请罢同州韩城县铁冶务人户。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　任三司户部副使。言凤翔府斜谷造船务等各种苛敛项目，请求免除。<span class='label'>作品：</span>请权罢陕西州军科率。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　任三司户部副使。因江西一路，多以米盐充折绢价，亏损于民，拯乞仁宗查问此事。<span class='label'>作品：</span>论江西和买绢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年2月</a>　任三司户部副使。皇祐元年二月八日，诏发京师禁军一指挥赴京东西路驻泊以备盗贼。<span class='label'>作品：</span>请留禁军不差出招置士兵。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。仁宗亲制策问。<span class='label'>作品：</span>天章阁对策。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f051269a3ea148c099d16ad257afdcf3\");'><span id='f051269a3ea148c099d16ad257afdcf3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1052')\">1049-1052年</a>，51-54岁</div><div id='f051269a3ea148c099d16ad257afdcf3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。奉使陕西还。<span class='label'>作品：</span>请除范祥陕西转运副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。针对当时冗官、冗兵等现象，建言减冗杂而节用度。<span class='label'>作品：</span>论冗官财用等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。建言“薄赋敛，宽力役，救饥馑”，以赠民户。<span class='label'>作品：</span>论历代并本朝户口。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年春</a>　擢为天章阁待制、知谏院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任天章阁待制、知谏院。举荐孙甫、孙环二人。<span class='label'>作品：</span>请召还孙甫张环。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任天章阁待制、知谏院。庶人冷青诈称皇子，拯与赵概奉旨查办冷青公事。<span class='label'>作品：</span>论妖人冷青等事二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年5月</a>　任天章阁待制、知谏院。从包拯等建议，罢三番使臣。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年6月</a>　任天章阁待制、知谏院。与陈旭、吴奎等上疏弹劾张尧佐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年夏秋间</a>　任天章阁待制、知谏院。建言当宽养黎庶，固其大本，使四方之民享皇帝之恩泽。<span class='label'>作品：</span>论赦恩不及下。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年8月</a>　任天章阁待制、知谏院。建言止绝内降。<span class='label'>作品：</span>请绝内降。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任天章阁待制、知谏院。时郭承祐改差许州，虽罢知州，仍为节度使。拯再次弹劾。<span class='label'>作品：</span>弹郭承祐二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年9月</a>　任天章阁待制、知谏院。明堂大赦前，拯上疏乞严惩贪官，纵遇大赦，不可复以官爵。<span class='label'>作品：</span>请赃吏该恩未得叙用。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年10月</a>　任天章阁待制、知谏院。仁宗皇祐二年九月二十七日，明堂“大赦，百官进秩一等”<span class='label'>作品：</span>论明堂覃恩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　以明堂恩，官迁兵部员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年10月</a>　任兵部员外郎、知谏院。建言放免民户欠负的赋税。<span class='label'>作品：</span>论放欠。<span class='inlineComment2'>（次月五日，拯便奉诏“放天下欠负”）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。拯言时财用窘迫，宜精选三司使、转运使等计臣。<span class='label'>作品：</span>请选内外计臣二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年11月</a>　任兵部员外郎、知谏院。奉诏放天下欠负。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。十月，王逵移任淮南转运使，拯多次上疏言其不当为此重任。<span class='label'>作品：</span>弹王逵四章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年闰11</a>　任兵部员外郎、知谏院。张尧佐骤除宣徽南院使、淮康军节度使、景灵宫使、群牧制置四使。拯乞罢其宣徽使之命任以外镇。<span class='label'>作品：</span>弹张尧佐。<span class='inlineComment2'>（张尧佐为仁宗宠妃张贵妃从父。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。复上疏论张尧佐除四使不当。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。建言任命官员时斥去形迹之弊，广开公正之路。<span class='label'>作品：</span>论大臣形迹事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。主张制定新的茶法，减轻茶税。<span class='label'>作品：</span>论茶法二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。十月，复三番使臣，拯极言其扰民之弊，请复罢之，不果。<span class='label'>作品：</span>请免接送北使三番。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。因江浙、荆湖等路自去秋亢旱，米价甚高，民事不足。乞开义仓以济灾民。<span class='label'>作品：</span>请支义仓米赈给百姓。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　任兵部员外郎、知谏院。建言选用监察等官员，要精核治状，审验人才。<span class='label'>作品：</span>请选用提转长吏官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年3月</a>　任兵部员外郎、知谏院。弹宰相宋庠“窃位素餐”、无所建树，乞罢免之。<span class='label'>作品：</span>弹宋庠。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年4月</a>　任兵部员外郎、知谏院。建言由御史台督促该退之官员致仕，未果。<span class='label'>作品：</span>论百官致仕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年6月</a>　任兵部员外郎、知谏院。认为因着力于庆历新政而被贬斥的杨纮等人是无辜被遣，主张“复与甄擢”<span class='label'>作品：</span>请录用杨纮等。<span class='inlineComment2'>（不久，杨纮升任湖南转运使，王鼎提点河北路刑狱。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年7月</a>　任兵部员外郎、知谏院。新任知澶州李昭亮辞请它职，改授知成德军。拯上疏认为应严申命令，仍遣其澶州就任。<span class='label'>作品：</span>论李昭亮二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年8月</a>　任兵部员外郎、知谏院。张尧佐再除宣徽南院使、判河阳。<span class='label'>作品：</span>弹张尧佐二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年9月</a>　任兵部员外郎、知谏院。皇祐三年九月十一日，诏令拯与三司河渠司等同议塞商胡、郭固决河。<span class='label'>作品：</span>论修商胡口。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年秋</a>　任兵部员外郎、知谏院。荐范祥任陕西转运副使。<span class='label'>作品：</span>再举范祥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年10月</a>　任兵部员外郎、知谏院。谓淑不尽侍养之责，妄驰仕进，请罢其职。<span class='label'>作品：</span>弹李淑。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。仁宗皇祐三年十月，吴奎知密州。拯奏乞留奎。<span class='label'>作品：</span>请留吴奎依旧供职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年11月</a>　任兵部员外郎、知谏院。江淮六路连岁亢旱，民食艰阻，流亡者多。拯上疏请免江淮六路灾伤州县之配籴及诸般科率。<span class='label'>作品：</span>请救济江淮饥民。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年冬</a>　任兵部员外郎、知谏院。殿中侍御史里行唐介力弹劾宰相文彦博“阴结贵妃”“显用尧佐”，包拯、吴奎与之相连。唐、吴被贬，拯亦求外任，未果。<span class='label'>作品：</span>求外任七章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。发运使许元绩用颇著，当别有进擢。乞依许元例，另置发运判官一名。<span class='label'>作品：</span>请置发运判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。知虔州余靖丁忧。<span class='label'>作品：</span>请选人知虔州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。旧开矾铺进纳授官人李授男与故申王宫承俊为亲，拯乞罢其婚媾。<span class='label'>作品：</span>论李绶冒国亲事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。认为魏征之谏言亦可行于今日，故录其三疏上于仁宗，请置天子座右。<span class='label'>作品：</span>进魏郑公三疏札子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。上仁宗要务七事，皆当时之要务，希望仁宗留神省察。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。言仁宗当善于用人。<span class='label'>作品：</span>论委任大臣。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。建言由武将充任河北等第官员，责守备抚驭之术。<span class='label'>作品：</span>请选河北知州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。言河北事体至大，连岁水旱，帅臣长吏尤在的人。<span class='label'>作品：</span>论河北帅臣二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。请既要发挥谏官的作用，又要严防其营私舞弊。<span class='label'>作品：</span>论台官言事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。举荐韩贽、孙抗、阎询等人重回御史台。<span class='label'>作品：</span>请复韩贽等台官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。阎士良由六宅副使除授崇仪使，拯上疏乞移其别路差遣。<span class='label'>作品：</span>论阎士良转官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　任兵部员外郎、知谏院。长子繶娶淮阳崔氏女。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年2月</a>　任兵部员外郎、知谏院。言利州一路累经灾伤，而转运使李熙辅不才庸谬，难当重任。乞另选廉敏才识之士，充利州路转运。<span class='label'>作品：</span>请选利州路转运使。<span class='inlineComment2'>（皇祐四年二月三日，降利州路转运使、度支郎中李熙辅知商州。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>　任兵部员外郎、知谏院。请替换利州路转运提刑张经。<span class='label'>作品：</span>再请选转运提刑。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>　任兵部员外郎、知谏院。因刘兼济“才庸识暗，素无廉节”而上疏请求将其罢免。<span class='label'>作品：</span>请罢知雄州刘兼济。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"258ceec4437c4948bc3b4b30067716e2\");'><span id='258ceec4437c4948bc3b4b30067716e2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1062')\">1056-1062年</a>，58-64岁</div><div id='258ceec4437c4948bc3b4b30067716e2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年12月5日</a>　进右司郎中、权知开封府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年6月</a>　迁右谏议大夫、权御史中丞、兼理检使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年</a>　进右司郎中、权知开封府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　宋仁宗既连失褒、豫、鄂三王，更无皇子。自至和三年正月得疾，逾时不能御殿，中外忧恐。<span class='label'>作品：</span>请建太子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年7月</a>　领转运使、提点刑狱考课院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　上疏请复用范祥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　上疏乞吴及依旧供职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年8月</a>　诏从包拯请，今后举台官，不拘在京与外任，并行举奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年10月</a>　诏从包拯请，权停西北之路公使钱回易。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年12月</a>　上疏请损休假之日。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　言内臣权任稍过，乞加裁抑。<span class='label'>作品：</span>论内臣事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　言朝廷所降诏令，行之未久即有改张，上疏乞谨慎之。<span class='label'>作品：</span>论诏令数改易。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　与富弼、欧阳修、胡瑗分居要职，并著声望，被目之为“四真”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　次子绶生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年3月</a>　上疏弹劾三司使张方平。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　上疏弹劾三司使宋祁。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　为枢密直学士、权三司使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年5月</a>　任枢密直学士、权三司使。荐张田为权发遣度支判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年8月</a>　任枢密直学士、权三司使。与欧阳修、吴奎等议宗庙之制。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年10月</a>　任枢密直学士、权三司使。大袷礼成，包拯加上轻车都尉。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年4月</a>　任枢密直学士、权三司使。与吕居简、吴中复同详定均税。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年7月</a>　任枢密直学士、权三司使。上疏请再任唐州知州赵尚宽。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年11月</a>　任枢密直学士、权三司使。上疏请录范祥子孙。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年4月</a>　迁给事中、三司使，继改枢密副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　包拯上疏请免枢密副使，未获允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年闰8</a>　包拯等进官一等，继上表辞所除官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　妻董氏封为永康郡夫人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年春</a>　赐包拯生日礼物诏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年5月13日</a>　方视事，疾作。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年5月25日</a>　卒。病逝之时，远近士民，莫不感伤。仁宗幸其第临奠，辍视朝一日，赠礼部尚书，谥孝肃。<br /></div>"
+                },
+                {
+                    "Latitude": 43.977116,
+                    "Longitude": 119.386055,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN150422",
+                    "Title": "巴林左旗",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"93a544f7ef624bc88eefe2c9c636a4e1\");'><span id='93a544f7ef624bc88eefe2c9c636a4e1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>，47岁</div><div id='93a544f7ef624bc88eefe2c9c636a4e1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年8月11日</a>　任监察御史。充任契丹正旦使，出使契丹。<br /></div>"
+                },
+                {
+                    "Latitude": 36.778223,
+                    "Longitude": 118.440962,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370781002",
+                    "Title": "益都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ebcd200935744146bcac2e10b17cb777\");'><span id='ebcd200935744146bcac2e10b17cb777_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>，48岁</div><div id='ebcd200935744146bcac2e10b17cb777' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年6月</a>　出任京东转运使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年秋</a>　任京东转运使。建议朝廷储备粮草，以防后患。<span class='label'>作品：</span>乞河北添籴粮草。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3dca23051f9f40ee9f44d549fbfbc2b2\");'><span id='3dca23051f9f40ee9f44d549fbfbc2b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1048')\">1047-1048年</a>，49-50岁</div><div id='3dca23051f9f40ee9f44d549fbfbc2b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年4月</a>　任工部员外郎、直集贤院、陕西转运使。行次华阴，受赐三品服。<span class='label'>作品：</span>领陕西漕日上殿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　任工部员外郎、陕西转运使。因于京东转运使时，见登州冶铁户贫困，故上疏乞撤销他们的冶铁户籍。<span class='label'>作品：</span>乞开落登州冶户姓名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　任工部员外郎、陕西转运使。因西夏战争，民生凋敝、物货骤贵。乞朝廷出钱加惠百姓。<span class='label'>作品：</span>请出内库钱帛往逐路籴粮草。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　任工部员外郎、陕西转运使。时旱灾后得雨，上此疏。<span class='label'>作品：</span>上殿札子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年5月</a>　改任刑部员外郎、直集贤院、河北转运使，未行。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2693837a686349b8b1933b2d9483da26\");'><span id='2693837a686349b8b1933b2d9483da26_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>，51岁</div><div id='2693837a686349b8b1933b2d9483da26' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年10月</a>　任三司户部副使。奉使陕西与转运司议盐法。<span class='label'>作品：</span>言陕西盐法。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年冬</a>　任三司户部副使。至陕西，益主范祥所变法，但略加损益。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。乞依新盐法施行。<span class='label'>作品：</span>言陕西盐法。<br /></div>"
+                },
+                {
+                    "Latitude": 38.042284,
+                    "Longitude": 114.476188,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN13",
+                    "Title": "河北",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1fa3c8cee6ff448a8bce43f7ef1ad9ec\");'><span id='1fa3c8cee6ff448a8bce43f7ef1ad9ec_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>，51岁</div><div id='1fa3c8cee6ff448a8bce43f7ef1ad9ec' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年3月</a>　任三司户部副使。赴河北提举计置粮草。<span class='label'>作品：</span>奉诏河北计置斛斗日上殿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。赴河北提举计置粮草。<span class='label'>作品：</span>请支拨汴河粮纲往河北。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。为往河北调度军粮。<span class='label'>作品：</span>请于怀卫籴米修御河船运。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。因涿州尽起遣佃户，收其地入官，人户不肯起移。<span class='label'>作品：</span>请将邢洺州牧马地给与人户依旧耕佃二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　任三司户部副使。冀州缺粮。<span class='label'>作品：</span>请移冀州就粮兵士归本州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年4月</a>　任三司户部副使。奉使河北，与安抚司、转运司议省冗官及汰军士之不任役者。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年6月</a>　任三司户部副使。河北经水灾后州郡多缺粮。<span class='label'>作品：</span>请移冀博深三州兵马。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年8月</a>　任三司户部副使。建请以刘筠族子景纯为后。<br /></div>"
+                },
+                {
+                    "Latitude": 36.291268,
+                    "Longitude": 115.154493,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN130425",
+                    "Title": "大名",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"aebb1103561d4e398a15e8bd22ecb48e\");'><span id='aebb1103561d4e398a15e8bd22ecb48e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>，54岁</div><div id='aebb1103561d4e398a15e8bd22ecb48e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年3月</a>　出为龙图阁直学士、河北都转运使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年3月</a>　任河北都转运使。上疏建议罢河北屯驻兵而分之河南诸郡，遇警即发，无后期不及之患。<span class='label'>作品：</span>请那移河北兵马事二章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>　河北都转运使。再次上疏移河北兵马。<span class='label'>作品：</span>再请移那河北兵马及罢公用回易。<br /></div>"
+                },
+                {
+                    "Latitude": 38.451137,
+                    "Longitude": 116.105628,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN130984",
+                    "Title": "河间",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3fc43971e7084806a26e1816981afc8a\");'><span id='3fc43971e7084806a26e1816981afc8a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>，54岁</div><div id='3fc43971e7084806a26e1816981afc8a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年7月5日</a>　徙高阳关路都部署，兼安抚使、知瀛州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年8月</a>　任高阳关路都部署，兼安抚使、知瀛州。上疏言瀛州公使钱之事。<span class='label'>作品：</span>论瀛州公用。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年秋冬间</a>　任高阳关路都部署，兼安抚使、知瀛州。上疏请为太宗时礼部侍郎王明封立谥号。<span class='label'>作品：</span>请谥王明。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>　任高阳关路都部署，兼安抚使、知瀛州。进献张田所作《边说》七篇。<span class='label'>作品：</span>进张田边说状。<br /></div>"
+                },
+                {
+                    "Latitude": 30.692676,
+                    "Longitude": 117.573824,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341702",
+                    "Title": "贵池",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"908ca95a72e4484cb030b96f7cb9728e\");'><span id='908ca95a72e4484cb030b96f7cb9728e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1056')\">1055-1056年</a>，57-58岁</div><div id='908ca95a72e4484cb030b96f7cb9728e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')\">1055年12月</a>　坐失保任，降为兵部员外郎、知池州。曾于任上辨浮江尸与瘗僧冤，所至缩靡费以利民。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年7月</a>　任兵部员外郎、知池州。与吴几复、王绰同游池州贵池县齐山寄隐岩，题名留念。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8c8522d7dbe1454cbf95e97e62ebf131\");'><span id='8c8522d7dbe1454cbf95e97e62ebf131_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年</a>，58岁</div><div id='8c8522d7dbe1454cbf95e97e62ebf131' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年8月</a>　复为刑部郎中，徙知江宁府。<br /></div>"
+                },
+                {
+                    "Latitude": 23.08448,
+                    "Longitude": 112.483512,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4412 七星岩",
+                    "Title": "七星岩",
+                    "RequestUri": "scope=当代/肇庆市七星岩&author=包拯&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "包拯 <span class='inlineComment2'>(999-1063)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：孔繁敏《包拯年谱》、齐涛《包拯年谱》　录入整理：董希平</p><p><a href=\"javascript: ViewRoute(0, 4, 115.7409315, 28.9279625, 7, 0)\">1-47岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">合肥</a> → <a href=\"javascript: ViewPoint(1, 0)\">天长</a> → <a href=\"javascript: ViewPoint(2, 0)\">肇庆</a> → <a href=\"javascript: ViewPoint(3, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(4, 8, 114.1661805, 39.162276, 7, 0)\">47-50岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">巴林左旗</a> → <a href=\"javascript: ViewPoint(5, 0)\">开封</a> → <a href=\"javascript: ViewPoint(6, 0)\">益都</a> → <a href=\"javascript: ViewPoint(7, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(8, 12, 111.711247, 36.19486, 8, 0)\">50-54岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">开封</a> → <a href=\"javascript: ViewPoint(9, 0)\">河北</a> → <a href=\"javascript: ViewPoint(10, 0)\">西安</a> → <a href=\"javascript: ViewPoint(11, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(12, 19, 116.5583975, 34.5719065, 7, 0)\">54-65岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">大名</a> → <a href=\"javascript: ViewPoint(13, 0)\">河间</a> → <a href=\"javascript: ViewPoint(14, 0)\">合肥</a> → <a href=\"javascript: ViewPoint(15, 0)\">贵池</a> → <a href=\"javascript: ViewPoint(16, 0)\">南京</a> → <a href=\"javascript: ViewPoint(17, 0)\">开封</a> → <a href=\"javascript: ViewPoint(18, 0)\">合肥</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 27.923406,
+            "CenterLongitude": 118.547818,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "57ea1ff50d794a438c13d54f97b8008e",
+                            "Latitude": 27.923406,
+                            "Longitude": 118.547818,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350722",
+                            "Title": "浦城"
+                        },
+                        {
+                            "Id": "2a281f3bfceb414aa0b5fa605450545b",
+                            "Latitude": 34.91365,
+                            "Longitude": 112.797734,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410883",
+                            "Title": "孟州"
+                        },
+                        {
+                            "Id": "5c5fcc624f5c43e79744ee1264b7869d",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "ac8ed683236c44dc92d2b476efd4eee7",
+                            "Latitude": 34.675724,
+                            "Longitude": 114.539918,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410212101",
+                            "Title": "陈留"
+                        },
+                        {
+                            "Id": "12689ba929e54e5bb66727eb73f5347b",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "637a823c2dc84b869760dc04fd30252c",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "0eee9c8137694bcaaa67e9faacc6bda6",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "7174a0e0554c442e92f7f5d1bd6ad2cf",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "d612f7e6f124466ebe7054e7c0b82e50",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "a0fc04e734ea4784a62a26763acd21a4",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "0d514f2b83c64505af31fc451cc39ba9",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "79961e6f60e14ae7b3ea9a741ca099b6",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "7b8fe27a340c498fb02be1695a58db03",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "e527b1375c8e4698b607af8d617d4584",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "bc49866340454a30825b127ba18b2444",
+                            "Latitude": 35.716096,
+                            "Longitude": 107.649305,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN621",
+                            "Title": "庆阳"
+                        },
+                        {
+                            "Id": "28f44b945ab645d7bb78ac873d1bd260",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "ebdc5e58291b42f38a376a92f3e3907a",
+                            "Latitude": 34.80179,
+                            "Longitude": 109.948624,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610523",
+                            "Title": "大荔"
+                        },
+                        {
+                            "Id": "f4e4d3cc43d6446cb30e02737763ed32",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "ea457694d51648d4acfc11553283ab48",
+                            "Latitude": 23.135308,
+                            "Longitude": 113.270793,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4401",
+                            "Title": "广州"
+                        },
+                        {
+                            "Id": "a4b5a8406a044744902befb51ffa1843",
+                            "Latitude": 35.549266,
+                            "Longitude": 106.671741,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6208",
+                            "Title": "平凉"
+                        },
+                        {
+                            "Id": "7bd0618422544fe0a4b4353d331f54fe",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "da6af166ff0a479380453207474b7737",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 27.923406,
+                    "Longitude": 118.547818,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350722",
+                    "Title": "浦城 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"57ea1ff50d794a438c13d54f97b8008e\");'><span id='57ea1ff50d794a438c13d54f97b8008e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1047')\">1027-1047年</a>，1-21岁</div><div id='57ea1ff50d794a438c13d54f97b8008e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')\">1028年</a>　居乡。祖父章频知福州，奏免官庄民欠。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1029&endYear=1029')\">1029年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1030')\">1030年</a>　居乡。祖父章频徙知潭州，改广西转运使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')\">1031年6月</a>　居乡。六月，祖父章频谪知饶州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1032')\">1032年</a>　居乡。祖父章频入为度支判官，迁刑部郎中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')\">1033年8月</a>　居乡。八月戊午，祖父章频随丁度等使契丹，卒。契丹盛礼送其丧至白沟，子访（章楶父）奉诏迎柩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')\">1034年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')\">1035年</a>　居乡。从弟章惇生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')\">1036年</a>　居乡。十二月，族叔章得象同知枢密院事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1037')\">1037年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')\">1038年</a>　居乡。三月，族叔章得象自同知枢密院事加同中书门下平章事、集贤殿大学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1041')\">1039-1041年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年</a>　居乡。七月，族叔得象兼枢密使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1044')\">1043-1044年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　居乡。四月戊申，族叔得象罢为镇安军节度使、同平章事，判陈州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　居乡。十二月，族叔得象封郇国公。<br /></div>"
+                },
+                {
+                    "Latitude": 34.91365,
+                    "Longitude": 112.797734,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410883",
+                    "Title": "孟州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2a281f3bfceb414aa0b5fa605450545b\");'><span id='2a281f3bfceb414aa0b5fa605450545b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1063')\">1048-1063年</a>，22-37岁</div><div id='2a281f3bfceb414aa0b5fa605450545b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　族叔章得象卒，推叙宗娅者六人，章楶荫补孟州司户参军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1053')\">1049-1053年</a>　任孟州司户参军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')\">1054年</a>　任孟州司户参军，妻和氏。长子縡生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1056')\">1055-1056年</a>　任孟州司户参军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年</a>　任孟州司户参军。族侄章衡举进士第一。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1061')\">1058-1061年</a>　任孟州司户参军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>　任孟州司户参军，三子綡生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　任孟州司户参军。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5c5fcc624f5c43e79744ee1264b7869d\");'><span id='5c5fcc624f5c43e79744ee1264b7869d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>，38岁</div><div id='5c5fcc624f5c43e79744ee1264b7869d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>　应举入京，闻父对狱于魏，弃不就试，驰往直其冤。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"12689ba929e54e5bb66727eb73f5347b\");'><span id='12689ba929e54e5bb66727eb73f5347b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1073')\">1069-1073年</a>，43-47岁</div><div id='12689ba929e54e5bb66727eb73f5347b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　为秘书丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年6月</a>　六月，奉诏验视作坊物料库官选买箭材，果非良材，吏毕抵罪。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年9月12日</a>　以崔台符、朱温、曾布并赴锡庆院考试法官，杨渊、吴安度巡铺，董倚监门，秘书丞章楶封弥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　为秘书丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　知陈留县，推行新法，随民之便。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年</a>　知陈留县。长子縡入太学，文艺灿然最其列。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a0fc04e734ea4784a62a26763acd21a4\");'><span id='a0fc04e734ea4784a62a26763acd21a4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>，61岁</div><div id='a0fc04e734ea4784a62a26763acd21a4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年1月</a>　以朝奉大夫为吏部郎中，御史孙升论其任荆湖北路提刑时冤滥不法，乞赐罢黜。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"79961e6f60e14ae7b3ea9a741ca099b6\");'><span id='79961e6f60e14ae7b3ea9a741ca099b6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年</a>，62岁</div><div id='79961e6f60e14ae7b3ea9a741ca099b6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年8月</a>　八月，为考功郎中。长子縡以荐改左宣德郎知邠州三泉县。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e527b1375c8e4698b607af8d617d4584\");'><span id='e527b1375c8e4698b607af8d617d4584_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>，64岁</div><div id='e527b1375c8e4698b607af8d617d4584' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年5月</a>　五月，召为右司郎中，除左司郎中。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"28f44b945ab645d7bb78ac873d1bd260\");'><span id='28f44b945ab645d7bb78ac873d1bd260_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年</a>，67岁</div><div id='28f44b945ab645d7bb78ac873d1bd260' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年1月</a>　任户部侍郎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"da6af166ff0a479380453207474b7737\");'><span id='da6af166ff0a479380453207474b7737_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1102')\">1101-1102年</a>，75-76岁</div><div id='da6af166ff0a479380453207474b7737' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年7月</a>　自端明殿学士、通议大夫、提举中太一宫兼集禧观使除同知枢密院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年7月26日</a>　通议大夫、同知枢密院事章楶罢为资政殿学士充太一宫使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年7月</a>　卒。八月一日，上幸章楶第临奠。赙赐优厚，谥庄简，赠右银青光禄大夫。<br /></div>"
+                },
+                {
+                    "Latitude": 34.675724,
+                    "Longitude": 114.539918,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410212101",
+                    "Title": "陈留",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ac8ed683236c44dc92d2b476efd4eee7\");'><span id='ac8ed683236c44dc92d2b476efd4eee7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1068')\">1065-1068年</a>，39-42岁</div><div id='ac8ed683236c44dc92d2b476efd4eee7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　试礼部第一，擢知陈留县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1068')\">1066-1068年</a>　知陈留县。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"637a823c2dc84b869760dc04fd30252c\");'><span id='637a823c2dc84b869760dc04fd30252c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1077')\">1074-1077年</a>，48-51岁</div><div id='637a823c2dc84b869760dc04fd30252c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年7月戊午</a>　为太常博士，提举永兴路常平等事，奉诏赈济灾民，体视环庆路灾场，相度赈济以闻。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年11月22日</a>　与赵抃、皮公弼、毋沆等登西安慈恩塔。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年2月</a>　二月，以措置流民乖方罚铜三十斤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年4月</a>　奏知延州赵高舍流民以空营，募壮者筑城浚壕，人不乏食而城池皆葺，上奏此事，诏奖之。<span class='label'>作品：</span>赵高筑浚城壕奏。<span class='inlineComment2'>（万年即长安。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年</a>　提举永兴路常平等事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　提举永兴路常平等事。时苏轼离密州任，将赴徐州，与苏辙相约赴彭城住百余日，苏轼作《章质夫寄惠崔徽真》诗。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7b8fe27a340c498fb02be1695a58db03\");'><span id='7b8fe27a340c498fb02be1695a58db03_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1090')\">1089-1090年</a>，63-64岁</div><div id='7b8fe27a340c498fb02be1695a58db03' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年4月</a>　四月权发遣陕西路转运副使。长子縡以嫌自列，改知越州萧公冶县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>　任陕西路转运副使。<span class='label'>作品：</span>乞复夏盖湖奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年12月</a>　为和镇（字景仁）作墓志铭。<span class='label'>作品：</span>宋故左藏库副使致仕骑都尉彭城郡开国侯食邑一千三百户和公墓志铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>　任陕西路转运使。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0eee9c8137694bcaaa67e9faacc6bda6\");'><span id='0eee9c8137694bcaaa67e9faacc6bda6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1080')\">1078-1080年</a>，52-54岁</div><div id='0eee9c8137694bcaaa67e9faacc6bda6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　任京东转运判官，时苏轼知徐州，为章楶之筑思堂撰《思堂记》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年</a>　任京东转运判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　坐保明修永兴洪口不当展磨勘三年。从弟章惇二月以翰林学士参知政事。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f4e4d3cc43d6446cb30e02737763ed32\");'><span id='f4e4d3cc43d6446cb30e02737763ed32_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>，68岁</div><div id='f4e4d3cc43d6446cb30e02737763ed32' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>　任应天府知府。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7174a0e0554c442e92f7f5d1bd6ad2cf\");'><span id='7174a0e0554c442e92f7f5d1bd6ad2cf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1084')\">1081-1084年</a>，55-58岁</div><div id='7174a0e0554c442e92f7f5d1bd6ad2cf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　提点荆湖北路刑狱。从弟章惇三月罢知蔡州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　提点荆湖北路刑狱。有词。<span class='label'>作品：</span>水龙吟（燕忙莺懒芳残）<span class='inlineComment2'>（此词大约作于公元1081年（宋神宗元丰四年）。据苏轼谪居黄州时寄章楶信中说：“承喻慎静以处忧患。非心爱我之深，何以及此，谨置之座右也。《柳花》词妙绝，使来者何以措词。本不敢继作，又思公正柳花飞时出巡按，坐想四子，闭门愁断，故写其意，次韵一首寄去，亦告不以示人也。《七夕》词亦录呈。”苏轼于公元1080年（元丰三年）到黄州，章楶于公元1081年（元丰四年）夏四月已任荆湖北路提点刑狱，可知柳花词的唱和当在此年春末夏初。）</span>声声令（帘移碎影）<span class='inlineComment2'>（《全宋词》收录章楶词共二首，其一《水龙吟》为提点湖北刑狱时所作。此词谨编于本年。）</span><div id='poem_211123' class='_poem'><div id='poem_title_211123' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=211123' class='poemCommentLink' target='_blank'>水龙吟 杨花</a><a href='javascript: ShowPoemAuthorProfile(29892, \"宋\", \"章楶\", \"poem_title_211123\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>章楶</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_211123_comment'></div><div class='poemContent' id='poem_content_211123'><div class='poemSentence' id='poem_sentence_0_211123'>燕忙莺懒芳残，正堤上、柳花飘坠。</div><div id='poem_sentence_0_211123_comment'></div><div class='poemSentence' id='poem_sentence_1_211123'>轻飞乱舞，点画青林，全无才思。</div><div id='poem_sentence_1_211123_comment'></div><div class='poemSentence' id='poem_sentence_2_211123'>闲趁游丝，静临深院，日长门闭。</div><div id='poem_sentence_2_211123_comment'></div><div class='poemSentence' id='poem_sentence_3_211123'>傍珠帘散漫，垂垂欲下，依前被、风扶起。</div><div id='poem_sentence_3_211123_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_211123'>兰帐玉人睡觉，怪春衣、雪沾琼缀。</div><div id='poem_sentence_4_211123_comment'></div><div class='poemSentence' id='poem_sentence_5_211123'>绣床旋满，香球无数，才圆却碎。</div><div id='poem_sentence_5_211123_comment'></div><div class='poemSentence' id='poem_sentence_6_211123'>时见蜂儿，仰粘轻粉，鱼吹池水。</div><div id='poem_sentence_6_211123_comment'></div><div class='poemSentence' id='poem_sentence_7_211123'>望章台路杳，金鞍<span class='link' onclick='ShowWordComment(\"poem_sentence_7_211123\", 211123, \"Clauses/20/Comments/0\")'>游荡</span>，有盈盈泪。</div><div id='poem_sentence_7_211123_comment'></div></div><div class='poemComment' id='poem_comment_211123'><a href='javascript: ShowPoemComment(211123)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><div id='poem_211124' class='_poem'><div id='poem_title_211124' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=211124' class='poemCommentLink' target='_blank'>声声令/胜胜令</a><a href='javascript: ShowPoemAuthorProfile(29892, \"宋\", \"章楶\", \"poem_title_211124\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>章楶</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_211124_comment'></div><div class='poemContent' id='poem_content_211124'><div class='poemSentence' id='poem_sentence_0_211124'>帘移碎影，香褪衣襟。</div><div id='poem_sentence_0_211124_comment'></div><div class='poemSentence' id='poem_sentence_1_211124'>旧家庭院嫩苔侵。</div><div id='poem_sentence_1_211124_comment'></div><div class='poemSentence' id='poem_sentence_2_211124'>东风过尽，暮云锁，绿窗深。</div><div id='poem_sentence_2_211124_comment'></div><div class='poemSentence' id='poem_sentence_3_211124'>怕对人、闲枕剩衾。</div><div id='poem_sentence_3_211124_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_211124'>楼底轻阴。</div><div id='poem_sentence_4_211124_comment'></div><div class='poemSentence' id='poem_sentence_5_211124'>春信断，怯登临。</div><div id='poem_sentence_5_211124_comment'></div><div class='poemSentence' id='poem_sentence_6_211124'>断肠魂梦两沈沈。</div><div id='poem_sentence_6_211124_comment'></div><div class='poemSentence' id='poem_sentence_7_211124'>花飞水远，便从今。</div><div id='poem_sentence_7_211124_comment'></div><div class='poemSentence' id='poem_sentence_8_211124'>莫追寻。</div><div id='poem_sentence_8_211124_comment'></div><div class='poemSentence' id='poem_sentence_9_211124'>又怎禁、蓦地上心。</div><div id='poem_sentence_9_211124_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　提点荆湖北路刑狱。从弟章惇四月为门下侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1084')\">1083-1084年</a>　提点荆湖北路刑狱。<br /></div>"
+                },
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d612f7e6f124466ebe7054e7c0b82e50\");'><span id='d612f7e6f124466ebe7054e7c0b82e50_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1086')\">1085-1086年</a>，59-60岁</div><div id='d612f7e6f124466ebe7054e7c0b82e50' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　权成都府路转运副使。从弟章惇五月知枢密院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月</a>　四月，乞量加擢任，以吕大防言诏改权成都府路转运使。有诗。<span class='label'>作品：</span>运司园亭十咏。<div id='poem_501450' class='_poem'><div id='poem_title_501450' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501450' class='poemCommentLink' target='_blank'>运司园亭十咏<span style='margin: 0 0.5em'> 其一 </span>山堂<span class='inlineComment2'>（《成都文类》题作西园）</span></a><a href='javascript: ShowPoemAuthorProfile(29892, \"宋\", \"章楶\", \"poem_title_501450\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>章楶</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_501450_comment'></div><div class='poemContent' id='poem_content_501450'><div class='poemSentence' id='poem_sentence_0_501450'>古木郁参天，苍苔下封路。</div><div id='poem_sentence_0_501450_comment'></div><div class='poemSentence' id='poem_sentence_1_501450'>幽花无时歇，丑石终朝踞。</div><div id='poem_sentence_1_501450_comment'></div><div class='poemSentence' id='poem_sentence_2_501450'>水竹散清润，烟云变晨暮。</div><div id='poem_sentence_2_501450_comment'></div><div class='poemSentence' id='poem_sentence_3_501450'>何必忆山林，直有山林趣。</div><div id='poem_sentence_3_501450_comment'></div><div class='poemSentence' id='poem_sentence_4_501450'></div><div id='poem_sentence_4_501450_comment'></div></div></div><div id='poem_501451' class='_poem'><div id='poem_title_501451' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501451' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span>玉溪堂</a><br /><div class='titleIndent'></div></div><div id='poem_title_501451_comment'></div><div class='poemContent' id='poem_content_501451'><div class='poemSentence' id='poem_sentence_0_501451'>堂因水得名，方沼当其后。</div><div id='poem_sentence_0_501451_comment'></div><div class='poemSentence' id='poem_sentence_1_501451'>漪澜<sup class='reference inlineComment2'>⑴</sup>荡榱桷，窗户挹花柳。</div><div id='poem_sentence_1_501451_comment'></div><div class='poemSentence' id='poem_sentence_2_501451'>虫鱼不避人，鸥鹭若相友。</div><div id='poem_sentence_2_501451_comment'></div><div class='poemSentence' id='poem_sentence_3_501451'>午枕夏簟凉，此乐亦奚有。</div><div id='poem_sentence_3_501451_comment'></div><div class='poemSentence' id='poem_sentence_4_501451'></div><div id='poem_sentence_4_501451_comment'></div></div><div class='poemNote' id='poem_note_501451'><div class='inline1'><div id='poem_sentence_1_501451_0'>⑴ 原作兰，据《成都文类》、《全蜀艺文志》改</div></div></div><div id='poem_note_501451_comment'></div></div><div id='poem_501452' class='_poem'><div id='poem_title_501452' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501452' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span>雪峰楼</a><br /><div class='titleIndent'></div></div><div id='poem_title_501452_comment'></div><div class='poemContent' id='poem_content_501452'><div class='poemSentence' id='poem_sentence_0_501452'>层构压池塘，不僭亦不偪。</div><div id='poem_sentence_0_501452_comment'></div><div class='poemSentence' id='poem_sentence_1_501452'>影浮绿水静，寒凝<sup class='reference inlineComment2'>⑴</sup>雪山色。</div><div id='poem_sentence_1_501452_comment'></div><div class='poemSentence' id='poem_sentence_2_501452'>抚槛接修竹，连檐引苍柏。</div><div id='poem_sentence_2_501452_comment'></div><div class='poemSentence' id='poem_sentence_3_501452'>注目望长安，无奈浓云隔。</div><div id='poem_sentence_3_501452_comment'></div><div class='poemSentence' id='poem_sentence_4_501452'></div><div id='poem_sentence_4_501452_comment'></div></div><div class='poemNote' id='poem_note_501452'><div class='inline1'><div id='poem_sentence_1_501452_0'>⑴ 《成都文类》、《全蜀艺文志》作逗</div></div></div><div id='poem_note_501452_comment'></div></div><div id='poem_501453' class='_poem'><div id='poem_title_501453' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501453' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span>海棠轩</a><br /><div class='titleIndent'></div></div><div id='poem_title_501453_comment'></div><div class='poemContent' id='poem_content_501453'><div class='poemSentence' id='poem_sentence_0_501453'>珍葩寄幽岛，正对孤轩植。</div><div id='poem_sentence_0_501453_comment'></div><div class='poemSentence' id='poem_sentence_1_501453'>优柔自俯仰，红绿若组织。</div><div id='poem_sentence_1_501453_comment'></div><div class='poemSentence' id='poem_sentence_2_501453'>春酣晴日曛，坐久浓香逼。</div><div id='poem_sentence_2_501453_comment'></div><div class='poemSentence' id='poem_sentence_3_501453'>池面净可鉴，朝霞罩澄碧。</div><div id='poem_sentence_3_501453_comment'></div><div class='poemSentence' id='poem_sentence_4_501453'></div><div id='poem_sentence_4_501453_comment'></div></div></div><div id='poem_501454' class='_poem'><div id='poem_title_501454' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501454' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span>月台</a><br /><div class='titleIndent'></div></div><div id='poem_title_501454_comment'></div><div class='poemContent' id='poem_content_501454'><div class='poemSentence' id='poem_sentence_0_501454'>蜀地饶夜雨，轻阴多蔽天。</div><div id='poem_sentence_0_501454_comment'></div><div class='poemSentence' id='poem_sentence_1_501454'>见月月无几，筑台邀<sup class='reference inlineComment2'>⑴</sup>婵娟。</div><div id='poem_sentence_1_501454_comment'></div><div class='poemSentence' id='poem_sentence_2_501454'>高疑<sup class='reference inlineComment2'>⑵</sup>桂影近，俯视云幄<sup class='reference inlineComment2'>⑶</sup>连。</div><div id='poem_sentence_2_501454_comment'></div><div class='poemSentence' id='poem_sentence_3_501454'>顾盼已尘外，欲挹瑶宫仙。</div><div id='poem_sentence_3_501454_comment'></div><div class='poemSentence' id='poem_sentence_4_501454'></div><div id='poem_sentence_4_501454_comment'></div></div><div class='poemNote' id='poem_note_501454'><div class='inline1'><div id='poem_sentence_1_501454_0'>⑴ 《成都文类》、《全蜀艺文志》作待</div></div><div class='inline1'><div id='poem_sentence_2_501454_0'>⑵ 原作凝，据《成都文类》改</div></div><div class='inline1'><div id='poem_sentence_2_501454_0'>⑶ 《全蜀艺文志》作物，《成都文类》作屋</div></div></div><div id='poem_note_501454_comment'></div></div><div id='poem_501455' class='_poem'><div id='poem_title_501455' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501455' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其六 </span>翠锦亭</a><br /><div class='titleIndent'></div></div><div id='poem_title_501455_comment'></div><div class='poemContent' id='poem_content_501455'><div class='poemSentence' id='poem_sentence_0_501455'>楩楠百尺馀，排列拱檐际。</div><div id='poem_sentence_0_501455_comment'></div><div class='poemSentence' id='poem_sentence_1_501455'>畏日自成阴，隆冬宁灭<sup class='reference inlineComment2'>⑴</sup>翠。</div><div id='poem_sentence_1_501455_comment'></div><div class='poemSentence' id='poem_sentence_2_501455'>虚旷得寂理，懒僻恣<sup class='reference inlineComment2'>⑵</sup>浓睡。</div><div id='poem_sentence_2_501455_comment'></div><div class='poemSentence' id='poem_sentence_3_501455'>谁知官府中，获此冲漠味。</div><div id='poem_sentence_3_501455_comment'></div><div class='poemSentence' id='poem_sentence_4_501455'></div><div id='poem_sentence_4_501455_comment'></div></div><div class='poemNote' id='poem_note_501455'><div class='inline1'><div id='poem_sentence_1_501455_0'>⑴ 《全蜀艺文志》作减</div></div><div class='inline1'><div id='poem_sentence_2_501455_0'>⑵ 《成都文类》、《全蜀艺文志》作癖资</div></div></div><div id='poem_note_501455_comment'></div></div><div id='poem_501456' class='_poem'><div id='poem_title_501456' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501456' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其七 </span>潺玉亭</a><br /><div class='titleIndent'></div></div><div id='poem_title_501456_comment'></div><div class='poemContent' id='poem_content_501456'><div class='poemSentence' id='poem_sentence_0_501456'>傍砌酾小渠，回环是流水。</div><div id='poem_sentence_0_501456_comment'></div><div class='poemSentence' id='poem_sentence_1_501456'>石蜃吐珠涎，清响醒人耳。</div><div id='poem_sentence_1_501456_comment'></div><div class='poemSentence' id='poem_sentence_2_501456'>风彻竹影碎，月皎波光起。</div><div id='poem_sentence_2_501456_comment'></div><div class='poemSentence' id='poem_sentence_3_501456'>飒爽无尘嚣，静适心所喜。</div><div id='poem_sentence_3_501456_comment'></div><div class='poemSentence' id='poem_sentence_4_501456'></div><div id='poem_sentence_4_501456_comment'></div></div></div><div id='poem_501457' class='_poem'><div id='poem_title_501457' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501457' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其八 </span>茅庵</a><br /><div class='titleIndent'></div></div><div id='poem_title_501457_comment'></div><div class='poemContent' id='poem_content_501457'><div class='poemSentence' id='poem_sentence_0_501457'>竹间构圆庵，所向自潇洒。</div><div id='poem_sentence_0_501457_comment'></div><div class='poemSentence' id='poem_sentence_1_501457'>珍禽弄巧舌，宛是居山野。</div><div id='poem_sentence_1_501457_comment'></div><div class='poemSentence' id='poem_sentence_2_501457'>默坐见真心，万缘尽虚假。</div><div id='poem_sentence_2_501457_comment'></div><div class='poemSentence' id='poem_sentence_3_501457'>勿陋寻尺地，兹焉息意马。</div><div id='poem_sentence_3_501457_comment'></div><div class='poemSentence' id='poem_sentence_4_501457'></div><div id='poem_sentence_4_501457_comment'></div></div></div><div id='poem_501458' class='_poem'><div id='poem_title_501458' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501458' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其九 </span>水阁</a><br /><div class='titleIndent'></div></div><div id='poem_title_501458_comment'></div><div class='poemContent' id='poem_content_501458'><div class='poemSentence' id='poem_sentence_0_501458'>架木浮水中，略彴通孤岛。</div><div id='poem_sentence_0_501458_comment'></div><div class='poemSentence' id='poem_sentence_1_501458'>扶疏花影反<sup class='reference inlineComment2'>⑴</sup>，泼刺跳鱼小。</div><div id='poem_sentence_1_501458_comment'></div><div class='poemSentence' id='poem_sentence_2_501458'>风月所得多，经营信云巧。</div><div id='poem_sentence_2_501458_comment'></div><div class='poemSentence' id='poem_sentence_3_501458'>隐几寂无人，朱兰<sup class='reference inlineComment2'>⑵</sup>萃幽鸟。</div><div id='poem_sentence_3_501458_comment'></div><div class='poemSentence' id='poem_sentence_4_501458'></div><div id='poem_sentence_4_501458_comment'></div></div><div class='poemNote' id='poem_note_501458'><div class='inline1'><div id='poem_sentence_1_501458_0'>⑴ 《成都文类》、《全蜀艺文志》作倒</div></div><div class='inline1'><div id='poem_sentence_3_501458_0'>⑵ 《全蜀艺文志》作栏</div></div></div><div id='poem_note_501458_comment'></div></div><div id='poem_501459' class='_poem'><div id='poem_title_501459' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501459' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其十 </span>小亭</a><br /><div class='titleIndent'></div></div><div id='poem_title_501459_comment'></div><div class='poemContent' id='poem_content_501459'><div class='poemSentence' id='poem_sentence_0_501459'>花边二小亭，双跨清渠上。</div><div id='poem_sentence_0_501459_comment'></div><div class='poemSentence' id='poem_sentence_1_501459'>规模虽甚隘，幽僻良可赏。</div><div id='poem_sentence_1_501459_comment'></div><div class='poemSentence' id='poem_sentence_2_501459'>幸依佳木阴，未羡大厦广。</div><div id='poem_sentence_2_501459_comment'></div><div class='poemSentence' id='poem_sentence_3_501459'>不足延赏<sup class='reference inlineComment2'>⑴</sup>朋，携筇常独往<sup class='reference inlineComment2'>⑵</sup>。</div><div id='poem_sentence_3_501459_comment'></div><div class='poemSentence' id='poem_sentence_4_501459'></div><div id='poem_sentence_4_501459_comment'></div></div><div class='poemNote' id='poem_note_501459'><div class='inline1'><div id='poem_sentence_3_501459_0'>⑴ 《成都文类》作宾</div></div><div class='inline1'><div id='poem_sentence_3_501459_0'>⑵ 影印文渊阁《四库全书》本宋陈起《两宋名贤小集》卷一三二《寄亭诗遗》</div></div></div><div id='poem_note_501459_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月</a>　权成都府路转运使，有削夏人疆土奏。<span class='label'>作品：</span>请削夏人疆土奏。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0d514f2b83c64505af31fc451cc39ba9\");'><span id='0d514f2b83c64505af31fc451cc39ba9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1088')\">1087-1088年</a>，61-62岁</div><div id='0d514f2b83c64505af31fc451cc39ba9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年4月</a>　章楶出知越州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年6月</a>　刊刻族侄章衡《编年通载》，并为之撰序。<span class='label'>作品：</span>《编年通载》序。<br /></div>"
+                },
+                {
+                    "Latitude": 35.716096,
+                    "Longitude": 107.649305,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN621",
+                    "Title": "庆阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bc49866340454a30825b127ba18b2444\");'><span id='bc49866340454a30825b127ba18b2444_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1092')\">1091-1092年</a>，65-66岁</div><div id='bc49866340454a30825b127ba18b2444' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年2月</a>　左司郎中章楶除直龙图阁，权知庆州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年8月</a>　任庆州知州。有奏。<span class='label'>作品：</span>乞华池寨与华池镇并存奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年9月14日</a>　楶奏禦边浅攻之策。<span class='label'>作品：</span>备边之策奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年1月20日</a>　楶上破贼伐谋策进一步条陈浅攻之计。<span class='label'>作品：</span>破贼伐谋策奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年2月8日</a>　奏措置坚壁清野。<span class='label'>作品：</span>请坚壁清野奏二。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年3月3日</a>　奏议以远人攻远人。<span class='label'>作品：</span>乞惩夏人奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年3月11日</a>　奏差第二将折可适统领兵马出界攻扰，所到之处，如行无人之境，蕃众无人敢近官军。<span class='label'>作品：</span>折可适攻扰夏人奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年6月壬申</a>　乞进筑灰家觜及修复安疆寨。<span class='label'>作品：</span>困夏贼疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年6月</a>　任庆州知州。<span class='label'>作品：</span>乞进筑灰家嘴及修复安疆寨奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年10月12日</a>　夏人攻围环州等，楶以精兵万余，诱敌深入，贼围七十二日乃解去。<span class='label'>作品：</span>折可适邀击西贼奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　任庆州知州。<span class='label'>作品：</span>保明鄜延泾原两路策应功状。李浩邀击西贼奏。<br /></div>"
+                },
+                {
+                    "Latitude": 34.80179,
+                    "Longitude": 109.948624,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610523",
+                    "Title": "大荔",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ebdc5e58291b42f38a376a92f3e3907a\");'><span id='ebdc5e58291b42f38a376a92f3e3907a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1094')\">1093-1094年</a>，67-68岁</div><div id='ebdc5e58291b42f38a376a92f3e3907a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年3月</a>　言者论楶环州之役所上失亡数不实，又纵贼使全归，户部侍郎非楶能任，故改知同州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年10月</a>　任同州知州。<span class='label'>作品：</span>乞不许夏人入朝谢罪奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>　任同州知州。从弟章惇四月四月以资政殿学士为尚书左仆射兼门下侍郎。<span class='label'>作品：</span>观褚书圣教序碑题名。<br /></div>"
+                },
+                {
+                    "Latitude": 23.135308,
+                    "Longitude": 113.270793,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4401",
+                    "Title": "广州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ea457694d51648d4acfc11553283ab48\");'><span id='ea457694d51648d4acfc11553283ab48_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1096')\">1095-1096年</a>，69-70岁</div><div id='ea457694d51648d4acfc11553283ab48' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')\">1095年3月12日</a>　直龙图阁章楶为集贤殿修撰知广州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')\">1095年3月12日</a>　时苏轼在惠州，有《章质夫送酒六壶书至而酒不达戏作小诗问之》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1096')\">1095-1096年</a>　任广州知州。<span class='label'>作品：</span>碧落洞题名。广州府移学记。议罢进筑后门场地掌奏。<br /></div>"
+                },
+                {
+                    "Latitude": 35.549266,
+                    "Longitude": 106.671741,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6208",
+                    "Title": "平凉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a4b5a8406a044744902befb51ffa1843\");'><span id='a4b5a8406a044744902befb51ffa1843_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=-100000&endYear=1099')\">1099年</a>，73岁</div><div id='a4b5a8406a044744902befb51ffa1843' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')\">1096年</a>　冬，诏知渭州，为泾原路经略使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年1月8日</a>　至渭之八日即上言，筑成于险要，败寇并斩首千八百，帝大嘉赏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>　任渭州知州、泾原路经略使。<span class='label'>作品：</span>请于没烟前峡建堡奏。乞赐新建城寨名奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年4月</a>　自朝散大夫、集贤殿修撰除左朝议大夫、枢密直学士。<span class='label'>作品：</span>乞缓进筑奏。<span class='inlineComment2'>（《全宋文》卷三二五〇， 宋哲宗《 章楶钟傅体访边事以闻诏》，绍圣四年四月壬辰。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1098')\">1097-1098年</a>　任渭州知州，有奏文。<span class='label'>作品：</span>请营葫芦河川疏。新建城寨差官事奏。乞筑后石门褊江川奏。<span class='inlineComment2'>（《全宋文》卷三二五一 ，宋哲宗《章楶言西事答诏》，绍圣四年五月己未：“并依奏，令章楶更切多方体探西贼动息次第，委是有间隙可乘，决保万全，方得举动，即不管轻易败事。并下刘何、巴宜专一应副。”）</span>乞录范育子孙奏。乞官游师雄子奏。<span class='inlineComment2'>（《全宋文》卷三二五三，宋哲宗《以四月兵败事责罚折可适辛叔献等诏》：“绍圣四年九月丁丑两经赦宥，可适、叔献特追诸司副使已上官，勒停，候合叙日叙见存官外，更不用叙法。曲充特降两官。李之仪特差替，苗履依赦合叙四方馆使、吉州防禦使，以功补过，通叙转四方馆使、遥郡团练，升本路钤辖。经略使章楶为失点检结勘折可适不当，特罚金二十斤。”）</span>乞优赐进筑平夏城将官奏。<span class='inlineComment2'>（《全宋文》卷三二五五 ， 宋哲宗《章楶特降一官诏》绍圣五年三月戊辰。）</span>议投换之弊奏。议边防利害奏。<span class='inlineComment2'>（《全宋文》卷三二五四，宋哲宗有《谕章楶诏》，绍圣五年正月壬申。《全宋文》卷三二五三 ，宋哲宗《章楶钟傅等审见贼势出兵诏》，绍圣五年正月甲寅。《全宋文》卷三二五四，宋哲宗《枢密院言钟傅出塞交割熙州公事答诏》，绍圣五年正月癸酉：“张询候傅出界，并一面施行讫，报傅照会。其泾原路，章楶起离渭州，即州事交割与秦凤提点刑狱刘何，仰何并依张询指挥施行。”）</span>措置进筑三城寨奏。<span class='inlineComment2'>（《全宋文》卷三二五四，宋哲宗《章楶进筑没烟峡前口诏》，绍圣五年二月丙午：“令章楶才候修九羊谷了当，即将已计置到防守器具遵依今月二十四日指挥，于没烟峡前口进筑，所有后石门床地掌更不得兴工，如已兴工，即速行寝罢。”《全宋文》卷三二五四， 宋哲宗《进筑没烟前口赐章楶诏》，绍圣五年二月戊申：“候进筑九羊谷了日，乘势于没烟前口进筑，仍速同刘何、李譓等计置合要防城器具及板筑所须之物，乘此机会，务要神速成就。仍先次计会钟傅相度次第闻奏，当议别降指挥。令熙河、秦凤路合兵马，并更于环庆路差发将兵一万人添助防托。”《全宋文》卷三二五四， 宋哲宗《逐路进筑堡寨事令章楶钟傅各具析以闻诏》，绍圣五年二月庚寅：“章楶、钟傅各具析前后所奏异同因依以闻，如合逐路进筑，即依元降指挥。”《全宋文》卷三二五四，宋哲宗《令章楶更切审测敌情诏》，绍圣五年二月癸卯：“章楶更切审测敌情，斟酌事力机会，乘势进筑，如探伺西贼点集在近，事势厚重，未可举动，亦仰指定探报事实详具奏状，仍先具措置次第并合用兵马以闻。”《全宋文》卷三二五四，宋哲宗《枢密院言三路兵马进筑答诏》：“绍圣五年二月癸巳章楶、钟傅遵依施行，如逐路利害不同，听各具所见以闻。”《全宋文》卷三二五四 ，宋哲宗《令吕惠卿等期约破荡西贼诏》，绍圣五年三月壬戌：“吕惠卿、孙览、章楶、孙路、陆师闵、钟傅详此，候进筑城寨毕日，人马歇泊，预选统制官、将佐、使臣，及分擘队伍，整齐战具，计置粮草，乘西贼未能点集之际，相度机会，互相关报，期约兵马去至兴灵以来破荡贼巢。务在措置精审，决保万全，方得举动，不得轻易败事。”）</span>乞环庆秦凤经略使策应奏。乞进筑后石门创迪章奏。乞优给投来西人奏。沿边诸处不得与官中争籴奏。措置并边耕牧住坐贼人事奏。乞置将奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年</a>　任渭州知州，筑没烟前后峡两寨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年7月</a>　任渭州知州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年9月</a>　任渭州知州。西贼犯塞，攻围平夏城，凡十三日乃去，诏特除章楶龙图阁学士、左中散大夫、<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年</a>　任渭州知州，有奏文。<span class='label'>作品：</span>捍御平夏城事奏。<span class='inlineComment2'>（《全宋文》卷三二五七， 宋哲宗《令章楶孙路体问进筑城寨的确利害诏》，元符元年十月丙子：“章楶、孙路详已降朝旨及今来所问事理，子细体问的确利害，公共讲议两路进筑次第，如合依先降朝旨施行，即合至甚时计会勾抽环庆、秦凤路兵马，各行次第进筑，画一条析的确利害结罪保明闻奏。”《全宋文》卷三二五七，宋哲宗《令章楶豫行经画进筑事宜诏》：“元符元年十月己亥将来进筑城寨合用粮草、楼橹材植及应干板筑之具并防守器械什物等，并仰章楶豫行经画计置，百色足备。才候春暖，有机会可乘，即依近降朝旨，计会熙河路各勾抽环庆、秦凤两路兵马及时进筑施行，不致临时稍有阙误。仍先具已经画计置次第事状闻奏。”）</span>乞进筑边寨奏。<span class='inlineComment2'>（《全宋文》卷三二五八，宋哲宗有《章楶奏进筑事答诏》，元符二年正月己巳。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年12月</a>　以擒获威明阿迈、穆赍多卜，楶以泾源经略抚使、龙图阁学士、左中散大夫为太中大夫。哲宗有答诏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1099')\">1098-1099年</a>　任渭州知州，有奏文。<span class='label'>作品：</span>议诸路讨荡夏人奏。<span class='inlineComment2'>（《全宋文》卷三二五八，宋哲宗《章楶罚铜三十斤诏》，元符二年正月甲子。“泾原路经略使章楶擅违朝旨，前后奏报异同，特罚铜三十馀斤。”）</span>乞降赐度僧牒五十付本司奏。请于没湮峞头修通过堡子奏。乞将蕃兵依旧各于顺便城寨隶属逐将奏。乞措置新建城寨奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年</a>　请罢进筑以休兵息民。甲子，诏章楶擅违朝旨，前后奏报异同，特罚铜三十余斤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年5月</a>　任渭州知州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年7月</a>　上奏议陕西钱法。<span class='label'>作品：</span>议钱法轻重大小奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年7月</a>　任渭州知州，有奏文。<span class='label'>作品：</span>请于碱隈川筑寨奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年8月</a>　乞致仕，诏来春取旨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年9月</a>　楶降中大夫，余如故。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年</a>　任渭州知州，有奏文。<span class='label'>作品：</span>应诏发遣兵将赴熙河奏。再荐徐积奏。<span class='inlineComment2'>（(清)段朝端编，刁忠民校点《宋徐孝节先生年谱》载：徐积任楚州州学教授时间为1087-1095。谨编此奏文为是年。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年10月26日</a>　令泾原发兵五千赴熙河。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年11月</a>　请罢进筑以休兵息民。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7bd0618422544fe0a4b4353d331f54fe\");'><span id='7bd0618422544fe0a4b4353d331f54fe_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>，74岁</div><div id='7bd0618422544fe0a4b4353d331f54fe' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　徽宗立，请老，徙河南。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年3月8日</a>　罢提举弓箭手司，从章楶之请也。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "章楶 <span class='inlineComment2'>(1027-1102)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：吴洪泽等《宋人年谱丛刊》、曾枣庄等主编《全宋文》、上海辞书出版社《唐宋词鉴赏辞典》、唐圭璋编《全宋词》、曾枣庄等主编《全宋文补》　录入整理：柯贞金</p><p><a href=\"javascript: ViewRoute(0, 5, 115.672776, 31.418528, 8, 0)\">1-47岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">浦城</a> → <a href=\"javascript: ViewPoint(1, 0)\">孟州</a> → <a href=\"javascript: ViewPoint(2, 0)\">开封</a> → <a href=\"javascript: ViewPoint(3, 0)\">陈留</a> → <a href=\"javascript: ViewPoint(4, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(5, 10, 109.867007, 32.42551, 7, 0)\">48-61岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">西安</a> → <a href=\"javascript: ViewPoint(6, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(7, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(8, 0)\">成都</a> → <a href=\"javascript: ViewPoint(9, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(10, 14, 114.7664895, 32.41973, 7, 0)\">61-64岁</a><br /><a href=\"javascript: ViewPoint(10, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(11, 0)\">开封</a> → <a href=\"javascript: ViewPoint(12, 0)\">西安</a> → <a href=\"javascript: ViewPoint(13, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(14, 22, 111.1672695, 29.425702, 7, 0)\">65-76岁</a><br /><a href=\"javascript: ViewPoint(14, 0)\">庆阳</a> → <a href=\"javascript: ViewPoint(15, 0)\">开封</a> → <a href=\"javascript: ViewPoint(16, 0)\">大荔</a> → <a href=\"javascript: ViewPoint(17, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(18, 0)\">广州</a> → <a href=\"javascript: ViewPoint(19, 0)\">平凉</a> → <a href=\"javascript: ViewPoint(20, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(21, 0)\">开封</a></p>"
+        }
+    ]
+}

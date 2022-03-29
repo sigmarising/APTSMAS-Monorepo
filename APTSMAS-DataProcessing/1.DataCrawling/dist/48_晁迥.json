@@ -1,0 +1,260 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 34.210143,
+            "CenterLongitude": 117.29235,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "11a54620c7874d0ebf890c7615761d9a",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "55d338dc32fc4e9a84892a9dbce28159",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "a29f7e0b592a4362b35611453685a60d",
+                            "Latitude": 29.363262,
+                            "Longitude": 113.135679,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4306",
+                            "Title": "岳阳"
+                        },
+                        {
+                            "Id": "921336edd92e4caeb276d7fa00ecd68b",
+                            "Latitude": 30.396522,
+                            "Longitude": 114.901557,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN42070",
+                            "Title": "鄂州"
+                        },
+                        {
+                            "Id": "b00bf4de9b094c8d8e654b324f4738b0",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "98202d78202247568844b30fe933d8cd",
+                            "Latitude": 30.396522,
+                            "Longitude": 114.901557,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN42070",
+                            "Title": "鄂州"
+                        },
+                        {
+                            "Id": "5cc8d2c8293b4bd6b975e91642512cd1",
+                            "Latitude": 29.084455,
+                            "Longitude": 119.654027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3307",
+                            "Title": "金华"
+                        },
+                        {
+                            "Id": "8071ea2c45e646cf97ba14d01b2f17c6",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "4bb0c5312df1494fa4dc445f36c04bf1",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "b7a6fd35dd8040cf91e2c0be1edeb817",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "4e1155aaf0734fbcb4dd95452beedfa5",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "17f666529a82444bb7d38bdfa5e402ee",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "9437d11352904f2ca475de4b48530fac",
+                            "Latitude": 37.088589,
+                            "Longitude": 113.385711,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140722",
+                            "Title": "左权"
+                        },
+                        {
+                            "Id": "56a6603accfb414199871254a4c1eae9",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "fbb3bd2683614c9785801dbc6fc9bd67",
+                            "Latitude": 43.977116,
+                            "Longitude": 119.386055,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN150422",
+                            "Title": "巴林左旗"
+                        },
+                        {
+                            "Id": "2c818bb128994087a3d0ad50e5697c6b",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 34.210143,
+                    "Longitude": 117.29235,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3203",
+                    "Title": "徐州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"11a54620c7874d0ebf890c7615761d9a\");'><span id='11a54620c7874d0ebf890c7615761d9a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=951&endYear=979')\">951-979年</a>，1-29岁</div><div id='11a54620c7874d0ebf890c7615761d9a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=951&endYear=951')\">951年</a>　出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=952&endYear=972')\">952-972年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=973&endYear=973')\">973年</a>　此前已与王禹偁定交。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=974&endYear=979')\">974-979年</a>　不详。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4bb0c5312df1494fa4dc445f36c04bf1\");'><span id='4bb0c5312df1494fa4dc445f36c04bf1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=997&endYear=997')\">997年</a>，47岁</div><div id='4bb0c5312df1494fa4dc445f36c04bf1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=997&endYear=997')\">997年</a>　春，监徐州税，有书信和文赋赠王禹偁，四月迁右正言，十一月直史馆。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4e1155aaf0734fbcb4dd95452beedfa5\");'><span id='4e1155aaf0734fbcb4dd95452beedfa5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=998&endYear=1000')\">998-1000年</a>，48-50岁</div><div id='4e1155aaf0734fbcb4dd95452beedfa5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=998&endYear=998')\">998年</a>　直史馆，十一月，丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=999&endYear=1000')\">999-1000年</a>　丁父忧。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"55d338dc32fc4e9a84892a9dbce28159\");'><span id='55d338dc32fc4e9a84892a9dbce28159_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')\">980年</a>，30岁</div><div id='55d338dc32fc4e9a84892a9dbce28159' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')\">980年</a>　中进士第，授岳州录事参军。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b00bf4de9b094c8d8e654b324f4738b0\");'><span id='b00bf4de9b094c8d8e654b324f4738b0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=984&endYear=984')\">984年</a>，34岁</div><div id='b00bf4de9b094c8d8e654b324f4738b0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=984&endYear=984')\">984年</a>　改将作监丞，迁殿中丞。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b7a6fd35dd8040cf91e2c0be1edeb817\");'><span id='b7a6fd35dd8040cf91e2c0be1edeb817_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=998&endYear=998')\">998年</a>，48岁</div><div id='b7a6fd35dd8040cf91e2c0be1edeb817' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=998&endYear=998')\">998年</a>　直史馆。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"17f666529a82444bb7d38bdfa5e402ee\");'><span id='17f666529a82444bb7d38bdfa5e402ee_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1001&endYear=1004')\">1001-1004年</a>，51-54岁</div><div id='17f666529a82444bb7d38bdfa5e402ee' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1001&endYear=1001')\">1001年</a>　初知制诰，献《咸平新书》五十篇，又献《理枢》一卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1003')\">1002-1003年</a>　在京任知制诰。<span class='label'>作品：</span>《鸿胪寺赙赠条件》《赙赠条例议》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>　知制诰，覆校前后《汉书》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"56a6603accfb414199871254a4c1eae9\");'><span id='56a6603accfb414199871254a4c1eae9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1005&endYear=1013')\">1005-1013年</a>，55-63岁</div><div id='56a6603accfb414199871254a4c1eae9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1005&endYear=1005')\">1005年</a>　正月以右谏议大夫知贡举，五月拜翰林学士，八月责授左司郎中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')\">1006年</a>　请令有司详定考试条式，议定群臣诏葬制度，考定应试举人文卷，修正曲词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')\">1007年</a>　同修国史，上考试进士新格，十二月被命同知次年贡举。<span class='label'>作品：</span>《章穆皇后谥册文》《送刘综学士出镇并门》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1008')\">1008年</a>　与西昆诗人唱和。<span class='label'>作品：</span>《封祀社首坛乐章》八首。《属疾》《清风十韵》<div id='poem_55215' class='_poem'><div id='poem_title_55215' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=55215' class='poemCommentLink' target='_blank'>属疾</a><a href='javascript: ShowPoemAuthorProfile(26587, \"宋\", \"晁迥\", \"poem_title_55215\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>晁迥</span></a><br /><div class='titleIndent'>五言排律</div></div><div id='poem_title_55215_comment'></div><div class='poemContent' id='poem_content_55215'><div class='poemSentence' id='poem_sentence_0_55215'>精鹜成勤瘁，颐贞俟有瘳。</div><div id='poem_sentence_0_55215_comment'></div><div class='poemSentence' id='poem_sentence_1_55215'>吟生南越思，慈结北堂忧。</div><div id='poem_sentence_1_55215_comment'></div><div class='poemSentence' id='poem_sentence_2_55215'>粲枕甘为蝶，丰厨厌炙牛。</div><div id='poem_sentence_2_55215_comment'></div><div class='poemSentence' id='poem_sentence_3_55215'>玄元知寡欲，平子尚多愁。</div><div id='poem_sentence_3_55215_comment'></div><div class='poemSentence' id='poem_sentence_4_55215'>夕鸟侵阶啄，宵萤入树流。</div><div id='poem_sentence_4_55215_comment'></div><div class='poemSentence' id='poem_sentence_5_55215'>玉书能静览，柱史倦闲投。</div><div id='poem_sentence_5_55215_comment'></div><div class='poemSentence' id='poem_sentence_6_55215'>忽赋行云什，堪听击壤讴。</div><div id='poem_sentence_6_55215_comment'></div><div class='poemSentence' id='poem_sentence_7_55215'>期君整朝佩，仙置在瀛洲。</div><div id='poem_sentence_7_55215_comment'></div><div class='poemSentence' id='poem_sentence_8_55215'></div><div id='poem_sentence_8_55215_comment'></div></div></div><div id='poem_55233' class='_poem'><div id='poem_title_55233' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=55233' class='poemCommentLink' target='_blank'>清风十韵</a><a href='javascript: ShowPoemAuthorProfile(26587, \"宋\", \"晁迥\", \"poem_title_55233\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>晁迥</span></a><br /><div class='titleIndent'>五言排律</div></div><div id='poem_title_55233_comment'></div><div class='poemContent' id='poem_content_55233'><div class='poemSentence' id='poem_sentence_0_55233'>仙御来相慰，解颜良会稀。</div><div id='poem_sentence_0_55233_comment'></div><div class='poemSentence' id='poem_sentence_1_55233'>病蠲宜养素，趣远欲忘机。</div><div id='poem_sentence_1_55233_comment'></div><div class='poemSentence' id='poem_sentence_2_55233'>惩躁能无渐，延龄或可祈。</div><div id='poem_sentence_2_55233_comment'></div><div class='poemSentence' id='poem_sentence_3_55233'>影摇珠箔细，声泛细筝微。</div><div id='poem_sentence_3_55233_comment'></div><div class='poemSentence' id='poem_sentence_4_55233'>委恨馀班扇，流欢入楚衣。</div><div id='poem_sentence_4_55233_comment'></div><div class='poemSentence' id='poem_sentence_5_55233'>陶潜知梦稳，韩寿畏香飞。</div><div id='poem_sentence_5_55233_comment'></div><div class='poemSentence' id='poem_sentence_6_55233'>气爽苍龙阙，凉生白虎闱。</div><div id='poem_sentence_6_55233_comment'></div><div class='poemSentence' id='poem_sentence_7_55233'>健资<span class='link' onclick='ShowWordComment(\"poem_sentence_7_55233\", 55233, \"Clauses/14/Comments/0\")'>鸡距</span>笔，偷撼兽镮扉。</div><div id='poem_sentence_7_55233_comment'></div><div class='poemSentence' id='poem_sentence_8_55233'>松下琴心逸，江东鲙缕肥。</div><div id='poem_sentence_8_55233_comment'></div><div class='poemSentence' id='poem_sentence_9_55233'>宿怀真隐处，终约与同归<span class='inlineComment2'>（以上《西昆酬唱集》卷下）</span>。</div><div id='poem_sentence_9_55233_comment'></div><div class='poemSentence' id='poem_sentence_10_55233'></div><div id='poem_sentence_10_55233_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1009&endYear=1009')\">1009年</a>　为契丹馆伴使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1010&endYear=1010')\">1010年</a>　与杨亿等详定祀汾阴仪注。<span class='label'>作品：</span>《祀汾阴亲谒后土庙乐章》《汾阴后土躬谢太庙显安曲乐章》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1011&endYear=1011')\">1011年</a>　以翰林学士判行在尚书省，判昭文馆，以翰林学士、工部侍郎为西岳奉册使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1012&endYear=1012')\">1012年</a>　以翰林学士权知贡举。<span class='label'>作品：</span>《天齐仁圣帝碑铭》文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1013&endYear=1013')\">1013年</a>　以翰林学士为契丹国主生辰使。<span class='label'>作品：</span>《北庭记》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2c818bb128994087a3d0ad50e5697c6b\");'><span id='2c818bb128994087a3d0ad50e5697c6b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1034')\">1014-1034年</a>，64-84岁</div><div id='2c818bb128994087a3d0ad50e5697c6b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')\">1014年</a>　在翰林学士任上。<span class='label'>作品：</span>《玉清昭应宫颂》文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1015')\">1015年</a>　举宋绶、麻温其、晏殊、冯元为覆校勘官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1016')\">1016年</a>　修《两朝国史》成，增修《两朝实录》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1017&endYear=1017')\">1017年</a>　翰林学士，知通进银台司兼门下封驳事，详定文武升朝官叙封事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1018&endYear=1018')\">1018年</a>　为册立皇太子礼仪使，进承旨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1019&endYear=1019')\">1019年</a>　为南郊礼仪使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1020&endYear=1020')\">1020年</a>　屡求解近职，授工部尚书、集贤院学士，判西京留司御史台，许一子官河南以就养。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　在京。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1022&endYear=1022')\">1022年</a>　二月真宗卒，仁宗继位，时判西京留司御史台，迁礼部尚书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1023&endYear=1025')\">1023-1025年</a>　在京任上。<span class='label'>作品：</span>《送陈舍人知荆南府》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1026&endYear=1026')\">1026年</a>　以太子少保致仕，给全俸，岁时赐赉如学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年</a>　居昭德坊旧居，著书。<span class='label'>作品：</span>《法藏碎金录》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1029')\">1028-1029年</a>　居昭德坊旧居，著文。<span class='label'>作品：</span>《慎刑箴》《劝慎刑文》《闻思三法资修记》文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1030')\">1030年</a>　居昭德坊旧居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')\">1031年</a>　居昭德坊旧居，《法藏碎金录》定稿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1032')\">1032年</a>　居昭德坊旧居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')\">1033年</a>　请依学士例破服馆阁读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')\">1034年</a>　召对延和殿，献《斧扆》《恤刑箴》《大顺》《审刑》《无尽灯颂》；卒，罢朝一日，赠太子太保，谥文元。<br /></div>"
+                },
+                {
+                    "Latitude": 29.363262,
+                    "Longitude": 113.135679,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4306",
+                    "Title": "岳阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a29f7e0b592a4362b35611453685a60d\");'><span id='a29f7e0b592a4362b35611453685a60d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=983')\">980-983年</a>，30-33岁</div><div id='a29f7e0b592a4362b35611453685a60d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=983')\">980-983年</a>　在岳州录事参军。<br /></div>"
+                },
+                {
+                    "Latitude": 30.396522,
+                    "Longitude": 114.901557,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN42070",
+                    "Title": "鄂州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"921336edd92e4caeb276d7fa00ecd68b\");'><span id='921336edd92e4caeb276d7fa00ecd68b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=983&endYear=983')\">983年</a>，33岁</div><div id='921336edd92e4caeb276d7fa00ecd68b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=983&endYear=983')\">983年</a>　过鄂州访崇阳知县张咏。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"98202d78202247568844b30fe933d8cd\");'><span id='98202d78202247568844b30fe933d8cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=985&endYear=986')\">985-986年</a>，35-36岁</div><div id='98202d78202247568844b30fe933d8cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=985&endYear=985')\">985年</a>　通判鄂州，子晁宗悫生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=986&endYear=986')\">986年</a>　本年秋至端拱间失职夺官，时间不确，姑系于本年。<br /></div>"
+                },
+                {
+                    "Latitude": 29.084455,
+                    "Longitude": 119.654027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3307",
+                    "Title": "金华",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5cc8d2c8293b4bd6b975e91642512cd1\");'><span id='5cc8d2c8293b4bd6b975e91642512cd1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=989&endYear=993')\">989-993年</a>，39-43岁</div><div id='5cc8d2c8293b4bd6b975e91642512cd1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=989&endYear=992')\">989-992年</a>　监婺州税。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=993&endYear=993')\">993年</a>　罢掌婺州税。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8071ea2c45e646cf97ba14d01b2f17c6\");'><span id='8071ea2c45e646cf97ba14d01b2f17c6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=993&endYear=996')\">993-996年</a>，43-46岁</div><div id='8071ea2c45e646cf97ba14d01b2f17c6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=993&endYear=993')\">993年</a>　归至苏州。<span class='label'>作品：</span>《游虎丘诗》<div id='poem_55213' class='_poem'><div id='poem_title_55213' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=55213' class='poemCommentLink' target='_blank'>游虎丘诗</a><a href='javascript: ShowPoemAuthorProfile(26587, \"宋\", \"晁迥\", \"poem_title_55213\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>晁迥</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_55213_comment'></div><div class='poemContent' id='poem_content_55213'><div class='poemSentence' id='poem_sentence_0_55213'>饯别阊门复少留，故人邀我浣离愁。</div><div id='poem_sentence_0_55213_comment'></div><div class='poemSentence' id='poem_sentence_1_55213'>旋沽美酝乘渔艇，急棹斜阳到虎丘。</div><div id='poem_sentence_1_55213_comment'></div><div class='poemSentence' id='poem_sentence_2_55213'>千古剑池呀怪石，一方金地枕清流。</div><div id='poem_sentence_2_55213_comment'></div><div class='poemSentence' id='poem_sentence_3_55213'>归时眷恋情无限，不得从容秉烛游<span class='inlineComment2'>（宋范成大《吴郡志》卷一六）</span>。</div><div id='poem_sentence_3_55213_comment'></div><div class='poemSentence' id='poem_sentence_4_55213'></div><div id='poem_sentence_4_55213_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=994&endYear=996')\">994-996年</a>　在苏州。<br /></div>"
+                },
+                {
+                    "Latitude": 37.088589,
+                    "Longitude": 113.385711,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140722",
+                    "Title": "左权",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9437d11352904f2ca475de4b48530fac\");'><span id='9437d11352904f2ca475de4b48530fac_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>，54岁</div><div id='9437d11352904f2ca475de4b48530fac' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>　诣北岳祷雨。<br /></div>"
+                },
+                {
+                    "Latitude": 43.977116,
+                    "Longitude": 119.386055,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN150422",
+                    "Title": "巴林左旗",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fbb3bd2683614c9785801dbc6fc9bd67\");'><span id='fbb3bd2683614c9785801dbc6fc9bd67_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1013&endYear=1013')\">1013年</a>，63岁</div><div id='fbb3bd2683614c9785801dbc6fc9bd67' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1013&endYear=1013')\">1013年</a>　以翰林学士为契丹国主生辰使。<span class='label'>作品：</span>《行程》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "晁迥 <span class='inlineComment2'>(951-1034)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：李朝军《晁迥年谱简编》、张剑《晁迥年谱》　录入整理：王娟</p><p><a href=\"javascript: ViewRoute(0, 4, 115.2140145, 32.0831015, 8, 0)\">1-33岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">岳阳</a> → <a href=\"javascript: ViewPoint(3, 0)\">鄂州</a></p><p><a href=\"javascript: ViewRoute(4, 10, 117.4517585, 31.943698, 8, 0)\">34-48岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">开封</a> → <a href=\"javascript: ViewPoint(5, 0)\">鄂州</a> → <a href=\"javascript: ViewPoint(6, 0)\">金华</a> → <a href=\"javascript: ViewPoint(7, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(8, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(9, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(10, 14, 115.3390305, 35.649366, 9, 0)\">48-63岁</a><br /><a href=\"javascript: ViewPoint(10, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(11, 0)\">开封</a> → <a href=\"javascript: ViewPoint(12, 0)\">左权</a> → <a href=\"javascript: ViewPoint(13, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(14, 16, 116.8499795, 39.3900285, 7, 0)\">63-84岁</a><br /><a href=\"javascript: ViewPoint(14, 0)\">巴林左旗</a> → <a href=\"javascript: ViewPoint(15, 0)\">开封</a></p>"
+        }
+    ]
+}

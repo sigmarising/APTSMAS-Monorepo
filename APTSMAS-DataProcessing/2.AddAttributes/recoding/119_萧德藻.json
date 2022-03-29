@@ -1,0 +1,508 @@
+{
+    "id": 119,
+    "name": "萧德藻",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1121,
+        1195
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 25.96283,
+            "lng": 119.52324
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《三山志》",
+        "《仙居县志》",
+        "《福州府志》",
+        "《诚斋集》",
+        "《南宋馆阁录》",
+        "《尊白堂集》",
+        "《荆溪外纪》",
+        "《嘉泰吴兴志》",
+        "《姜白石词编年笺校》",
+        "《浙江通志》",
+        "《白石道人诗集》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                41
+            ],
+            "correspondPath": [
+                "长乐",
+                "杭州",
+                "仙居",
+                "武冈"
+            ]
+        },
+        {
+            "agesDuration": [
+                42,
+                57
+            ],
+            "correspondPath": [
+                "零陵",
+                "武冈",
+                "龙川",
+                "宜兴",
+                "龙川"
+            ]
+        },
+        {
+            "agesDuration": [
+                57,
+                61
+            ],
+            "correspondPath": [
+                "上饶",
+                "龙川",
+                "吉水",
+                "湖州"
+            ]
+        },
+        {
+            "agesDuration": [
+                65,
+                75
+            ],
+            "correspondPath": [
+                "江陵",
+                "湖州",
+                "夷陵",
+                "德清",
+                "湖州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "00100700020006",
+                        "lat": 25.96283,
+                        "lng": 119.52324,
+                        "regionId": "00100700020006",
+                        "location": "长乐",
+                        "city": "福州市",
+                        "province": "福建省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400020006",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "00100400020006",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400080002",
+                        "lat": 28.84683,
+                        "lng": 120.72881,
+                        "regionId": "00100400080002",
+                        "location": "仙居",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100900060001",
+                        "lat": 26.72659,
+                        "lng": 110.63138,
+                        "regionId": "00100900060001",
+                        "location": "武冈",
+                        "city": "邵阳市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100900070006",
+                        "lat": 26.22255,
+                        "lng": 111.63112,
+                        "regionId": "00100900070006",
+                        "location": "零陵",
+                        "city": "永州市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100900060001",
+                        "lat": 26.72659,
+                        "lng": 110.63138,
+                        "regionId": "00100900060001",
+                        "location": "武冈",
+                        "city": "邵阳市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101400100001",
+                        "lat": 24.10014,
+                        "lng": 115.25984,
+                        "regionId": "00101400100001",
+                        "location": "龙川",
+                        "city": "河源市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101000080001",
+                        "lat": 31.34042,
+                        "lng": 119.82346,
+                        "regionId": "00101000080001",
+                        "location": "宜兴",
+                        "city": "无锡市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101400100001",
+                        "lat": 24.10014,
+                        "lng": 115.25984,
+                        "regionId": "00101400100001",
+                        "location": "龙川",
+                        "city": "河源市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101100020001",
+                        "lat": 28.45463,
+                        "lng": 117.94357,
+                        "regionId": "00101100020001",
+                        "location": "上饶",
+                        "city": "上饶市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101400100001",
+                        "lat": 24.10014,
+                        "lng": 115.25984,
+                        "regionId": "00101400100001",
+                        "location": "龙川",
+                        "city": "河源市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00101100080003",
+                        "lat": 27.22976,
+                        "lng": 115.1355,
+                        "regionId": "00101100080003",
+                        "location": "吉水",
+                        "city": "吉安市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400070003",
+                        "lat": 30.89305,
+                        "lng": 120.08805,
+                        "regionId": "00100400070003",
+                        "location": "湖州",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100800020003",
+                        "lat": 30.04184,
+                        "lng": 112.4247,
+                        "regionId": "00100800020003",
+                        "location": "江陵",
+                        "city": "荆州市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400070003",
+                        "lat": 30.89305,
+                        "lng": 120.08805,
+                        "regionId": "00100400070003",
+                        "location": "湖州",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100800080002",
+                        "lat": 30.7699,
+                        "lng": 111.32488,
+                        "regionId": "00100800080002",
+                        "location": "夷陵",
+                        "city": "宜昌市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400070002",
+                        "lat": 30.54269,
+                        "lng": 119.97754,
+                        "regionId": "00100400070002",
+                        "location": "德清",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "00100400070003",
+                        "lat": 30.89305,
+                        "lng": 120.08805,
+                        "regionId": "00100400070003",
+                        "location": "湖州",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 25.96283,
+                "lng": 119.52324,
+                "id": "00100700020006",
+                "regionId": "00100700020006",
+                "location": "长乐",
+                "city": "福州市",
+                "province": "福建省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1121年 ，出生",
+                    "1121年 在家乡长乐家居？约生于本年，本表所标年岁均为虚拟数，非实数。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": "00100400020006",
+                "regionId": "00100400020006",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1151年 ，31岁",
+                    "1151年 中赵逵榜进士第，注仙居主簿。"
+                ]
+            },
+            {
+                "lat": 28.84683,
+                "lng": 120.72881,
+                "id": "00100400080002",
+                "regionId": "00100400080002",
+                "location": "仙居",
+                "city": "台州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1151年 ，31岁",
+                    "1151年 任仙居尉兼主簿。重修应瑞侯庙。"
+                ]
+            },
+            {
+                "lat": 26.72659,
+                "lng": 110.63138,
+                "id": "00100900060001",
+                "regionId": "00100900060001",
+                "location": "武冈",
+                "city": "邵阳市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1161年 ，41岁",
+                    "1161年 在武冈使幕任判官。",
+                    "1163年 ，43岁",
+                    "1163年 在武冈使幕任判官，杨万里于零陵有诗寄之。"
+                ]
+            },
+            {
+                "lat": 26.22255,
+                "lng": 111.63112,
+                "id": "00100900070006",
+                "regionId": "00100900070006",
+                "location": "零陵",
+                "city": "永州市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1162年 ，42岁",
+                    "1162年 夏日，初识杨万里于零陵，有诗赠别之。"
+                ]
+            },
+            {
+                "lat": 24.10014,
+                "lng": 115.25984,
+                "id": "00101400100001",
+                "regionId": "00101400100001",
+                "location": "龙川",
+                "city": "河源市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1176年 ，56岁",
+                    "1176年 在龙川任县丞。",
+                    "1177年 ，57岁",
+                    "1177年 在龙川任县丞。",
+                    "1178-1179年 ，58-59岁",
+                    "1178-1179年 在龙川任县丞。"
+                ]
+            },
+            {
+                "lat": 31.34042,
+                "lng": 119.82346,
+                "id": "00101000080001",
+                "regionId": "00101000080001",
+                "location": "宜兴",
+                "city": "无锡市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1176年 ，56岁",
+                    "1176年9月10日 九月十日，过宜兴，记重修周将军庙事。"
+                ]
+            },
+            {
+                "lat": 28.45463,
+                "lng": 117.94357,
+                "id": "00101100020001",
+                "regionId": "00101100020001",
+                "location": "上饶",
+                "city": "上饶市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1177年 ，57岁",
+                    "1177年 夏日，在上饶西郊，遇之官毗陵的杨万里。"
+                ]
+            },
+            {
+                "lat": 27.22976,
+                "lng": 115.1355,
+                "id": "00101100080003",
+                "regionId": "00101100080003",
+                "location": "吉水",
+                "city": "吉安市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1179年 ，59岁",
+                    "1179年 官满归，拜访家居之杨万里。"
+                ]
+            },
+            {
+                "lat": 30.89305,
+                "lng": 120.08805,
+                "id": "00100400070003",
+                "regionId": "00100400070003",
+                "location": "湖州",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1181年 ，61岁",
+                    "1186年 ，66岁",
+                    "1186年 冬日，自湖湘罢官，携姜夔同归湖州。",
+                    "1190-1195年 ，70-75岁",
+                    "1190年11月 病中家居湖州，侄婿姜夔与友人徐彻欲来拜访。",
+                    "1195年 其子为池州监酒税，上任途中，舟次湖州城，与其友人虞俦聚会。"
+                ]
+            },
+            {
+                "lat": 30.04184,
+                "lng": 112.4247,
+                "id": "00100800020003",
+                "regionId": "00100800020003",
+                "location": "江陵",
+                "city": "荆州市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1185年 ，65岁",
+                    "1185年 在湖北任参议官。"
+                ]
+            },
+            {
+                "lat": 30.7699,
+                "lng": 111.32488,
+                "id": "00100800080002",
+                "regionId": "00100800080002",
+                "location": "夷陵",
+                "city": "宜昌市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1187年 ，67岁",
+                    "1187年 在夷陵任太守。"
+                ]
+            },
+            {
+                "lat": 30.54269,
+                "lng": 119.97754,
+                "id": "00100400070002",
+                "regionId": "00100400070002",
+                "location": "德清",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1188年 ，68岁",
+                    "1188年 武康巨室闻人观国、观时作大成殿，造四斋，其为记。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

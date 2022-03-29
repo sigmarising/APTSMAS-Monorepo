@@ -1,0 +1,199 @@
+{
+    "id": 101,
+    "name": "蔡伸",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1088,
+        1127
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 25.454,
+            "lng": 119.00771
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《蔡伸传》",
+        "《蔡伸年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                40
+            ],
+            "correspondPath": [
+                "莆田",
+                "开封",
+                "徐州",
+                "安阳",
+                "商丘"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "62ace06154314468a4bb4c48eae6a7ee",
+                        "lat": 25.454,
+                        "lng": 119.00771,
+                        "regionId": "CN3503",
+                        "location": "莆田",
+                        "city": "莆田市",
+                        "province": "福建省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e481cbc38d6b49e1923c432b72fd0c07",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "baeae5374620441389a2d9b2c7fa5d14",
+                        "lat": 34.2044,
+                        "lng": 117.28577,
+                        "regionId": "CN3203",
+                        "location": "徐州",
+                        "city": "徐州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9008995ada4f432caa606dea0d6d46fc",
+                        "lat": 36.09771,
+                        "lng": 114.3931,
+                        "regionId": "CN4105",
+                        "location": "安阳",
+                        "city": "安阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5e341f16b2dc4495add825e7c99ab71c",
+                        "lat": 34.41427,
+                        "lng": 115.65635,
+                        "regionId": "CN4114",
+                        "location": "商丘",
+                        "city": "商丘市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 25.454,
+                "lng": 119.00771,
+                "id": null,
+                "regionId": "CN3503",
+                "location": "莆田",
+                "city": "莆田市",
+                "province": "福建省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1088-1090年 ，1-3岁",
+                    "1088年 蔡伸生。",
+                    "1089年 不详。",
+                    "1090年 伸父旻卒，此后养于外家。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1115-1120年 ，28-33岁",
+                    "1115年 进士及第。",
+                    "1120年 释褐将仕郎、辟雍正，入太学，为博士。又知潍州北海县。除京东提举学事司干当公事。"
+                ]
+            },
+            {
+                "lat": 34.2044,
+                "lng": 117.28577,
+                "id": null,
+                "regionId": "CN3203",
+                "location": "徐州",
+                "city": "徐州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1122-1126年 ，35-39岁",
+                    "1122年 与同僚向子諲以词唱和。",
+                    "1123-1125年 小重山",
+                    "1126年 以智计平息禁卒之乱。"
+                ]
+            },
+            {
+                "lat": 36.09771,
+                "lng": 114.3931,
+                "id": null,
+                "regionId": "CN4105",
+                "location": "安阳",
+                "city": "安阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126年 ，39岁",
+                    "1126年12月 赴康王大元帅幕府，参议军事。"
+                ]
+            },
+            {
+                "lat": 34.41427,
+                "lng": 115.65635,
+                "id": null,
+                "regionId": "CN4114",
+                "location": "商丘",
+                "city": "商丘市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1127年 ，40岁",
+                    "1127年 康王即皇帝位，蔡伸随侍。"
+                ]
+            },
+            {
+                "lat": 36.122743,
+                "lng": 114.324517,
+                "id": null,
+                "regionId": "CN4105 殷墟博物苑",
+                "location": "殷墟",
+                "city": "安阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

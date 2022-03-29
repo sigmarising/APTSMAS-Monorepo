@@ -1,0 +1,790 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 35.602155,
+            "CenterLongitude": 110.718432,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "36fa9324e7c9412e80924ee029ccac68",
+                            "Latitude": 35.602155,
+                            "Longitude": 110.718432,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140882",
+                            "Title": "河津"
+                        },
+                        {
+                            "Id": "8272ed78864c439d9afb9a6e4ca86735",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4087cdcfc7c8468eae263ad8c7dfa281",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "397df3a4e45a4b4aa1bd283b917851f6",
+                            "Latitude": 30.19144,
+                            "Longitude": 120.271039,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330109",
+                            "Title": "萧山"
+                        },
+                        {
+                            "Id": "71aad6042eaa4119a8e9e44323d0f010",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "7f7d7e024960485e9fc7ec400539e626",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "344be92dbf4d48c388b0b7478d3b8fc1",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "14f0943560db47238f26c52940ce2b63",
+                            "Latitude": 34.57172,
+                            "Longitude": 110.098671,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610582",
+                            "Title": "华阴"
+                        },
+                        {
+                            "Id": "5e56ad63a2384be2863c7debf2cfd7a5",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "7df74f11385c433e8caa6eec200a6600",
+                            "Latitude": 34.305593,
+                            "Longitude": 108.496795,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610481",
+                            "Title": "兴平"
+                        },
+                        {
+                            "Id": "7a5627da7b494c9486214260c65d1621",
+                            "Latitude": 34.38143,
+                            "Longitude": 107.906674,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610324",
+                            "Title": "扶风"
+                        },
+                        {
+                            "Id": "090f2e7a24ee47679626681fd4b5d6ce",
+                            "Latitude": 33.159925,
+                            "Longitude": 106.679566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610725",
+                            "Title": "勉县"
+                        },
+                        {
+                            "Id": "fd195bddfa204656809507881b0485bf",
+                            "Latitude": 32.294266,
+                            "Longitude": 105.531838,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510823",
+                            "Title": "剑阁"
+                        },
+                        {
+                            "Id": "3098c18bf1f64149b3bfa3e6a0cf4b9b",
+                            "Latitude": 31.473364,
+                            "Longitude": 104.686164,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5107",
+                            "Title": "绵阳"
+                        },
+                        {
+                            "Id": "e11d1c12bc58443184bc0af33ba5ed51",
+                            "Latitude": 31.101709,
+                            "Longitude": 105.101082,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510722",
+                            "Title": "三台"
+                        },
+                        {
+                            "Id": "2824d169e4ef499fa4c519db7eb568d7",
+                            "Latitude": 31.038898,
+                            "Longitude": 104.685249,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510623",
+                            "Title": "中江"
+                        },
+                        {
+                            "Id": "fb28aec521bc480997d1ea5ea0d88944",
+                            "Latitude": 31.101709,
+                            "Longitude": 105.101082,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510722",
+                            "Title": "三台"
+                        },
+                        {
+                            "Id": "c05c372f01004312a437667c6fe4922e",
+                            "Latitude": 31.038898,
+                            "Longitude": 104.685249,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510623",
+                            "Title": "中江"
+                        },
+                        {
+                            "Id": "bb86921c4637484fae01b5d370c3bb41",
+                            "Latitude": 30.868288,
+                            "Longitude": 104.418493,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510121",
+                            "Title": "金堂"
+                        },
+                        {
+                            "Id": "8382e4c2773e4670be0df17e9ab7c626",
+                            "Latitude": 30.983374,
+                            "Longitude": 104.288913,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510681",
+                            "Title": "广汉"
+                        },
+                        {
+                            "Id": "fdcab05653814093869f315327dc9f1a",
+                            "Latitude": 31.133105,
+                            "Longitude": 104.404319,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5106",
+                            "Title": "德阳"
+                        },
+                        {
+                            "Id": "56bfd85e1a484301828471148ce05ccc",
+                            "Latitude": 31.133655,
+                            "Longitude": 104.173364,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510682",
+                            "Title": "什邡"
+                        },
+                        {
+                            "Id": "2c3276a0253d42079f488e1df078c02c",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "4e0859e163fe4bf5893439344e4b7965",
+                            "Latitude": 30.996057,
+                            "Longitude": 103.964667,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510182",
+                            "Title": "彭州"
+                        },
+                        {
+                            "Id": "c68e295edcac46e884533cfa3d8d9514",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "9756fdd8998f4360a133278f0e42ec52",
+                            "Latitude": 30.996057,
+                            "Longitude": 103.964667,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510182",
+                            "Title": "彭州"
+                        },
+                        {
+                            "Id": "4ceeb4b133cb4913a5d02764f761511a",
+                            "Latitude": 31.343452,
+                            "Longitude": 104.227439,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510683",
+                            "Title": "绵竹"
+                        },
+                        {
+                            "Id": "339db03935e84c8f861a8763e65fc59d",
+                            "Latitude": 31.641111,
+                            "Longitude": 105.167719,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510725",
+                            "Title": "梓潼"
+                        },
+                        {
+                            "Id": "2012d4102f964dc9951d12ffd1caf4af",
+                            "Latitude": 31.473364,
+                            "Longitude": 104.686164,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5107",
+                            "Title": "绵阳"
+                        },
+                        {
+                            "Id": "47753817bf974b789c49e8930639ed96",
+                            "Latitude": 33.918137,
+                            "Longitude": 106.52856,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610330",
+                            "Title": "凤县"
+                        },
+                        {
+                            "Id": "994d6af8839849d3870b770e1e8e7da5",
+                            "Latitude": 34.367747,
+                            "Longitude": 107.243899,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6103",
+                            "Title": "宝鸡"
+                        },
+                        {
+                            "Id": "1eaa206e7bf1494196f132e6a463de32",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "5a5da5af8307463fae07a23073f1d19c",
+                            "Latitude": 34.523086,
+                            "Longitude": 110.90097,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411282",
+                            "Title": "灵宝"
+                        },
+                        {
+                            "Id": "f2db02eaef23460f910af50e38e61e32",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "8ecc8d12880641fd89b3d707c2355f39",
+                            "Latitude": 34.523086,
+                            "Longitude": 110.90097,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411282",
+                            "Title": "灵宝"
+                        },
+                        {
+                            "Id": "752729070add44ff8d9ca119822b06b2",
+                            "Latitude": 35.602155,
+                            "Longitude": 110.718432,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140882",
+                            "Title": "河津"
+                        },
+                        {
+                            "Id": "94d3223f7d3b473090abfd94325da554",
+                            "Latitude": 35.421146,
+                            "Longitude": 110.844387,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140822",
+                            "Title": "万荣"
+                        },
+                        {
+                            "Id": "cc1a9ce9829f45fb9c1706c9db981bd0",
+                            "Latitude": 35.150952,
+                            "Longitude": 110.780488,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140821",
+                            "Title": "临猗"
+                        },
+                        {
+                            "Id": "8688482564d3414ead4a291971faa007",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "823a5b9a71b947599b50111341ca56c6",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "a4f83b1652bd4117845b6d81e0259080",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "9180cbb62a1a4acbb93406a429d5f391",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "0edceac2cdf749cd9441b85892112250",
+                            "Latitude": 25.837179,
+                            "Longitude": 114.94126,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3607",
+                            "Title": "赣州"
+                        },
+                        {
+                            "Id": "82db3fc518c446f182d31cc43f33ed2c",
+                            "Latitude": 23.135308,
+                            "Longitude": 113.270793,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4401",
+                            "Title": "广州"
+                        },
+                        {
+                            "Id": "44790b0020fe4a2998ee484f59ba1cbb",
+                            "Latitude": 21.0271816,
+                            "Longitude": 105.842773,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "VN110",
+                            "Title": "越南河内"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 35.602155,
+                    "Longitude": 110.718432,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140882",
+                    "Title": "河津 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"36fa9324e7c9412e80924ee029ccac68\");'><span id='36fa9324e7c9412e80924ee029ccac68_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=650&endYear=660')\">650-660年</a>，1-11岁</div><div id='36fa9324e7c9412e80924ee029ccac68' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=650&endYear=654')\">650-654年</a>　居于家乡龙门。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=655&endYear=655')\">655年</a>　居于家乡龙门.六岁即善文辞,构思无滞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=656&endYear=657')\">656-657年</a>　居于家乡龙门。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=658&endYear=658')\">658年</a>　居于家乡龙门.九岁读颜师古注《汉书》,并作《指瑕》以擿其失。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=659&endYear=659')\">659年</a>　居于家乡龙门.诵读六经。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=660&endYear=660')\">660年</a>　居于家乡龙门。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"752729070add44ff8d9ca119822b06b2\");'><span id='752729070add44ff8d9ca119822b06b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>，25岁</div><div id='752729070add44ff8d9ca119822b06b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>　冬,还归龙门家乡,以筹远赴交州之资费。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8272ed78864c439d9afb9a6e4ca86735\");'><span id='8272ed78864c439d9afb9a6e4ca86735_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=661&endYear=667')\">661-667年</a>，12-18岁</div><div id='8272ed78864c439d9afb9a6e4ca86735' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=661&endYear=661')\">661年</a>　从医者曹元学.并依其受《周易章句》、《黄帝素问》、《难经》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=662&endYear=662')\">662年</a>　从医者曹元学.并对“上官体”表示不满,且受名流薛元超揄扬。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=663&endYear=663')\">663年</a>　春,与曹元别.因反对“上官体”而名满长安。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=664&endYear=664')\">664年</a>　秋,上书右相刘祥道.获引荐。<span class='label'>作品：</span>《上刘右相书》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷5第147页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=665&endYear=665')\">665年</a>　经刘祥道表荐,拟应制举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　上书少常伯李安期。<span class='label'>作品：</span>《上李常伯启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第124页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　上书皇甫常伯。<span class='label'>作品：</span>《上皇甫常伯启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第126页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　再上皇甫常伯。<span class='label'>作品：</span>《再上皇甫常伯启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第127页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　为应本年制举,向朝廷投献《宸游东岳颂》<span class='label'>作品：</span>《宸游东岳颂》<span class='inlineComment2'>（原作已佚。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　东都造乾元殿,又上《乾元殿颂》<span class='label'>作品：</span>《乾元殿颂》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷14第383页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　投文干谒贺兰敏之,有《上武侍极启》<span class='label'>作品：</span>《上武侍极启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第120页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　投文干谒贺兰敏之,有《再上武侍极启》<span class='label'>作品：</span>《再上武侍极启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第123页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=666&endYear=666')\">666年</a>　应幽素举及第,为朝散郎.沛王李贤征为侍读。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>　在沛王府,上《平台钞略》十篇,沛王爱重之,赐帛五十匹。<span class='label'>作品：</span>《平台钞略十篇》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷11第301页;卷15第427页。原作仅存论、赞部分。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"344be92dbf4d48c388b0b7478d3b8fc1\");'><span id='344be92dbf4d48c388b0b7478d3b8fc1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=668')\">667-668年</a>，18-19岁</div><div id='344be92dbf4d48c388b0b7478d3b8fc1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>　返京后,注《黄帝八十一难经》完成并作序。<span class='label'>作品：</span>《黄帝八十一难经序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第266页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年3月</a>　三月,上《九成宫颂》<span class='label'>作品：</span>《九成宫颂》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷13第339页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年</a>　夏,为东台侍郎张文瓘作《九成宫东台山池赋》<span class='label'>作品：</span>《九成宫东台山池赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷1第24页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年7月</a>　七月,作《七夕赋》<span class='label'>作品：</span>《七夕赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷1第15页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5e56ad63a2384be2863c7debf2cfd7a5\");'><span id='5e56ad63a2384be2863c7debf2cfd7a5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=669')\">668-669年</a>，19-20岁</div><div id='5e56ad63a2384be2863c7debf2cfd7a5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年9-10</a>　九、十月间,为归仁县主撰写墓志.归仁县主为齐王李元吉女,嫁于天水人姜谟之第二子.生子姜瑴。<span class='label'>作品：</span>《归仁县主墓志并序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第646页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年12月</a>　十二月,上《拜南郊颂表》<span class='label'>作品：</span>《上拜南郊颂表》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第117页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年12月</a>　十二月,上《拜南郊颂》<span class='label'>作品：</span>《拜南郊颂》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷12第323页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年</a>　名作《送杜少府之任蜀川》约作于本年。<span class='label'>作品：</span>《送杜少府之任蜀川》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第84页。此诗蒋注本作《送杜少府之任蜀州》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年3月</a>　春,因王室权力争夺而被斥出沛王府。<span class='label'>作品：</span>《檄英王鸡》<span class='inlineComment2'>（褚人获《坚瓠集补集》广陵书社1984年版卷5第473页。英王又作周王,名李显,后更名李哲。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年4月</a>　四月,王勃因檄文被斥出沛王府,友人杨炯及沈氏曾前来慰问。<span class='label'>作品：</span>《夏日诸公见寻访诗序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第225页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"1eaa206e7bf1494196f132e6a463de32\");'><span id='1eaa206e7bf1494196f132e6a463de32_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=672')\">671-672年</a>，22-23岁</div><div id='1eaa206e7bf1494196f132e6a463de32' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　晚秋,抵长安.十月,朝廷诏求明礼乐之士.冬,参选.有《上绛州上官司马书》、《上明员外启》等。<span class='label'>作品：</span>《上绛州上官司马书》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷5第164页。）</span>《上明员外启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第133页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　在选曹.李敬玄为之延誉,裴行俭则颇有贬损,勃于是作《上吏部裴侍郎启》以明志显才。<span class='label'>作品：</span>《上吏部裴侍郎启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第128页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　经裴行俭、李敬玄及虢州司法陆季友举荐,参选后补授虢州参军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　春,赴友人曲水之宴,作《三月曲水宴得烟字》诗,盖与卢照邻唱和之作。<span class='label'>作品：</span>《三月曲水宴得烟字》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第93页。）</span><div id='poem_8839' class='_poem'><div id='poem_title_8839' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8839' class='poemCommentLink' target='_blank'>三月曲水宴得烟字</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8839\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言排律</div></div><div id='poem_title_8839_comment'></div><div class='titleComment' id='poem_allusion_8839'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(457, \"poem_allusion_8839\")'>傅岩</span>　<span class='link' onclick='ShowAllusionComment(867, \"poem_allusion_8839\")'>磻溪入钓</span></div><div id='poem_allusion_8839_comment'></div><div class='poemContent' id='poem_content_8839'><div class='poemSentence' id='poem_sentence_0_8839'>彭泽官初去，河阳赋始传。</div><div id='poem_sentence_0_8839_comment'></div><div class='poemSentence' id='poem_sentence_1_8839'>田园归旧国，诗酒间长筵。</div><div id='poem_sentence_1_8839_comment'></div><div class='poemSentence' id='poem_sentence_2_8839'>列室窥丹洞，分楼瞰紫烟。</div><div id='poem_sentence_2_8839_comment'></div><div class='poemSentence' id='poem_sentence_3_8839'>萦回亘津渡，出没控<span class='link' onclick='ShowWordComment(\"poem_sentence_3_8839\", 8839, \"Clauses/7/Comments/0\")'>郊廛</span>。</div><div id='poem_sentence_3_8839_comment'></div><div class='poemSentence' id='poem_sentence_4_8839'><span class='link' onclick='ShowWordComment(\"poem_sentence_4_8839\", 8839, \"Clauses/8/Comments/0\")'>凤琴</span>调上客，<span class='link' onclick='ShowWordComment(\"poem_sentence_4_8839\", 8839, \"Clauses/9/Comments/0\")'>龙辔</span>俨群仙。</div><div id='poem_sentence_4_8839_comment'></div><div class='poemSentence' id='poem_sentence_5_8839'>松石偏宜古，藤萝不记年。</div><div id='poem_sentence_5_8839_comment'></div><div class='poemSentence' id='poem_sentence_6_8839'>重檐交密树，复磴拥危泉。</div><div id='poem_sentence_6_8839_comment'></div><div class='poemSentence' id='poem_sentence_7_8839'>抗石晞南岭，乘沙眇北川。</div><div id='poem_sentence_7_8839_comment'></div><div class='poemSentence' id='poem_sentence_8_8839'><span class='link' onclick='ShowAllusionComment(457, \"poem_sentence_8_8839\")'>傅岩</span>来筑处，<span class='link' onclick='ShowAllusionComment(867, \"poem_sentence_8_8839\")'>磻溪入钓</span>前。</div><div id='poem_sentence_8_8839_comment'></div><div class='poemSentence' id='poem_sentence_9_8839'>日斜真趣远，幽思梦凉蝉。</div><div id='poem_sentence_9_8839_comment'></div><div class='poemSentence' id='poem_sentence_10_8839'></div><div id='poem_sentence_10_8839_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　春,送弟劼赴太学,有《送劼赴太学序》<span class='label'>作品：</span>《送劼赴太学序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第251页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　春,作《倬彼我系》,陈先人之迹,议自身出处之艰难,其兄王励有序。<span class='label'>作品：</span>《倬彼我系》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第65页。）</span><div id='poem_8864' class='_poem'><div id='poem_title_8864' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8864' class='poemCommentLink' target='_blank'>倬彼我系<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8864\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8864_comment'></div><div class='titleComment' id='poem_preface_8864'>倬彼我系。舍弟虢州参军勃所作也，伤迫乎家贫，道未成而受禄，不得如古之君子四十强而仕也。故本其性情，原其事业，因陈先人之际，以议出处，只天爵之艰难也。勃兄励序。</div><div id='poem_preface_8864_comment'></div><div class='poemContent' id='poem_content_8864'><div class='poemSentence' id='poem_sentence_0_8864'>倬彼我系，出自有周。</div><div id='poem_sentence_0_8864_comment'></div><div class='poemSentence' id='poem_sentence_1_8864'>分疆锡社，派别支流。</div><div id='poem_sentence_1_8864_comment'></div><div class='poemSentence' id='poem_sentence_2_8864'>居卫仕宋，臣<span class='inlineComment2'>（一作匡）</span>嬴相刘。</div><div id='poem_sentence_2_8864_comment'></div><div class='poemSentence' id='poem_sentence_3_8864'>乃武乃文，或公或侯。</div><div id='poem_sentence_3_8864_comment'></div><div class='poemSentence' id='poem_sentence_4_8864'></div><div id='poem_sentence_4_8864_comment'></div></div></div><div id='poem_8865' class='_poem'><div id='poem_title_8865' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8865' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8865_comment'></div><div class='poemContent' id='poem_content_8865'><div class='poemSentence' id='poem_sentence_0_8865'>晋历<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8865\", 8865, \"Clauses/0/Comments/0\")'>崩坼</span>，衣冠<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8865\", 8865, \"Clauses/1/Comments/0\")'>扰弊</span>。</div><div id='poem_sentence_0_8865_comment'></div><div class='poemSentence' id='poem_sentence_1_8865'>粤自太原，播徂<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8865\", 8865, \"Clauses/3/Comments/0\")'>江澨</span>。</div><div id='poem_sentence_1_8865_comment'></div><div class='poemSentence' id='poem_sentence_2_8865'>礼丧贤隐，时屯道闭。</div><div id='poem_sentence_2_8865_comment'></div><div class='poemSentence' id='poem_sentence_3_8865'>王室如燬，生人多殪。</div><div id='poem_sentence_3_8865_comment'></div><div class='poemSentence' id='poem_sentence_4_8865'></div><div id='poem_sentence_4_8865_comment'></div></div></div><div id='poem_8866' class='_poem'><div id='poem_title_8866' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8866' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8866_comment'></div><div class='poemContent' id='poem_content_8866'><div class='poemSentence' id='poem_sentence_0_8866'>伊我有器，思逢其主。</div><div id='poem_sentence_0_8866_comment'></div><div class='poemSentence' id='poem_sentence_1_8866'>自东施<span class='inlineComment2'>（一作旋）</span>西，择木开宇。</div><div id='poem_sentence_1_8866_comment'></div><div class='poemSentence' id='poem_sentence_2_8866'>田彼河曲，家乎汾浦。</div><div id='poem_sentence_2_8866_comment'></div><div class='poemSentence' id='poem_sentence_3_8866'>天未厌乱，吾将谁辅。</div><div id='poem_sentence_3_8866_comment'></div><div class='poemSentence' id='poem_sentence_4_8866'></div><div id='poem_sentence_4_8866_comment'></div></div></div><div id='poem_8867' class='_poem'><div id='poem_title_8867' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8867' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8867_comment'></div><div class='poemContent' id='poem_content_8867'><div class='poemSentence' id='poem_sentence_0_8867'>伊我祖德，思济九埏。</div><div id='poem_sentence_0_8867_comment'></div><div class='poemSentence' id='poem_sentence_1_8867'>不常厥所，于兹五迁。</div><div id='poem_sentence_1_8867_comment'></div><div class='poemSentence' id='poem_sentence_2_8867'>欲及时也，夫岂愿焉。</div><div id='poem_sentence_2_8867_comment'></div><div class='poemSentence' id='poem_sentence_3_8867'>其位虽屈，其言则传。</div><div id='poem_sentence_3_8867_comment'></div><div class='poemSentence' id='poem_sentence_4_8867'></div><div id='poem_sentence_4_8867_comment'></div></div></div><div id='poem_8868' class='_poem'><div id='poem_title_8868' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8868' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8868_comment'></div><div class='poemContent' id='poem_content_8868'><div class='poemSentence' id='poem_sentence_0_8868'>爰述<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8868\", 8868, \"Clauses/0/Comments/0\")'>帝制</span>，大蒐王道。</div><div id='poem_sentence_0_8868_comment'></div><div class='poemSentence' id='poem_sentence_1_8868'>曰天曰人，是祖是考。</div><div id='poem_sentence_1_8868_comment'></div><div class='poemSentence' id='poem_sentence_2_8868'>礼乐咸若，诗书具草。</div><div id='poem_sentence_2_8868_comment'></div><div class='poemSentence' id='poem_sentence_3_8868'>贻厥孙谋，永为家宝。</div><div id='poem_sentence_3_8868_comment'></div><div class='poemSentence' id='poem_sentence_4_8868'></div><div id='poem_sentence_4_8868_comment'></div></div></div><div id='poem_8869' class='_poem'><div id='poem_title_8869' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8869' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其六 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8869_comment'></div><div class='poemContent' id='poem_content_8869'><div class='poemSentence' id='poem_sentence_0_8869'>伊余小子，信惭明哲。</div><div id='poem_sentence_0_8869_comment'></div><div class='poemSentence' id='poem_sentence_1_8869'>彼网有条，彼车有辙。</div><div id='poem_sentence_1_8869_comment'></div><div class='poemSentence' id='poem_sentence_2_8869'>思屏人事，克终前烈。</div><div id='poem_sentence_2_8869_comment'></div><div class='poemSentence' id='poem_sentence_3_8869'>于嗟代网，卒余来绁。</div><div id='poem_sentence_3_8869_comment'></div><div class='poemSentence' id='poem_sentence_4_8869'></div><div id='poem_sentence_4_8869_comment'></div></div></div><div id='poem_8870' class='_poem'><div id='poem_title_8870' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8870' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其七 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8870_comment'></div><div class='poemContent' id='poem_content_8870'><div class='poemSentence' id='poem_sentence_0_8870'>来绁伊何，谓余曰仕。</div><div id='poem_sentence_0_8870_comment'></div><div class='poemSentence' id='poem_sentence_1_8870'>我瞻先达，三十方起。</div><div id='poem_sentence_1_8870_comment'></div><div class='poemSentence' id='poem_sentence_2_8870'>夫岂不怀，高山仰止。</div><div id='poem_sentence_2_8870_comment'></div><div class='poemSentence' id='poem_sentence_3_8870'>愿言毓德，啜菽饮水。</div><div id='poem_sentence_3_8870_comment'></div><div class='poemSentence' id='poem_sentence_4_8870'></div><div id='poem_sentence_4_8870_comment'></div></div></div><div id='poem_8871' class='_poem'><div id='poem_title_8871' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8871' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其八 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8871_comment'></div><div class='poemContent' id='poem_content_8871'><div class='poemSentence' id='poem_sentence_0_8871'>有鸟反哺，其声嗷嗷。</div><div id='poem_sentence_0_8871_comment'></div><div class='poemSentence' id='poem_sentence_1_8871'>言念旧德，忧心忉忉。</div><div id='poem_sentence_1_8871_comment'></div><div class='poemSentence' id='poem_sentence_2_8871'>今我不养，岁月其滔。</div><div id='poem_sentence_2_8871_comment'></div><div class='poemSentence' id='poem_sentence_3_8871'>僶俛从役，岂敢告劳。</div><div id='poem_sentence_3_8871_comment'></div><div class='poemSentence' id='poem_sentence_4_8871'></div><div id='poem_sentence_4_8871_comment'></div></div></div><div id='poem_8872' class='_poem'><div id='poem_title_8872' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8872' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其九 </span></a><br /><div class='titleIndent'>四言诗</div></div><div id='poem_title_8872_comment'></div><div class='poemContent' id='poem_content_8872'><div class='poemSentence' id='poem_sentence_0_8872'>从役伊何，薄求卑位。</div><div id='poem_sentence_0_8872_comment'></div><div class='poemSentence' id='poem_sentence_1_8872'>告劳伊何，来参卿事。</div><div id='poem_sentence_1_8872_comment'></div><div class='poemSentence' id='poem_sentence_2_8872'>名存实爽，负信愆义。</div><div id='poem_sentence_2_8872_comment'></div><div class='poemSentence' id='poem_sentence_3_8872'>静言遐思，中心是愧。</div><div id='poem_sentence_3_8872_comment'></div><div class='poemSentence' id='poem_sentence_4_8872'></div><div id='poem_sentence_4_8872_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4087cdcfc7c8468eae263ad8c7dfa281\");'><span id='4087cdcfc7c8468eae263ad8c7dfa281_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>，18岁</div><div id='4087cdcfc7c8468eae263ad8c7dfa281' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>　秋,在越州山阴季处士宅赴宴并作诗。<span class='label'>作品：</span>《秋日宴季处士宅序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷6第191页。《秋日宴季处士宅序》有云,“季处士者,远游濠上,来游镜中”,“镜中”指山阴南湖,故知勃曾至越州山阴。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.19144,
+                    "Longitude": 120.271039,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330109",
+                    "Title": "萧山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"397df3a4e45a4b4aa1bd283b917851f6\");'><span id='397df3a4e45a4b4aa1bd283b917851f6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>，18岁</div><div id='397df3a4e45a4b4aa1bd283b917851f6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>　秋,在越州永兴李明府宅为萧三饯行并赋诗。<span class='label'>作品：</span>《越州永兴李明府宅送萧三还齐州序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第241页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"71aad6042eaa4119a8e9e44323d0f010\");'><span id='71aad6042eaa4119a8e9e44323d0f010_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>，18岁</div><div id='71aad6042eaa4119a8e9e44323d0f010' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在白下驿为唐少府饯行并赋诗。<span class='label'>作品：</span>《白下驿饯唐少府》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第83页。白下在润州江宁,参汪贤度校点《王子安集注》第83页,上海古籍出版社,1995年版。）</span><div id='poem_8816' class='_poem'><div id='poem_title_8816' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8816' class='poemCommentLink' target='_blank'>白下驿饯唐少府</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8816\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8816_comment'></div><div class='titleComment' id='poem_allusion_8816'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(1289, \"poem_allusion_8816\")'>长安在日边</span></div><div id='poem_allusion_8816_comment'></div><div class='poemContent' id='poem_content_8816'><div class='poemSentence' id='poem_sentence_0_8816'>下驿穷交日，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8816\", 8816, \"Clauses/1/Comments/0\")'>昌亭旅食</span>年。</div><div id='poem_sentence_0_8816_comment'></div><div class='poemSentence' id='poem_sentence_1_8816'>相知何用早，怀抱即依然。</div><div id='poem_sentence_1_8816_comment'></div><div class='poemSentence' id='poem_sentence_2_8816'>浦楼低晚照，乡路隔风烟。</div><div id='poem_sentence_2_8816_comment'></div><div class='poemSentence' id='poem_sentence_3_8816'>去去如何道，<span class='link' onclick='ShowAllusionComment(1289, \"poem_sentence_3_8816\")'>长安在日边</span>。</div><div id='poem_sentence_3_8816_comment'></div><div class='poemSentence' id='poem_sentence_4_8816'></div><div id='poem_sentence_4_8816_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,登冶城北楼并赋诗。<span class='label'>作品：</span>《秋日登冶城北楼望白下序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第640页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a4f83b1652bd4117845b6d81e0259080\");'><span id='a4f83b1652bd4117845b6d81e0259080_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='a4f83b1652bd4117845b6d81e0259080' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>八月下旬经江宁,吴少府饯行,作《江宁吴少府宅饯宴序》<span class='label'>作品：</span>《江宁吴少府宅饯宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第246页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>道经长江,作《采莲赋》<span class='label'>作品：</span>《采莲赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷2第42页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7f7d7e024960485e9fc7ec400539e626\");'><span id='7f7d7e024960485e9fc7ec400539e626_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>，18岁</div><div id='7f7d7e024960485e9fc7ec400539e626' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=667&endYear=667')\">667年</a>　冬,沿大运河经扬州、楚州等地北返回京。<span class='label'>作品：</span>《冬日送闾丘序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第633页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"823a5b9a71b947599b50111341ca56c6\");'><span id='823a5b9a71b947599b50111341ca56c6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='823a5b9a71b947599b50111341ca56c6' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>八月中旬至楚州,作《秋日楚州郝司户宅饯崔使君序》<span class='label'>作品：</span>《秋日楚州郝司户宅饯崔使君序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第235页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>八月过楚州淮阴,曾谒汉祖庙,受父命作《过淮阴谒汉祖庙祭文》<span class='label'>作品：</span>《过淮阴谒汉祖庙祭文》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第643页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 34.57172,
+                    "Longitude": 110.098671,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610582",
+                    "Title": "华阴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"14f0943560db47238f26c52940ce2b63\");'><span id='14f0943560db47238f26c52940ce2b63_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=668&endYear=668')\">668年</a>，19岁</div><div id='14f0943560db47238f26c52940ce2b63' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在杨炯家乡小住,作《山亭兴序》<span class='label'>作品：</span>《山亭兴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第268页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在杨炯家乡小住,作《秋日饯别序》<span class='label'>作品：</span>《秋日饯别序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第237页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在杨炯家乡小住,作《山亭思友人序》<span class='label'>作品：</span>《山亭思友人序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第273页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 34.305593,
+                    "Longitude": 108.496795,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610481",
+                    "Title": "兴平",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7df74f11385c433e8caa6eec200a6600\");'><span id='7df74f11385c433e8caa6eec200a6600_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='7df74f11385c433e8caa6eec200a6600' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年5月26日</a>　五月二十六日,离京西行赴蜀,经过始平（今陕西兴平）,作《始平晚息》诗。<span class='label'>作品：</span>《始平晚息》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第102页。始平即今陕西兴平.兴平,在咸阳西、武功东,谭图未详,参汪贤度校点《王子安集注》第102页,上海古籍出版社,1995年版。）</span><div id='poem_8789' class='_poem'><div id='poem_title_8789' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8789' class='poemCommentLink' target='_blank'>始平晚<span class='inlineComment2'>（一作晓）</span>息</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8789\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8789_comment'></div><div class='titleComment' id='poem_allusion_8789'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(1289, \"poem_allusion_8789\")'>长安近</span></div><div id='poem_allusion_8789_comment'></div><div class='poemContent' id='poem_content_8789'><div class='poemSentence' id='poem_sentence_0_8789'>观阙<span class='link' onclick='ShowAllusionComment(1289, \"poem_sentence_0_8789\")'>长安近</span>，江山蜀路<span class='inlineComment2'>（一作道）</span>赊。</div><div id='poem_sentence_0_8789_comment'></div><div class='poemSentence' id='poem_sentence_1_8789'>客行朝复夕，无处是乡家。</div><div id='poem_sentence_1_8789_comment'></div><div class='poemSentence' id='poem_sentence_2_8789'></div><div id='poem_sentence_2_8789_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.38143,
+                    "Longitude": 107.906674,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610324",
+                    "Title": "扶风",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7a5627da7b494c9486214260c65d1621\");'><span id='7a5627da7b494c9486214260c65d1621_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='7a5627da7b494c9486214260c65d1621' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　途经扶风（今属陕西）,作《扶见昼届,离京浸远》诗。<span class='label'>作品：</span>《扶风昼届离京浸远》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第102页。）</span><div id='poem_8787' class='_poem'><div id='poem_title_8787' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8787' class='poemCommentLink' target='_blank'>扶风昼届离京浸远</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8787\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8787_comment'></div><div class='poemContent' id='poem_content_8787'><div class='poemSentence' id='poem_sentence_0_8787'>帝里金茎去，扶风石柱来。</div><div id='poem_sentence_0_8787_comment'></div><div class='poemSentence' id='poem_sentence_1_8787'>山川殊未已，行路方悠哉。</div><div id='poem_sentence_1_8787_comment'></div><div class='poemSentence' id='poem_sentence_2_8787'></div><div id='poem_sentence_2_8787_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 33.159925,
+                    "Longitude": 106.679566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610725",
+                    "Title": "勉县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"090f2e7a24ee47679626681fd4b5d6ce\");'><span id='090f2e7a24ee47679626681fd4b5d6ce_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='090f2e7a24ee47679626681fd4b5d6ce' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　途经长柳（在今陕西勉县附近）,作《长柳》诗。<span class='label'>作品：</span>《长柳》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第89页。据谭图,今勉县在梁州西县东。）</span><div id='poem_8813' class='_poem'><div id='poem_title_8813' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8813' class='poemCommentLink' target='_blank'>长柳</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8813\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8813_comment'></div><div class='poemContent' id='poem_content_8813'><div class='poemSentence' id='poem_sentence_0_8813'>晨征犯<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8813\", 8813, \"Clauses/0/Comments/0\")'>烟磴</span>，夕憩在云关。</div><div id='poem_sentence_0_8813_comment'></div><div class='poemSentence' id='poem_sentence_1_8813'>晚风清近壑，新月照澄湾。</div><div id='poem_sentence_1_8813_comment'></div><div class='poemSentence' id='poem_sentence_2_8813'>郊童樵唱返，津叟<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8813\", 8813, \"Clauses/5/Comments/0\")'>钓歌</span>还。</div><div id='poem_sentence_2_8813_comment'></div><div class='poemSentence' id='poem_sentence_3_8813'>客行无与晤<span class='inlineComment2'>（一作旧识）</span>，赖此释愁颜。</div><div id='poem_sentence_3_8813_comment'></div><div class='poemSentence' id='poem_sentence_4_8813'></div><div id='poem_sentence_4_8813_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 32.294266,
+                    "Longitude": 105.531838,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510823",
+                    "Title": "剑阁",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fd195bddfa204656809507881b0485bf\");'><span id='fd195bddfa204656809507881b0485bf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='fd195bddfa204656809507881b0485bf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　途经普安（今四川剑阁）,作《普安建阴题壁》诗。<span class='label'>作品：</span>《普安建阴题壁》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第103页。）</span><div id='poem_8802' class='_poem'><div id='poem_title_8802' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8802' class='poemCommentLink' target='_blank'>普安建阴题壁</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8802\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8802_comment'></div><div class='poemContent' id='poem_content_8802'><div class='poemSentence' id='poem_sentence_0_8802'>江汉深无极，梁岷不可攀。</div><div id='poem_sentence_0_8802_comment'></div><div class='poemSentence' id='poem_sentence_1_8802'>山川云雾里，游子几时还。</div><div id='poem_sentence_1_8802_comment'></div><div class='poemSentence' id='poem_sentence_2_8802'></div><div id='poem_sentence_2_8802_comment'></div></div><div class='poemComment' id='poem_comment_8802'><a href='javascript: ShowPoemComment(8802)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.473364,
+                    "Longitude": 104.686164,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5107",
+                    "Title": "绵阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3098c18bf1f64149b3bfa3e6a0cf4b9b\");'><span id='3098c18bf1f64149b3bfa3e6a0cf4b9b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='3098c18bf1f64149b3bfa3e6a0cf4b9b' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>七月,途经绵州（今四川绵阳）,有仲氏于宅设宴款待,作《仲氏宅宴序》<span class='label'>作品：</span>《仲氏宅宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第201页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>七月,绵州群官设宴款待,并与薛曜别,作《秋日于绵州群官席别薛升华并序》一文与《秋日别薛升华》诗。<span class='label'>作品：</span>《秋夜于绵州群官席别薛升华序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第263页。）</span>《别薛华》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第80页。《王子安集注》作《别薛华》）</span><div id='poem_8821' class='_poem'><div id='poem_title_8821' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8821' class='poemCommentLink' target='_blank'>别薛华<span class='inlineComment2'>（《英华》作《秋日别薛升华》）</span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8821\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8821_comment'></div><div class='poemContent' id='poem_content_8821'><div class='poemSentence' id='poem_sentence_0_8821'>送送多穷路，遑遑独问津。</div><div id='poem_sentence_0_8821_comment'></div><div class='poemSentence' id='poem_sentence_1_8821'>悲凉千里道，悽断百年身。</div><div id='poem_sentence_1_8821_comment'></div><div class='poemSentence' id='poem_sentence_2_8821'>心事同漂泊，生涯共苦辛。</div><div id='poem_sentence_2_8821_comment'></div><div class='poemSentence' id='poem_sentence_3_8821'>无论去与住，俱是梦中人。</div><div id='poem_sentence_3_8821_comment'></div><div class='poemSentence' id='poem_sentence_4_8821'></div><div id='poem_sentence_4_8821_comment'></div></div><div class='poemComment' id='poem_comment_8821'><a href='javascript: ShowPoemComment(8821)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2012d4102f964dc9951d12ffd1caf4af\");'><span id='2012d4102f964dc9951d12ffd1caf4af_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='2012d4102f964dc9951d12ffd1caf4af' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　于绵州决定离蜀,与绵州众僚宴别,有《绵州北亭群公宴序》<span class='label'>作品：</span>《绵州北亭群公宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第218页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.101709,
+                    "Longitude": 105.101082,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510722",
+                    "Title": "三台",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e11d1c12bc58443184bc0af33ba5ed51\");'><span id='e11d1c12bc58443184bc0af33ba5ed51_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='e11d1c12bc58443184bc0af33ba5ed51' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>八月,抵梓州（州治为郪县,在今四川三台县）,作《江曲孤凫赋》<span class='label'>作品：</span>《江曲孤凫赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷1第32页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>八月,在梓州（州治为郪县,在今四川三台县）作《涧底寒松赋》<span class='label'>作品：</span>《涧底寒松赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷2第37页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>八月,在梓州（州治为郪县,在今四川三台县）作《青苔赋》<span class='label'>作品：</span>《青苔赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷2第40页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fb28aec521bc480997d1ea5ea0d88944\");'><span id='fb28aec521bc480997d1ea5ea0d88944_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=670')\">669-670年</a>，20-21岁</div><div id='fb28aec521bc480997d1ea5ea0d88944' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　冬,复归梓州郪县（今四川三台）,作《梓州郪县兜率寺浮图碑》<span class='label'>作品：</span>《梓州郪县兜率寺浮图碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷17第510页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　冬,复归梓州郪县（今四川三台）,作《梓州郪县灵瑞寺浮图碑》<span class='label'>作品：</span>《梓州郪县灵瑞寺浮图碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷18第547页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>　冬,复归梓州郪县（今四川三台）,作《唐故河东处士卫某夫人贺拔氏墓志并序》<span class='label'>作品：</span>《唐故河东处士卫某夫人贺拔氏墓志并序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第650页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　春,往来梓州、玄武间,作《梓州通泉县惠普寺碑》<span class='label'>作品：</span>《梓州通泉县惠普寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷17第500页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　春,往来梓州、玄武间,作《上巳浮江宴序》<span class='label'>作品：</span>《上巳浮江宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第202页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　春,往来梓州、玄武间,作《江浦观鱼宴序》<span class='label'>作品：</span>《江浦观鱼宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第635页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.038898,
+                    "Longitude": 104.685249,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510623",
+                    "Title": "中江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2824d169e4ef499fa4c519db7eb568d7\");'><span id='2824d169e4ef499fa4c519db7eb568d7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=669&endYear=669')\">669年</a>，20岁</div><div id='2824d169e4ef499fa4c519db7eb568d7' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>九月,抵玄武.重九日,与卢照邻、邵大震同游玄武山。<span class='label'>作品：</span>《蜀中九日》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第104页。）</span><div id='poem_8804' class='_poem'><div id='poem_title_8804' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8804' class='poemCommentLink' target='_blank'>蜀中九日<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8804\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_8804_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_8804_0'>① 《纪事》作《和邵大震》，一作《蜀中九日登玄武山旅眺》</div></div></div><div class='titleComment' id='poem_allusion_8804'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(799, \"poem_allusion_8804\")'>鸿雁</span></div><div id='poem_allusion_8804_comment'></div><div class='poemContent' id='poem_content_8804'><div class='poemSentence' id='poem_sentence_0_8804'>九月九日<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8804\", 8804, \"Clauses/0/Comments/0\")'>望乡台</span>，他席他乡送客杯。</div><div id='poem_sentence_0_8804_comment'></div><div class='poemSentence' id='poem_sentence_1_8804'>人情<span class='inlineComment2'>（一作今）</span>已厌<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8804\", 8804, \"Clauses/2/Comments/1\")'>南中</span>苦，<span class='link' onclick='ShowAllusionComment(799, \"poem_sentence_1_8804\")'>鸿<span class='inlineComment2'>（一作鸣）</span>雁</span>那从北地来。</div><div id='poem_sentence_1_8804_comment'></div><div class='poemSentence' id='poem_sentence_2_8804'></div><div id='poem_sentence_2_8804_comment'></div></div><div class='poemComment' id='poem_comment_8804'><a href='javascript: ShowPoemComment(8804)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《游庙山序》<span class='label'>作品：</span>《游庙山序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第206页。《王子安集注》卷七题为《游山庙序》.由《游庙山赋序》所言“玄武山西有庙山,东有道君庙”与《游山庙序》所云“山东有道君庙”之语相参,无论何题,皆指玄武山西之庙山也。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《游庙山赋》<span class='label'>作品：</span>《游庙山赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷1第28页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《题玄武山道君庙》<span class='label'>作品：</span>《题玄武山道君庙》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第106页。《王子安集注》题作《出境游山二首》）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《述怀拟古》<span class='label'>作品：</span>《述怀拟古》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第109页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《梓州玄武县福会寺碑》<span class='label'>作品：</span>《梓州玄武县福会寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷19第553页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在玄武,尚作有《梓州飞乌县白鹤寺碑》<span class='label'>作品：</span>《梓州飞乌县白鹤寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷16第474页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c05c372f01004312a437667c6fe4922e\");'><span id='c05c372f01004312a437667c6fe4922e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='c05c372f01004312a437667c6fe4922e' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>春,往来梓州、玄武间,作《圣泉宴并序》<span class='label'>作品：</span>《圣泉宴并序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第78页。）</span><div id='poem_8814' class='_poem'><div id='poem_title_8814' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8814' class='poemCommentLink' target='_blank'>圣泉宴</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8814\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8814_comment'></div><div class='titleComment' id='poem_preface_8814'>玄武山有圣泉焉，浸淫历数百千年，垂岩沁涌，接磴分流，下瞰长江，沙堤石岸，咸古人遗迹也。兹乃青蘋绿芰，紫苔苍藓，遂使江湖思远，寤寐寄托。既而崇峦左峙，石壑（一作「壁」）前萦，丹崿万寻，碧潭千顷，松风唱响，竹露熏空。潇潇乎人间之难遇也，方欲以林壑为天属，琴樽为日用。嗟乎！古今同逝（一作「代谢」。）方深川上之悲；少长偕游，且尽山阴之乐。盍题芳什，共写高情。诗得泉字。诗曰：（《古今图书集成坤舆典》三六《泉部》）</div><div id='poem_preface_8814_comment'></div><div class='poemContent' id='poem_content_8814'><div class='poemSentence' id='poem_sentence_0_8814'>披襟乘石磴，列籍<span class='inlineComment2'>（一作席）</span>俯春泉。</div><div id='poem_sentence_0_8814_comment'></div><div class='poemSentence' id='poem_sentence_1_8814'>兰气熏<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8814\", 8814, \"Clauses/2/Comments/0\")'>山酌</span>，松声韵野弦。</div><div id='poem_sentence_1_8814_comment'></div><div class='poemSentence' id='poem_sentence_2_8814'>影飘垂叶外，香度落花前。</div><div id='poem_sentence_2_8814_comment'></div><div class='poemSentence' id='poem_sentence_3_8814'>兴洽林塘晚，重岩起夕烟。</div><div id='poem_sentence_3_8814_comment'></div><div class='poemSentence' id='poem_sentence_4_8814'></div><div id='poem_sentence_4_8814_comment'></div></div><div class='poemComment' id='poem_comment_8814'><a href='javascript: ShowPoemComment(8814)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>春,往来梓州、玄武间,作《唐故度支员外郎达奚公墓志并序》<span class='label'>作品：</span>《唐故度支员外郎达奚公墓志并序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第644页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.868288,
+                    "Longitude": 104.418493,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510121",
+                    "Title": "金堂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bb86921c4637484fae01b5d370c3bb41\");'><span id='bb86921c4637484fae01b5d370c3bb41_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='bb86921c4637484fae01b5d370c3bb41' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《游梵宇三学寺》诗。<span class='label'>作品：</span>《游梵宇三学寺》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第81页。）</span><div id='poem_8836' class='_poem'><div id='poem_title_8836' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8836' class='poemCommentLink' target='_blank'>游梵宇三觉寺</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8836\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8836_comment'></div><div class='poemContent' id='poem_content_8836'><div class='poemSentence' id='poem_sentence_0_8836'>杏<span class='inlineComment2'>（一作香）</span>阁披青磴，雕台控紫岑。</div><div id='poem_sentence_0_8836_comment'></div><div class='poemSentence' id='poem_sentence_1_8836'>叶齐山路狭<span class='inlineComment2'>（一作径密）</span>，花积野坛深。</div><div id='poem_sentence_1_8836_comment'></div><div class='poemSentence' id='poem_sentence_2_8836'>萝幌栖禅影，<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8836\", 8836, \"Clauses/5/Comments/1\")'>松门</span>听<span class='inlineComment2'>（一作引）</span>梵音。</div><div id='poem_sentence_2_8836_comment'></div><div class='poemSentence' id='poem_sentence_3_8836'>遽忻陪妙躅，延赏<span class='inlineComment2'>（一作想）</span>涤<span class='link' onclick='ShowWordComment(\"poem_sentence_3_8836\", 8836, \"Clauses/7/Comments/1\")'>烦襟</span>。</div><div id='poem_sentence_3_8836_comment'></div><div class='poemSentence' id='poem_sentence_4_8836'></div><div id='poem_sentence_4_8836_comment'></div></div><div class='poemComment' id='poem_comment_8836'><a href='javascript: ShowPoemComment(8836)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《观佛迹寺》诗。<span class='label'>作品：</span>《观佛迹寺》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第85页。）</span><div id='poem_8820' class='_poem'><div id='poem_title_8820' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8820' class='poemCommentLink' target='_blank'>观佛迹寺</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8820\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8820_comment'></div><div class='poemContent' id='poem_content_8820'><div class='poemSentence' id='poem_sentence_0_8820'>莲座神容俨<span class='inlineComment2'>（一作促）</span>，松崖圣趾<span class='inlineComment2'>（一作迹）</span>馀。</div><div id='poem_sentence_0_8820_comment'></div><div class='poemSentence' id='poem_sentence_1_8820'>年长金迹浅，地久石文<span class='inlineComment2'>（一作芝）</span>疏。</div><div id='poem_sentence_1_8820_comment'></div><div class='poemSentence' id='poem_sentence_2_8820'>颓华临曲磴，倾影赴<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8820\", 8820, \"Clauses/5/Comments/0\")'>前除</span>。</div><div id='poem_sentence_2_8820_comment'></div><div class='poemSentence' id='poem_sentence_3_8820'>共嗟<span class='inlineComment2'>（一作悲）</span>陵谷远，俄视化城<span class='inlineComment2'>（一作成）</span>虚。</div><div id='poem_sentence_3_8820_comment'></div><div class='poemSentence' id='poem_sentence_4_8820'></div><div id='poem_sentence_4_8820_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《八仙径》诗。<span class='label'>作品：</span>《八仙径》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第86页。）</span><div id='poem_8844' class='_poem'><div id='poem_title_8844' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8844' class='poemCommentLink' target='_blank'>八仙径<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8844\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_8844_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_8844_0'>① 寺南又有昌利观，去寺可数里，岩径窈窕，杖而后进。</div></div></div><div class='titleComment' id='poem_allusion_8844'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(270, \"poem_allusion_8844\")'>丁仙化鹤</span></div><div id='poem_allusion_8844_comment'></div><div class='poemContent' id='poem_content_8844'><div class='poemSentence' id='poem_sentence_0_8844'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_8844\", 8844, \"Clauses/0/Comments/0\")'>柰园</span>欣八正，松岩访九仙。</div><div id='poem_sentence_0_8844_comment'></div><div class='poemSentence' id='poem_sentence_1_8844'>援萝窥<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8844\", 8844, \"Clauses/2/Comments/0\")'>雾术</span>，攀林<span class='inlineComment2'>（一作桂）</span>俯云烟<span class='inlineComment2'>（一作阡）</span>。</div><div id='poem_sentence_1_8844_comment'></div><div class='poemSentence' id='poem_sentence_2_8844'>代<span class='inlineComment2'>（一作岱）</span>北<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8844\", 8844, \"Clauses/4/Comments/1\")'>鸾骖</span>至，辽西<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8844\", 8844, \"Clauses/5/Comments/0\")'>鹤骑</span>旋。</div><div id='poem_sentence_2_8844_comment'></div><div class='poemSentence' id='poem_sentence_3_8844'>终希脱尘网，连翼下芝田。</div><div id='poem_sentence_3_8844_comment'></div><div class='poemSentence' id='poem_sentence_4_8844'></div><div id='poem_sentence_4_8844_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《寻道观》诗。<span class='label'>作品：</span>《寻道观》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第79页。）</span><div id='poem_8818' class='_poem'><div id='poem_title_8818' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8818' class='poemCommentLink' target='_blank'>寻道观<span class='inlineComment2'>（其观即昌利观，张天师居也。）</span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8818\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8818_comment'></div><div class='poemContent' id='poem_content_8818'><div class='poemSentence' id='poem_sentence_0_8818'>芝<span class='inlineComment2'>（一作枝）</span>廛光分野，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8818\", 8818, \"Clauses/1/Comments/0\")'>蓬阙</span>盛规模。</div><div id='poem_sentence_0_8818_comment'></div><div class='poemSentence' id='poem_sentence_1_8818'>碧坛清桂阈<span class='inlineComment2'>（一作影）</span>，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8818\", 8818, \"Clauses/3/Comments/0\")'>丹洞</span>肃松枢。</div><div id='poem_sentence_1_8818_comment'></div><div class='poemSentence' id='poem_sentence_2_8818'>玉笈三山记，金箱五岳图。</div><div id='poem_sentence_2_8818_comment'></div><div class='poemSentence' id='poem_sentence_3_8818'><span class='link' onclick='ShowWordComment(\"poem_sentence_3_8818\", 8818, \"Clauses/6/Comments/1\")'>苍虬</span>不可得<span class='inlineComment2'>（一作见）</span>，空望白云衢。</div><div id='poem_sentence_3_8818_comment'></div><div class='poemSentence' id='poem_sentence_4_8818'></div><div id='poem_sentence_4_8818_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《观内怀仙》诗。<span class='label'>作品：</span>《观内怀仙》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第88页。）</span><div id='poem_8819' class='_poem'><div id='poem_title_8819' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8819' class='poemCommentLink' target='_blank'>观内怀仙</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8819\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8819_comment'></div><div class='titleComment' id='poem_allusion_8819'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(10191, \"poem_allusion_8819\")'>玉架书隐</span></div><div id='poem_allusion_8819_comment'></div><div class='poemContent' id='poem_content_8819'><div class='poemSentence' id='poem_sentence_0_8819'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_8819\", 8819, \"Clauses/0/Comments/0\")'>玉架</span>残书隐，金坛旧迹<span class='inlineComment2'>（一作路）</span>迷。</div><div id='poem_sentence_0_8819_comment'></div><div class='poemSentence' id='poem_sentence_1_8819'>牵花寻紫涧<span class='inlineComment2'>（一作洞）</span>，步叶下清溪。</div><div id='poem_sentence_1_8819_comment'></div><div class='poemSentence' id='poem_sentence_2_8819'>琼浆犹类乳，石髓尚如泥。</div><div id='poem_sentence_2_8819_comment'></div><div class='poemSentence' id='poem_sentence_3_8819'>自能成羽翼，何必仰<span class='inlineComment2'>（一作俟）</span><span class='link' onclick='ShowWordComment(\"poem_sentence_3_8819\", 8819, \"Clauses/7/Comments/1\")'>云梯</span>。</div><div id='poem_sentence_3_8819_comment'></div><div class='poemSentence' id='poem_sentence_4_8819'></div><div id='poem_sentence_4_8819_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>夏,离玄武西行.盘桓于金堂、广汉、德阳一带,作《山居晚眺赠王道士》诗。<span class='label'>作品：</span>《山居晚眺赠王道士》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第86页。）</span><div id='poem_8812' class='_poem'><div id='poem_title_8812' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8812' class='poemCommentLink' target='_blank'>山居晚眺赠王道士</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8812\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8812_comment'></div><div class='poemContent' id='poem_content_8812'><div class='poemSentence' id='poem_sentence_0_8812'>金坛疏俗宇，玉洞侣仙群。</div><div id='poem_sentence_0_8812_comment'></div><div class='poemSentence' id='poem_sentence_1_8812'>花枝栖晚露<span class='inlineComment2'>（一作雾）</span>，峰叶度晴云。</div><div id='poem_sentence_1_8812_comment'></div><div class='poemSentence' id='poem_sentence_2_8812'>斜<span class='inlineComment2'>（一作落）</span>照移山影，回沙拥籀<span class='inlineComment2'>（一作溜）</span>文。</div><div id='poem_sentence_2_8812_comment'></div><div class='poemSentence' id='poem_sentence_3_8812'>琴尊方待兴，竹树已迎曛。</div><div id='poem_sentence_3_8812_comment'></div><div class='poemSentence' id='poem_sentence_4_8812'></div><div id='poem_sentence_4_8812_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.983374,
+                    "Longitude": 104.288913,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510681",
+                    "Title": "广汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8382e4c2773e4670be0df17e9ab7c626\");'><span id='8382e4c2773e4670be0df17e9ab7c626_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='8382e4c2773e4670be0df17e9ab7c626' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　居汉州山间,作《慈竹赋》<span class='label'>作品：</span>《慈竹赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷2第38页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.133105,
+                    "Longitude": 104.404319,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5106",
+                    "Title": "德阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fdcab05653814093869f315327dc9f1a\");'><span id='fdcab05653814093869f315327dc9f1a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='fdcab05653814093869f315327dc9f1a' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在德阳（今属四川）,县令宇文峤设宴款待,作《宇文德阳宅秋夜山亭宴序》,预宴者尚有中山郎馀令。<span class='label'>作品：</span>《宇文德阳宅秋夜山亭宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第219页。德阳时属益州,谭图标在汉州,张谱已言系垂拱二年后改。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>秋,在德阳（今属四川）,为宇文峤饯行,作《饯宇文明府序》.预饯宴者,尚有薛曜等人。<span class='label'>作品：</span>《饯宇文明府序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第254页。《王子安集注》作《送宇文明府序》）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>应德阳县令宇文峤之请,作《益州德阳县善寂寺碑》<span class='label'>作品：</span>《益州德阳县善寂寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷17第487页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.133655,
+                    "Longitude": 104.173364,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510682",
+                    "Title": "什邡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"56bfd85e1a484301828471148ce05ccc\");'><span id='56bfd85e1a484301828471148ce05ccc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='56bfd85e1a484301828471148ce05ccc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　秋晚,在什邡西池与九陇县令柳明（字太易）宴,作《秋晚什邡西池宴九陇柳明府序》<span class='label'>作品：</span>《秋晚什邡西池宴九陇柳明府序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第634页。什邡时属益州,谭图标在汉州,张谱已言系垂拱二年后改。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2c3276a0253d42079f488e1df078c02c\");'><span id='2c3276a0253d42079f488e1df078c02c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='2c3276a0253d42079f488e1df078c02c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　晚秋时节,与益州大都督府群官共游武担山,作《晚秋游武担山寺序》<span class='label'>作品：</span>《晚秋游武担山寺序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷7第212页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　秋,在成都与薛曜别,作《重别薛升华》诗。<span class='label'>作品：</span>《重别薛升华》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第81页。《王子安集注》作《重别薛升华》）</span><div id='poem_8831' class='_poem'><div id='poem_title_8831' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8831' class='poemCommentLink' target='_blank'>重别薛华<span class='inlineComment2'>（一作重别薛升华）</span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8831\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8831_comment'></div><div class='poemContent' id='poem_content_8831'><div class='poemSentence' id='poem_sentence_0_8831'>明月沈珠浦，秋风濯<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8831\", 8831, \"Clauses/1/Comments/0\")'>锦川</span>。</div><div id='poem_sentence_0_8831_comment'></div><div class='poemSentence' id='poem_sentence_1_8831'>楼台临绝岸，洲渚亘长天。</div><div id='poem_sentence_1_8831_comment'></div><div class='poemSentence' id='poem_sentence_2_8831'><span class='link' onclick='ShowWordComment(\"poem_sentence_2_8831\", 8831, \"Clauses/4/Comments/1\")'>旅<span class='inlineComment2'>（一作飘）</span>泊</span>成千里，栖遑<span class='inlineComment2'>（一作迟）</span>共百年。</div><div id='poem_sentence_2_8831_comment'></div><div class='poemSentence' id='poem_sentence_3_8831'>穷途唯有泪，还望独潸然。</div><div id='poem_sentence_3_8831_comment'></div><div class='poemSentence' id='poem_sentence_4_8831'></div><div id='poem_sentence_4_8831_comment'></div></div><div class='poemComment' id='poem_comment_8831'><a href='javascript: ShowPoemComment(8831)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年9月</a>　闰九月,与友人别,作《别人四首》<span class='label'>作品：</span>《别人四首》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第99页。）</span><div id='poem_8783' class='_poem'><div id='poem_title_8783' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8783' class='poemCommentLink' target='_blank'>别人四首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8783\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8783_comment'></div><div class='poemContent' id='poem_content_8783'><div class='poemSentence' id='poem_sentence_0_8783'>久客逢馀闰，他乡别故人。</div><div id='poem_sentence_0_8783_comment'></div><div class='poemSentence' id='poem_sentence_1_8783'>自然堪下泪，谁忍望<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8783\", 8783, \"Clauses/3/Comments/0\")'>征尘</span>。</div><div id='poem_sentence_1_8783_comment'></div><div class='poemSentence' id='poem_sentence_2_8783'></div><div id='poem_sentence_2_8783_comment'></div></div></div><div id='poem_8784' class='_poem'><div id='poem_title_8784' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8784' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8784_comment'></div><div class='poemContent' id='poem_content_8784'><div class='poemSentence' id='poem_sentence_0_8784'>江上风烟积，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8784\", 8784, \"Clauses/1/Comments/0\")'>山幽</span><span class='link' onclick='ShowWordComment(\"poem_sentence_0_8784\", 8784, \"Clauses/1/Comments/1\")'>云雾</span>多。</div><div id='poem_sentence_0_8784_comment'></div><div class='poemSentence' id='poem_sentence_1_8784'>送君南浦外，还望将如何。</div><div id='poem_sentence_1_8784_comment'></div><div class='poemSentence' id='poem_sentence_2_8784'></div><div id='poem_sentence_2_8784_comment'></div></div></div><div id='poem_8785' class='_poem'><div id='poem_title_8785' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8785' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8785_comment'></div><div class='poemContent' id='poem_content_8785'><div class='poemSentence' id='poem_sentence_0_8785'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_8785\", 8785, \"Clauses/0/Comments/0\")'>桂轺</span>虽不驻，兰筵幸未开。</div><div id='poem_sentence_0_8785_comment'></div><div class='poemSentence' id='poem_sentence_1_8785'>林塘风月赏，还待故人来。</div><div id='poem_sentence_1_8785_comment'></div><div class='poemSentence' id='poem_sentence_2_8785'></div><div id='poem_sentence_2_8785_comment'></div></div></div><div id='poem_8786' class='_poem'><div id='poem_title_8786' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8786' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8786_comment'></div><div class='poemContent' id='poem_content_8786'><div class='poemSentence' id='poem_sentence_0_8786'>霜华净天末，雾色笼江际。</div><div id='poem_sentence_0_8786_comment'></div><div class='poemSentence' id='poem_sentence_1_8786'>客子常畏人，何为久留滞。</div><div id='poem_sentence_1_8786_comment'></div><div class='poemSentence' id='poem_sentence_2_8786'></div><div id='poem_sentence_2_8786_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　秋,作《为人与蜀城父老书》<span class='label'>作品：</span>《为人与蜀城父老书》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷6第176页;第183页。此书有两篇。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c68e295edcac46e884533cfa3d8d9514\");'><span id='c68e295edcac46e884533cfa3d8d9514_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='c68e295edcac46e884533cfa3d8d9514' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　春初,居成都,赴王明府春游宴饮,作《春日序》<span class='label'>作品：</span>《春日序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第631页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.996057,
+                    "Longitude": 103.964667,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510182",
+                    "Title": "彭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4e0859e163fe4bf5893439344e4b7965\");'><span id='4e0859e163fe4bf5893439344e4b7965_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>，21岁</div><div id='4e0859e163fe4bf5893439344e4b7965' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=670&endYear=670')\">670年</a>　秋,应益州大都督府长史李崇义、司马宇文纯及九陇县令柳明之请,作《九陇县孔子庙堂碑文》（又名《益州夫子庙碑》）<span class='label'>作品：</span>《九陇县孔子庙堂碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷15第431页。《王子安集注》作《益州夫子庙碑》）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9756fdd8998f4360a133278f0e42ec52\");'><span id='9756fdd8998f4360a133278f0e42ec52_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='9756fdd8998f4360a133278f0e42ec52' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　春,于成都宴游后,复返九陇,旋有《春思赋》及诗歌《春游》、《羁春》等。<span class='label'>作品：</span>《春思赋》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷1第1页。）</span>《春游》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第97页。）</span>《羁春》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第96页。）</span><div id='poem_8798' class='_poem'><div id='poem_title_8798' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8798' class='poemCommentLink' target='_blank'>春游</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8798\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8798_comment'></div><div class='poemContent' id='poem_content_8798'><div class='poemSentence' id='poem_sentence_0_8798'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_8798\", 8798, \"Clauses/0/Comments/0\")'>客念</span>纷无极，春泪倍成行。</div><div id='poem_sentence_0_8798_comment'></div><div class='poemSentence' id='poem_sentence_1_8798'>今朝花树下，不觉恋年光。</div><div id='poem_sentence_1_8798_comment'></div><div class='poemSentence' id='poem_sentence_2_8798'></div><div id='poem_sentence_2_8798_comment'></div></div></div><div id='poem_8809' class='_poem'><div id='poem_title_8809' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8809' class='poemCommentLink' target='_blank'>羁春</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8809\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8809_comment'></div><div class='poemContent' id='poem_content_8809'><div class='poemSentence' id='poem_sentence_0_8809'>客心千里倦，春事一朝归。</div><div id='poem_sentence_0_8809_comment'></div><div class='poemSentence' id='poem_sentence_1_8809'>还伤北园里，重见落花飞。</div><div id='poem_sentence_1_8809_comment'></div><div class='poemSentence' id='poem_sentence_2_8809'></div><div id='poem_sentence_2_8809_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　春,又应九陇县令柳明献（字太初,即前所称柳明）之请,作《九陇县龙怀寺碑》<span class='label'>作品：</span>《九陇县龙怀寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷19第565页。《王子安集注》作《彭州九陇县龙怀寺碑》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年4月</a>　四月,同九陇县令柳明祷雨于九陇县白鹿山。<span class='label'>作品：</span>《祭白鹿山神文》<span class='inlineComment2'>（罗振玉《永丰乡人杂著续编·王子安集佚文》壬戌(1922)刊本。《罗振玉学术论著集》第五集《王子安集佚文》上海古籍出版社2010年版。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年4月</a>　祷雨之后,宴于仙居观。<span class='label'>作品：</span>《夏日仙居观宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版第636页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.343452,
+                    "Longitude": 104.227439,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510683",
+                    "Title": "绵竹",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4ceeb4b133cb4913a5d02764f761511a\");'><span id='4ceeb4b133cb4913a5d02764f761511a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='4ceeb4b133cb4913a5d02764f761511a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　拟北旋,经什邡至绵竹,作《益州绵竹县武都山净慧寺碑》<span class='label'>作品：</span>《益州绵竹县武都山净慧寺碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷16第461页。《王子安集注》作《益州绵竹县武都山净惠寺碑》）</span><br /></div>"
+                },
+                {
+                    "Latitude": 31.641111,
+                    "Longitude": 105.167719,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510725",
+                    "Title": "梓潼",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"339db03935e84c8f861a8763e65fc59d\");'><span id='339db03935e84c8f861a8763e65fc59d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='339db03935e84c8f861a8763e65fc59d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年6月</a>　六月,北归至梓潼,与梓潼县令韦君一同泛舟南江,作《梓潼南江泛舟序》<span class='label'>作品：</span>《梓潼南江泛舟序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷6第190页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　秋,徘徊于绵州、梓潼间,作《山中》、《江亭夜月送别二首》、《临江二首》等诗。<span class='label'>作品：</span>《山中》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第101页。）</span>《江亭夜月送别二首》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第99页。）</span>《临江二首》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第98页。）</span><div id='poem_8775' class='_poem'><div id='poem_title_8775' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8775' class='poemCommentLink' target='_blank'>山中</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8775\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8775_comment'></div><div class='poemContent' id='poem_content_8775'><div class='poemSentence' id='poem_sentence_0_8775'>长江悲已滞，万里念将归。</div><div id='poem_sentence_0_8775_comment'></div><div class='poemSentence' id='poem_sentence_1_8775'>况属高风晚，山山黄叶飞。</div><div id='poem_sentence_1_8775_comment'></div><div class='poemSentence' id='poem_sentence_2_8775'></div><div id='poem_sentence_2_8775_comment'></div></div><div class='poemComment' id='poem_comment_8775'><a href='javascript: ShowPoemComment(8775)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><div id='poem_8781' class='_poem'><div id='poem_title_8781' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8781' class='poemCommentLink' target='_blank'>江亭夜月送别二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8781\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8781_comment'></div><div class='poemContent' id='poem_content_8781'><div class='poemSentence' id='poem_sentence_0_8781'>江送巴南水，山横塞北云。</div><div id='poem_sentence_0_8781_comment'></div><div class='poemSentence' id='poem_sentence_1_8781'><span class='link' onclick='ShowWordComment(\"poem_sentence_1_8781\", 8781, \"Clauses/2/Comments/0\")'>津亭</span>秋月夜，谁见泣离群。</div><div id='poem_sentence_1_8781_comment'></div><div class='poemSentence' id='poem_sentence_2_8781'></div><div id='poem_sentence_2_8781_comment'></div></div><div class='poemComment' id='poem_comment_8781'><a href='javascript: ShowPoemComment(8781)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><div id='poem_8782' class='_poem'><div id='poem_title_8782' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8782' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8782_comment'></div><div class='poemContent' id='poem_content_8782'><div class='poemSentence' id='poem_sentence_0_8782'>乱烟笼碧砌，飞月向南端。</div><div id='poem_sentence_0_8782_comment'></div><div class='poemSentence' id='poem_sentence_1_8782'>寂寂离亭掩，江山此夜寒。</div><div id='poem_sentence_1_8782_comment'></div><div class='poemSentence' id='poem_sentence_2_8782'></div><div id='poem_sentence_2_8782_comment'></div></div><div class='poemComment' id='poem_comment_8782'><a href='javascript: ShowPoemComment(8782)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><div id='poem_8793' class='_poem'><div id='poem_title_8793' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8793' class='poemCommentLink' target='_blank'>临江二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8793\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8793_comment'></div><div class='poemContent' id='poem_content_8793'><div class='poemSentence' id='poem_sentence_0_8793'>泛泛东流水，飞飞北上尘。</div><div id='poem_sentence_0_8793_comment'></div><div class='poemSentence' id='poem_sentence_1_8793'><span class='link' onclick='ShowWordComment(\"poem_sentence_1_8793\", 8793, \"Clauses/2/Comments/0\")'>归骖</span>将<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8793\", 8793, \"Clauses/2/Comments/1\")'>别棹</span>，俱是倦游人。</div><div id='poem_sentence_1_8793_comment'></div><div class='poemSentence' id='poem_sentence_2_8793'></div><div id='poem_sentence_2_8793_comment'></div></div></div><div id='poem_8794' class='_poem'><div id='poem_title_8794' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8794' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8794_comment'></div><div class='poemContent' id='poem_content_8794'><div class='poemSentence' id='poem_sentence_0_8794'>去骖嘶别路，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8794\", 8794, \"Clauses/1/Comments/0\")'>归棹</span>隐寒洲。</div><div id='poem_sentence_0_8794_comment'></div><div class='poemSentence' id='poem_sentence_1_8794'>江皋木叶下，应想故城秋。</div><div id='poem_sentence_1_8794_comment'></div><div class='poemSentence' id='poem_sentence_2_8794'></div><div id='poem_sentence_2_8794_comment'></div></div><div class='poemComment' id='poem_comment_8794'><a href='javascript: ShowPoemComment(8794)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 33.918137,
+                    "Longitude": 106.52856,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610330",
+                    "Title": "凤县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"47753817bf974b789c49e8930639ed96\");'><span id='47753817bf974b789c49e8930639ed96_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='47753817bf974b789c49e8930639ed96' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　途经凤州,有《晚届凤州》诗。<span class='label'>作品：</span>《晚届凤州》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第96页。《王子安集注》作《晚留凤州》）</span><div id='poem_8801' class='_poem'><div id='poem_title_8801' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8801' class='poemCommentLink' target='_blank'>晚留<span class='inlineComment2'>（一作届）</span>凤州</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8801\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_8801_comment'></div><div class='poemContent' id='poem_content_8801'><div class='poemSentence' id='poem_sentence_0_8801'>宝鸡辞旧役，仙凤历遗墟。</div><div id='poem_sentence_0_8801_comment'></div><div class='poemSentence' id='poem_sentence_1_8801'>去此近城阙，青山明月初。</div><div id='poem_sentence_1_8801_comment'></div><div class='poemSentence' id='poem_sentence_2_8801'></div><div id='poem_sentence_2_8801_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.367747,
+                    "Longitude": 107.243899,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6103",
+                    "Title": "宝鸡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"994d6af8839849d3870b770e1e8e7da5\");'><span id='994d6af8839849d3870b770e1e8e7da5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>，22岁</div><div id='994d6af8839849d3870b770e1e8e7da5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=671&endYear=671')\">671年</a>　途经散关,有《散关晨度》诗。<span class='label'>作品：</span>《散关晨度》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第80页。据谭图,散关在岐州、凤州交界处,今标岐州.张谱云在凤翔府,今从谭图。）</span><div id='poem_8835' class='_poem'><div id='poem_title_8835' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8835' class='poemCommentLink' target='_blank'>散关晨度</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8835\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_8835_comment'></div><div class='titleComment' id='poem_allusion_8835'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(302, \"poem_allusion_8835\")'>白马高谭</span>　<span class='link' onclick='ShowAllusionComment(2228, \"poem_allusion_8835\")'>青牛</span>　<span class='link' onclick='ShowAllusionComment(3542, \"poem_allusion_8835\")'>弃繻</span></div><div id='poem_allusion_8835_comment'></div><div class='poemContent' id='poem_content_8835'><div class='poemSentence' id='poem_sentence_0_8835'>关山凌旦开，石路无尘埃。</div><div id='poem_sentence_0_8835_comment'></div><div class='poemSentence' id='poem_sentence_1_8835'><span class='link' onclick='ShowAllusionComment(302, \"poem_sentence_1_8835\")'>白马高谭</span>去，<span class='link' onclick='ShowAllusionComment(2228, \"poem_sentence_1_8835\")'>青牛</span>真气来。</div><div id='poem_sentence_1_8835_comment'></div><div class='poemSentence' id='poem_sentence_2_8835'>重门临巨壑，<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8835\", 8835, \"Clauses/5/Comments/0\")'>连栋</span>起崇隈。</div><div id='poem_sentence_2_8835_comment'></div><div class='poemSentence' id='poem_sentence_3_8835'>即今扬策度，非是<span class='link' onclick='ShowAllusionComment(3542, \"poem_sentence_3_8835\")'>弃繻</span>回。</div><div id='poem_sentence_3_8835_comment'></div><div class='poemSentence' id='poem_sentence_4_8835'></div><div id='poem_sentence_4_8835_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.523086,
+                    "Longitude": 110.90097,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411282",
+                    "Title": "灵宝",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5a5da5af8307463fae07a23073f1d19c\");'><span id='5a5da5af8307463fae07a23073f1d19c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>，23岁</div><div id='5a5da5af8307463fae07a23073f1d19c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　在虢州参军任。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8ecc8d12880641fd89b3d707c2355f39\");'><span id='8ecc8d12880641fd89b3d707c2355f39_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=674')\">672-674年</a>，23-25岁</div><div id='8ecc8d12880641fd89b3d707c2355f39' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　本年或明年,撰《释迦如来成道记》<span class='label'>作品：</span>《释迦如来成道记》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷10第291页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=673&endYear=673')\">673年</a>　在虢州参军任.夏旱,虢州长史王嶷祈雨,为作《祭石堤山神文》、《祭石堤女郎神文》<span class='label'>作品：</span>《祭石堤山神文》<span class='inlineComment2'>（罗振玉《永丰乡人杂著续编·王子安集佚文》壬戌(1922)刊本。《罗振玉学术论著集》第五集《王子安集佚文》上海古籍出版社2010年版。）</span>《祭石堤女郎神文》<span class='inlineComment2'>（罗振玉《永丰乡人杂著续编·王子安集佚文》壬戌(1922)刊本。《罗振玉学术论著集》第五集《王子安集佚文》上海古籍出版社2010年版。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=673&endYear=673')\">673年</a>　夏,宴于宋之问宅,作《夏日宴宋五官宅观画障序》<span class='label'>作品：</span>《夏日宴宋五官宅观画障序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷6第194页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=673&endYear=673')\">673年</a>　冬,因杀官奴曹达被拘审。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>　在狱整理《周易发挥》、《次论语》、《合论》、《百里昌言》等书稿,诸书皆佚。<span class='label'>作品：</span>《续书序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第279页。王勃入狱地,权系于虢州。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年8月</a>　八月,遇赦,出狱,除名.向其父呈《上百里昌言疏》<span class='label'>作品：</span>《上百里昌言疏》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷6第187页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>　为西京太原寺范姓律师作《四分律宗记序》<span class='label'>作品：</span>《四分律宗记序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第279页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>　为父亲筹集南行赴任经费,并作《上郎都督启》以日后呈于交州都督郎馀庆。<span class='label'>作品：</span>《上郎都督启》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷4第143页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f2db02eaef23460f910af50e38e61e32\");'><span id='f2db02eaef23460f910af50e38e61e32_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>，23岁</div><div id='f2db02eaef23460f910af50e38e61e32' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=672&endYear=672')\">672年</a>　时高宗在洛阳.秋,曾到洛阳,至毕国公宅参预饯别道王李诱的宴席,有《秋晚入洛于毕公宅别道王宴序》<span class='label'>作品：</span>《秋晚入洛于毕公宅别道王宴序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第255页。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8688482564d3414ead4a291971faa007\");'><span id='8688482564d3414ead4a291971faa007_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='8688482564d3414ead4a291971faa007' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>　夏,经洛阳,随即沿大运河南下。<br /></div>"
+                },
+                {
+                    "Latitude": 35.421146,
+                    "Longitude": 110.844387,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140822",
+                    "Title": "万荣",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"94d3223f7d3b473090abfd94325da554\");'><span id='94d3223f7d3b473090abfd94325da554_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>，25岁</div><div id='94d3223f7d3b473090abfd94325da554' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=674&endYear=674')\">674年</a>　冬,曾至汾阴县送友人韦少府,作《冬日羁游汾阴送韦少府入洛序》<span class='label'>作品：</span>《冬日羁游汾阴送韦少府入洛序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第239页。张谱作\"河中府汾阴县\",据谭图改为\"绛州万泉\"）</span><br /></div>"
+                },
+                {
+                    "Latitude": 35.150952,
+                    "Longitude": 110.780488,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140821",
+                    "Title": "临猗",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cc1a9ce9829f45fb9c1706c9db981bd0\");'><span id='cc1a9ce9829f45fb9c1706c9db981bd0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='cc1a9ce9829f45fb9c1706c9db981bd0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>　春,由龙门出发,随父赴交趾.（按,两唐书均作“省父”）至桑泉,作《春夜桑泉别王少府序》<span class='label'>作品：</span>《春夜桑泉别王少府序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第262页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9180cbb62a1a4acbb93406a429d5f391\");'><span id='9180cbb62a1a4acbb93406a429d5f391_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='9180cbb62a1a4acbb93406a429d5f391' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>重九日预都督府宴会,作《秋日登洪府滕王阁饯别序》及《滕王阁》诗。<span class='label'>作品：</span>《秋日登洪府滕王阁饯别序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷8第229页。时洪州都督阎氏为宇文峤赴任饯行,或云阎都督即阎伯玙。）</span>《滕王阁》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷3第76页。）</span><div id='poem_8863' class='_poem'><div id='poem_title_8863' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=8863' class='poemCommentLink' target='_blank'>滕王阁</a><a href='javascript: ShowPoemAuthorProfile(18262, \"唐\", \"王勃\", \"poem_title_8863\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>王勃</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_8863_comment'></div><div class='poemContent' id='poem_content_8863'><div class='poemSentence' id='poem_sentence_0_8863'>滕王<span class='link' onclick='ShowWordComment(\"poem_sentence_0_8863\", 8863, \"Clauses/0/Comments/0\")'>高阁</span>临江渚，佩玉鸣鸾罢歌舞。</div><div id='poem_sentence_0_8863_comment'></div><div class='poemSentence' id='poem_sentence_1_8863'><span class='link' onclick='ShowWordComment(\"poem_sentence_1_8863\", 8863, \"Clauses/2/Comments/0\")'>画栋</span>朝飞<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8863\", 8863, \"Clauses/2/Comments/1\")'>南浦</span>云，珠帘暮捲<span class='link' onclick='ShowWordComment(\"poem_sentence_1_8863\", 8863, \"Clauses/3/Comments/0\")'>西山</span>雨。</div><div id='poem_sentence_1_8863_comment'></div><div class='poemSentence' id='poem_sentence_2_8863'><span class='link' onclick='ShowWordComment(\"poem_sentence_2_8863\", 8863, \"Clauses/4/Comments/0\")'>闲云</span>潭影日悠悠，<span class='link' onclick='ShowWordComment(\"poem_sentence_2_8863\", 8863, \"Clauses/5/Comments/0\")'>物换星移</span>几度秋。</div><div id='poem_sentence_2_8863_comment'></div><div class='poemSentence' id='poem_sentence_3_8863'>阁中<span class='link' onclick='ShowWordComment(\"poem_sentence_3_8863\", 8863, \"Clauses/6/Comments/0\")'>帝子</span>今何在，槛外长江空<span class='link' onclick='ShowWordComment(\"poem_sentence_3_8863\", 8863, \"Clauses/7/Comments/0\")'>自流</span>。</div><div id='poem_sentence_3_8863_comment'></div><div class='poemSentence' id='poem_sentence_4_8863'></div><div id='poem_sentence_4_8863_comment'></div></div><div class='poemComment' id='poem_comment_8863'><a href='javascript: ShowPoemComment(8863)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 25.837179,
+                    "Longitude": 114.94126,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3607",
+                    "Title": "赣州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0edceac2cdf749cd9441b85892112250\");'><span id='0edceac2cdf749cd9441b85892112250_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='0edceac2cdf749cd9441b85892112250' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年10月</a>　十月,过虔州,作《为虔州诸官祭故长史文》<span class='label'>作品：</span>《为虔州诸官祭故长史文》<span class='inlineComment2'>（罗振玉《永丰乡人杂著续编·王子安集佚文》壬戌(1922)刊本。《罗振玉学术论著集》第五集《王子安集佚文》上海古籍出版社2010年版。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 23.135308,
+                    "Longitude": 113.270793,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4401",
+                    "Title": "广州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"82db3fc518c446f182d31cc43f33ed2c\");'><span id='82db3fc518c446f182d31cc43f33ed2c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=675&endYear=675')\">675年</a>，26岁</div><div id='82db3fc518c446f182d31cc43f33ed2c' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>十一月,到广州,作《鞶鉴图铭序》、《广州宝庄严寺舍利塔碑》<span class='label'>作品：</span>《鞶鉴图铭序》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷9第288页。张谱云广州故治在南海县,在今广州市.谭图所示今广州仍为广州,据谭图改。）</span>《广州宝庄严寺舍利塔碑》<span class='inlineComment2'>（汪贤度校点《王子安集注》上海古籍出版社1995年版卷18第521页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 21.0271816,
+                    "Longitude": 105.842773,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "VN110",
+                    "Title": "越南河内",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"44790b0020fe4a2998ee484f59ba1cbb\");'><span id='44790b0020fe4a2998ee484f59ba1cbb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=676&endYear=676')\">676年</a>，27岁</div><div id='44790b0020fe4a2998ee484f59ba1cbb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=676&endYear=676')\">676年</a>　暂居交州。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "王勃 <span class='inlineComment2'>(650-676)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：张志烈《初唐四杰年谱》　录入整理：黄俊杰</p><p><a href=\"javascript: ViewRoute(0, 7, 114.7664895, 32.819337, 7, 0)\">1-19岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">河津</a> → <a href=\"javascript: ViewPoint(1, 0)\">西安</a> → <a href=\"javascript: ViewPoint(2, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(3, 0)\">萧山</a> → <a href=\"javascript: ViewPoint(4, 0)\">南京</a> → <a href=\"javascript: ViewPoint(5, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(6, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(7, 15, 107.3924175, 32.8367145, 8, 0)\">19-20岁</a><br /><a href=\"javascript: ViewPoint(7, 0)\">华阴</a> → <a href=\"javascript: ViewPoint(8, 0)\">西安</a> → <a href=\"javascript: ViewPoint(9, 0)\">兴平</a> → <a href=\"javascript: ViewPoint(10, 0)\">扶风</a> → <a href=\"javascript: ViewPoint(11, 0)\">勉县</a> → <a href=\"javascript: ViewPoint(12, 0)\">剑阁</a> → <a href=\"javascript: ViewPoint(13, 0)\">绵阳</a> → <a href=\"javascript: ViewPoint(14, 0)\">三台</a></p><p><a href=\"javascript: ViewRoute(15, 23, 104.586149, 30.854967, 11, 0)\">20-21岁</a><br /><a href=\"javascript: ViewPoint(15, 0)\">中江</a> → <a href=\"javascript: ViewPoint(16, 0)\">三台</a> → <a href=\"javascript: ViewPoint(17, 0)\">中江</a> → <a href=\"javascript: ViewPoint(18, 0)\">金堂</a> → <a href=\"javascript: ViewPoint(19, 0)\">广汉</a> → <a href=\"javascript: ViewPoint(20, 0)\">德阳</a> → <a href=\"javascript: ViewPoint(21, 0)\">什邡</a> → <a href=\"javascript: ViewPoint(22, 0)\">成都</a></p><p><a href=\"javascript: ViewRoute(23, 33, 107.4328185, 32.5496825, 8, 0)\">21-23岁</a><br /><a href=\"javascript: ViewPoint(23, 0)\">彭州</a> → <a href=\"javascript: ViewPoint(24, 0)\">成都</a> → <a href=\"javascript: ViewPoint(25, 0)\">彭州</a> → <a href=\"javascript: ViewPoint(26, 0)\">绵竹</a> → <a href=\"javascript: ViewPoint(27, 0)\">梓潼</a> → <a href=\"javascript: ViewPoint(28, 0)\">绵阳</a> → <a href=\"javascript: ViewPoint(29, 0)\">凤县</a> → <a href=\"javascript: ViewPoint(30, 0)\">宝鸡</a> → <a href=\"javascript: ViewPoint(31, 0)\">西安</a> → <a href=\"javascript: ViewPoint(32, 0)\">灵宝</a></p><p><a href=\"javascript: ViewRoute(33, 39, 111.5892325, 35.0626205, 10, 0)\">23-26岁</a><br /><a href=\"javascript: ViewPoint(33, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(34, 0)\">灵宝</a> → <a href=\"javascript: ViewPoint(35, 0)\">河津</a> → <a href=\"javascript: ViewPoint(36, 0)\">万荣</a> → <a href=\"javascript: ViewPoint(37, 0)\">临猗</a> → <a href=\"javascript: ViewPoint(38, 0)\">洛阳</a></p><p><a href=\"javascript: ViewRoute(39, 45, 112.432601, 27.3217268, 7, 0)\">26-27岁</a><br /><a href=\"javascript: ViewPoint(39, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(40, 0)\">南京</a> → <a href=\"javascript: ViewPoint(41, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(42, 0)\">赣州</a> → <a href=\"javascript: ViewPoint(43, 0)\">广州</a> → <a href=\"javascript: ViewPoint(44, 0)\">越南河内</a></p>"
+        }
+    ]
+}

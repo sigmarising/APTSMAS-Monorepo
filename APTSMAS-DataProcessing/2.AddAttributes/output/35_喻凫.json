@@ -1,0 +1,211 @@
+{
+    "id": 35,
+    "name": "喻凫",
+    "dynasty": "唐",
+    "lifeDuration": [
+        810,
+        850
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 31.81072,
+            "lng": 119.97365
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《三书斋文存 第二卷 古代文学研究（二）》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                41
+            ],
+            "correspondPath": [
+                "常州",
+                "西安",
+                "常州",
+                "西安",
+                "长兴",
+                "德清",
+                "湖州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "104019f7a1ae4c69b1156c5d90d7c696",
+                        "lat": 31.81072,
+                        "lng": 119.97365,
+                        "regionId": "CN3204",
+                        "location": "常州",
+                        "city": "常州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "693db81e698045f196837b1463e01329",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ce85c5d36f844e5f954b1644f4344bf8",
+                        "lat": 31.81072,
+                        "lng": 119.97365,
+                        "regionId": "CN3204",
+                        "location": "常州",
+                        "city": "常州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5e7459abd77e43dca5a31934d95f945b",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f1208d6ecf0e4a388fc7770d252ee882",
+                        "lat": 31.02663,
+                        "lng": 119.91011,
+                        "regionId": "CN330522",
+                        "location": "长兴",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f3b4d5638c2d4f9593515b80e7d18ce1",
+                        "lat": 30.54269,
+                        "lng": 119.97754,
+                        "regionId": "CN330521",
+                        "location": "德清",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ef96e76bed014dc3ae5c2c71e78a84eb",
+                        "lat": 30.89305,
+                        "lng": 120.08805,
+                        "regionId": "CN3305",
+                        "location": "湖州",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 31.81072,
+                "lng": 119.97365,
+                "id": null,
+                "regionId": "CN3204",
+                "location": "常州",
+                "city": "常州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "810-829年 ，1-20岁",
+                    "810-829年 在故乡晋陵家居。",
+                    "841年 ，32岁"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "830-840年 ，21-31岁",
+                    "830年 到长安，求取功名。",
+                    "831-837年 在长安，求取功名。",
+                    "839年 在长安，第九年，感叹功名不遂，作诗呈薛博士。",
+                    "840年 进士及第。",
+                    "842年 ，33岁",
+                    "842年 回长安，校书郎任上。"
+                ]
+            },
+            {
+                "lat": 31.02663,
+                "lng": 119.91011,
+                "id": null,
+                "regionId": "CN330522",
+                "location": "长兴",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "843-845年 ，34-36岁",
+                    "843-845年 长城县令。"
+                ]
+            },
+            {
+                "lat": 30.54269,
+                "lng": 119.97754,
+                "id": null,
+                "regionId": "CN330521",
+                "location": "德清",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "846-847年 ，37-38岁",
+                    "846-847年 德清县令。"
+                ]
+            },
+            {
+                "lat": 30.89305,
+                "lng": 120.08805,
+                "id": null,
+                "regionId": "CN3305",
+                "location": "湖州",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "848-850年 ，39-41岁",
+                    "848-849年 乌程县令。",
+                    "850年 乌程县令，卒于任，方干有《哭喻凫先辈》"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

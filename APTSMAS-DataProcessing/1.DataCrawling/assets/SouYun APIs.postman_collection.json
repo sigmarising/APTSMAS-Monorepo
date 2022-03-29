@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "3b409690-2fd4-4ebb-9190-6cc31709403d",
+		"name": "SouYun APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SouYun Get Poet Route Info",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.sou-yun.cn/api/Biography?scope=&author=李白&beginYear=0&endYear=0",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sou-yun",
+						"cn"
+					],
+					"path": [
+						"api",
+						"Biography"
+					],
+					"query": [
+						{
+							"key": "scope",
+							"value": ""
+						},
+						{
+							"key": "author",
+							"value": "李白"
+						},
+						{
+							"key": "beginYear",
+							"value": "0"
+						},
+						{
+							"key": "endYear",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,410 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 27.83585,
+            "CenterLongitude": 112.950575,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "b5aea29ef8e641d3995a64e06aaecfa9",
+                            "Latitude": 27.83585,
+                            "Longitude": 112.950575,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4303",
+                            "Title": "湘潭"
+                        },
+                        {
+                            "Id": "247395e0717043aea9a2b3e63c678165",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "46817cacbbac47ddb777843343f4c980",
+                            "Latitude": 29.037723,
+                            "Longitude": 111.704994,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4307",
+                            "Title": "常德"
+                        },
+                        {
+                            "Id": "e82796924383466cb02966f7d460efc8",
+                            "Latitude": 32.278131,
+                            "Longitude": 119.190904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321081",
+                            "Title": "仪征"
+                        },
+                        {
+                            "Id": "e957a58abfac4fb5902fd2acd1d41bc1",
+                            "Latitude": 33.017144,
+                            "Longitude": 118.55143,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320830",
+                            "Title": "盱眙"
+                        },
+                        {
+                            "Id": "ea716eaa08d14b3b9e0b75337b9a9804",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "89ef3248655c40e29b7e1b879a521509",
+                            "Latitude": 37.27111,
+                            "Longitude": 111.794367,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN141182",
+                            "Title": "汾阳"
+                        },
+                        {
+                            "Id": "dc158765b89e4ec1b0f3ef993af6ba26",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "e0d86977bffc4489accc77b1ba6caccf",
+                            "Latitude": 29.037723,
+                            "Longitude": 111.704994,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4307",
+                            "Title": "常德"
+                        },
+                        {
+                            "Id": "505aeb8715644bf98fa60e830cfe0c20",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "d42e7949dc4a4c4aaccc22f4b03747d2",
+                            "Latitude": 32.694085,
+                            "Longitude": 112.093781,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411381",
+                            "Title": "邓州"
+                        },
+                        {
+                            "Id": "fa53faf01e0e4fc49c8922a2b260dbbe",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "93e897a2c5094504a6db71d13c34478f",
+                            "Latitude": 30.459422,
+                            "Longitude": 114.878872,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4211",
+                            "Title": "黄冈"
+                        },
+                        {
+                            "Id": "eb1128a887414dd78dbf271cc123bb2e",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "c4f0c8e7bb6546dba08969affb574007",
+                            "Latitude": 29.363262,
+                            "Longitude": 113.135679,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4306",
+                            "Title": "岳阳"
+                        },
+                        {
+                            "Id": "eef73d3003604a0898e697362c1d02b8",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "cd0380ca960b41bb8c24a7d2b1339046",
+                            "Latitude": 23.662923,
+                            "Longitude": 116.62943,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4451",
+                            "Title": "潮州"
+                        },
+                        {
+                            "Id": "7c306a901f80461593320f0bbccb779a",
+                            "Latitude": 26.080447,
+                            "Longitude": 119.302938,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3501",
+                            "Title": "福州"
+                        },
+                        {
+                            "Id": "c5270aa54cf24aea85a48f8f5227a1f3",
+                            "Latitude": 28.283713,
+                            "Longitude": 112.558237,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430124",
+                            "Title": "宁乡"
+                        },
+                        {
+                            "Id": "0c342f62c1c848088c2bbcaa4fcd6c68",
+                            "Latitude": 25.934353,
+                            "Longitude": 111.079609,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN450324",
+                            "Title": "全州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 27.83585,
+                    "Longitude": 112.950575,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4303",
+                    "Title": "湘潭 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b5aea29ef8e641d3995a64e06aaecfa9\");'><span id='b5aea29ef8e641d3995a64e06aaecfa9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1108')\">1090-1108年</a>，1-19岁</div><div id='b5aea29ef8e641d3995a64e06aaecfa9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>　约本年生。本表所列年岁为虚拟数字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1108')\">1091-1108年</a>　居乡？<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"247395e0717043aea9a2b3e63c678165\");'><span id='247395e0717043aea9a2b3e63c678165_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1114')\">1109-1114年</a>，20-25岁</div><div id='247395e0717043aea9a2b3e63c678165' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')\">1109年</a>　在太学？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')\">1110年</a>　在太学，时乃父因言事落职，为父抗章申冤，由是知名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1114')\">1111-1114年</a>　在太学？<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ea716eaa08d14b3b9e0b75337b9a9804\");'><span id='ea716eaa08d14b3b9e0b75337b9a9804_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>，37岁</div><div id='ea716eaa08d14b3b9e0b75337b9a9804' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年1月30日</a>　应召进行京任京畿提刑，上书御史中丞何栗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年6月</a>　入李纲帅幕出兵救太原。<br /></div>"
+                },
+                {
+                    "Latitude": 29.037723,
+                    "Longitude": 111.704994,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4307",
+                    "Title": "常德",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"46817cacbbac47ddb777843343f4c980\");'><span id='46817cacbbac47ddb777843343f4c980_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1122')\">1115-1122年</a>，26-33岁</div><div id='46817cacbbac47ddb777843343f4c980' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1118')\">1115-1118年</a>　佐鼎澧帅幕？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1119')\">1119年</a>　佐鼎澧帅幕，尝遇“溪蛮啸聚”，“单骑入贼巢、羁致其酋”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')\">1120年</a>　佐鼎澧帅幕？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')\">1121年4月4日</a>　由成忠郎换文资为从事郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')\">1122年</a>　佐鼎澧帅幕？<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e0d86977bffc4489accc77b1ba6caccf\");'><span id='e0d86977bffc4489accc77b1ba6caccf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1129')\">1127-1129年</a>，38-40岁</div><div id='e0d86977bffc4489accc77b1ba6caccf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年6月4日</a>　李纲拜相，命以宁为枢密院编修官知鼎州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　知鼎州（后改名常德府）。李纲罢相贬居鄂州，过鼎州药山时以宁与之游。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>　以知鼎州辟为川陕宣抚处置使张浚参议官。<br /></div>"
+                },
+                {
+                    "Latitude": 32.278131,
+                    "Longitude": 119.190904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321081",
+                    "Title": "仪征",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e82796924383466cb02966f7d460efc8\");'><span id='e82796924383466cb02966f7d460efc8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1124')\">1123-1124年</a>，34-35岁</div><div id='e82796924383466cb02966f7d460efc8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1124')\">1123-1124年</a>　为江淮发运司管勾文字。<br /></div>"
+                },
+                {
+                    "Latitude": 33.017144,
+                    "Longitude": 118.55143,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320830",
+                    "Title": "盱眙",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e957a58abfac4fb5902fd2acd1d41bc1\");'><span id='e957a58abfac4fb5902fd2acd1d41bc1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>，36岁</div><div id='e957a58abfac4fb5902fd2acd1d41bc1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>　曾赴泗州，夜宿龟山，登秋汉亭，有词。<span class='label'>作品：</span>虞美人（归来峰下霜如水）<div id='poem_67908' class='_poem'><div id='poem_title_67908' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=67908' class='poemCommentLink' target='_blank'>虞美人 宿龟山夜登秋汉亭</a><a href='javascript: ShowPoemAuthorProfile(29441, \"宋\", \"王以宁\", \"poem_title_67908\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王以宁</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_67908_comment'></div><div class='poemContent' id='poem_content_67908'><div class='poemSentence' id='poem_sentence_0_67908'>归来峰下霜如水。明月三千里。</div><div id='poem_sentence_0_67908_comment'></div><div class='poemSentence' id='poem_sentence_1_67908'>幽人独立瞰长淮。谁棹扁舟一叶、趁潮来。</div><div id='poem_sentence_1_67908_comment'></div><br /><div class='poemSentence' id='poem_sentence_2_67908'>洞庭湖上银涛观。忆我烟蓑伴。</div><div id='poem_sentence_2_67908_comment'></div><div class='poemSentence' id='poem_sentence_3_67908'>此身天地一浮萍。去国十年华发、欲星星。</div><div id='poem_sentence_3_67908_comment'></div><div class='poemSentence' id='poem_sentence_4_67908'></div><div id='poem_sentence_4_67908_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 37.27111,
+                    "Longitude": 111.794367,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN141182",
+                    "Title": "汾阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"89ef3248655c40e29b7e1b879a521509\");'><span id='89ef3248655c40e29b7e1b879a521509_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>，37岁</div><div id='89ef3248655c40e29b7e1b879a521509' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年7月</a>　屯兵汾州，督战过文水，兵败。<br /></div>"
+                },
+                {
+                    "Latitude": 28.251769,
+                    "Longitude": 113.087489,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430121",
+                    "Title": "长沙",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dc158765b89e4ec1b0f3ef993af6ba26\");'><span id='dc158765b89e4ec1b0f3ef993af6ba26_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')\">1126-1127年</a>，37-38岁</div><div id='dc158765b89e4ec1b0f3ef993af6ba26' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年9月</a>　居长沙，有词怀古。<span class='label'>作品：</span>水调歌头（岁晚橘洲上）<div id='poem_67885' class='_poem'><div id='poem_title_67885' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=67885' class='poemCommentLink' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其一 </span>裴公亭怀古</a><a href='javascript: ShowPoemAuthorProfile(29441, \"宋\", \"王以宁\", \"poem_title_67885\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王以宁</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_67885_comment'></div><div class='poemContent' id='poem_content_67885'><div class='poemSentence' id='poem_sentence_0_67885'>岁晚橘洲上，老叶舞愁红。</div><div id='poem_sentence_0_67885_comment'></div><div class='poemSentence' id='poem_sentence_1_67885'>西山光翠，依旧影落酒杯中。</div><div id='poem_sentence_1_67885_comment'></div><div class='poemSentence' id='poem_sentence_2_67885'>人在子亭高处，下望长沙城郭，猎猎酒帘风。</div><div id='poem_sentence_2_67885_comment'></div><div class='poemSentence' id='poem_sentence_3_67885'>远水湛寒碧，独钓绿蓑翁。</div><div id='poem_sentence_3_67885_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_67885'>怀往事，追昨梦，转头空。</div><div id='poem_sentence_4_67885_comment'></div><div class='poemSentence' id='poem_sentence_5_67885'>孙郎前日，豪健颐指五都雄。</div><div id='poem_sentence_5_67885_comment'></div><div class='poemSentence' id='poem_sentence_6_67885'>起拥奇才剑客，十万银戈<span class='link' onclick='ShowWordComment(\"poem_sentence_6_67885\", 67885, \"Clauses/15/Comments/0\")'>赤帻</span>，歌鼓壮军容。</div><div id='poem_sentence_6_67885_comment'></div><div class='poemSentence' id='poem_sentence_7_67885'>何似裴相国，谈道老圭峰。</div><div id='poem_sentence_7_67885_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年9月</a>　居长沙，有词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年4月</a>　在长沙翠蔼堂与贬谪滞留此地的李纲相遇，李纲书杜诗赠之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fa53faf01e0e4fc49c8922a2b260dbbe\");'><span id='fa53faf01e0e4fc49c8922a2b260dbbe_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='fa53faf01e0e4fc49c8922a2b260dbbe' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年8月</a>　屯兵潭州，为“游寇”孔彦舟所败，亡去。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"eb1128a887414dd78dbf271cc123bb2e\");'><span id='eb1128a887414dd78dbf271cc123bb2e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='eb1128a887414dd78dbf271cc123bb2e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年12月</a>　在长沙，曾遣人献马四匹于朝。<br /></div>"
+                },
+                {
+                    "Latitude": 32.014789,
+                    "Longitude": 112.129089,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4206",
+                    "Title": "襄阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"505aeb8715644bf98fa60e830cfe0c20\");'><span id='505aeb8715644bf98fa60e830cfe0c20_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='505aeb8715644bf98fa60e830cfe0c20' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年3月</a>　转战两湖。<br /></div>"
+                },
+                {
+                    "Latitude": 32.694085,
+                    "Longitude": 112.093781,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411381",
+                    "Title": "邓州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d42e7949dc4a4c4aaccc22f4b03747d2\");'><span id='d42e7949dc4a4c4aaccc22f4b03747d2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='d42e7949dc4a4c4aaccc22f4b03747d2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年7月</a>　转战至邓州，席上赋词。<span class='label'>作品：</span>满庭芳（千古南阳）<div id='poem_67902' class='_poem'><div id='poem_title_67902' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=67902' class='poemCommentLink' target='_blank'>满庭芳<span style='margin: 0 0.5em'> 其二 </span>邓州席上</a><a href='javascript: ShowPoemAuthorProfile(29441, \"宋\", \"王以宁\", \"poem_title_67902\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王以宁</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_67902_comment'></div><div class='poemContent' id='poem_content_67902'><div class='poemSentence' id='poem_sentence_0_67902'>千古南阳，刘郎乡国，依约楚俗秦风。</div><div id='poem_sentence_0_67902_comment'></div><div class='poemSentence' id='poem_sentence_1_67902'>英姿豪气，耆旧笑谈中。</div><div id='poem_sentence_1_67902_comment'></div><div class='poemSentence' id='poem_sentence_2_67902'>珰佩来从帝所，许洲花、潭菊从容。</div><div id='poem_sentence_2_67902_comment'></div><div class='poemSentence' id='poem_sentence_3_67902'>霜秋晓，凉生日观，极目送飞鸿。</div><div id='poem_sentence_3_67902_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_67902'>主公。</div><div id='poem_sentence_4_67902_comment'></div><div class='poemSentence' id='poem_sentence_5_67902'>天下士，挥毫万字，一饮千钟。</div><div id='poem_sentence_5_67902_comment'></div><div class='poemSentence' id='poem_sentence_6_67902'>醉高歌起舞，唤醒人龙。</div><div id='poem_sentence_6_67902_comment'></div><div class='poemSentence' id='poem_sentence_7_67902'>我自人间漫浪，平生事、南北西东。</div><div id='poem_sentence_7_67902_comment'></div><div class='poemSentence' id='poem_sentence_8_67902'>辞公去，寒眸激电，曾识小安丰。</div><div id='poem_sentence_8_67902_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.459422,
+                    "Longitude": 114.878872,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4211",
+                    "Title": "黄冈",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"93e897a2c5094504a6db71d13c34478f\");'><span id='93e897a2c5094504a6db71d13c34478f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='93e897a2c5094504a6db71d13c34478f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年9月</a>　至黄州，重午登栖霞楼，作词抒怀。<span class='label'>作品：</span>满庭芳（千古黄州）<div id='poem_67903' class='_poem'><div id='poem_title_67903' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=67903' class='poemCommentLink' target='_blank'>满庭芳<span style='margin: 0 0.5em'> 其四 </span>重午登霞楼</a><a href='javascript: ShowPoemAuthorProfile(29441, \"宋\", \"王以宁\", \"poem_title_67903\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王以宁</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_67903_comment'></div><div class='poemContent' id='poem_content_67903'><div class='poemSentence' id='poem_sentence_0_67903'>千古黄州，雪堂奇胜，名与赤壁齐高。</div><div id='poem_sentence_0_67903_comment'></div><div class='poemSentence' id='poem_sentence_1_67903'>竹楼千字，笔势压江涛。</div><div id='poem_sentence_1_67903_comment'></div><div class='poemSentence' id='poem_sentence_2_67903'>笑问江头皓月，应曾照、今古英豪。</div><div id='poem_sentence_2_67903_comment'></div><div class='poemSentence' id='poem_sentence_3_67903'>菖蒲酒，窊尊无恙，聊共访临皋。</div><div id='poem_sentence_3_67903_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_67903'>陶陶。</div><div id='poem_sentence_4_67903_comment'></div><div class='poemSentence' id='poem_sentence_5_67903'>谁晤对，粲花吐论，宫锦纫袍。</div><div id='poem_sentence_5_67903_comment'></div><div class='poemSentence' id='poem_sentence_6_67903'>借银涛雪浪，一洗尘劳。</div><div id='poem_sentence_6_67903_comment'></div><div class='poemSentence' id='poem_sentence_7_67903'>好在江山如画，人易老、双鬓难薅。</div><div id='poem_sentence_7_67903_comment'></div><div class='poemSentence' id='poem_sentence_8_67903'>升平代，凭高望远，当赋反离骚。</div><div id='poem_sentence_8_67903_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.363262,
+                    "Longitude": 113.135679,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4306",
+                    "Title": "岳阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c4f0c8e7bb6546dba08969affb574007\");'><span id='c4f0c8e7bb6546dba08969affb574007_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='c4f0c8e7bb6546dba08969affb574007' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　与画家任才仲交游唱和，有词。<span class='label'>作品：</span>感皇恩（千古洞庭湖）<div id='poem_67901' class='_poem'><div id='poem_title_67901' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=67901' class='poemCommentLink' target='_blank'>感皇恩 和才仲西山子</a><a href='javascript: ShowPoemAuthorProfile(29441, \"宋\", \"王以宁\", \"poem_title_67901\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王以宁</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_67901_comment'></div><div class='poemContent' id='poem_content_67901'><div class='poemSentence' id='poem_sentence_0_67901'>千古洞庭湖，百川争注。</div><div id='poem_sentence_0_67901_comment'></div><div class='poemSentence' id='poem_sentence_1_67901'>雪浪银涛正如许。</div><div id='poem_sentence_1_67901_comment'></div><div class='poemSentence' id='poem_sentence_2_67901'>骑鲸诗客，浩气决云飞雾。</div><div id='poem_sentence_2_67901_comment'></div><div class='poemSentence' id='poem_sentence_3_67901'>背人歌欸乃，凌空去。</div><div id='poem_sentence_3_67901_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_67901'>我欲从公，翩然鹄举。</div><div id='poem_sentence_4_67901_comment'></div><div class='poemSentence' id='poem_sentence_5_67901'>未愿人间相君雨。</div><div id='poem_sentence_5_67901_comment'></div><div class='poemSentence' id='poem_sentence_6_67901'>笭箵短棹，是我平生真语。</div><div id='poem_sentence_6_67901_comment'></div><div class='poemSentence' id='poem_sentence_7_67901'>个中烟景好，烦公句。</div><div id='poem_sentence_7_67901_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.662297,
+                    "Longitude": 121.426996,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331",
+                    "Title": "台州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"eef73d3003604a0898e697362c1d02b8\");'><span id='eef73d3003604a0898e697362c1d02b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1133')\">1131-1133年</a>，42-44岁</div><div id='eef73d3003604a0898e697362c1d02b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年1月</a>　因遭言者弹劾落职，责监台州酒务。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年9月</a>　再贬永州别驾、潮州安置。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年12月7日</a>　在台州皈依佛教，自号正信居士，有文纪事。<span class='label'>作品：</span>佛窟山转轮藏记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年2月21日</a>　在台州，有文。<span class='label'>作品：</span>广平夫人往生记。<br /></div>"
+                },
+                {
+                    "Latitude": 23.662923,
+                    "Longitude": 116.62943,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4451",
+                    "Title": "潮州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cd0380ca960b41bb8c24a7d2b1339046\");'><span id='cd0380ca960b41bb8c24a7d2b1339046_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1135')\">1133-1135年</a>，44-46岁</div><div id='cd0380ca960b41bb8c24a7d2b1339046' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　谪居潮州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')\">1134年3月1日</a>　谪居潮州，三月初一撰铭文。<span class='label'>作品：</span>马王庙钟款。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　特许自便，遂离潮州回鼎州省母。<br /></div>"
+                },
+                {
+                    "Latitude": 26.080447,
+                    "Longitude": 119.302938,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3501",
+                    "Title": "福州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7c306a901f80461593320f0bbccb779a\");'><span id='7c306a901f80461593320f0bbccb779a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>，46岁</div><div id='7c306a901f80461593320f0bbccb779a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　秋日过福州，遇张元干、刘子翚。<br /></div>"
+                },
+                {
+                    "Latitude": 28.283713,
+                    "Longitude": 112.558237,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430124",
+                    "Title": "宁乡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c5270aa54cf24aea85a48f8f5227a1f3\");'><span id='c5270aa54cf24aea85a48f8f5227a1f3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1139')\">1136-1139年</a>，47-50岁</div><div id='c5270aa54cf24aea85a48f8f5227a1f3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1139')\">1136-1139年</a>　居乡。<br /></div>"
+                },
+                {
+                    "Latitude": 25.934353,
+                    "Longitude": 111.079609,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN450324",
+                    "Title": "全州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0c342f62c1c848088c2bbcaa4fcd6c68\");'><span id='0c342f62c1c848088c2bbcaa4fcd6c68_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1142')\">1140-1142年</a>，51-53岁</div><div id='0c342f62c1c848088c2bbcaa4fcd6c68' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　复右朝奉郎知全州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1142')\">1141-1142年</a>　知全州。<br /></div>"
+                },
+                {
+                    "Latitude": 30.461662,
+                    "Longitude": 114.89864,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4211 栖霞楼",
+                    "Title": "栖霞楼",
+                    "RequestUri": "scope=当代/黄冈市栖霞楼&author=王以宁&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 29.388217,
+                    "Longitude": 113.099526,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4306 岳阳楼",
+                    "Title": "岳阳楼",
+                    "RequestUri": "scope=当代/岳阳市岳阳楼&author=王以宁&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 28.164856,
+                    "Longitude": 112.197568,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4301 沩山",
+                    "Title": "沩山",
+                    "RequestUri": "scope=当代/宁乡县沩山&author=王以宁&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "王以宁 <span class='inlineComment2'>(1090-1146)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王兆鹏等《两宋词从丛考》、王兆鹏《宋才子传笺证·词人卷》　录入整理：王兆鹏</p><p><a href=\"javascript: ViewRoute(0, 8, 115.447949, 32.55348, 7, 0)\">1-38岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">湘潭</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">常德</a> → <a href=\"javascript: ViewPoint(3, 0)\">仪征</a> → <a href=\"javascript: ViewPoint(4, 0)\">盱眙</a> → <a href=\"javascript: ViewPoint(5, 0)\">开封</a> → <a href=\"javascript: ViewPoint(6, 0)\">汾阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">长沙</a></p><p><a href=\"javascript: ViewRoute(8, 12, 112.3962415, 30.472927, 8, 0)\">38-41岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">常德</a> → <a href=\"javascript: ViewPoint(9, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(10, 0)\">邓州</a> → <a href=\"javascript: ViewPoint(11, 0)\">长沙</a></p><p><a href=\"javascript: ViewRoute(12, 20, 116.2533025, 27.0611725, 7, 0)\">41-53岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">黄冈</a> → <a href=\"javascript: ViewPoint(13, 0)\">长沙</a> → <a href=\"javascript: ViewPoint(14, 0)\">岳阳</a> → <a href=\"javascript: ViewPoint(15, 0)\">台州</a> → <a href=\"javascript: ViewPoint(16, 0)\">潮州</a> → <a href=\"javascript: ViewPoint(17, 0)\">福州</a> → <a href=\"javascript: ViewPoint(18, 0)\">宁乡</a> → <a href=\"javascript: ViewPoint(19, 0)\">全州</a></p>"
+        }
+    ]
+}

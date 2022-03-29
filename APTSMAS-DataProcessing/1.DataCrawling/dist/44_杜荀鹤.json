@@ -1,0 +1,480 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.216589,
+            "CenterLongitude": 117.492585,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "43381116f5c74c3291f66000206d02bb",
+                            "Latitude": 30.216589,
+                            "Longitude": 117.492585,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341722",
+                            "Title": "石台"
+                        },
+                        {
+                            "Id": "6eecebc208a0476ab52f1bc7aa04b882",
+                            "Latitude": 30.645681,
+                            "Longitude": 117.853922,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341723",
+                            "Title": "青阳"
+                        },
+                        {
+                            "Id": "4e1f38cd25ee428ab3721a5034c3a9e5",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "bc25627ec7b4472c8f0bdec34acd1ae0",
+                            "Latitude": 28.864049,
+                            "Longitude": 121.151535,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331082",
+                            "Title": "临海"
+                        },
+                        {
+                            "Id": "88a2c07ed7a44b849df5dbfdfd0e5fd3",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "78b9531688164789ac11aee052851ee5",
+                            "Latitude": 28.118301,
+                            "Longitude": 112.989982,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN43",
+                            "Title": "湖南"
+                        },
+                        {
+                            "Id": "2612c3bad7cd4bce88be5bb9b933e251",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "f59f5bf327e6439d91cd4468355e58d9",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "2fcdeda5468e4f49989c58173ff36eed",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "adb0cc1bbf2b4f68b30708171003e619",
+                            "Latitude": 30.216589,
+                            "Longitude": 117.492585,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341722",
+                            "Title": "石台"
+                        },
+                        {
+                            "Id": "18b94f93fb2d4cf5ba76d854905fe4da",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "2838965aa9cf432c826f8349440f6de4",
+                            "Latitude": 30.692676,
+                            "Longitude": 117.573824,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341702",
+                            "Title": "贵池"
+                        },
+                        {
+                            "Id": "de5527a60ad24f5f867ce0f70a4fb3b3",
+                            "Latitude": 31.261254,
+                            "Longitude": 113.695713,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420982",
+                            "Title": "安陆"
+                        },
+                        {
+                            "Id": "9b035c8a42434847b95c97ad58d4f316",
+                            "Latitude": 30.216589,
+                            "Longitude": 117.492585,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341722",
+                            "Title": "石台"
+                        },
+                        {
+                            "Id": "21aaecd07023454883817f9ce27e6772",
+                            "Latitude": 30.692676,
+                            "Longitude": 117.573824,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341702",
+                            "Title": "贵池"
+                        },
+                        {
+                            "Id": "85a2ea11d8134d9a946cc243d928cf58",
+                            "Latitude": 31.101709,
+                            "Longitude": 105.101082,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510722",
+                            "Title": "三台"
+                        },
+                        {
+                            "Id": "3f5e655378ec41578cfa212b59f18f04",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "2d5de995f9664d4681c66ac779ffae60",
+                            "Latitude": 30.764037,
+                            "Longitude": 105.714004,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510921",
+                            "Title": "蓬溪"
+                        },
+                        {
+                            "Id": "cc4fdf65354b40a38e2218208d209461",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "f7f907260d094dc1a73bfba9c71bd043",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "13365e22cab742f19f8f4144c6d7cb86",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "a534f92161b54ddfa1077791c6c80c3d",
+                            "Latitude": 29.880177,
+                            "Longitude": 121.556686,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3302",
+                            "Title": "宁波"
+                        },
+                        {
+                            "Id": "5cb306d387a74687957e57225b788478",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4db5b517ad6c443db4352470b3243841",
+                            "Latitude": 30.645681,
+                            "Longitude": 117.853922,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341723",
+                            "Title": "青阳"
+                        },
+                        {
+                            "Id": "80e20b7736d0435aad83040cd9fabde6",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "fbdb49309f6e4248881547564f8de2e2",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "994dd6dce2554eda8904326c0f004fd1",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.216589,
+                    "Longitude": 117.492585,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341722",
+                    "Title": "石台 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"43381116f5c74c3291f66000206d02bb\");'><span id='43381116f5c74c3291f66000206d02bb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=855')\">846-855年</a>，1-10岁</div><div id='43381116f5c74c3291f66000206d02bb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=846')\">846年正十</a>　杜荀鹤生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=851')\">847-851年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=852&endYear=852')\">852年</a>　家人令相东作，怒曰：“吾岂耕夫耶”比长，择居得香林之胜，与顾云诸贤为友。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=853&endYear=855')\">853-855年</a>　不详。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"adb0cc1bbf2b4f68b30708171003e619\");'><span id='adb0cc1bbf2b4f68b30708171003e619_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>，31岁</div><div id='adb0cc1bbf2b4f68b30708171003e619' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>　落第返乡。<span class='label'>作品：</span>《下第东归道中作》<div id='poem_32449' class='_poem'><div id='poem_title_32449' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32449' class='poemCommentLink' target='_blank'>下第东归道中作</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32449\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32449_comment'></div><div class='poemContent' id='poem_content_32449'><div class='poemSentence' id='poem_sentence_0_32449'>一回落第一宁亲，多是途中过却春。</div><div id='poem_sentence_0_32449_comment'></div><div class='poemSentence' id='poem_sentence_1_32449'>心火不销双鬓雪，眼泉难濯满衣尘。</div><div id='poem_sentence_1_32449_comment'></div><div class='poemSentence' id='poem_sentence_2_32449'>苦吟风月唯添病，遍识公卿未免贫。</div><div id='poem_sentence_2_32449_comment'></div><div class='poemSentence' id='poem_sentence_3_32449'>马壮金多有官者，荣归却笑读书人。</div><div id='poem_sentence_3_32449_comment'></div><div class='poemSentence' id='poem_sentence_4_32449'></div><div id='poem_sentence_4_32449_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9b035c8a42434847b95c97ad58d4f316\");'><span id='9b035c8a42434847b95c97ad58d4f316_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=878&endYear=879')\">878-879年</a>，33-34岁</div><div id='9b035c8a42434847b95c97ad58d4f316' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=878&endYear=878')\">878年</a>　下第还乡。<span class='label'>作品：</span>《下第寄池州郑员外》<div id='poem_32453' class='_poem'><div id='poem_title_32453' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32453' class='poemCommentLink' target='_blank'>下第寄池州郑员外</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32453\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32453_comment'></div><div class='poemContent' id='poem_content_32453'><div class='poemSentence' id='poem_sentence_0_32453'>省出<span class='inlineComment2'>（一作得）</span>蓬蒿修谒初，蒙知曾不见生疏。</div><div id='poem_sentence_0_32453_comment'></div><div class='poemSentence' id='poem_sentence_1_32453'>侯门数处将书荐，帝里经年借宅居。</div><div id='poem_sentence_1_32453_comment'></div><div class='poemSentence' id='poem_sentence_2_32453'>未必有诗堪讽诵，祗怜无援过吹嘘。</div><div id='poem_sentence_2_32453_comment'></div><div class='poemSentence' id='poem_sentence_3_32453'>如<span class='inlineComment2'>（一作而）</span>今足得成持取<span class='inlineComment2'>（一作处）</span>，莫使江湖却钓鱼。</div><div id='poem_sentence_3_32453_comment'></div><div class='poemSentence' id='poem_sentence_4_32453'></div><div id='poem_sentence_4_32453_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=879&endYear=879')\">879年十一</a>　居住长林山中。<span class='label'>作品：</span>《长林山中闻贼退寄孟明府》<div id='poem_32471' class='_poem'><div id='poem_title_32471' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32471' class='poemCommentLink' target='_blank'>长林山中闻贼退寄孟明府</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32471\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32471_comment'></div><div class='poemContent' id='poem_content_32471'><div class='poemSentence' id='poem_sentence_0_32471'>一县今如此，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_32471\", 32471, \"Clauses/1/Comments/0\")'>残民</span>数不多。</div><div id='poem_sentence_0_32471_comment'></div><div class='poemSentence' id='poem_sentence_1_32471'>也知贤宰切，争奈乱兵何。</div><div id='poem_sentence_1_32471_comment'></div><div class='poemSentence' id='poem_sentence_2_32471'>皆自干戈达，咸思雨露和。</div><div id='poem_sentence_2_32471_comment'></div><div class='poemSentence' id='poem_sentence_3_32471'>应怜住山者，头白未登科。</div><div id='poem_sentence_3_32471_comment'></div><div class='poemSentence' id='poem_sentence_4_32471'></div><div id='poem_sentence_4_32471_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.645681,
+                    "Longitude": 117.853922,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341723",
+                    "Title": "青阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6eecebc208a0476ab52f1bc7aa04b882\");'><span id='6eecebc208a0476ab52f1bc7aa04b882_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=860')\">856-860年</a>，11-15岁</div><div id='6eecebc208a0476ab52f1bc7aa04b882' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=860')\">856-860年</a>　在九华山隐居，与顾云共读。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4db5b517ad6c443db4352470b3243841\");'><span id='4db5b517ad6c443db4352470b3243841_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=891')\">891年</a>，46岁</div><div id='4db5b517ad6c443db4352470b3243841' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=891')\">891年</a>　因世乱复还旧山。<span class='label'>作品：</span>《辞座主侍郎》<div id='poem_32663' class='_poem'><div id='poem_title_32663' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32663' class='poemCommentLink' target='_blank'>辞座主侍郎</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32663\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32663_comment'></div><div class='titleComment' id='poem_allusion_32663'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(2206, \"poem_allusion_32663\")'>一箪犒</span></div><div id='poem_allusion_32663_comment'></div><div class='poemContent' id='poem_content_32663'><div class='poemSentence' id='poem_sentence_0_32663'>一饭尚怀感，况攀高桂枝。</div><div id='poem_sentence_0_32663_comment'></div><div class='poemSentence' id='poem_sentence_1_32663'>此恩无报处，故国远归时。</div><div id='poem_sentence_1_32663_comment'></div><div class='poemSentence' id='poem_sentence_2_32663'>祗恐兵戈隔，再趋门馆迟。</div><div id='poem_sentence_2_32663_comment'></div><div class='poemSentence' id='poem_sentence_3_32663'>茅堂拜亲后，特地泪双垂。</div><div id='poem_sentence_3_32663_comment'></div><div class='poemSentence' id='poem_sentence_4_32663'></div><div id='poem_sentence_4_32663_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4e1f38cd25ee428ab3721a5034c3a9e5\");'><span id='4e1f38cd25ee428ab3721a5034c3a9e5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=869')\">861-869年</a>，16-24岁</div><div id='4e1f38cd25ee428ab3721a5034c3a9e5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=869')\">861-869年</a>　在庐山隐居，与顾云等共读。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2fcdeda5468e4f49989c58173ff36eed\");'><span id='2fcdeda5468e4f49989c58173ff36eed_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>，30岁</div><div id='2fcdeda5468e4f49989c58173ff36eed' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>　干谒江州刺史。<span class='label'>作品：</span>《辞九江李郎中入关》<div id='poem_32660' class='_poem'><div id='poem_title_32660' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32660' class='poemCommentLink' target='_blank'>辞九江李郎中入关</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32660\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32660_comment'></div><div class='poemContent' id='poem_content_32660'><div class='poemSentence' id='poem_sentence_0_32660'>帝里无相识，何门迹可亲。</div><div id='poem_sentence_0_32660_comment'></div><div class='poemSentence' id='poem_sentence_1_32660'>愿开<span class='link' onclick='ShowWordComment(\"poem_sentence_1_32660\", 32660, \"Clauses/2/Comments/0\")'>言重</span>口，荐与分深人。</div><div id='poem_sentence_1_32660_comment'></div><div class='poemSentence' id='poem_sentence_2_32660'>卷许新诗出，家怜旧业贫。</div><div id='poem_sentence_2_32660_comment'></div><div class='poemSentence' id='poem_sentence_3_32660'>今从九江去，应免更迷津。</div><div id='poem_sentence_3_32660_comment'></div><div class='poemSentence' id='poem_sentence_4_32660'></div><div id='poem_sentence_4_32660_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.864049,
+                    "Longitude": 121.151535,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331082",
+                    "Title": "临海",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bc25627ec7b4472c8f0bdec34acd1ae0\");'><span id='bc25627ec7b4472c8f0bdec34acd1ae0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=870&endYear=870')\">870年</a>，25岁</div><div id='bc25627ec7b4472c8f0bdec34acd1ae0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=870&endYear=870')\">870年</a>　初游越中。<span class='label'>作品：</span>《寄临海姚中丞》<div id='poem_32626' class='_poem'><div id='poem_title_32626' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32626' class='poemCommentLink' target='_blank'>寄临海姚中丞</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32626\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32626_comment'></div><div class='poemContent' id='poem_content_32626'><div class='poemSentence' id='poem_sentence_0_32626'>夏辞旌旆已秋深，永夕思量泪满襟。</div><div id='poem_sentence_0_32626_comment'></div><div class='poemSentence' id='poem_sentence_1_32626'>风月易斑搜句鬓，星霜难改感恩心。</div><div id='poem_sentence_1_32626_comment'></div><div class='poemSentence' id='poem_sentence_2_32626'>寻花洞里<span class='link' onclick='ShowWordComment(\"poem_sentence_2_32626\", 32626, \"Clauses/4/Comments/0\")'>连春</span>醉，望海楼中彻晓吟。</div><div id='poem_sentence_2_32626_comment'></div><div class='poemSentence' id='poem_sentence_3_32626'>虽有梦魂知处所，去来多被角声侵。</div><div id='poem_sentence_3_32626_comment'></div><div class='poemSentence' id='poem_sentence_4_32626'></div><div id='poem_sentence_4_32626_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"88a2c07ed7a44b849df5dbfdfd0e5fd3\");'><span id='88a2c07ed7a44b849df5dbfdfd0e5fd3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=871&endYear=871')\">871年</a>，26岁</div><div id='88a2c07ed7a44b849df5dbfdfd0e5fd3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=871&endYear=871')\">871年</a>　春在钱塘。<span class='label'>作品：</span>《春日行次钱塘却寄姚中丞》<div id='poem_32547' class='_poem'><div id='poem_title_32547' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32547' class='poemCommentLink' target='_blank'>春日行次钱塘却寄台州姚中丞</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32547\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32547_comment'></div><div class='poemContent' id='poem_content_32547'><div class='poemSentence' id='poem_sentence_0_32547'>岂为无心求上第，难安帝里为家贫。</div><div id='poem_sentence_0_32547_comment'></div><div class='poemSentence' id='poem_sentence_1_32547'>江南江北闲为客，潮去潮来老却人。</div><div id='poem_sentence_1_32547_comment'></div><div class='poemSentence' id='poem_sentence_2_32547'>两岸雨收莺语柳，一楼风满角吹春。</div><div id='poem_sentence_2_32547_comment'></div><div class='poemSentence' id='poem_sentence_3_32547'>花前不独垂乡泪，曾是<span class='inlineComment2'>（一作作）</span>朱门寄食身。</div><div id='poem_sentence_3_32547_comment'></div><div class='poemSentence' id='poem_sentence_4_32547'></div><div id='poem_sentence_4_32547_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"13365e22cab742f19f8f4144c6d7cb86\");'><span id='13365e22cab742f19f8f4144c6d7cb86_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>，43岁</div><div id='13365e22cab742f19f8f4144c6d7cb86' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>　再游越中。<span class='label'>作品：</span>《献钱塘县罗著作判官》、《钱塘别罗隐》<div id='poem_32658' class='_poem'><div id='poem_title_32658' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32658' class='poemCommentLink' target='_blank'>献钱塘县罗著作判官</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32658\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32658_comment'></div><div class='titleComment' id='poem_allusion_32658'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(1170, \"poem_allusion_32658\")'>东山起</span>　<span class='link' onclick='ShowAllusionComment(3910, \"poem_allusion_32658\")'>鹤氅</span></div><div id='poem_allusion_32658_comment'></div><div class='poemContent' id='poem_content_32658'><div class='poemSentence' id='poem_sentence_0_32658'>还乡夫子遇贤侯，抚字情知不自由。</div><div id='poem_sentence_0_32658_comment'></div><div class='poemSentence' id='poem_sentence_1_32658'>莫把一名专懊恼，放教双眼绝冤雠。</div><div id='poem_sentence_1_32658_comment'></div><div class='poemSentence' id='poem_sentence_2_32658'>猩袍懒著辞公宴，<span class='link' onclick='ShowAllusionComment(3910, \"poem_sentence_2_32658\")'>鹤氅</span>闲披访道流。</div><div id='poem_sentence_2_32658_comment'></div><div class='poemSentence' id='poem_sentence_3_32658'>犹有九华知己在，羡君高卧早回头。</div><div id='poem_sentence_3_32658_comment'></div><div class='poemSentence' id='poem_sentence_4_32658'></div><div id='poem_sentence_4_32658_comment'></div></div></div><div id='poem_32618' class='_poem'><div id='poem_title_32618' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32618' class='poemCommentLink' target='_blank'>钱塘别罗隐</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32618\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32618_comment'></div><div class='poemContent' id='poem_content_32618'><div class='poemSentence' id='poem_sentence_0_32618'>故国看看远，前程计在谁。</div><div id='poem_sentence_0_32618_comment'></div><div class='poemSentence' id='poem_sentence_1_32618'>五更听角后，一叶渡江时。</div><div id='poem_sentence_1_32618_comment'></div><div class='poemSentence' id='poem_sentence_2_32618'>吾道天宁丧，人情日可疑。</div><div id='poem_sentence_2_32618_comment'></div><div class='poemSentence' id='poem_sentence_3_32618'>西陵向西望，双泪为君垂。</div><div id='poem_sentence_3_32618_comment'></div><div class='poemSentence' id='poem_sentence_4_32618'></div><div id='poem_sentence_4_32618_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.118301,
+                    "Longitude": 112.989982,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN43",
+                    "Title": "湖南",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"78b9531688164789ac11aee052851ee5\");'><span id='78b9531688164789ac11aee052851ee5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=872&endYear=872')\">872年</a>，27岁</div><div id='78b9531688164789ac11aee052851ee5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=872&endYear=872')\">872年</a>　初游湖湘。<span class='label'>作品：</span>《将游湖湘有作》<div id='poem_32544' class='_poem'><div id='poem_title_32544' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32544' class='poemCommentLink' target='_blank'>将游湘湖有作</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32544\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32544_comment'></div><div class='poemContent' id='poem_content_32544'><div class='poemSentence' id='poem_sentence_0_32544'>一家相别意，不得不潸然。</div><div id='poem_sentence_0_32544_comment'></div><div class='poemSentence' id='poem_sentence_1_32544'>远作南方客，初登上水船。</div><div id='poem_sentence_1_32544_comment'></div><div class='poemSentence' id='poem_sentence_2_32544'>岳钟思<span class='link' onclick='ShowWordComment(\"poem_sentence_2_32544\", 32544, \"Clauses/4/Comments/0\")'>冷梦</span>，湘月少残篇。</div><div id='poem_sentence_2_32544_comment'></div><div class='poemSentence' id='poem_sentence_3_32544'>便有归来计，风波亦隔年。</div><div id='poem_sentence_3_32544_comment'></div><div class='poemSentence' id='poem_sentence_4_32544'></div><div id='poem_sentence_4_32544_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.251769,
+                    "Longitude": 113.087489,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430121",
+                    "Title": "长沙",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2612c3bad7cd4bce88be5bb9b933e251\");'><span id='2612c3bad7cd4bce88be5bb9b933e251_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=873&endYear=873')\">873年</a>，28岁</div><div id='2612c3bad7cd4bce88be5bb9b933e251' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=873&endYear=873')\">873年</a>　干谒潭州刺史王凝。<span class='label'>作品：</span>《献长沙王侍郎》<div id='poem_32655' class='_poem'><div id='poem_title_32655' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32655' class='poemCommentLink' target='_blank'>献长沙王侍郎</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32655\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32655_comment'></div><div class='poemContent' id='poem_content_32655'><div class='poemSentence' id='poem_sentence_0_32655'>文星渐见射台星，皆仰为霖沃<span class='link' onclick='ShowWordComment(\"poem_sentence_0_32655\", 32655, \"Clauses/1/Comments/0\")'>众情</span>。</div><div id='poem_sentence_0_32655_comment'></div><div class='poemSentence' id='poem_sentence_1_32655'>天泽逼来逢圣主，辞林盛去得书生。</div><div id='poem_sentence_1_32655_comment'></div><div class='poemSentence' id='poem_sentence_2_32655'>云妆岳色供吟景，月浩湘流递政声。</div><div id='poem_sentence_2_32655_comment'></div><div class='poemSentence' id='poem_sentence_3_32655'><span class='link' onclick='ShowWordComment(\"poem_sentence_3_32655\", 32655, \"Clauses/6/Comments/0\")'>美化</span>事多难讽诵，未如耕钓口分明。</div><div id='poem_sentence_3_32655_comment'></div><div class='poemSentence' id='poem_sentence_4_32655'></div><div id='poem_sentence_4_32655_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"18b94f93fb2d4cf5ba76d854905fe4da\");'><span id='18b94f93fb2d4cf5ba76d854905fe4da_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>，31岁</div><div id='18b94f93fb2d4cf5ba76d854905fe4da' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>　再游湖湘，干谒裴瓒。<span class='label'>作品：</span>《冬末投长沙裴侍郎》、《投长沙裴侍郎》<div id='poem_32474' class='_poem'><div id='poem_title_32474' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32474' class='poemCommentLink' target='_blank'>冬末投长沙裴侍郎</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32474\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32474_comment'></div><div class='poemContent' id='poem_content_32474'><div class='poemSentence' id='poem_sentence_0_32474'>欲露尘中事，其如不易言。</div><div id='poem_sentence_0_32474_comment'></div><div class='poemSentence' id='poem_sentence_1_32474'>家山一离别，草树匝春暄。</div><div id='poem_sentence_1_32474_comment'></div><div class='poemSentence' id='poem_sentence_2_32474'>吹梦风天角，啼愁雪岳猿。</div><div id='poem_sentence_2_32474_comment'></div><div class='poemSentence' id='poem_sentence_3_32474'>伫思心觉满，何以远门轩。</div><div id='poem_sentence_3_32474_comment'></div><div class='poemSentence' id='poem_sentence_4_32474'></div><div id='poem_sentence_4_32474_comment'></div></div></div><div id='poem_32516' class='_poem'><div id='poem_title_32516' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32516' class='poemCommentLink' target='_blank'>投长沙裴侍郎</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32516\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32516_comment'></div><div class='poemContent' id='poem_content_32516'><div class='poemSentence' id='poem_sentence_0_32516'>此身虽贱道长存，非谒朱门谒孔门。</div><div id='poem_sentence_0_32516_comment'></div><div class='poemSentence' id='poem_sentence_1_32516'>秪望至公将卷读，不求朝士致书论。</div><div id='poem_sentence_1_32516_comment'></div><div class='poemSentence' id='poem_sentence_2_32516'>垂纶雨结渔乡思，吹木风传雁夜魂。</div><div id='poem_sentence_2_32516_comment'></div><div class='poemSentence' id='poem_sentence_3_32516'>男子受恩须有地，平生不受等闲恩。</div><div id='poem_sentence_3_32516_comment'></div><div class='poemSentence' id='poem_sentence_4_32516'></div><div id='poem_sentence_4_32516_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f59f5bf327e6439d91cd4468355e58d9\");'><span id='f59f5bf327e6439d91cd4468355e58d9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>，30岁</div><div id='f59f5bf327e6439d91cd4468355e58d9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>　离家赴京应进士试。<span class='label'>作品：</span>《离家》<div id='poem_32421' class='_poem'><div id='poem_title_32421' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32421' class='poemCommentLink' target='_blank'>离家</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32421\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_32421_comment'></div><div class='poemContent' id='poem_content_32421'><div class='poemSentence' id='poem_sentence_0_32421'>丈夫三十身<span class='inlineComment2'>（一作今）</span>如此，疲马离乡懒著鞭。</div><div id='poem_sentence_0_32421_comment'></div><div class='poemSentence' id='poem_sentence_1_32421'>槐柳路长愁杀我，一枝蝉到一枝蝉。</div><div id='poem_sentence_1_32421_comment'></div><div class='poemSentence' id='poem_sentence_2_32421'></div><div id='poem_sentence_2_32421_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5cb306d387a74687957e57225b788478\");'><span id='5cb306d387a74687957e57225b788478_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=890&endYear=891')\">890-891年</a>，45-46岁</div><div id='5cb306d387a74687957e57225b788478' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=890&endYear=890')\">890年</a>　离山赴举。<span class='label'>作品：</span>《乱后出山逢高员外》<span class='inlineComment2'>（高员外，不详。）</span><div id='poem_32500' class='_poem'><div id='poem_title_32500' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32500' class='poemCommentLink' target='_blank'>乱后出山逢高员外</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32500\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32500_comment'></div><div class='poemContent' id='poem_content_32500'><div class='poemSentence' id='poem_sentence_0_32500'>自从乱后别京关，一入烟萝十五年。</div><div id='poem_sentence_0_32500_comment'></div><div class='poemSentence' id='poem_sentence_1_32500'>重出故山生白发，却装新卷谒清贤。</div><div id='poem_sentence_1_32500_comment'></div><div class='poemSentence' id='poem_sentence_2_32500'>窗回旅梦城头角，柳结乡愁雨后蝉。</div><div id='poem_sentence_2_32500_comment'></div><div class='poemSentence' id='poem_sentence_3_32500'>名姓暗投心暗祝，永期收拾向门前。</div><div id='poem_sentence_3_32500_comment'></div><div class='poemSentence' id='poem_sentence_4_32500'></div><div id='poem_sentence_4_32500_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=890&endYear=890')\">890年</a>　试前干谒。<span class='label'>作品：</span>《近试投所知》<div id='poem_32522' class='_poem'><div id='poem_title_32522' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32522' class='poemCommentLink' target='_blank'>近试投所知</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32522\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32522_comment'></div><div class='poemContent' id='poem_content_32522'><div class='poemSentence' id='poem_sentence_0_32522'>白发随梳落，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_32522\", 32522, \"Clauses/1/Comments/0\")'>吟怀</span>说向谁。</div><div id='poem_sentence_0_32522_comment'></div><div class='poemSentence' id='poem_sentence_1_32522'>敢辞成事晚，自是出山迟。</div><div id='poem_sentence_1_32522_comment'></div><div class='poemSentence' id='poem_sentence_2_32522'>拟动如浮海，凡言似课诗。</div><div id='poem_sentence_2_32522_comment'></div><div class='poemSentence' id='poem_sentence_3_32522'>终<span class='inlineComment2'>（一作修）</span>身事知己，此外复何为。</div><div id='poem_sentence_3_32522_comment'></div><div class='poemSentence' id='poem_sentence_4_32522'></div><div id='poem_sentence_4_32522_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=891')\">891年</a>　正月十日进士登第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=891')\">891年</a>　与张曙等唱和。<span class='label'>作品：</span>《关试后筵上别同人》、《依韵次同年张曙先辈见寄之什》、《晚春寄同年张曙先辈》<div id='poem_32396' class='_poem'><div id='poem_title_32396' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32396' class='poemCommentLink' target='_blank'>关试后筵上别同人</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32396\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_32396_comment'></div><div class='poemContent' id='poem_content_32396'><div class='poemSentence' id='poem_sentence_0_32396'>日午离筵到夕阳，明朝秦地与吴乡。</div><div id='poem_sentence_0_32396_comment'></div><div class='poemSentence' id='poem_sentence_1_32396'>同年多是长安客，不信行人欲断肠。</div><div id='poem_sentence_1_32396_comment'></div><div class='poemSentence' id='poem_sentence_2_32396'></div><div id='poem_sentence_2_32396_comment'></div></div></div><div id='poem_32525' class='_poem'><div id='poem_title_32525' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32525' class='poemCommentLink' target='_blank'>依韵次<span class='inlineComment2'>（一作酬）</span>同年张曙先辈见寄之什</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32525\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32525_comment'></div><div class='titleComment' id='poem_allusion_32525'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(125, \"poem_allusion_32525\")'>蓬莱</span>　<span class='link' onclick='ShowAllusionComment(11000, \"poem_allusion_32525\")'>紫云</span></div><div id='poem_allusion_32525_comment'></div><div class='poemContent' id='poem_content_32525'><div class='poemSentence' id='poem_sentence_0_32525'>天上诗名天下传，引来齐列<span class='inlineComment2'>（一作到）</span>玉皇前。</div><div id='poem_sentence_0_32525_comment'></div><div class='poemSentence' id='poem_sentence_1_32525'>大仙录后头无雪，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_32525\", 32525, \"Clauses/3/Comments/0\")'>至药</span>成来灶绝烟。</div><div id='poem_sentence_1_32525_comment'></div><div class='poemSentence' id='poem_sentence_2_32525'>笑蹑<span class='link' onclick='ShowAllusionComment(11000, \"poem_sentence_2_32525\")'>紫云</span>金作阙，梦抛尘世铁为船。</div><div id='poem_sentence_2_32525_comment'></div><div class='poemSentence' id='poem_sentence_3_32525'>九华山叟惊凡骨，同到<span class='link' onclick='ShowAllusionComment(125, \"poem_sentence_3_32525\")'>蓬莱</span>岂偶然。</div><div id='poem_sentence_3_32525_comment'></div><div class='poemSentence' id='poem_sentence_4_32525'></div><div id='poem_sentence_4_32525_comment'></div></div></div><div id='poem_32633' class='_poem'><div id='poem_title_32633' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32633' class='poemCommentLink' target='_blank'>晚春寄同年张曙先辈</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32633\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32633_comment'></div><div class='poemContent' id='poem_content_32633'><div class='poemSentence' id='poem_sentence_0_32633'>莫将<span class='link' onclick='ShowWordComment(\"poem_sentence_0_32633\", 32633, \"Clauses/0/Comments/0\")'>时态</span>破天真，祗合高歌醉过春。</div><div id='poem_sentence_0_32633_comment'></div><div class='poemSentence' id='poem_sentence_1_32633'>易落好花三个月，难留浮世百年身。</div><div id='poem_sentence_1_32633_comment'></div><div class='poemSentence' id='poem_sentence_2_32633'>无金润屋浑闲事，有酒<span class='link' onclick='ShowWordComment(\"poem_sentence_2_32633\", 32633, \"Clauses/5/Comments/0\")'>扶头</span>是了人。</div><div id='poem_sentence_2_32633_comment'></div><div class='poemSentence' id='poem_sentence_3_32633'>恩地未酬闲未得，一回醒话一沾巾。</div><div id='poem_sentence_3_32633_comment'></div><div class='poemSentence' id='poem_sentence_4_32633'></div><div id='poem_sentence_4_32633_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.692676,
+                    "Longitude": 117.573824,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341702",
+                    "Title": "贵池",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2838965aa9cf432c826f8349440f6de4\");'><span id='2838965aa9cf432c826f8349440f6de4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>，32岁</div><div id='2838965aa9cf432c826f8349440f6de4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>　离池州赴长安。<span class='label'>作品：</span>《辞郑员外入关》<div id='poem_32662' class='_poem'><div id='poem_title_32662' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32662' class='poemCommentLink' target='_blank'>辞郑员外入关</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32662\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32662_comment'></div><div class='poemContent' id='poem_content_32662'><div class='poemSentence' id='poem_sentence_0_32662'>男儿三十尚蹉跎，未遂青云一<span class='link' onclick='ShowWordComment(\"poem_sentence_0_32662\", 32662, \"Clauses/1/Comments/0\")'>桂科</span>。</div><div id='poem_sentence_0_32662_comment'></div><div class='poemSentence' id='poem_sentence_1_32662'>在客易为销岁月，到家难住似经过。</div><div id='poem_sentence_1_32662_comment'></div><div class='poemSentence' id='poem_sentence_2_32662'>帆飞楚国风涛润，马度蓝关雨雪多。</div><div id='poem_sentence_2_32662_comment'></div><div class='poemSentence' id='poem_sentence_3_32662'>长把行藏信天道，不知天道竟如何。</div><div id='poem_sentence_3_32662_comment'></div><div class='poemSentence' id='poem_sentence_4_32662'></div><div id='poem_sentence_4_32662_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"21aaecd07023454883817f9ce27e6772\");'><span id='21aaecd07023454883817f9ce27e6772_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>，35岁</div><div id='21aaecd07023454883817f9ce27e6772' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>　出山干谒，献诗池州刺史窦潏。<span class='label'>作品：</span>《献池州牧》<span class='inlineComment2'>（段双喜：《杜荀鹤生平考证三题》，兰州学刊，2006年第12期，认为，广明元年冬至次年春，杜有扬州之游。）</span><div id='poem_32656' class='_poem'><div id='poem_title_32656' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32656' class='poemCommentLink' target='_blank'>献池州牧</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32656\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32656_comment'></div><div class='poemContent' id='poem_content_32656'><div class='poemSentence' id='poem_sentence_0_32656'>池阳今日似渔阳，大变凶年作小康。</div><div id='poem_sentence_0_32656_comment'></div><div class='poemSentence' id='poem_sentence_1_32656'>江路静来通客货，郡城安后绝<span class='link' onclick='ShowWordComment(\"poem_sentence_1_32656\", 32656, \"Clauses/3/Comments/0\")'>戎装</span>。</div><div id='poem_sentence_1_32656_comment'></div><div class='poemSentence' id='poem_sentence_2_32656'>分开野色收新麦，惊断莺声摘嫩桑。</div><div id='poem_sentence_2_32656_comment'></div><div class='poemSentence' id='poem_sentence_3_32656'>纵有逋民归未得，远闻仁政旋还乡。</div><div id='poem_sentence_3_32656_comment'></div><div class='poemSentence' id='poem_sentence_4_32656'></div><div id='poem_sentence_4_32656_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.261254,
+                    "Longitude": 113.695713,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420982",
+                    "Title": "安陆",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"de5527a60ad24f5f867ce0f70a4fb3b3\");'><span id='de5527a60ad24f5f867ce0f70a4fb3b3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>，32岁</div><div id='de5527a60ad24f5f867ce0f70a4fb3b3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>　经安陆遇战乱。<br /></div>"
+                },
+                {
+                    "Latitude": 31.101709,
+                    "Longitude": 105.101082,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510722",
+                    "Title": "三台",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"85a2ea11d8134d9a946cc243d928cf58\");'><span id='85a2ea11d8134d9a946cc243d928cf58_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>，35岁</div><div id='85a2ea11d8134d9a946cc243d928cf58' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>　秋取道梓州往成都赴举。<br /></div>"
+                },
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3f5e655378ec41578cfa212b59f18f04\");'><span id='3f5e655378ec41578cfa212b59f18f04_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，36岁</div><div id='3f5e655378ec41578cfa212b59f18f04' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　秋取道梓州往成都赴举。<br /></div>"
+                },
+                {
+                    "Latitude": 30.764037,
+                    "Longitude": 105.714004,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510921",
+                    "Title": "蓬溪",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2d5de995f9664d4681c66ac779ffae60\");'><span id='2d5de995f9664d4681c66ac779ffae60_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=882&endYear=882')\">882年</a>，37岁</div><div id='2d5de995f9664d4681c66ac779ffae60' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=882&endYear=882')\">882年</a>　下第出蜀，绕道遂州。<span class='label'>作品：</span>《经贾岛墓》<div id='poem_32538' class='_poem'><div id='poem_title_32538' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32538' class='poemCommentLink' target='_blank'>经贾岛墓</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32538\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32538_comment'></div><div class='poemContent' id='poem_content_32538'><div class='poemSentence' id='poem_sentence_0_32538'>谪宦自麻衣，衔冤至死时。</div><div id='poem_sentence_0_32538_comment'></div><div class='poemSentence' id='poem_sentence_1_32538'>山根三尺墓，人口数联诗。</div><div id='poem_sentence_1_32538_comment'></div><div class='poemSentence' id='poem_sentence_2_32538'>仙桂终无分，皇天似有私。</div><div id='poem_sentence_2_32538_comment'></div><div class='poemSentence' id='poem_sentence_3_32538'>暗松风雨夜，空使老猿悲。</div><div id='poem_sentence_3_32538_comment'></div><div class='poemSentence' id='poem_sentence_4_32538'></div><div id='poem_sentence_4_32538_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cc4fdf65354b40a38e2218208d209461\");'><span id='cc4fdf65354b40a38e2218208d209461_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=882&endYear=882')\">882年</a>，37岁</div><div id='cc4fdf65354b40a38e2218208d209461' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>宦游至扬州。<span class='label'>作品：</span>《贺顾云侍御府主与子弟奏官》、《顾云侍御出二子请诗因遗一绝》《维扬逢诗友张乔》《维扬春日再遇孙侍郎》《维扬冬末寄幕中二从事》（江上数株桑枣树）<span class='inlineComment2'>（还有首同名为《维扬冬末寄幕中二从事》（闻道长溪尉）的诗，作于本年。）</span><div id='poem_32567' class='_poem'><div id='poem_title_32567' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32567' class='poemCommentLink' target='_blank'>贺顾云侍御府主与子弟奏官<span class='inlineComment2'>（敕下时，年七岁。）</span></a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32567\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32567_comment'></div><div class='poemContent' id='poem_content_32567'><div class='poemSentence' id='poem_sentence_0_32567'>青桂朱袍不贺兄，贺兄荣是见儿荣。</div><div id='poem_sentence_0_32567_comment'></div><div class='poemSentence' id='poem_sentence_1_32567'>孝经始向堂前彻，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_32567\", 32567, \"Clauses/3/Comments/0\")'>官诰</span>当从幕下迎。</div><div id='poem_sentence_1_32567_comment'></div><div class='poemSentence' id='poem_sentence_2_32567'>戏把蓝袍包果子，娇将<span class='link' onclick='ShowWordComment(\"poem_sentence_2_32567\", 32567, \"Clauses/5/Comments/0\")'>竹笏</span>恼先生。</div><div id='poem_sentence_2_32567_comment'></div><div class='poemSentence' id='poem_sentence_3_32567'>自惭乱世无知己，弟侄鞭牛傍陇耕。</div><div id='poem_sentence_3_32567_comment'></div><div class='poemSentence' id='poem_sentence_4_32567'></div><div id='poem_sentence_4_32567_comment'></div></div></div><div id='poem_32424' class='_poem'><div id='poem_title_32424' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32424' class='poemCommentLink' target='_blank'>顾云侍御出二子请诗因遗一绝</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32424\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_32424_comment'></div><div class='poemContent' id='poem_content_32424'><div class='poemSentence' id='poem_sentence_0_32424'>二雏毛骨秀仍奇，小小能吟大大诗。</div><div id='poem_sentence_0_32424_comment'></div><div class='poemSentence' id='poem_sentence_1_32424'>想得月中仙桂树，各从生日长新枝。</div><div id='poem_sentence_1_32424_comment'></div><div class='poemSentence' id='poem_sentence_2_32424'></div><div id='poem_sentence_2_32424_comment'></div></div></div><div id='poem_32637' class='_poem'><div id='poem_title_32637' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32637' class='poemCommentLink' target='_blank'>维扬逢诗友张乔</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32637\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32637_comment'></div><div class='poemContent' id='poem_content_32637'><div class='poemSentence' id='poem_sentence_0_32637'>天下方多事，逢君得话诗。</div><div id='poem_sentence_0_32637_comment'></div><div class='poemSentence' id='poem_sentence_1_32637'>直应吾道在，未觉国风衰。</div><div id='poem_sentence_1_32637_comment'></div><div class='poemSentence' id='poem_sentence_2_32637'>生计吟消日，人情醉过时。</div><div id='poem_sentence_2_32637_comment'></div><div class='poemSentence' id='poem_sentence_3_32637'>雅篇三百首，留作后来师。</div><div id='poem_sentence_3_32637_comment'></div><div class='poemSentence' id='poem_sentence_4_32637'></div><div id='poem_sentence_4_32637_comment'></div></div></div><div id='poem_32636' class='_poem'><div id='poem_title_32636' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32636' class='poemCommentLink' target='_blank'>维扬春日再遇孙侍御</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32636\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32636_comment'></div><div class='poemContent' id='poem_content_32636'><div class='poemSentence' id='poem_sentence_0_32636'>本<span class='inlineComment2'>（一作不）</span>为荣家不为身，读书谁料转家贫。</div><div id='poem_sentence_0_32636_comment'></div><div class='poemSentence' id='poem_sentence_1_32636'>三年行却千山路，两地思归一主人。</div><div id='poem_sentence_1_32636_comment'></div><div class='poemSentence' id='poem_sentence_2_32636'>络岸柳丝悬细雨，绣田花朵弄残春。</div><div id='poem_sentence_2_32636_comment'></div><div class='poemSentence' id='poem_sentence_3_32636'>多情御史应嗟见，未上<span class='inlineComment2'>（一作到）</span>青云白发新。</div><div id='poem_sentence_3_32636_comment'></div><div class='poemSentence' id='poem_sentence_4_32636'></div><div id='poem_sentence_4_32636_comment'></div></div></div><div id='poem_32635' class='_poem'><div id='poem_title_32635' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32635' class='poemCommentLink' target='_blank'>维扬冬末寄幕中二从事<span class='inlineComment2'>（缺第三句）</span></a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32635\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_32635_comment'></div><div class='poemContent' id='poem_content_32635'><div class='poemSentence' id='poem_sentence_0_32635'>闻道长溪尉，相留一馆闲。</div><div id='poem_sentence_0_32635_comment'></div><div class='poemSentence' id='poem_sentence_1_32635'>已投三寸管，尚隔几重山。</div><div id='poem_sentence_1_32635_comment'></div><div class='poemSentence' id='poem_sentence_2_32635'>为旅春风外，怀人夜雨间。</div><div id='poem_sentence_2_32635_comment'></div><div class='poemSentence' id='poem_sentence_3_32635'>年来疏览镜，怕见减朱颜。</div><div id='poem_sentence_3_32635_comment'></div><div class='poemSentence' id='poem_sentence_4_32635'></div><div id='poem_sentence_4_32635_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.946576,
+                    "Longitude": 118.765196,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3418",
+                    "Title": "宣城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f7f907260d094dc1a73bfba9c71bd043\");'><span id='f7f907260d094dc1a73bfba9c71bd043_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=882&endYear=882')\">882年</a>，37岁</div><div id='f7f907260d094dc1a73bfba9c71bd043' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=882&endYear=882')\">882年十二</a>　遇乱作诗记之。<span class='label'>作品：</span>《旅泊遇郡中叛乱示同志》<div id='poem_32607' class='_poem'><div id='poem_title_32607' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32607' class='poemCommentLink' target='_blank'>旅泊遇郡中叛乱示同志</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32607\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32607_comment'></div><div class='poemContent' id='poem_content_32607'><div class='poemSentence' id='poem_sentence_0_32607'>握手相看<span class='inlineComment2'>（一作悲）</span>谁敢言，军家刀剑在腰边。</div><div id='poem_sentence_0_32607_comment'></div><div class='poemSentence' id='poem_sentence_1_32607'>遍搜宝货无藏处，乱杀平人不怕天。</div><div id='poem_sentence_1_32607_comment'></div><div class='poemSentence' id='poem_sentence_2_32607'>古寺拆为修寨木，荒坟开作<span class='link' onclick='ShowWordComment(\"poem_sentence_2_32607\", 32607, \"Clauses/5/Comments/0\")'>甃城</span>塼。</div><div id='poem_sentence_2_32607_comment'></div><div class='poemSentence' id='poem_sentence_3_32607'>郡侯逐出浑闲事，正是銮舆幸蜀年。</div><div id='poem_sentence_3_32607_comment'></div><div class='poemSentence' id='poem_sentence_4_32607'></div><div id='poem_sentence_4_32607_comment'></div></div><div class='poemComment' id='poem_comment_32607'><a href='javascript: ShowPoemComment(32607)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fbdb49309f6e4248881547564f8de2e2\");'><span id='fbdb49309f6e4248881547564f8de2e2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=903&endYear=903')\">903年</a>，58岁</div><div id='fbdb49309f6e4248881547564f8de2e2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=903&endYear=903')\">903年</a>　在宣州节度使田頵幕。<br /></div>"
+                },
+                {
+                    "Latitude": 29.880177,
+                    "Longitude": 121.556686,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3302",
+                    "Title": "宁波",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a534f92161b54ddfa1077791c6c80c3d\");'><span id='a534f92161b54ddfa1077791c6c80c3d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>，43岁</div><div id='a534f92161b54ddfa1077791c6c80c3d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>　再游越中。<span class='label'>作品：</span>《别四明钟尚书》<span class='inlineComment2'>（由于杜荀鹤两次游越，以下三首诗写作时间难以确定：《浙中逢诗友》、《登天台寺》、《经严陵钓台》天台寺在今浙江天台县天台山。）</span><div id='poem_32508' class='_poem'><div id='poem_title_32508' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32508' class='poemCommentLink' target='_blank'>别四明钟尚书</a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32508\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_32508_comment'></div><div class='poemContent' id='poem_content_32508'><div class='poemSentence' id='poem_sentence_0_32508'>九华天际碧嵯峨，无奈春来入梦何。</div><div id='poem_sentence_0_32508_comment'></div><div class='poemSentence' id='poem_sentence_1_32508'>难与英雄论教化，却思猿鸟共烟萝。</div><div id='poem_sentence_1_32508_comment'></div><div class='poemSentence' id='poem_sentence_2_32508'>风前柳态闲时少，雨后花容淡处多。</div><div id='poem_sentence_2_32508_comment'></div><div class='poemSentence' id='poem_sentence_3_32508'>都大人生有离别，且将诗句代离歌。</div><div id='poem_sentence_3_32508_comment'></div><div class='poemSentence' id='poem_sentence_4_32508'></div><div id='poem_sentence_4_32508_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"80e20b7736d0435aad83040cd9fabde6\");'><span id='80e20b7736d0435aad83040cd9fabde6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=901')\">891-901年</a>，46-56岁</div><div id='80e20b7736d0435aad83040cd9fabde6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=891&endYear=891')\">891年</a>　过夷门曾见朱温。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=901&endYear=901')\">901年</a>　为梁王朱温赋“无云雨诗”<span class='label'>作品：</span>《梁王座上赋云雨诗》<div id='poem_32429' class='_poem'><div id='poem_title_32429' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=32429' class='poemCommentLink' target='_blank'>梁王坐上赋无云雨<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(17287, \"唐\", \"杜荀鹤\", \"poem_title_32429\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>杜荀鹤</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_32429_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_32429_0'>① 荀鹤初谒朱全忠，雨作而天无行云，全忠曰：“此谓天泣，知何祥？请作无云雨诗。”荀鹤乃赋云云，全忠悦。</div></div></div><div class='poemContent' id='poem_content_32429'><div class='poemSentence' id='poem_sentence_0_32429'>同是乾坤事不同，雨丝飞洒日轮中。</div><div id='poem_sentence_0_32429_comment'></div><div class='poemSentence' id='poem_sentence_1_32429'>若教<span class='link' onclick='ShowWordComment(\"poem_sentence_1_32429\", 32429, \"Clauses/2/Comments/1\")'>阴朗</span>长<span class='inlineComment2'>（一作翳）</span>相似，争表梁王造化功。</div><div id='poem_sentence_1_32429_comment'></div><div class='poemSentence' id='poem_sentence_2_32429'></div><div id='poem_sentence_2_32429_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"994dd6dce2554eda8904326c0f004fd1\");'><span id='994dd6dce2554eda8904326c0f004fd1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=903&endYear=904')\">903-904年</a>，58-59岁</div><div id='994dd6dce2554eda8904326c0f004fd1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=903&endYear=903')\">903年</a>　奉命出使大梁朱温幕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=904&endYear=904')\">904年</a>　以主客员外郎，知制诰充翰林学士，寻卒。<br /></div>"
+                },
+                {
+                    "Latitude": 30.486922,
+                    "Longitude": 117.81077,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3417 九华山",
+                    "Title": "九华山",
+                    "RequestUri": "scope=当代/青阳县九华山&author=杜荀鹤&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 29.560618,
+                    "Longitude": 115.989402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604 庐山",
+                    "Title": "庐山",
+                    "RequestUri": "scope=当代/九江市庐山&author=杜荀鹤&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "杜荀鹤 <span class='inlineComment2'>(846-904)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：胡嗣坤、罗琴《杜荀鹤及其〈唐风集〉研究》、段双喜：《杜荀鹤生平考证三题》　录入整理：李定广</p><p><a href=\"javascript: ViewRoute(0, 10, 115.0489205, 31.2328685, 7, 0)\">1-31岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">石台</a> → <a href=\"javascript: ViewPoint(1, 0)\">青阳</a> → <a href=\"javascript: ViewPoint(2, 0)\">九江</a> → <a href=\"javascript: ViewPoint(3, 0)\">临海</a> → <a href=\"javascript: ViewPoint(4, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(5, 0)\">湖南</a> → <a href=\"javascript: ViewPoint(6, 0)\">长沙</a> → <a href=\"javascript: ViewPoint(7, 0)\">西安</a> → <a href=\"javascript: ViewPoint(8, 0)\">九江</a> → <a href=\"javascript: ViewPoint(9, 0)\">石台</a></p><p><a href=\"javascript: ViewRoute(10, 20, 111.7451615, 30.3258145, 7, 0)\">31-37岁</a><br /><a href=\"javascript: ViewPoint(10, 0)\">长沙</a> → <a href=\"javascript: ViewPoint(11, 0)\">贵池</a> → <a href=\"javascript: ViewPoint(12, 0)\">安陆</a> → <a href=\"javascript: ViewPoint(13, 0)\">石台</a> → <a href=\"javascript: ViewPoint(14, 0)\">贵池</a> → <a href=\"javascript: ViewPoint(15, 0)\">三台</a> → <a href=\"javascript: ViewPoint(16, 0)\">成都</a> → <a href=\"javascript: ViewPoint(17, 0)\">蓬溪</a> → <a href=\"javascript: ViewPoint(18, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(19, 0)\">宣城</a></p><p><a href=\"javascript: ViewRoute(20, 25, 115.251496, 32.341559, 7, 0)\">43-56岁</a><br /><a href=\"javascript: ViewPoint(20, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(21, 0)\">宁波</a> → <a href=\"javascript: ViewPoint(22, 0)\">西安</a> → <a href=\"javascript: ViewPoint(23, 0)\">青阳</a> → <a href=\"javascript: ViewPoint(24, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(25, 27, 116.53955, 32.8747585, 8, 0)\">58-59岁</a><br /><a href=\"javascript: ViewPoint(25, 0)\">宣城</a> → <a href=\"javascript: ViewPoint(26, 0)\">开封</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "id": 1,
+    "name": "王绩",
+    "dynasty": "唐",
+    "lifeDuration": [
+        589,
+        644
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 35.59643,
+            "lng": 110.71186
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《王绩集编年校注》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                25
+            ],
+            "correspondPath": [
+                "河津",
+                "西安",
+                "河津",
+                "西安"
+            ]
+        },
+        {
+            "agesDuration": [
+                26,
+                29
+            ],
+            "correspondPath": [
+                "扬州",
+                "浙江",
+                "丰城",
+                "九江",
+                "河北",
+                "西安"
+            ]
+        },
+        {
+            "agesDuration": [
+                29,
+                56
+            ],
+            "correspondPath": [
+                "河津",
+                "西安",
+                "河津",
+                "西安",
+                "河津"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "342edafa3053404597c20660a3847254",
+                        "lat": 35.59643,
+                        "lng": 110.71186,
+                        "regionId": "CN140882",
+                        "location": "河津",
+                        "city": "运城市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4c57cefcd3cb479e83b2da221a4f22a4",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "03672e8361914705b2b65be9f8054b36",
+                        "lat": 35.59643,
+                        "lng": 110.71186,
+                        "regionId": "CN140882",
+                        "location": "河津",
+                        "city": "运城市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e9a0d681a378483cafcd149c2a5ddffe",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4f789cdc7e0b4f37a3c30e5954574e03",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b42e6d4153b04565845f846e9aefd6b1",
+                        "lat": 30.26555,
+                        "lng": 120.1536,
+                        "regionId": "CN33",
+                        "location": "浙江",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9948616eb8934c4aacf2e232731bfa65",
+                        "lat": 28.1592,
+                        "lng": 115.77121,
+                        "regionId": "CN360981",
+                        "location": "丰城",
+                        "city": "宜春市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "05b16b048fca42b78be7f3fca0cee822",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "740fd702e9ea453f81dcbdfccf7d0e28",
+                        "lat": 38.03599,
+                        "lng": 114.46979,
+                        "regionId": "CN13",
+                        "location": "河北",
+                        "city": "石家庄市",
+                        "province": "河北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f5cbc1ca3cea43f589e4d117a94434a0",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "77c36cd53a5f46518b34a9d297fa2d31",
+                        "lat": 35.59643,
+                        "lng": 110.71186,
+                        "regionId": "CN140882",
+                        "location": "河津",
+                        "city": "运城市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "af4495cb9b7f4495ac5305fb9eaf7e7a",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b3f556f32f7843dfb7ae2efd079778c7",
+                        "lat": 35.59643,
+                        "lng": 110.71186,
+                        "regionId": "CN140882",
+                        "location": "河津",
+                        "city": "运城市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b3b5f7bcdbce454d8329c541b21fac96",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d84b950d8de74fbbb7031ab204c85bd1",
+                        "lat": 35.59643,
+                        "lng": 110.71186,
+                        "regionId": "CN140882",
+                        "location": "河津",
+                        "city": "运城市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 35.59643,
+                "lng": 110.71186,
+                "id": null,
+                "regionId": "CN140882",
+                "location": "河津",
+                "city": "运城市",
+                "province": "山西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "589-602年 ，1-14岁",
+                    "589-602年 居于龙门。",
+                    "605-607年 ，17-19岁",
+                    "605-607年 隐于龙门。",
+                    "617-621年 ，29-33岁",
+                    "617年12月 还河东龙门。五月，文中子通卒。",
+                    "618-620年 躬耕龙门东皋。",
+                    "621年 躬耕龙门东皋。薛收来访王绩。",
+                    "621年 躬耕龙门东皋。",
+                    "627-636年 ，39-48岁",
+                    "627年 归故里河东。朱仲晦有《答王无功问故园》",
+                    "628-630年 隐居故里。",
+                    "631年 隐居故里，与仲长子光为邻居。",
+                    "631-636年 隐居故里。",
+                    "639-644年 ，51-56岁",
+                    "639年 焦革妻袁氏死。挂冠归田，不复再仕。",
+                    "640-644年 隐于龙门。",
+                    "644年 隐于龙门。本年卒。"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "603-604年 ，15-16岁",
+                    "603年 入长安，谒杨素、薛道衡，被誉为“神仙童子”、“今之庾信”",
+                    "604年 入长安。",
+                    "608-613年 ，20-25岁",
+                    "608-612年 游长安。",
+                    "613年 王绩在长安其兄王度处。",
+                    "617年 ，29岁",
+                    "617年6月 归长安。",
+                    "622-626年 ，34-38岁",
+                    "622-623年 以前六合县丞待诏门下省。",
+                    "624年 以前六合县丞待诏门下省。薛收卒。",
+                    "625-626年 以前六合县丞待诏门下省。",
+                    "637-638年 ，49-50岁",
+                    "637年 太乐署史焦革家善酿酒，王绩乞为太丞。",
+                    "638年 在长安为太乐丞。焦革死，其妻袁氏仍送美酒不绝。"
+                ]
+            },
+            {
+                "lat": 32.39358,
+                "lng": 119.41269,
+                "id": null,
+                "regionId": "CN321",
+                "location": "扬州",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "614年 ，26岁",
+                    "614年1月5日 正月五日应孝悌廉洁举，射高第。授秘书省正字。辞以疾，未就。除扬州六合县丞。"
+                ]
+            },
+            {
+                "lat": 30.26555,
+                "lng": 120.1536,
+                "id": null,
+                "regionId": "CN33",
+                "location": "浙江",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "615年 ，27岁",
+                    "615年 涉浙江，入南浦。"
+                ]
+            },
+            {
+                "lat": 28.1592,
+                "lng": 115.77121,
+                "id": null,
+                "regionId": "CN360981",
+                "location": "丰城",
+                "city": "宜春市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "615年 ，27岁",
+                    "615年 游豫章，过丰城。"
+                ]
+            },
+            {
+                "lat": 29.70548,
+                "lng": 116.00146,
+                "id": null,
+                "regionId": "CN3604",
+                "location": "九江",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "616年 ，28岁",
+                    "616年1月 游庐山。"
+                ]
+            },
+            {
+                "lat": 38.03599,
+                "lng": 114.46979,
+                "id": null,
+                "regionId": "CN13",
+                "location": "河北",
+                "city": "石家庄市",
+                "province": "河北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "616年 ，28岁"
+                ]
+            },
+            {
+                "lat": 29.554957,
+                "lng": 115.982796,
+                "id": null,
+                "regionId": "CN3604 庐山",
+                "location": "庐山",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

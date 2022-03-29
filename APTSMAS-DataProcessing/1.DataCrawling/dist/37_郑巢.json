@@ -1,0 +1,80 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.280059,
+            "CenterLongitude": 120.161693,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "8e58a5fe034c4023805db4412d15ced5",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "76ddca8994f3454fa36acc0086fb5b54",
+                            "Latitude": 28.864049,
+                            "Longitude": 121.151535,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331082",
+                            "Title": "临海"
+                        },
+                        {
+                            "Id": "56f6a0be640b48dd96fa0255dee709e1",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8e58a5fe034c4023805db4412d15ced5\");'><span id='8e58a5fe034c4023805db4412d15ced5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=815&endYear=836')\">815-836年</a>，1-22岁</div><div id='8e58a5fe034c4023805db4412d15ced5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=815&endYear=815')\">815年</a>　约生于本年。本表所列年岁为虚拟数，非实数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=816&endYear=834')\">816-834年</a>　在故乡钱塘家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年</a>　在杭州。秋,郑巢拜谒姚合，与之游宴，郑巢有诗。<span class='label'>作品：</span>秋日陪姚郎中登郡中南亭。<div id='poem_39444' class='_poem'><div id='poem_title_39444' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=39444' class='poemCommentLink' target='_blank'>秋日陪姚郎中登郡中南亭</a><a href='javascript: ShowPoemAuthorProfile(20541, \"唐\", \"郑巢\", \"poem_title_39444\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>郑巢</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_39444_comment'></div><div class='poemContent' id='poem_content_39444'><div class='poemSentence' id='poem_sentence_0_39444'>云水生寒色，高亭发远心。</div><div id='poem_sentence_0_39444_comment'></div><div class='poemSentence' id='poem_sentence_1_39444'>雁来疏角韵，槐落减秋阴。</div><div id='poem_sentence_1_39444_comment'></div><div class='poemSentence' id='poem_sentence_2_39444'>隔石尝茶坐，当山抱瑟吟。</div><div id='poem_sentence_2_39444_comment'></div><div class='poemSentence' id='poem_sentence_3_39444'>谁知潇洒意，不似有朝簪。</div><div id='poem_sentence_3_39444_comment'></div><div class='poemSentence' id='poem_sentence_4_39444'></div><div id='poem_sentence_4_39444_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=836&endYear=836')\">836年</a>　在杭州。秋,郑巢拜谒姚合，与之游宴，郑巢有诗《》、《》<span class='label'>作品：</span>和姚郎中题凝公院。<div id='poem_39442' class='_poem'><div id='poem_title_39442' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=39442' class='poemCommentLink' target='_blank'>和姚郎中题凝公院</a><a href='javascript: ShowPoemAuthorProfile(20541, \"唐\", \"郑巢\", \"poem_title_39442\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>郑巢</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_39442_comment'></div><div class='poemContent' id='poem_content_39442'><div class='poemSentence' id='poem_sentence_0_39442'>后房寒竹连，白昼坐冥然。</div><div id='poem_sentence_0_39442_comment'></div><div class='poemSentence' id='poem_sentence_1_39442'>片衲何山至，空堂几夜禅。</div><div id='poem_sentence_1_39442_comment'></div><div class='poemSentence' id='poem_sentence_2_39442'>叶侵经上字，冰结砚中泉。</div><div id='poem_sentence_2_39442_comment'></div><div class='poemSentence' id='poem_sentence_3_39442'>雪夕谁同话，悬灯古像前。</div><div id='poem_sentence_3_39442_comment'></div><div class='poemSentence' id='poem_sentence_4_39442'></div><div id='poem_sentence_4_39442_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=836&endYear=836')\">836年</a>　冬,姚合罢郡游越,郑巢有《》。\n游历天台山、剡溪等地,作诗。<span class='label'>作品：</span>送姚合郎中罢郡游越。<div id='poem_39452' class='_poem'><div id='poem_title_39452' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=39452' class='poemCommentLink' target='_blank'>送姚郎中罢郡游越</a><a href='javascript: ShowPoemAuthorProfile(20541, \"唐\", \"郑巢\", \"poem_title_39452\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>郑巢</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_39452_comment'></div><div class='poemContent' id='poem_content_39452'><div class='poemSentence' id='poem_sentence_0_39452'>逍遥方罢郡，高兴接东瓯。</div><div id='poem_sentence_0_39452_comment'></div><div class='poemSentence' id='poem_sentence_1_39452'>几处行杉径，何时宿石楼。</div><div id='poem_sentence_1_39452_comment'></div><div class='poemSentence' id='poem_sentence_2_39452'>湘声穿古窦，华影在空舟。</div><div id='poem_sentence_2_39452_comment'></div><div class='poemSentence' id='poem_sentence_3_39452'>惆怅云门路，无因得从游。</div><div id='poem_sentence_3_39452_comment'></div><div class='poemSentence' id='poem_sentence_4_39452'></div><div id='poem_sentence_4_39452_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.864049,
+                    "Longitude": 121.151535,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331082",
+                    "Title": "临海",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"76ddca8994f3454fa36acc0086fb5b54\");'><span id='76ddca8994f3454fa36acc0086fb5b54_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=853&endYear=853')\">853年</a>，39岁</div><div id='76ddca8994f3454fa36acc0086fb5b54' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=853&endYear=853')\">853年</a>　在台州，刺史李肇幕府。<span class='label'>作品：</span>泊灵溪馆；瀑布寺贞上人院。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"56f6a0be640b48dd96fa0255dee709e1\");'><span id='56f6a0be640b48dd96fa0255dee709e1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=855')\">854-855年</a>，40-41岁</div><div id='56f6a0be640b48dd96fa0255dee709e1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>　滞留京师，李肇出塞，有诗送。<span class='label'>作品：</span>送灵溪李侍郎。<div id='poem_39451' class='_poem'><div id='poem_title_39451' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=39451' class='poemCommentLink' target='_blank'>送灵溪李侍郎</a><a href='javascript: ShowPoemAuthorProfile(20541, \"唐\", \"郑巢\", \"poem_title_39451\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>郑巢</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_39451_comment'></div><div class='poemContent' id='poem_content_39451'><div class='poemSentence' id='poem_sentence_0_39451'>貂裘离阙下，初佐汉元勋。</div><div id='poem_sentence_0_39451_comment'></div><div class='poemSentence' id='poem_sentence_1_39451'>河偃流澌叠，沙晴远树分。</div><div id='poem_sentence_1_39451_comment'></div><div class='poemSentence' id='poem_sentence_2_39451'>牛羊下暮霭，鼓角调寒云。</div><div id='poem_sentence_2_39451_comment'></div><div class='poemSentence' id='poem_sentence_3_39451'>中夕萧关宿，边声不可闻。</div><div id='poem_sentence_3_39451_comment'></div><div class='poemSentence' id='poem_sentence_4_39451'></div><div id='poem_sentence_4_39451_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年</a>　滞留京师，有诗送边使。<div id='poem_39449' class='_poem'><div id='poem_title_39449' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=39449' class='poemCommentLink' target='_blank'>送边使</a><a href='javascript: ShowPoemAuthorProfile(20541, \"唐\", \"郑巢\", \"poem_title_39449\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>郑巢</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_39449_comment'></div><div class='poemContent' id='poem_content_39449'><div class='poemSentence' id='poem_sentence_0_39449'>关河度几重，边色上离容。</div><div id='poem_sentence_0_39449_comment'></div><div class='poemSentence' id='poem_sentence_1_39449'>灞水方为别，沙场又入冬。</div><div id='poem_sentence_1_39449_comment'></div><div class='poemSentence' id='poem_sentence_2_39449'>曙雕回大旆，夕雪没前峰。</div><div id='poem_sentence_2_39449_comment'></div><div class='poemSentence' id='poem_sentence_3_39449'>汉使多长策，须令远国从。</div><div id='poem_sentence_3_39449_comment'></div><div class='poemSentence' id='poem_sentence_4_39449'></div><div id='poem_sentence_4_39449_comment'></div></div></div><br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "郑巢 <span class='inlineComment2'>(815-855)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：梁超然著《 三书斋文存 第2卷 古代文学研究（2）》、曹方林《姚合年谱（摘要）》、竺岳兵著.《唐诗之路唐代诗人行迹考》　录入整理：龚红林</p><p><a href=\"javascript: ViewRoute(0, 3, 115.0489205, 31.6057425, 7, 0)\">1-41岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(1, 0)\">临海</a> → <a href=\"javascript: ViewPoint(2, 0)\">西安</a></p>"
+        }
+    ]
+}

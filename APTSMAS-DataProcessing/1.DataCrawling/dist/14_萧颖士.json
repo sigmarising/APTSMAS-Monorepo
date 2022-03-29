@@ -1,0 +1,290 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 34.146443,
+            "CenterLongitude": 113.494451,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "6bbdbe3b28704180bc1b9c8046dfa34e",
+                            "Latitude": 34.146443,
+                            "Longitude": 113.494451,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411081",
+                            "Title": "禹州"
+                        },
+                        {
+                            "Id": "cf6b7d9494424238b5104adb76583945",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "5443102da6fa4374acf92b612204a51c",
+                            "Latitude": 35.585844,
+                            "Longitude": 118.843408,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN371122",
+                            "Title": "莒县"
+                        },
+                        {
+                            "Id": "8d282f6f79f2442190ec5349b92a544a",
+                            "Latitude": 25.279893,
+                            "Longitude": 110.296442,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4503",
+                            "Title": "桂林"
+                        },
+                        {
+                            "Id": "a8e306e6b5374b06a19633c828d01e67",
+                            "Latitude": 34.146443,
+                            "Longitude": 113.494451,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411081",
+                            "Title": "禹州"
+                        },
+                        {
+                            "Id": "27665096844e4c9e83814ca3d0efa554",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "f1f6936393314a4088a3c82b0bbe6a98",
+                            "Latitude": 35.767586,
+                            "Longitude": 115.035917,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4109",
+                            "Title": "濮阳"
+                        },
+                        {
+                            "Id": "ce42d333c328412bb88a1a0e1d3c087b",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "1774f26990ea4ce7b5fe45f90b3d70e6",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "c9399629beb642609d54ffd26b43e405",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "f10f40c0119f4ebb84171fa884869308",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "a35aee52ba1549de961613683c2c56a2",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "f9806fafb2be45bfb5e959aa2327928d",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "0fd1f0b4155f44d3b295ec14b4d78098",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "080604aa8a034f3db5e938c4bcd3c976",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "2e8c1963d5a74584896bd71a5cf6f82a",
+                            "Latitude": 33.013193,
+                            "Longitude": 114.368698,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411727",
+                            "Title": "汝南"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 34.146443,
+                    "Longitude": 113.494451,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411081",
+                    "Title": "禹州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6bbdbe3b28704180bc1b9c8046dfa34e\");'><span id='6bbdbe3b28704180bc1b9c8046dfa34e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=717&endYear=729')\">717-729年</a>，1-13岁</div><div id='6bbdbe3b28704180bc1b9c8046dfa34e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=717&endYear=729')\">717-729年</a>　在颍川家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a8e306e6b5374b06a19633c828d01e67\");'><span id='a8e306e6b5374b06a19633c828d01e67_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=739&endYear=740')\">739-740年</a>，23-24岁</div><div id='a8e306e6b5374b06a19633c828d01e67' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=739&endYear=740')\">739-740年</a>　丁家艰。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cf6b7d9494424238b5104adb76583945\");'><span id='cf6b7d9494424238b5104adb76583945_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=730&endYear=735')\">730-735年</a>，14-19岁</div><div id='cf6b7d9494424238b5104adb76583945' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=730&endYear=730')\">730年</a>　在长安补太学生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=731&endYear=734')\">731-734年</a>　在长安补太学，与李华、赵骅、邵轸同居兴敬里。又与颜真卿、柳芳、陆据交游。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=735&endYear=735')\">735年</a>　长安及第。进士第一。得到孙逖、韦述等人的奖掖。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"27665096844e4c9e83814ca3d0efa554\");'><span id='27665096844e4c9e83814ca3d0efa554_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=741&endYear=742')\">741-742年</a>，25-26岁</div><div id='27665096844e4c9e83814ca3d0efa554' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=741&endYear=741')\">741年</a>　丧满服除，进长安拜谒韦述。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=741&endYear=741')\">741年</a>　在长安，韦述多次造访，萧颖士作诗。<span class='label'>作品：</span>仰答韦司业垂访五首。<div id='poem_47206' class='_poem'><div id='poem_title_47206' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47206' class='poemCommentLink' target='_blank'>仰荅韦司业垂访五首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(19511, \"唐\", \"萧颖士\", \"poem_title_47206\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>萧颖士</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_47206_comment'></div><div class='titleComment' id='poem_allusion_47206'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(6029, \"poem_allusion_47206\")'>食萍鹿</span></div><div id='poem_allusion_47206_comment'></div><div class='poemContent' id='poem_content_47206'><div class='poemSentence' id='poem_sentence_0_47206'>呦呦<span class='link' onclick='ShowWordComment(\"poem_sentence_0_47206\", 47206, \"Clauses/0/Comments/0\")'>食苹鹿</span>，常饮清泠川。</div><div id='poem_sentence_0_47206_comment'></div><div class='poemSentence' id='poem_sentence_1_47206'>但悦丰草美，宁知牢馔鲜。</div><div id='poem_sentence_1_47206_comment'></div><div class='poemSentence' id='poem_sentence_2_47206'>主人有幽意，将以充林泉。</div><div id='poem_sentence_2_47206_comment'></div><div class='poemSentence' id='poem_sentence_3_47206'>罗网幸免伤，蒙君复羁牵。</div><div id='poem_sentence_3_47206_comment'></div><div class='poemSentence' id='poem_sentence_4_47206'>高堂列众宾，广座鸣清弦。</div><div id='poem_sentence_4_47206_comment'></div><div class='poemSentence' id='poem_sentence_5_47206'>俯仰转<span class='link' onclick='ShowWordComment(\"poem_sentence_5_47206\", 47206, \"Clauses/10/Comments/1\")'>惊<span class='inlineComment2'>（一作伤）</span>惕</span>，裴回独忧煎。</div><div id='poem_sentence_5_47206_comment'></div><div class='poemSentence' id='poem_sentence_6_47206'>缅怀云岩路，欲往无由缘。</div><div id='poem_sentence_6_47206_comment'></div><div class='poemSentence' id='poem_sentence_7_47206'>物各有所好，违之伤自然。</div><div id='poem_sentence_7_47206_comment'></div><div class='poemSentence' id='poem_sentence_8_47206'></div><div id='poem_sentence_8_47206_comment'></div></div></div><div id='poem_47207' class='_poem'><div id='poem_title_47207' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47207' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_47207_comment'></div><div class='poemContent' id='poem_content_47207'><div class='poemSentence' id='poem_sentence_0_47207'>神龟在南国，缅邈湘川阴。</div><div id='poem_sentence_0_47207_comment'></div><div class='poemSentence' id='poem_sentence_1_47207'>游止莲叶上，岁时嘉树林。</div><div id='poem_sentence_1_47207_comment'></div><div class='poemSentence' id='poem_sentence_2_47207'>毒虫且不近，斤斧何由寻。</div><div id='poem_sentence_2_47207_comment'></div><div class='poemSentence' id='poem_sentence_3_47207'><span class='link' onclick='ShowWordComment(\"poem_sentence_3_47207\", 47207, \"Clauses/6/Comments/0\")'>错落</span>负奇文，荧煌耀丹金。</div><div id='poem_sentence_3_47207_comment'></div><div class='poemSentence' id='poem_sentence_4_47207'>江山万里馀，淮海阻且深。</div><div id='poem_sentence_4_47207_comment'></div><div class='poemSentence' id='poem_sentence_5_47207'>独保贞素质，不为寒暑侵。</div><div id='poem_sentence_5_47207_comment'></div><div class='poemSentence' id='poem_sentence_6_47207'>一逢盛明代，应见通灵心。</div><div id='poem_sentence_6_47207_comment'></div><div class='poemSentence' id='poem_sentence_7_47207'></div><div id='poem_sentence_7_47207_comment'></div></div></div><div id='poem_47208' class='_poem'><div id='poem_title_47208' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47208' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_47208_comment'></div><div class='titleComment' id='poem_allusion_47208'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(10161, \"poem_allusion_47208\")'>庾征西</span></div><div id='poem_allusion_47208_comment'></div><div class='poemContent' id='poem_content_47208'><div class='poemSentence' id='poem_sentence_0_47208'>晋代有儒臣，当年富词藻。</div><div id='poem_sentence_0_47208_comment'></div><div class='poemSentence' id='poem_sentence_1_47208'>立言寄青史，将以赞王道。</div><div id='poem_sentence_1_47208_comment'></div><div class='poemSentence' id='poem_sentence_2_47208'>辽落缅岁时，辛勤历江岛。</div><div id='poem_sentence_2_47208_comment'></div><div class='poemSentence' id='poem_sentence_3_47208'>且言风波倦，探涉岂为宝。</div><div id='poem_sentence_3_47208_comment'></div><div class='poemSentence' id='poem_sentence_4_47208'>不遇<span class='link' onclick='ShowAllusionComment(10161, \"poem_sentence_4_47208\")'>庾征西</span>，云谁展怀抱。</div><div id='poem_sentence_4_47208_comment'></div><div class='poemSentence' id='poem_sentence_5_47208'>士贫乏知己，安得成所好。</div><div id='poem_sentence_5_47208_comment'></div><div class='poemSentence' id='poem_sentence_6_47208'></div><div id='poem_sentence_6_47208_comment'></div></div></div><div id='poem_47209' class='_poem'><div id='poem_title_47209' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47209' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_47209_comment'></div><div class='titleComment' id='poem_allusion_47209'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(5155, \"poem_allusion_47209\")'>举仇</span>　<span class='link' onclick='ShowAllusionComment(7886, \"poem_allusion_47209\")'>叔向婴拘</span></div><div id='poem_allusion_47209_comment'></div><div class='poemContent' id='poem_content_47209'><div class='poemSentence' id='poem_sentence_0_47209'>彭阳昔游说，愿谒南郢都。</div><div id='poem_sentence_0_47209_comment'></div><div class='poemSentence' id='poem_sentence_1_47209'>王果尚未达，况从夷节谟。</div><div id='poem_sentence_1_47209_comment'></div><div class='poemSentence' id='poem_sentence_2_47209'>岂知晋叔向，无罪婴<span class='link' onclick='ShowWordComment(\"poem_sentence_2_47209\", 47209, \"Clauses/5/Comments/0\")'>囚拘</span>。</div><div id='poem_sentence_2_47209_comment'></div><div class='poemSentence' id='poem_sentence_3_47209'>临难俟解纷，独知祁大夫。</div><div id='poem_sentence_3_47209_comment'></div><div class='poemSentence' id='poem_sentence_4_47209'>举雠且不弃，何必论亲疏。</div><div id='poem_sentence_4_47209_comment'></div><div class='poemSentence' id='poem_sentence_5_47209'>夫子觉者也，其能<span class='inlineComment2'>（一作肯）</span>遗我乎。</div><div id='poem_sentence_5_47209_comment'></div><div class='poemSentence' id='poem_sentence_6_47209'></div><div id='poem_sentence_6_47209_comment'></div></div></div><div id='poem_47210' class='_poem'><div id='poem_title_47210' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47210' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_47210_comment'></div><div class='titleComment' id='poem_allusion_47210'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(2204, \"poem_allusion_47210\")'>倒屣</span></div><div id='poem_allusion_47210_comment'></div><div class='poemContent' id='poem_content_47210'><div class='poemSentence' id='poem_sentence_0_47210'>关西一公子，年貌独青春。</div><div id='poem_sentence_0_47210_comment'></div><div class='poemSentence' id='poem_sentence_1_47210'>被褐来上京，翳然声未振。</div><div id='poem_sentence_1_47210_comment'></div><div class='poemSentence' id='poem_sentence_2_47210'>中郎何为者，<span class='link' onclick='ShowAllusionComment(2204, \"poem_sentence_2_47210\")'>倒屣</span>惊座宾。</div><div id='poem_sentence_2_47210_comment'></div><div class='poemSentence' id='poem_sentence_3_47210'>词赋岂不佳，盛名亦相因。</div><div id='poem_sentence_3_47210_comment'></div><div class='poemSentence' id='poem_sentence_4_47210'>为君奏此曲，此曲多苦辛。</div><div id='poem_sentence_4_47210_comment'></div><div class='poemSentence' id='poem_sentence_5_47210'>千载不可诬，孰言今无人。</div><div id='poem_sentence_5_47210_comment'></div><div class='poemSentence' id='poem_sentence_6_47210'></div><div id='poem_sentence_6_47210_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=742&endYear=742')\">742年</a>　在长安，授秘书省正字。不久，被参奏罢职。<span class='label'>作品：</span>赠韦司业书。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ce42d333c328412bb88a1a0e1d3c087b\");'><span id='ce42d333c328412bb88a1a0e1d3c087b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=746&endYear=748')\">746-748年</a>，30-32岁</div><div id='ce42d333c328412bb88a1a0e1d3c087b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=746&endYear=746')\">746年</a>　被诏入京。授集贤院校理。<span class='label'>作品：</span>爱而不见赋。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=747&endYear=748')\">747-748年</a>　在京。任集贤院校理。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f10f40c0119f4ebb84171fa884869308\");'><span id='f10f40c0119f4ebb84171fa884869308_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=751&endYear=753')\">751-753年</a>，35-37岁</div><div id='f10f40c0119f4ebb84171fa884869308' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=751&endYear=751')\">751年</a>　朝廷征召进京。工部侍郎韦述修国史，荐萧颖士自代。潜心著书万卷。<span class='label'>作品：</span>白鹇赋。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=752&endYear=753')\">752-753年</a>　在长安，潜心著书万卷。礼部侍郎杨浚掌贡举，问萧求人，海内以为德选。<br /></div>"
+                },
+                {
+                    "Latitude": 35.585844,
+                    "Longitude": 118.843408,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN371122",
+                    "Title": "莒县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5443102da6fa4374acf92b612204a51c\");'><span id='5443102da6fa4374acf92b612204a51c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=736&endYear=737')\">736-737年</a>，20-21岁</div><div id='5443102da6fa4374acf92b612204a51c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=736&endYear=736')\">736年</a>　授金坛尉，未赴。其父莒县丞萧旻得罪，颖士四处奔走求告。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=737&endYear=737')\">737年</a>　其父莒县丞萧旻得罪，颖士四处奔走求告。<br /></div>"
+                },
+                {
+                    "Latitude": 25.279893,
+                    "Longitude": 110.296442,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4503",
+                    "Title": "桂林",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8d282f6f79f2442190ec5349b92a544a\");'><span id='8d282f6f79f2442190ec5349b92a544a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=738&endYear=738')\">738年</a>，22岁</div><div id='8d282f6f79f2442190ec5349b92a544a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=738&endYear=738')\">738年</a>　授桂州参军,不久丁艰离职。<br /></div>"
+                },
+                {
+                    "Latitude": 35.767586,
+                    "Longitude": 115.035917,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4109",
+                    "Title": "濮阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f1f6936393314a4088a3c82b0bbe6a98\");'><span id='f1f6936393314a4088a3c82b0bbe6a98_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=743&endYear=745')\">743-745年</a>，27-29岁</div><div id='f1f6936393314a4088a3c82b0bbe6a98' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=743&endYear=745')\">743-745年</a>　客居濮阳，教书为生。尹征、王恒、卢异、卢士武、贾邕、赵匡、阎士和、柳并皆执弟子礼，号萧夫子。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1774f26990ea4ce7b5fe45f90b3d70e6\");'><span id='1774f26990ea4ce7b5fe45f90b3d70e6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=749&endYear=749')\">749年</a>，33岁</div><div id='1774f26990ea4ce7b5fe45f90b3d70e6' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>贬谪为广陵参军。寓居紫极宫道学馆，愤而作《伐樱桃树赋》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>会母丧罢职，漂泊江介。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"080604aa8a034f3db5e938c4bcd3c976\");'><span id='080604aa8a034f3db5e938c4bcd3c976_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=758')\">756-758年</a>，40-42岁</div><div id='080604aa8a034f3db5e938c4bcd3c976' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　接受广陵长史李成式之聘，为其幕僚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　十月，为李中丞代书。<span class='label'>作品：</span>为李中丞作与虢王书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　秋冬之际，代李式上书。<span class='label'>作品：</span>为李中丞贺赦书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　秋冬之际，有与崔园书。<span class='label'>作品：</span>与崔中书园书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=757&endYear=757')\">757年</a>　扬州功曹参军任，至官，信宿而去。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=758&endYear=758')\">758年</a>　二月至十月为相国诸道租庸调使第五琦聘为幕僚。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c9399629beb642609d54ffd26b43e405\");'><span id='c9399629beb642609d54ffd26b43e405_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=750&endYear=750')\">750年</a>，34岁</div><div id='c9399629beb642609d54ffd26b43e405' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=750&endYear=750')\">750年</a>　会母丧罢职，漂泊江介。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a35aee52ba1549de961613683c2c56a2\");'><span id='a35aee52ba1549de961613683c2c56a2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=754&endYear=756')\">754-756年</a>，38-40岁</div><div id='a35aee52ba1549de961613683c2c56a2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=754&endYear=754')\">754年</a>　调河南府军事，赴洛阳，学生贾邕、刘舟、长孙铸、房白、元晟、刘太冲、姚发、郑愕、殷少野、邬载赠诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=755&endYear=755')\">755年</a>　调河南府军事，赴洛阳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=755&endYear=755')\">755年</a>　托疾离职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　安史之乱发，萧颖士往见河南采访使郭纳，献策，纳忽不用。又往见封常清，不宿而还。<br /></div>"
+                },
+                {
+                    "Latitude": 32.014789,
+                    "Longitude": 112.129089,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4206",
+                    "Title": "襄阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f9806fafb2be45bfb5e959aa2327928d\");'><span id='f9806fafb2be45bfb5e959aa2327928d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>，40岁</div><div id='f9806fafb2be45bfb5e959aa2327928d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　因走山南，节度使源洧辟掌书记。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0fd1f0b4155f44d3b295ec14b4d78098\");'><span id='0fd1f0b4155f44d3b295ec14b4d78098_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>，40岁</div><div id='0fd1f0b4155f44d3b295ec14b4d78098' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=756&endYear=756')\">756年</a>　源洧卒，萧颖士客游金陵，永王李璘招之，不见。<br /></div>"
+                },
+                {
+                    "Latitude": 33.013193,
+                    "Longitude": 114.368698,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411727",
+                    "Title": "汝南",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2e8c1963d5a74584896bd71a5cf6f82a\");'><span id='2e8c1963d5a74584896bd71a5cf6f82a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=759&endYear=759')\">759年</a>，43岁</div><div id='2e8c1963d5a74584896bd71a5cf6f82a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=759&endYear=759')\">759年</a>　卒。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "萧颖士 <span class='inlineComment2'>(717-759)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：俞纪东：《萧颖士事迹考》、乔长阜 ：《萧颖士事迹系年考辨》　录入整理：龚红林</p><p><a href=\"javascript: ViewRoute(0, 5, 113.894857, 30.4328685, 7, 0)\">1-24岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">禹州</a> → <a href=\"javascript: ViewPoint(1, 0)\">西安</a> → <a href=\"javascript: ViewPoint(2, 0)\">莒县</a> → <a href=\"javascript: ViewPoint(3, 0)\">桂林</a> → <a href=\"javascript: ViewPoint(4, 0)\">禹州</a></p><p><a href=\"javascript: ViewRoute(5, 9, 114.1827065, 34.083723, 7, 0)\">25-33岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">西安</a> → <a href=\"javascript: ViewPoint(6, 0)\">濮阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">西安</a> → <a href=\"javascript: ViewPoint(8, 0)\">扬州</a></p><p><a href=\"javascript: ViewRoute(9, 16, 114.7664895, 32.3304475, 7, 0)\">34-43岁</a><br /><a href=\"javascript: ViewPoint(9, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(10, 0)\">西安</a> → <a href=\"javascript: ViewPoint(11, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(12, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(13, 0)\">南京</a> → <a href=\"javascript: ViewPoint(14, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(15, 0)\">汝南</a></p>"
+        }
+    ]
+}

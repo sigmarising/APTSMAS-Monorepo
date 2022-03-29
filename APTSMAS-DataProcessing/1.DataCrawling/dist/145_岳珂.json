@@ -1,0 +1,380 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.575549,
+            "CenterLongitude": 118.504404,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "2b3dae6f23ae4d3babfe304b8279b446",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "24204d24efab48b2af7bd62c09b374b8",
+                            "Latitude": 23.135308,
+                            "Longitude": 113.270793,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4401",
+                            "Title": "广州"
+                        },
+                        {
+                            "Id": "0d26622c16f841eb926d0184d849d82d",
+                            "Latitude": 31.346071,
+                            "Longitude": 119.830069,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320282",
+                            "Title": "宜兴"
+                        },
+                        {
+                            "Id": "7b4ac39de0b44dd2816ac39bc4f5909c",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "7011c4f5389c4ec1a5dd0e3d746f3ff8",
+                            "Latitude": 24.880242,
+                            "Longitude": 118.682316,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3505",
+                            "Title": "泉州"
+                        },
+                        {
+                            "Id": "4d813b7a38c144f4a852d95282c7f939",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "4e360482339a49c99f553fecfa56e15e",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "998f9592757a4533a74f5286f7b4f077",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "4014c88fb1b949a2b08e24a3ed098c2b",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "589932178e45402c84ed86f92a8f2a69",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "38e1666c4e704bfc8548518b9f9b1024",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "0376fd0581444dbf9730d3dcdc47399a",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "266c77814f47498e9d350f4e33fa4920",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "42e491bd114045b5bd2eac14d1bd3989",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "5dfef6eb826947c9bf0f187777cd0037",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "2051c242f98c40c1afc34fb3299a9d3e",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "325b4fdc16e0445296c33377163fbf59",
+                            "Latitude": 30.750912,
+                            "Longitude": 120.762045,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3304",
+                            "Title": "嘉兴"
+                        },
+                        {
+                            "Id": "2a1b84dc48494776ae6ed26baa1a16c3",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "2a4072a2c9ea4d99a4df94ea57d4a4b8",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "7877c6e78d1d45bd8ace1b57c5fd5df2",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "a303edb533ea45b1804c1f4c0e17f097",
+                            "Latitude": 30.598428,
+                            "Longitude": 114.311831,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4201",
+                            "Title": "武汉"
+                        },
+                        {
+                            "Id": "248565bf0fe6407b8f3871d9909eac3b",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "cd847acdd6344bb1827dcbd29003d5b9",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "cd2747bf86c34c18b9ea774376c863b4",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.575549,
+                    "Longitude": 118.504404,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340521",
+                    "Title": "当涂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2b3dae6f23ae4d3babfe304b8279b446\");'><span id='2b3dae6f23ae4d3babfe304b8279b446_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年</a>，8岁</div><div id='2b3dae6f23ae4d3babfe304b8279b446' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年</a>　随父宦游，四处迁徙。本年与父亲过当涂，赵汝愚为当涂守，岳珂代父作报书，受到赵汝愚称赞。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"cd847acdd6344bb1827dcbd29003d5b9\");'><span id='cd847acdd6344bb1827dcbd29003d5b9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年</a>，58岁</div><div id='cd847acdd6344bb1827dcbd29003d5b9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年</a>　为权户部尚书、八路制置茶盐使，兼守当涂，正三品。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年12月</a>　任八路制置茶盐使。十二月转官为通议大夫。<span class='label'>作品：</span>十二月诹吉受通议大夫告再书述怀二首（其一）十二月诹吉受通议大夫告再书述怀二首（其二）<div id='poem_167080' class='_poem'><div id='poem_title_167080' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=167080' class='poemCommentLink' target='_blank'>十二日诹吉受通议大夫告再书述怀二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(25249, \"宋\", \"岳珂\", \"poem_title_167080\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>岳珂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_167080_comment'></div><div class='poemContent' id='poem_content_167080'><div class='poemSentence' id='poem_sentence_0_167080'>圣代论思秩，中朝博议官。</div><div id='poem_sentence_0_167080_comment'></div><div class='poemSentence' id='poem_sentence_1_167080'>尚纡郡邸绶，空著侍臣冠。</div><div id='poem_sentence_1_167080_comment'></div><div class='poemSentence' id='poem_sentence_2_167080'>岁月惊驰隙，功名尽画墁。</div><div id='poem_sentence_2_167080_comment'></div><div class='poemSentence' id='poem_sentence_3_167080'>髀销今已复，半世愧狨鞍。</div><div id='poem_sentence_3_167080_comment'></div><div class='poemSentence' id='poem_sentence_4_167080'></div><div id='poem_sentence_4_167080_comment'></div></div></div><div id='poem_167079' class='_poem'><div id='poem_title_167079' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=167079' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_167079_comment'></div><div class='poemContent' id='poem_content_167079'><div class='poemSentence' id='poem_sentence_0_167079'>五云瞻观阙，百印写纶丝。</div><div id='poem_sentence_0_167079_comment'></div><div class='poemSentence' id='poem_sentence_1_167079'>有愧陪貂尾，何功复雁踦。</div><div id='poem_sentence_1_167079_comment'></div><div class='poemSentence' id='poem_sentence_2_167079'>精镠肦紫磨，实匪<span class='inlineComment2'>（小集作篚）</span>咏缁宜。</div><div id='poem_sentence_2_167079_comment'></div><div class='poemSentence' id='poem_sentence_3_167079'>圣德知难报，规铜笑白髭。</div><div id='poem_sentence_3_167079_comment'></div><div class='poemSentence' id='poem_sentence_4_167079'></div><div id='poem_sentence_4_167079_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年</a>　任八路制置茶盐使。《玉楮集》结集于是年。<br /></div>"
+                },
+                {
+                    "Latitude": 23.135308,
+                    "Longitude": 113.270793,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4401",
+                    "Title": "广州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"24204d24efab48b2af7bd62c09b374b8\");'><span id='24204d24efab48b2af7bd62c09b374b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年</a>，10岁</div><div id='24204d24efab48b2af7bd62c09b374b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年</a>　冬，父亲卒于知广州任上。<br /></div>"
+                },
+                {
+                    "Latitude": 31.346071,
+                    "Longitude": 119.830069,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320282",
+                    "Title": "宜兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0d26622c16f841eb926d0184d849d82d\");'><span id='0d26622c16f841eb926d0184d849d82d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1194')\">1192-1194年</a>，10-12岁</div><div id='0d26622c16f841eb926d0184d849d82d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1194')\">1192-1194年</a>　护丧北归，居于宜兴。<br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7b4ac39de0b44dd2816ac39bc4f5909c\");'><span id='7b4ac39de0b44dd2816ac39bc4f5909c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>，13岁</div><div id='7b4ac39de0b44dd2816ac39bc4f5909c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>　回到故宅。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"998f9592757a4533a74f5286f7b4f077\");'><span id='998f9592757a4533a74f5286f7b4f077_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1201')\">1200-1201年</a>，18-19岁</div><div id='998f9592757a4533a74f5286f7b4f077' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1201')\">1200-1201年</a>　回到故宅。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"589932178e45402c84ed86f92a8f2a69\");'><span id='589932178e45402c84ed86f92a8f2a69_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1204')\">1203-1204年</a>，21-22岁</div><div id='589932178e45402c84ed86f92a8f2a69' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年</a>　回到故宅。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年4月</a>　整理岳飞遗文，上呈宁宗。<span class='label'>作品：</span>徼进奏状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年4月</a>　整理岳飞遗文，上呈宁宗，同以副本分送宰执、台谏诸官。<span class='label'>作品：</span>上侍从给舍台谏书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年5月21日</a>　宋宁宗下诏追封岳飞为鄂王。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5dfef6eb826947c9bf0f187777cd0037\");'><span id='5dfef6eb826947c9bf0f187777cd0037_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1214')\">1212-1214年</a>，30-32岁</div><div id='5dfef6eb826947c9bf0f187777cd0037' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1213')\">1212-1213年</a>　丁母忧服丧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')\">1214年</a>　丁母忧服丧。《桯史》成书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')\">1214年</a>　丁母忧服丧。《愧郯录》成书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')\">1214年</a>　丁母忧服丧。王子俊（字材臣）从四川回乡，经由九江，曾拜访岳珂，将《淳熙内禅颂》一文送岳珂品评。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7877c6e78d1d45bd8ace1b57c5fd5df2\");'><span id='7877c6e78d1d45bd8ace1b57c5fd5df2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1237')\">1233-1237年</a>，51-55岁</div><div id='7877c6e78d1d45bd8ace1b57c5fd5df2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')\">1233年</a>　冬，因韩正伦诬陷，罢淮东总领，归家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1237')\">1234-1237年</a>　蒙冤居家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"248565bf0fe6407b8f3871d9909eac3b\");'><span id='248565bf0fe6407b8f3871d9909eac3b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年</a>，57岁</div><div id='248565bf0fe6407b8f3871d9909eac3b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年5月</a>　五月，解官归江州，卧病于家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年8月</a>　八月，拜宝谟阁直学士、提举江州太平兴国宫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年</a>　封邺侯。<span class='label'>作品：</span>己亥明禋恩封邺侯感愧有作。<div id='poem_167107' class='_poem'><div id='poem_title_167107' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=167107' class='poemCommentLink' target='_blank'>己亥明禋恩封邺侯感愧有作二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(25249, \"宋\", \"岳珂\", \"poem_title_167107\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>岳珂</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_167107_comment'></div><div class='poemContent' id='poem_content_167107'><div class='poemSentence' id='poem_sentence_0_167107'>静即为方动即圆，幼知棋局老饶先。</div><div id='poem_sentence_0_167107_comment'></div><div class='poemSentence' id='poem_sentence_1_167107'>封同桑梓一千户，迹远蓬莱二十年。</div><div id='poem_sentence_1_167107_comment'></div><div class='poemSentence' id='poem_sentence_2_167107'>品禄幸犹容后隐，干畬何敢拟前贤。</div><div id='poem_sentence_2_167107_comment'></div><div class='poemSentence' id='poem_sentence_3_167107'>只馀筑室疑相似，三万牙签还俨然。</div><div id='poem_sentence_3_167107_comment'></div><div class='poemSentence' id='poem_sentence_4_167107'></div><div id='poem_sentence_4_167107_comment'></div></div></div><div id='poem_167106' class='_poem'><div id='poem_title_167106' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=167106' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_167106_comment'></div><div class='poemContent' id='poem_content_167106'><div class='poemSentence' id='poem_sentence_0_167106'>布衣所愿极封留，佩印归来正倦游。</div><div id='poem_sentence_0_167106_comment'></div><div class='poemSentence' id='poem_sentence_1_167106'>汗马无功开上郡，铸龟有意顾中流。</div><div id='poem_sentence_1_167106_comment'></div><div class='poemSentence' id='poem_sentence_2_167106'>南巡空负黄图恨，北望还兴紫陌愁。</div><div id='poem_sentence_2_167106_comment'></div><div class='poemSentence' id='poem_sentence_3_167106'>王国不烦谋主父，自怜支子亦通侯。</div><div id='poem_sentence_3_167106_comment'></div><div class='poemSentence' id='poem_sentence_4_167106'></div><div id='poem_sentence_4_167106_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 24.880242,
+                    "Longitude": 118.682316,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3505",
+                    "Title": "泉州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7011c4f5389c4ec1a5dd0e3d746f3ff8\");'><span id='7011c4f5389c4ec1a5dd0e3d746f3ff8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1197')\">1196-1197年</a>，14-15岁</div><div id='7011c4f5389c4ec1a5dd0e3d746f3ff8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1197')\">1196-1197年</a>　侍亲如闽。<br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4d813b7a38c144f4a852d95282c7f939\");'><span id='4d813b7a38c144f4a852d95282c7f939_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')\">1198年</a>，16岁</div><div id='4d813b7a38c144f4a852d95282c7f939' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')\">1198年8月</a>　就试于江南西路转运司。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4e360482339a49c99f553fecfa56e15e\");'><span id='4e360482339a49c99f553fecfa56e15e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>，17岁</div><div id='4e360482339a49c99f553fecfa56e15e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>　入京赴省试？<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4014c88fb1b949a2b08e24a3ed098c2b\");'><span id='4014c88fb1b949a2b08e24a3ed098c2b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')\">1202年</a>，20岁</div><div id='4014c88fb1b949a2b08e24a3ed098c2b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')\">1202年</a>　入京赴省试？<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0376fd0581444dbf9730d3dcdc47399a\");'><span id='0376fd0581444dbf9730d3dcdc47399a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年</a>，22岁</div><div id='0376fd0581444dbf9730d3dcdc47399a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年12月</a>　任监仓二十天后，谒告赴考。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"42e491bd114045b5bd2eac14d1bd3989\");'><span id='42e491bd114045b5bd2eac14d1bd3989_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1211')\">1207-1211年</a>，25-29岁</div><div id='42e491bd114045b5bd2eac14d1bd3989' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年</a>　经宇文绍节等人向宁宗举荐，岳珂被擢拔至京，任光禄丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年2月</a>　在京太官令，再度赴试。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')\">1209年</a>　在京为中朝官，或为扈寺主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1211')\">1210-1211年</a>　在京为司农寺主簿。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2051c242f98c40c1afc34fb3299a9d3e\");'><span id='2051c242f98c40c1afc34fb3299a9d3e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1216')\">1215-1216年</a>，33-34岁</div><div id='2051c242f98c40c1afc34fb3299a9d3e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')\">1215年</a>　终丧除服，为军器监丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')\">1216年</a>　改任司农寺丞。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"38e1666c4e704bfc8548518b9f9b1024\");'><span id='38e1666c4e704bfc8548518b9f9b1024_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年</a>，22岁</div><div id='38e1666c4e704bfc8548518b9f9b1024' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年12月</a>　为承务郎监镇江府户部大军仓（可能由恩荫而得）<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"266c77814f47498e9d350f4e33fa4920\");'><span id='266c77814f47498e9d350f4e33fa4920_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1206')\">1205-1206年</a>，23-24岁</div><div id='266c77814f47498e9d350f4e33fa4920' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　省试不中，回镇江总所。致信秘阁修撰、江陵知府吴猎，受其褒扬。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　与辛弃疾讨论辛词《永遇乐·京口北固亭怀古》之得失。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　与刘过相识，曾相互酬唱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　与章升之（字以初）相识，曾相互酬唱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　与黄机（字几叔）相识，曾相互酬唱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　与王迈（字英伯）相识，曾相互酬唱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年</a>　在镇江总所。时王师北伐，岳珂曾深入战场，有诗纪见闻。<span class='label'>作品：</span>北征。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2a4072a2c9ea4d99a4df94ea57d4a4b8\");'><span id='2a4072a2c9ea4d99a4df94ea57d4a4b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1232')\">1221-1232年</a>，39-50岁</div><div id='2a4072a2c9ea4d99a4df94ea57d4a4b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年8月</a>　除军器监淮东总领。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年</a>　在淮东总领任上。约于本年与刘宰（字平国）相识。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')\">1222年</a>　在淮东总领任上，官阶升为朝奉郎，正七品。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1223&endYear=1223')\">1223年</a>　在淮东总领任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1224&endYear=1224')\">1224年</a>　在淮东总领任上。新年之际，给李刘送酒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1225&endYear=1225')\">1225年</a>　在淮东总领任上。除朝奉大夫司农少卿，李刘作文以贺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')\">1226年</a>　在淮东总领任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1227')\">1227年</a>　在淮东总领任上，官阶升为户部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　在淮东总领任上，官阶为朝请大夫。把《金佗粹编》以后搜集到的岳飞遗文和有关资料，汇刻为《金佗续编》三十卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1232')\">1229-1232年</a>　在淮东总领任上。<br /></div>"
+                },
+                {
+                    "Latitude": 30.750912,
+                    "Longitude": 120.762045,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3304",
+                    "Title": "嘉兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"325b4fdc16e0445296c33377163fbf59\");'><span id='325b4fdc16e0445296c33377163fbf59_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1218')\">1217-1218年</a>，35-36岁</div><div id='325b4fdc16e0445296c33377163fbf59' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1217')\">1217年10月</a>　出守嘉兴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1218&endYear=1218')\">1218年</a>　编成《金佗粹编》，付梓于郡塾。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2a1b84dc48494776ae6ed26baa1a16c3\");'><span id='2a1b84dc48494776ae6ed26baa1a16c3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1221')\">1219-1221年</a>，37-39岁</div><div id='2a1b84dc48494776ae6ed26baa1a16c3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1219')\">1219年8月5日</a>　任承议郎权发江南东路转运判官，本年八月五日到任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')\">1220年</a>　在江东转运判官任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年</a>　任江东转运判官，置平籴仓。<br /></div>"
+                },
+                {
+                    "Latitude": 30.598428,
+                    "Longitude": 114.311831,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201",
+                    "Title": "武汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a303edb533ea45b1804c1f4c0e17f097\");'><span id='a303edb533ea45b1804c1f4c0e17f097_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>，56岁</div><div id='a303edb533ea45b1804c1f4c0e17f097' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年2月</a>　起复为户部侍郎、湖广总领。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　在湖广总领任上。李曾伯（字长孺）有文贺其除帅，又有诗贺寿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　在湖广总领任上。徐元杰（字仁伯）有文贺其除帅。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cd2747bf86c34c18b9ea774376c863b4\");'><span id='cd2747bf86c34c18b9ea774376c863b4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年</a>，59岁</div><div id='cd2747bf86c34c18b9ea774376c863b4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年</a>　罢职居吴门。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年12月</a>　继遭弹劾，削官一秩。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "岳珂 <span class='inlineComment2'>(1183-1242)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王瑞来《岳珂生平事迹考述》、朱寅、张金铣《岳珂所交作家考》　录入整理：邓建</p><p><a href=\"javascript: ViewRoute(0, 4, 116.550431, 27.3554285, 7, 0)\">8-13岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(1, 0)\">广州</a> → <a href=\"javascript: ViewPoint(2, 0)\">宜兴</a> → <a href=\"javascript: ViewPoint(3, 0)\">九江</a></p><p><a href=\"javascript: ViewRoute(4, 8, 118.0131105, 27.5801505, 8, 0)\">14-19岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">泉州</a> → <a href=\"javascript: ViewPoint(5, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(6, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(7, 0)\">九江</a></p><p><a href=\"javascript: ViewRoute(8, 12, 118.084843, 30.953508, 9, 0)\">20-22岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(9, 0)\">九江</a> → <a href=\"javascript: ViewPoint(10, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(11, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(12, 19, 118.385019, 30.953508, 8, 0)\">23-50岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(13, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(14, 0)\">九江</a> → <a href=\"javascript: ViewPoint(15, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(16, 0)\">嘉兴</a> → <a href=\"javascript: ViewPoint(17, 0)\">南京</a> → <a href=\"javascript: ViewPoint(18, 0)\">镇江</a></p><p><a href=\"javascript: ViewRoute(19, 24, 117.450722, 30.6434385, 8, 0)\">51-59岁</a><br /><a href=\"javascript: ViewPoint(19, 0)\">九江</a> → <a href=\"javascript: ViewPoint(20, 0)\">武汉</a> → <a href=\"javascript: ViewPoint(21, 0)\">九江</a> → <a href=\"javascript: ViewPoint(22, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(23, 0)\">苏州</a></p>"
+        }
+    ]
+}

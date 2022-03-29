@@ -1,0 +1,310 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.968047,
+            "CenterLongitude": 117.135438,
+            "ZoomLevel": 6,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "f001368d7922416fb890d4be3aa2df96",
+                            "Latitude": 28.968047,
+                            "Longitude": 117.135438,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360281",
+                            "Title": "乐平"
+                        },
+                        {
+                            "Id": "1e5643d76c5d42059693353193cee6d8",
+                            "Latitude": 29.294384,
+                            "Longitude": 121.436043,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330226",
+                            "Title": "宁海"
+                        },
+                        {
+                            "Id": "ffa30ec0fe584b3a9a93b8e253cec15e",
+                            "Latitude": 30.750912,
+                            "Longitude": 120.762045,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3304",
+                            "Title": "嘉兴"
+                        },
+                        {
+                            "Id": "1d7e5ede88154e67a0c4d06bd4f5c3d0",
+                            "Latitude": 29.011281,
+                            "Longitude": 116.709997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361128",
+                            "Title": "鄱阳"
+                        },
+                        {
+                            "Id": "02616d60831b432791f642a797b5e2b3",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "72af1d0076ae4979b3e8b04caf46da28",
+                            "Latitude": 37.876885,
+                            "Longitude": 112.55706,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN1401",
+                            "Title": "太原"
+                        },
+                        {
+                            "Id": "d9810b977161442883fd35501c823700",
+                            "Latitude": 40.082539,
+                            "Longitude": 113.306446,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN1402",
+                            "Title": "大同"
+                        },
+                        {
+                            "Id": "65dcc9678782466c8e0000260bd2b51d",
+                            "Latitude": 44.937862,
+                            "Longitude": 127.173986,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN230184",
+                            "Title": "五常"
+                        },
+                        {
+                            "Id": "7835dba7d95e47c9b641184a53003a9f",
+                            "Latitude": 39.911013,
+                            "Longitude": 116.413554,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN11",
+                            "Title": "北京"
+                        },
+                        {
+                            "Id": "fd75d42b951e4da1b772451e1a204d31",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "af91607c60444477b833976755825427",
+                            "Latitude": 29.011281,
+                            "Longitude": 116.709997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361128",
+                            "Title": "鄱阳"
+                        },
+                        {
+                            "Id": "c81bec4efbed42c3bfac9fbc99684457",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "9cc3f98a388441fa833b9625bc1de552",
+                            "Latitude": 29.011281,
+                            "Longitude": 116.709997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361128",
+                            "Title": "鄱阳"
+                        },
+                        {
+                            "Id": "cd9d5bac3de4429587a93d25c97c07cd",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "e4b9a0819afe4ca6b8f8792419030477",
+                            "Latitude": 24.191959,
+                            "Longitude": 113.421493,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN441881",
+                            "Title": "英德"
+                        },
+                        {
+                            "Id": "24ea7d735e9a4121b80bb65a732d0ff2",
+                            "Latitude": 25.125335,
+                            "Longitude": 114.317421,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN440282",
+                            "Title": "南雄"
+                        },
+                        {
+                            "Id": "52df3f57daa24e51a4b73d9b9c50682b",
+                            "Latitude": 29.011281,
+                            "Longitude": 116.709997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361128",
+                            "Title": "鄱阳"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.968047,
+                    "Longitude": 117.135438,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360281",
+                    "Title": "乐平 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f001368d7922416fb890d4be3aa2df96\");'><span id='f001368d7922416fb890d4be3aa2df96_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1115')\">1088-1115年</a>，1-28岁</div><div id='f001368d7922416fb890d4be3aa2df96' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年</a>　出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1113')\">1089-1113年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>　以诸生待廷试京师，王黼请婚，却之。伯父给事公曲为平章，卒却之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　登何㮚榜进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　朱勔请婚，复却之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　娶沈氏。太学博士沈松年之女弟。<br /></div>"
+                },
+                {
+                    "Latitude": 29.294384,
+                    "Longitude": 121.436043,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330226",
+                    "Title": "宁海",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1e5643d76c5d42059693353193cee6d8\");'><span id='1e5643d76c5d42059693353193cee6d8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1120')\">1116-1120年</a>，29-33岁</div><div id='1e5643d76c5d42059693353193cee6d8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')\">1116年</a>　官台州宁海县主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')\">1117年</a>　官宁海主簿。作三瑞堂、交翠亭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')\">1117年</a>　秋，长子洪适生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')\">1117年</a>　摄宁海县令。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1120')\">1118-1120年</a>　官宁海。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')\">1120年</a>　除南京国子博士，未就职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')\">1120年</a>　次子洪遵生。<br /></div>"
+                },
+                {
+                    "Latitude": 30.750912,
+                    "Longitude": 120.762045,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3304",
+                    "Title": "嘉兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ffa30ec0fe584b3a9a93b8e253cec15e\");'><span id='ffa30ec0fe584b3a9a93b8e253cec15e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1128')\">1121-1128年</a>，34-41岁</div><div id='ffa30ec0fe584b3a9a93b8e253cec15e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')\">1121年</a>　迁宣教郎，为秀州司录事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1123')\">1122-1123年</a>　官秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')\">1123年</a>　三子洪迈生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')\">1124年</a>　官秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')\">1124年</a>　秋大水，以荒政自任，所活九万五千余人，人呼为洪佛子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1127')\">1125-1127年</a>　官秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年</a>　官秀州司录。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　官秀州司录。累官朝散郎。<br /></div>"
+                },
+                {
+                    "Latitude": 29.011281,
+                    "Longitude": 116.709997,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361128",
+                    "Title": "鄱阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1d7e5ede88154e67a0c4d06bd4f5c3d0\");'><span id='1d7e5ede88154e67a0c4d06bd4f5c3d0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1129')\">1128-1129年</a>，41-42岁</div><div id='1d7e5ede88154e67a0c4d06bd4f5c3d0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　丁父秦国公忧，奔丧归饶州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年4月</a>　自饶州还，至秀州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"af91607c60444477b833976755825427\");'><span id='af91607c60444477b833976755825427_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1144')\">1143-1144年</a>，56-57岁</div><div id='af91607c60444477b833976755825427' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年9月</a>　数忤秦桧，桧风李文会论劾，出知饶州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年</a>　在饶州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9cc3f98a388441fa833b9625bc1de552\");'><span id='9cc3f98a388441fa833b9625bc1de552_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1146')\">1145-1146年</a>，58-59岁</div><div id='9cc3f98a388441fa833b9625bc1de552' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年</a>　在饶州，营葬秦国公、秦国太夫人于滃潭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年</a>　在饶州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"52df3f57daa24e51a4b73d9b9c50682b\");'><span id='52df3f57daa24e51a4b73d9b9c50682b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>，68岁</div><div id='52df3f57daa24e51a4b73d9b9c50682b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年11月</a>　诏复敷文阁直学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　复徽猷阁直学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　诏赠四官至大夫，爵至鄱阳郡开国侯食邑至一千一百户，赐谥忠宣。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"02616d60831b432791f642a797b5e2b3\");'><span id='02616d60831b432791f642a797b5e2b3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>，42岁</div><div id='02616d60831b432791f642a797b5e2b3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>　高宗移跸建康，皓适过临安，疏谏不纳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年5月</a>　得旨召对。起复为徽猷阁待制，假礼部尚书充大金通问使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>　兼淮南京东等路抚谕使。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fd75d42b951e4da1b772451e1a204d31\");'><span id='fd75d42b951e4da1b772451e1a204d31_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>，56岁</div><div id='fd75d42b951e4da1b772451e1a204d31' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年8月</a>　八月戊戌，至自燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　入见，高宗眷甚厚。奏事毕，力求乡郡养母，不许。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　皇太后召见，彻帘问劳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　除徽猷阁直学士，提举万寿观，兼权直学士院。<br /></div>"
+                },
+                {
+                    "Latitude": 37.876885,
+                    "Longitude": 112.55706,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN1401",
+                    "Title": "太原",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"72af1d0076ae4979b3e8b04caf46da28\");'><span id='72af1d0076ae4979b3e8b04caf46da28_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1130')\">1129-1130年</a>，42-43岁</div><div id='72af1d0076ae4979b3e8b04caf46da28' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年闰8</a>　至太原。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　在太原。<br /></div>"
+                },
+                {
+                    "Latitude": 40.082539,
+                    "Longitude": 113.306446,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN1402",
+                    "Title": "大同",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d9810b977161442883fd35501c823700\");'><span id='d9810b977161442883fd35501c823700_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1131')\">1130-1131年</a>，43-44岁</div><div id='d9810b977161442883fd35501c823700' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年12月</a>　徙云中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　在云中。时徽钦二帝徙居五国城，皓遣人奏书并献胡桃、梨条、粟面诸物。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　金人迫使仕刘豫，不从。<br /></div>"
+                },
+                {
+                    "Latitude": 44.937862,
+                    "Longitude": 127.173986,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN230184",
+                    "Title": "五常",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"65dcc9678782466c8e0000260bd2b51d\");'><span id='65dcc9678782466c8e0000260bd2b51d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1139')\">1131-1139年</a>，44-52岁</div><div id='65dcc9678782466c8e0000260bd2b51d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年5月</a>　徙冷山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　完颜希尹命其八子受学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年</a>　在冷山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年</a>　王伦自金还，言皓奉使不屈，诏下秀州存问家属，赐银二百。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1134')\">1133-1134年</a>　在冷山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年4月</a>　在冷山。是年，永祐陵讳闻，皓北向泣血，遣使臣沈珍往燕山开泰寺建道场，为文祭之。<span class='label'>作品：</span>永祐陵祭文。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第22册，第229-383页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1137')\">1136-1137年</a>　在冷山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年2月</a>　诏存恤家属。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>　在冷山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年11月</a>　夫人沈氏薨于秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年</a>　在冷山。<br /></div>"
+                },
+                {
+                    "Latitude": 39.911013,
+                    "Longitude": 116.413554,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN11",
+                    "Title": "北京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7835dba7d95e47c9b641184a53003a9f\");'><span id='7835dba7d95e47c9b641184a53003a9f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1143')\">1140-1143年</a>，53-56岁</div><div id='7835dba7d95e47c9b641184a53003a9f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　自冷山徙燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年8月</a>　至燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　书机事数万言，藏故絮中，遣赵德归上之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年11月</a>　有上母书。<span class='label'>作品：</span>上母书。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第22册，第229-393页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　在燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　夏，求得皇太后书，遣李微归上之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　冬，复以书奏上，并献六朝御容、徽宗御书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　上金相韩昉书，誓以死不就职，遂令校云中进士试，使者监上道，至云中，以疾闻，复回燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　在燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　何铸、曹勋使至燕，请归皇太后，金人许诺，皓遣人先报。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　皇太后归过燕，皓冒禁朝于燕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　万俟卨等使至燕，特持赐金帛。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　宴张总侍御家，归赋《江梅引》四阕。<span class='label'>作品：</span>江梅引。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第22册，第229-402页。）</span><div id='poem_181037' class='_poem'><div id='poem_title_181037' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=181037' class='poemCommentLink' target='_blank'>江梅引四首<span style='margin: 0 0.5em'> 其四 </span>□□□</a><a href='javascript: ShowPoemAuthorProfile(28560, \"宋\", \"洪皓\", \"poem_title_181037\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>洪皓</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_181037_comment'></div><div class='poemContent' id='poem_content_181037'><div class='poemSentence' id='poem_sentence_0_181037'>去年湖上雪欺梅。</div><div id='poem_sentence_0_181037_comment'></div><div class='poemSentence' id='poem_sentence_1_181037'>片云开。</div><div id='poem_sentence_1_181037_comment'></div><div class='poemSentence' id='poem_sentence_2_181037'>月飞来。</div><div id='poem_sentence_2_181037_comment'></div><div class='poemSentence' id='poem_sentence_3_181037'>雪月光中、无处认楼台。</div><div id='poem_sentence_3_181037_comment'></div><div class='poemSentence' id='poem_sentence_4_181037'>今岁梅开依旧雪，人如月，对花笑，还有谁。</div><div id='poem_sentence_4_181037_comment'></div><br /><div class='poemSentence' id='poem_sentence_5_181037'>一枝两枝三四蕊。</div><div id='poem_sentence_5_181037_comment'></div><div class='poemSentence' id='poem_sentence_6_181037'>想西湖，今帝里。</div><div id='poem_sentence_6_181037_comment'></div><div class='poemSentence' id='poem_sentence_7_181037'>彩笺烂绮。</div><div id='poem_sentence_7_181037_comment'></div><div class='poemSentence' id='poem_sentence_8_181037'>孤山外、目断云飞。</div><div id='poem_sentence_8_181037_comment'></div><div class='poemSentence' id='poem_sentence_9_181037'>坐久花寒、香露湿人衣。</div><div id='poem_sentence_9_181037_comment'></div><div class='poemSentence' id='poem_sentence_10_181037'>谁作叫云横短玉，三弄彻，对东风，和泪吹。</div><div id='poem_sentence_10_181037_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年6月</a>　和议成，六月庚戌，皓与张邵、朱弁使还。<br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c81bec4efbed42c3bfac9fbc99684457\");'><span id='c81bec4efbed42c3bfac9fbc99684457_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年</a>，57岁</div><div id='c81bec4efbed42c3bfac9fbc99684457' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年6月</a>　詹大方迎秦桧意论之，谪提举江州太平观。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"cd9d5bac3de4429587a93d25c97c07cd\");'><span id='cd9d5bac3de4429587a93d25c97c07cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>，60岁</div><div id='cd9d5bac3de4429587a93d25c97c07cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　服除，复提举江州太平观。<br /></div>"
+                },
+                {
+                    "Latitude": 24.191959,
+                    "Longitude": 113.421493,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN441881",
+                    "Title": "英德",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e4b9a0819afe4ca6b8f8792419030477\");'><span id='e4b9a0819afe4ca6b8f8792419030477_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1155')\">1147-1155年</a>，60-68岁</div><div id='e4b9a0819afe4ca6b8f8792419030477' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年5月</a>　谪濠州团练副使，英州安置。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　至英州，居法林寺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1149')\">1148-1149年</a>　在英州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')\">1149年</a>　瘴作，十八日未食。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')\">1149年</a>　口占秀州救灾事，授诸子。呼天请命。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')\">1150年</a>　在英州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>　在英州。患风淫疾。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>　是年，方滋为广南东路经略使，待皓尽礼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1153')\">1152-1153年</a>　在英州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年</a>　是年春，长子适得冯氏故宅，作爽堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年</a>　在英州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　复左朝奉郎，主台州崇道观，袁州居住。<br /></div>"
+                },
+                {
+                    "Latitude": 25.125335,
+                    "Longitude": 114.317421,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN440282",
+                    "Title": "南雄",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"24ea7d735e9a4121b80bb65a732d0ff2\");'><span id='24ea7d735e9a4121b80bb65a732d0ff2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>，68岁</div><div id='24ea7d735e9a4121b80bb65a732d0ff2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月20日</a>　未逾岭，疾革，薨于南雄。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "洪皓 <span class='inlineComment2'>(1088-1155)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：洪汝奎《洪忠宣公年谱》　录入整理：凌郁之</p><p><a href=\"javascript: ViewRoute(0, 5, 119.07302, 29.8594795, 8, 0)\">1-42岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">乐平</a> → <a href=\"javascript: ViewPoint(1, 0)\">宁海</a> → <a href=\"javascript: ViewPoint(2, 0)\">嘉兴</a> → <a href=\"javascript: ViewPoint(3, 0)\">鄱阳</a> → <a href=\"javascript: ViewPoint(4, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(5, 11, 119.865523, 36.9745715, 6, 0)\">42-57岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">太原</a> → <a href=\"javascript: ViewPoint(6, 0)\">大同</a> → <a href=\"javascript: ViewPoint(7, 0)\">五常</a> → <a href=\"javascript: ViewPoint(8, 0)\">北京</a> → <a href=\"javascript: ViewPoint(9, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(10, 0)\">鄱阳</a></p><p><a href=\"javascript: ViewRoute(11, 17, 115.065745, 26.9516435, 8, 0)\">57-68岁</a><br /><a href=\"javascript: ViewPoint(11, 0)\">九江</a> → <a href=\"javascript: ViewPoint(12, 0)\">鄱阳</a> → <a href=\"javascript: ViewPoint(13, 0)\">九江</a> → <a href=\"javascript: ViewPoint(14, 0)\">英德</a> → <a href=\"javascript: ViewPoint(15, 0)\">南雄</a> → <a href=\"javascript: ViewPoint(16, 0)\">鄱阳</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,490 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 32.786776,
+            "CenterLongitude": 119.462193,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "586b36ed56ac47f0aae1d675df1e402a",
+                            "Latitude": 32.786776,
+                            "Longitude": 119.462193,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321084",
+                            "Title": "高邮"
+                        },
+                        {
+                            "Id": "f338ca0fac964ae3b433d34029874bbc",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "0177c0d42a534598837dc597b9a9bdb2",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "2a7726d9fbee4143920465b9ab7d3fe0",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "8dc5af6331924f1b9cf7d84bf52ea84d",
+                            "Latitude": 31.82687,
+                            "Longitude": 117.235447,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3401",
+                            "Title": "合肥"
+                        },
+                        {
+                            "Id": "a32cb08a5f7c4853bc64b9b468e2e071",
+                            "Latitude": 29.721365,
+                            "Longitude": 118.345096,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341",
+                            "Title": "黄山"
+                        },
+                        {
+                            "Id": "e8d853add55d4b23997334d46af34475",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "3bc1a28a34bc4124937bd068d85404ff",
+                            "Latitude": 32.786776,
+                            "Longitude": 119.462193,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321084",
+                            "Title": "高邮"
+                        },
+                        {
+                            "Id": "8819b02e19f245dda583e751517a25ce",
+                            "Latitude": 33.787173,
+                            "Longitude": 119.267334,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320826",
+                            "Title": "涟水"
+                        },
+                        {
+                            "Id": "318a90143369473fab1841844834f5a6",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "d7a046f85fc74da198450979fa4b51b9",
+                            "Latitude": 31.014847,
+                            "Longitude": 120.639402,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320509",
+                            "Title": "吴江"
+                        },
+                        {
+                            "Id": "a3e50715c75048c18b1c12f91a71a40f",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "f61c537c5efc4feb8b4ff98bbcdef0cd",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "dbc523165d6e4a8a9c881f90973d6b2d",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "c7e38917b3634058b493630b47f12baf",
+                            "Latitude": 31.985237,
+                            "Longitude": 120.900301,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3206",
+                            "Title": "南通"
+                        },
+                        {
+                            "Id": "a7168c776258461894c10775dbbbe345",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "604578b5f2bb4912a5230d9247e7d591",
+                            "Latitude": 30.900026,
+                            "Longitude": 119.423498,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341822",
+                            "Title": "广德"
+                        },
+                        {
+                            "Id": "b0f5068f36174eb0b7e80c26b721e9a6",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        },
+                        {
+                            "Id": "7e5f36b025264a8db271d864a14d6d09",
+                            "Latitude": 31.82687,
+                            "Longitude": 117.235447,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3401",
+                            "Title": "合肥"
+                        },
+                        {
+                            "Id": "353e4dd8e6e54978951a4f2a5d45d306",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "4b350fe06d314418ac2b238671f6ec65",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "14f0e16971944f049370fd26568c292d",
+                            "Latitude": 32.786776,
+                            "Longitude": 119.462193,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321084",
+                            "Title": "高邮"
+                        },
+                        {
+                            "Id": "a4849dc4d9c5446b8c2ad0c802024247",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "31097fdc9d1a46c9b7acea78c49ad6c8",
+                            "Latitude": 26.080447,
+                            "Longitude": 119.302938,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3501",
+                            "Title": "福州"
+                        },
+                        {
+                            "Id": "b1f7b85d7f8b48d589bd9d6ad6a2dbd8",
+                            "Latitude": 33.850774,
+                            "Longitude": 115.785767,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3416",
+                            "Title": "亳州"
+                        },
+                        {
+                            "Id": "831fb260149e44368e37aaa8ccaf9eb6",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "80a99eca2c844940b82c260a675f4d70",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "efb39271efdb4bd3b1573146fcaa311f",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "417a10c3790a477e899b06ae449ee900",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 32.786776,
+                    "Longitude": 119.462193,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321084",
+                    "Title": "高邮 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"586b36ed56ac47f0aae1d675df1e402a\");'><span id='586b36ed56ac47f0aae1d675df1e402a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1047')\">1028-1047年</a>，1-20岁</div><div id='586b36ed56ac47f0aae1d675df1e402a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1041')\">1028-1041年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年</a>　通《易》、《书》、《春秋经》大义。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1045')\">1043-1045年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　娶徐氏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　从海陵胡瑗游，入经社。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3bc1a28a34bc4124937bd068d85404ff\");'><span id='3bc1a28a34bc4124937bd068d85404ff_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>，34岁</div><div id='3bc1a28a34bc4124937bd068d85404ff' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　自京归高邮，黄庭坚来谒，以女许庭坚。庭坚有诗《和答莘老见赠》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"14f0e16971944f049370fd26568c292d\");'><span id='14f0e16971944f049370fd26568c292d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1078')\">1076-1078年</a>，49-51岁</div><div id='14f0e16971944f049370fd26568c292d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年8月</a>　祖母丧，解官持服。在高邮。八月，访漳南道人昭庆于汤泉。与秦观有诗唱和。<span class='label'>作品：</span>过六合水亭怀裴博士。<div id='poem_501793' class='_poem'><div id='poem_title_501793' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501793' class='poemCommentLink' target='_blank'>过六合水亭怀裴博士</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501793\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_501793_comment'></div><div class='poemContent' id='poem_content_501793'><div class='poemSentence' id='poem_sentence_0_501793'>昔同裴博士，酌酒俯庭柯。</div><div id='poem_sentence_0_501793_comment'></div><div class='poemSentence' id='poem_sentence_1_501793'>晚岫潭潭碧，风池瑟瑟波。</div><div id='poem_sentence_1_501793_comment'></div><div class='poemSentence' id='poem_sentence_2_501793'>苍崖遗老没，白首故人过。</div><div id='poem_sentence_2_501793_comment'></div><div class='poemSentence' id='poem_sentence_3_501793'>转眄成陈迹，劳生可奈何<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_3_501793_comment'></div><div class='poemSentence' id='poem_sentence_4_501793'></div><div id='poem_sentence_4_501793_comment'></div></div><div class='poemNote' id='poem_note_501793'><div class='inline1'><div id='poem_sentence_3_501793_0'>⑴ 同上书《过六合水亭怀裴博士次韵三首》其一　按：此系首唱，据清茆泮林《宋孙莘老年谱》，熙宁九年八月孙觉作此诗。参秦观诗存目。</div></div></div><div id='poem_note_501793_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年8月</a>　在高邮。八月，访漳南道人昭庆于汤泉。与秦观有诗唱和。<span class='label'>作品：</span>初至汤泉。游龙洞。题阎求仁虚乐亭。<div id='poem_501792' class='_poem'><div id='poem_title_501792' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501792' class='poemCommentLink' target='_blank'>初至汤泉</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501792\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_501792_comment'></div><div class='poemContent' id='poem_content_501792'><div class='poemSentence' id='poem_sentence_0_501792'>川谷閟深阻，天时正莽苍。</div><div id='poem_sentence_0_501792_comment'></div><div class='poemSentence' id='poem_sentence_1_501792'>聊同不速客，来浴自然汤。</div><div id='poem_sentence_1_501792_comment'></div><div class='poemSentence' id='poem_sentence_2_501792'>茂宰蔼休政，道人栖净坊。</div><div id='poem_sentence_2_501792_comment'></div><div class='poemSentence' id='poem_sentence_3_501792'>恍如登十地，热恼顿清凉<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_3_501792_comment'></div><div class='poemSentence' id='poem_sentence_4_501792'></div><div id='poem_sentence_4_501792_comment'></div></div><div class='poemNote' id='poem_note_501792'><div class='inline1'><div id='poem_sentence_3_501792_0'>⑴ 同上书卷七《次韵莘老初至汤泉二首》附</div></div></div><div id='poem_note_501792_comment'></div></div><div id='poem_501798' class='_poem'><div id='poem_title_501798' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501798' class='poemCommentLink' target='_blank'>游龙洞</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501798\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_501798_comment'></div><div class='poemContent' id='poem_content_501798'><div class='poemSentence' id='poem_sentence_0_501798'>侧径萦纡入杳冥，神镵鬼凿路岩扃。</div><div id='poem_sentence_0_501798_comment'></div><div class='poemSentence' id='poem_sentence_1_501798'>天悬乳石婴华盖，壁隐莓苔矗翠屏。</div><div id='poem_sentence_1_501798_comment'></div><div class='poemSentence' id='poem_sentence_2_501798'>九道寒江云外白，一池阳井雪中青。</div><div id='poem_sentence_2_501798_comment'></div><div class='poemSentence' id='poem_sentence_3_501798'>还同康乐登临海，可共羊何笔不停<span class='inlineComment2'>（同上书《和莘老游龙洞》附）</span>。</div><div id='poem_sentence_3_501798_comment'></div><div class='poemSentence' id='poem_sentence_4_501798'></div><div id='poem_sentence_4_501798_comment'></div></div></div><div id='poem_501794' class='_poem'><div id='poem_title_501794' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501794' class='poemCommentLink' target='_blank'>题阎求仁虚乐亭</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501794\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_501794_comment'></div><div class='poemContent' id='poem_content_501794'><div class='poemSentence' id='poem_sentence_0_501794'>禅房幽构径弯环，噪鹊鸣鸠尽日闲。</div><div id='poem_sentence_0_501794_comment'></div><div class='poemSentence' id='poem_sentence_1_501794'>隐几冥濛超物表，画图彷佛见林间。</div><div id='poem_sentence_1_501794_comment'></div><div class='poemSentence' id='poem_sentence_2_501794'>褰帘云吐池中月，岸帻天横竹外山。</div><div id='poem_sentence_2_501794_comment'></div><div class='poemSentence' id='poem_sentence_3_501794'>秋兴已阑成丽句，板舆时此慰慈颜<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_3_501794_comment'></div><div class='poemSentence' id='poem_sentence_4_501794'></div><div id='poem_sentence_4_501794_comment'></div></div><div class='poemNote' id='poem_note_501794'><div class='inline1'><div id='poem_sentence_3_501794_0'>⑴ 同上书同题三首其一　按：据题下原注此系觉首倡，参秦观诗存目。</div></div></div><div id='poem_note_501794_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年10月</a>　在高邮。十月，王安石免，退居金陵，先生枉驾过之。王安石有《答孙莘老书。吴充同平章事，乞召还孙觉》等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　在高邮。寄老庵成。黄庭坚代孙觉作赋《代孙莘老作寄老庵赋。》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　在高邮。<span class='label'>作品：</span>宝林禅院记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　在高邮。黄庭坚过下邳阴侯庙，作诗示孙觉，孙觉改。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　在高邮。服除。与李公择、苏轼有诗唱和。<span class='label'>作品：</span>与施大夫赏花。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f338ca0fac964ae3b433d34029874bbc\");'><span id='f338ca0fac964ae3b433d34029874bbc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>，21岁</div><div id='f338ca0fac964ae3b433d34029874bbc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　《春秋经社要义》成。是岁欧阳修知扬州，先生请益于欧阳公，公曰：“此无他术，唯勤读书而多为之，自工。世人患作文字少，又懒读书，每一篇出，即求过人，如此少有至者。疵病不必待人指摘，多作自见之。”孙书于座右。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"831fb260149e44368e37aaa8ccaf9eb6\");'><span id='831fb260149e44368e37aaa8ccaf9eb6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>，54岁</div><div id='831fb260149e44368e37aaa8ccaf9eb6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　徙知扬州，辞不赴。有书寄苏轼，秦观有书寄孙觉。<span class='label'>作品：</span>与苏先生简。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0177c0d42a534598837dc597b9a9bdb2\");'><span id='0177c0d42a534598837dc597b9a9bdb2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>，22岁</div><div id='0177c0d42a534598837dc597b9a9bdb2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　入京赴礼部应试，登进士第。未第时，讲学于郊馆别墅，甓社湖珠见，同舍崔伯易作《感珠赋》。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e8d853add55d4b23997334d46af34475\");'><span id='e8d853add55d4b23997334d46af34475_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1060')\">1059-1060年</a>，32-33岁</div><div id='e8d853add55d4b23997334d46af34475' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　编校昭文馆书籍。与王令唱和。王令有诗《杂诗效孙莘老》<span class='label'>作品：</span>杂诗呈逢源。<div id='poem_501788' class='_poem'><div id='poem_title_501788' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501788' class='poemCommentLink' target='_blank'>杂诗呈逢原</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501788\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_501788_comment'></div><div class='poemContent' id='poem_content_501788'><div class='poemSentence' id='poem_sentence_0_501788'>鸿雁最知时，未逃罗与网。</div><div id='poem_sentence_0_501788_comment'></div><div class='poemSentence' id='poem_sentence_1_501788'>不能忘稻粱，千里安得往。</div><div id='poem_sentence_1_501788_comment'></div><div class='poemSentence' id='poem_sentence_2_501788'>鸣蜩腹空虚，见喙因其响。</div><div id='poem_sentence_2_501788_comment'></div><div class='poemSentence' id='poem_sentence_3_501788'>丹凤穴九霄，虞人常梦想<span class='inlineComment2'>（宋王令《广陵集》卷一一）</span>。</div><div id='poem_sentence_3_501788_comment'></div><div class='poemSentence' id='poem_sentence_4_501788'></div><div id='poem_sentence_4_501788_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年</a>　编校昭文馆书籍。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"318a90143369473fab1841844834f5a6\");'><span id='318a90143369473fab1841844834f5a6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1065')\">1063-1065年</a>，36-38岁</div><div id='318a90143369473fab1841844834f5a6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　在京师。七月，与赵彦若、孙洙、曾巩等校定《陈书》，上之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　在京师。王惟熙嘉祐七年卒，明年葬，孙觉作墓志铭。<span class='label'>作品：</span>王惟熙墓志铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>　在京师。某日，与滕胜道、钱醇老、孙巨源观花。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　在京师。弟孙览登进士第。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a3e50715c75048c18b1c12f91a71a40f\");'><span id='a3e50715c75048c18b1c12f91a71a40f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1068')\">1067-1068年</a>，40-41岁</div><div id='a3e50715c75048c18b1c12f91a71a40f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　直集贤院，擢右正言。<span class='label'>作品：</span>富贵二箴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年1月</a>　正月，诏修《英宗实录》，与曾巩充检讨官。神宗将大革积弊，先生上言。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"dbc523165d6e4a8a9c881f90973d6b2d\");'><span id='dbc523165d6e4a8a9c881f90973d6b2d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>，41岁</div><div id='dbc523165d6e4a8a9c881f90973d6b2d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　复右正言，以言事忤帝意，罢去。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a7168c776258461894c10775dbbbe345\");'><span id='a7168c776258461894c10775dbbbe345_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1070')\">1069-1070年</a>，42-43岁</div><div id='a7168c776258461894c10775dbbbe345' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　自通州召还，知谏院，同修起居注。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　以记注知谏院，同知贡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　改知审官院。疏论滕甫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　知审官院。有文。<span class='label'>作品：</span>论不当召对小臣询两府台阁人物奏。论不必每事遣使奏。乞以无灾为惧奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年2月</a>　知审官院。二月，韩琦请罢新法，为王安石所沮。先生疏论，不听。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"353e4dd8e6e54978951a4f2a5d45d306\");'><span id='353e4dd8e6e54978951a4f2a5d45d306_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年</a>，48岁</div><div id='353e4dd8e6e54978951a4f2a5d45d306' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年</a>　改右司谏，值集贤院。秦观、僧道潜皆有《怀莘老司谏》诗。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"417a10c3790a477e899b06ae449ee900\");'><span id='417a10c3790a477e899b06ae449ee900_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1090')\">1083-1090年</a>，56-63岁</div><div id='417a10c3790a477e899b06ae449ee900' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年</a>　入为太常少卿。秦观有诗《寄孙莘老少监》，参寥有诗《寄莘老》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年</a>　会李常为礼部侍郎，觉与李有隙，易为秘书少监。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年10月</a>　任秘书少监。弟孙览权京西路转运判官，更以京西提举官试右司员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年10月</a>　任秘书少监。有文。<span class='label'>作品：</span>乞逐路委监司一员改刺逐州厢军奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年</a>　在秘书少监任.有寄墨苏轼，苏轼亦有诗《孙莘老寄墨》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年7月</a>　在秘书少监任。弟孙览为河东转运使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年9月</a>　在秘书少监任。与叶祖洽、王仲修、钱长卿、韩宗古、赵彦若校定《算经》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年3月</a>　在秘书少监任。三月，诏立延安郡王为皇太子，宫僚以司马光、吕公著及孙觉作之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　在秘书少监任。以秘书少监权知贡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年4月</a>　在秘书少监任。四月，兼侍讲。复寄墨东坡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年7月</a>　在秘书少监任。诏为右谏议大夫，赐三品服。黄庭坚和孙觉诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　在秘书少监任。有文。<span class='label'>作品：</span>乞依天禧诏书奏。谥法当责任有司奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年9月</a>　供右谏议大夫职，兼侍讲。有文。<span class='label'>作品：</span>上哲宗乞依六典备置谏官奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年11月丁巳</a>　在右谏议大夫职，兼侍讲。奏御史察官言事，乞令中丞等察举可言事者以闻。从之。<span class='label'>作品：</span>论御史察官言事奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年1月</a>　在右谏议大夫职，兼侍讲。正月，有奏议。<span class='label'>作品：</span>水旱灾变乞赐宰相罢黜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月甲申</a>　在右谏议大夫职，兼侍讲。二月，疏论蔡确、韩缜。<span class='label'>作品：</span>乞罢免蔡确韩缜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　在右谏议大夫职，兼侍讲。蔡确自陈有功，孙觉复疏论之。<span class='label'>作品：</span>再乞罢免蔡确韩缜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　在右谏议大夫职，兼侍讲。有文。<span class='label'>作品：</span>乞令台谏先次上殿奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　在右谏议大夫职，兼侍讲。闰二月，诏与刘挚看详元丰八年命官诸色人赦状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　在右谏议大夫职，兼侍讲。复疏论韩缜。<span class='label'>作品：</span>劾韩缜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　在右谏议大夫职，兼侍讲。迁给事中，孙觉疏辞，乞留谏职。<span class='label'>作品：</span>乞收还给事中新命且在谏职奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　在给事中职，兼侍讲。复疏论韩缜及章惇、张璪。<span class='label'>作品：</span>劾韩缜章惇张璪奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　在给事中职，兼侍讲。御史孙升奏请孙觉以给事中看详元丰八年以来断配人罪状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　诏复为右谏议大夫，兼侍讲。疏论安焘。<span class='label'>作品：</span>劾安焘奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年3月</a>　在右谏议大夫职，兼侍讲。复疏论安焘。<span class='label'>作品：</span>乞议经历付受官吏罪以正纪纲奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年3月</a>　在右谏议大夫职，兼侍讲。奏请刊定元丰编敕。<span class='label'>作品：</span>请刊定元丰编敕律令奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　在右谏议大夫职，兼侍讲。安焘免，孙觉疏谢，复乞罢韩缜。<span class='label'>作品：</span>乞罢韩缜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月</a>　在右谏议大夫职，兼侍讲。疏请赈济淮浙灾伤。<span class='label'>作品：</span>请体量灾伤赈济奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月壬辰</a>　诏为给事中兼侍讲。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月戊戌</a>　在给事中兼侍讲职。疏请看详囚徒，减降区断。<span class='label'>作品：</span>请旱灾宽减囚徒奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月</a>　在给事中兼侍讲职。<span class='label'>作品：</span>再乞罢免韩缜奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年5月戊辰</a>　在给事中兼侍讲职。诏与顾临、程颐看详修立太学条制。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年6月14日</a>　在给事中兼侍讲职。疏论将兵戊戍诸路。<span class='label'>作品：</span>请定将兵分路出戍奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　在给事中兼侍讲职。与胡宗愈、苏轼、范百禄疏留刘攽。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　在给事中兼侍讲职。与苏轼表荐郑侠为泉州教授。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年7月丙辰</a>　进吏部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年11月乙卯</a>　任吏部侍郎兼侍讲。吕公著言中书侍郎未补入，孙觉、吕大防、李常皆可用，上然之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任吏部侍郎兼侍讲。王安石卒，作文诔之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任吏部侍郎兼侍讲。《尚书解义》成。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任吏部侍郎兼侍讲。有奏。<span class='label'>作品：</span>乞弃兰州奏。乞熙河选将如折氏世守奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年3月戊戌</a>　以吏部侍郎兼侍讲初领右选，寻改左选勘定选人额数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年4月癸巳</a>　在吏部侍郎兼侍讲职。四月，与邓温伯、苏轼、李常、王存、胡宗愈疏留顾临于朝，不报。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>　在吏部侍郎兼侍讲职。与苏轼、傅尧俞荐陈师道为俆州州学教授。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>　在吏部侍郎兼侍讲职。孙览直龙图阁，权知秦州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年10月</a>　在吏部侍郎兼侍讲职。有奏。<span class='label'>作品：</span>乞陕西官卖盐钞以救弊奏。<span class='inlineComment2'>（《全宋文》注时间为“绍圣二年十月”，是年孙觉已卒，误。时孙觉在秦州，应在“元祐二年”）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年11月庚申</a>　在吏部侍郎兼侍讲职。十一月，疏令御史纠举四方使者以闻，诏从之。<span class='label'>作品：</span>乞令御史台弹奏四方使者不法奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>　在吏部侍郎兼侍讲职。有奏。<span class='label'>作品：</span>论帅臣当使便宜行事奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年1月乙丑</a>　在吏部侍郎兼侍讲职。春正月，诏与苏轼、孔文仲同知贡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年3月乙巳</a>　在吏部侍郎兼侍讲职。三月，与苏轼、孔文仲疏，乞去冗官之害。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年4月壬午</a>　擢御史中丞，兼侍讲。秦观有贺孙觉文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年5月丙午72</a>　任御史中丞，兼侍讲。疏举欧阳棐自代。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年5月甲戌</a>　任御史中丞，兼侍讲。疏论胡宗愈。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年6月丙子</a>　任御史中丞，兼侍讲。疏请黄杲卿、黄颖除教导官，从之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年9月辛亥</a>　任御史中丞，兼侍讲。诏与苏轼、彭汝、张绩考试应贤良方正能直言极谏科举人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年9月辛亥</a>　任御史中丞，兼侍讲。先生子子实端应制科，登进士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年</a>　先生引疾求罢，诏为龙图阁直学士，提举醴泉观兼侍讲。刘攽有文《御史中丞孙觉可龙图阁直学士提举醴泉观依旧兼侍讲制》。黄庭坚送杖，李公择寄草元笔。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年</a>　提举醴泉观兼侍讲。《周易传》成。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年1月壬申</a>　春正月，诏免侍讲，依旧提举醴泉观，免朝参。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年5月</a>　在提举醴泉观任。五月，弟孙览为江淮荆浙等路发运副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>　孙觉请罢，求舒州灵山观以归。与秦观、黄庭坚有诗唱和。秦观诗《次韵莘老》，黄庭坚诗《答孙莘老见赠》、《又呈莘老》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年11月</a>　在提举醴泉观任。十一月，弟孙览权知桂州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>　在提举醴泉观任。哲宗遣使存劳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年2月3日</a>　二月丙申朔戊戌，孙觉卒。孙觉子子实时为郢州长寿县主簿，遂丁忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年2月3日</a>　三月，诏先生家钱五百缗，给葬事。秦少游有挽孙觉诗。子孙端归葬孙觉于广陵。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2a7726d9fbee4143920465b9ab7d3fe0\");'><span id='2a7726d9fbee4143920465b9ab7d3fe0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1050')\">1049-1050年</a>，22-23岁</div><div id='2a7726d9fbee4143920465b9ab7d3fe0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>　登进士第，为河南县主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　主簿河南。<br /></div>"
+                },
+                {
+                    "Latitude": 31.82687,
+                    "Longitude": 117.235447,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3401",
+                    "Title": "合肥",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8dc5af6331924f1b9cf7d84bf52ea84d\");'><span id='8dc5af6331924f1b9cf7d84bf52ea84d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1053')\">1051-1053年</a>，24-26岁</div><div id='8dc5af6331924f1b9cf7d84bf52ea84d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　调合肥主簿。岁旱，州课民捕蝗输之官。觉以民艰食，当以蝗易米，是为除害而享利。守悦，推其说下之他县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1053')\">1052-1053年</a>　任合肥主簿。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7e5f36b025264a8db271d864a14d6d09\");'><span id='7e5f36b025264a8db271d864a14d6d09_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1074')\">1073-1074年</a>，46-47岁</div><div id='7e5f36b025264a8db271d864a14d6d09' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年</a>　春，由吴兴移知庐州，与苏轼唱和，苏轼有诗《次韵孙莘老见赠》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年4月</a>　与傅钦之晤刘攽于广陵。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>　知庐州。以祖母丧，求解官，不可。<br /></div>"
+                },
+                {
+                    "Latitude": 29.721365,
+                    "Longitude": 118.345096,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341",
+                    "Title": "黄山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a32cb08a5f7c4853bc64b9b468e2e071\");'><span id='a32cb08a5f7c4853bc64b9b468e2e071_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1058')\">1054-1058年</a>，27-31岁</div><div id='a32cb08a5f7c4853bc64b9b468e2e071' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')\">1054年</a>　合肥簿满秩，任宣州太平县令。与王令唱和。王令有诗《答孙莘老见寄》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')\">1055年</a>　任宣州太平县令。与王令唱和，王令有《寄孙莘老》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年</a>　任宣州太平县令。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年12月</a>　任宣州太平县令。有文。<span class='label'>作品：</span>太平县县厅记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　任宣州太平县令。与王安石唱和，王安石有《度麾岭寄莘老》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年3月</a>　任宣州太平县令。有文。<span class='label'>作品：</span>众乐亭记。<br /></div>"
+                },
+                {
+                    "Latitude": 33.787173,
+                    "Longitude": 119.267334,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320826",
+                    "Title": "涟水",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8819b02e19f245dda583e751517a25ce\");'><span id='8819b02e19f245dda583e751517a25ce_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>，35岁</div><div id='8819b02e19f245dda583e751517a25ce' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>　在涟水军，俞澹、黄庭坚从学。<br /></div>"
+                },
+                {
+                    "Latitude": 31.014847,
+                    "Longitude": 120.639402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320509",
+                    "Title": "吴江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d7a046f85fc74da198450979fa4b51b9\");'><span id='d7a046f85fc74da198450979fa4b51b9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')\">1066年</a>，39岁</div><div id='d7a046f85fc74da198450979fa4b51b9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')\">1066年</a>　出为吴江令。修垂虹桥。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f61c537c5efc4feb8b4ff98bbcdef0cd\");'><span id='f61c537c5efc4feb8b4ff98bbcdef0cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>，41岁</div><div id='f61c537c5efc4feb8b4ff98bbcdef0cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年1月</a>　疏论邵亢，夺官两级，判越州。<br /></div>"
+                },
+                {
+                    "Latitude": 31.985237,
+                    "Longitude": 120.900301,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3206",
+                    "Title": "南通",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c7e38917b3634058b493630b47f12baf\");'><span id='c7e38917b3634058b493630b47f12baf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>，41岁</div><div id='c7e38917b3634058b493630b47f12baf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　徙知通州。有诗。<span class='label'>作品：</span>过掘港营寨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　知通州。有文。<span class='label'>作品：</span>论所急者近效所勤者小数奏。论知人在务学奏。论自治以胜夷狄之患奏。论人主不宜有轻人臣之心奏。论君臣相疑之弊奏。论任贤使能之异奏。论取士之弊宜有改更奏。论治边之略奏。论果于用善断于去恶奏。论谏官贬秩不当再举其职奏。论人主当不为血气所变奏。论人主有高世之资求治之意在成之以学奏。乞定著内臣员数年未及四十不得入诸闺閤奏。<br /></div>"
+                },
+                {
+                    "Latitude": 30.900026,
+                    "Longitude": 119.423498,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341822",
+                    "Title": "广德",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"604578b5f2bb4912a5230d9247e7d591\");'><span id='604578b5f2bb4912a5230d9247e7d591_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1071')\">1070-1071年</a>，43-44岁</div><div id='604578b5f2bb4912a5230d9247e7d591' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年3月</a>　贬知广德军。张戬与台官王子韶论新法不便，乞首召还先生，不听。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年3月</a>　知广德军。有文。<span class='label'>作品：</span>论条例司画一申明青苗事奏。论罢司马光枢密范镇封驳司不当奏。论青苗奏。辞免体量府界青苗钱奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　知广德军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年8月</a>　知广德军，有文。<span class='label'>作品：</span>婺源县建学记。<br /></div>"
+                },
+                {
+                    "Latitude": 30.899015,
+                    "Longitude": 120.094566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3305",
+                    "Title": "湖州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b0f5068f36174eb0b7e80c26b721e9a6\");'><span id='b0f5068f36174eb0b7e80c26b721e9a6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1073')\">1071-1073年</a>，44-46岁</div><div id='b0f5068f36174eb0b7e80c26b721e9a6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年12月</a>　移知湖州，适大水，岁饥，觉赈仓廪，民甚德之。为屯田郎中俞汝奇作墓表。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　知湖州任。《春秋经解》成，先生自序。<span class='label'>作品：</span>春秋经解自序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　知湖州，辑《吴兴诗集》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　知湖州。作张氏《十咏图序》。<span class='label'>作品：</span>张维十咏图序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年2月</a>　知湖州，作墨妙亭。苏轼作《孙莘老求墨妙亭》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年12月</a>　判杭州，苏轼来遇，有诗寄孙觉，又赠七绝六首。黄庭坚、邵茂诚迎来。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年</a>　在湖州葺天庆观，作归雁亭。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4b350fe06d314418ac2b238671f6ec65\");'><span id='4b350fe06d314418ac2b238671f6ec65_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年</a>，48岁</div><div id='4b350fe06d314418ac2b238671f6ec65' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年10月</a>　十月辛亥，旋诏知润州。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a4849dc4d9c5446b8c2ad0c802024247\");'><span id='a4849dc4d9c5446b8c2ad0c802024247_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年</a>，52岁</div><div id='a4849dc4d9c5446b8c2ad0c802024247' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年</a>　起官知苏州，案治郑伋。自高邮知苏州，过邵伯亭，留诗斗野亭。与山谷、苏轼、少游有诗唱和。<span class='label'>作品：</span>题召伯斗野亭。<div id='poem_501791' class='_poem'><div id='poem_title_501791' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=501791' class='poemCommentLink' target='_blank'>题召伯斗野亭</a><a href='javascript: ShowPoemAuthorProfile(24451, \"宋\", \"孙觉\", \"poem_title_501791\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孙觉</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_501791_comment'></div><div class='poemContent' id='poem_content_501791'><div class='poemSentence' id='poem_sentence_0_501791'>淮海无林邱，旷泽千里平。</div><div id='poem_sentence_0_501791_comment'></div><div class='poemSentence' id='poem_sentence_1_501791'>一渠闲防潴，物色故不清。</div><div id='poem_sentence_1_501791_comment'></div><div class='poemSentence' id='poem_sentence_2_501791'>老僧喜穿筑，北户延朱甍。</div><div id='poem_sentence_2_501791_comment'></div><div class='poemSentence' id='poem_sentence_3_501791'>檐楯斗杓落，帘帏河汉倾。</div><div id='poem_sentence_3_501791_comment'></div><div class='poemSentence' id='poem_sentence_4_501791'>平湖杳无涯，湛湛春波生。</div><div id='poem_sentence_4_501791_comment'></div><div class='poemSentence' id='poem_sentence_5_501791'>结缆嗟已晚，不见芙蓉城。</div><div id='poem_sentence_5_501791_comment'></div><div class='poemSentence' id='poem_sentence_6_501791'>尚想紫芡盘，明珠出新烹。</div><div id='poem_sentence_6_501791_comment'></div><div class='poemSentence' id='poem_sentence_7_501791'>平生有微尚，一舟聊寄行。</div><div id='poem_sentence_7_501791_comment'></div><div class='poemSentence' id='poem_sentence_8_501791'>遇胜辄偃蹇，霜须刷澄明。</div><div id='poem_sentence_8_501791_comment'></div><div class='poemSentence' id='poem_sentence_9_501791'>可待齿牙豁，归欤谢浮荣<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_9_501791_comment'></div><div class='poemSentence' id='poem_sentence_10_501791'></div><div id='poem_sentence_10_501791_comment'></div></div><div class='poemNote' id='poem_note_501791'><div class='inline1'><div id='poem_sentence_9_501791_0'>⑴ 宋秦观《淮海集》卷三《和孙莘老题召伯斗野亭》附</div></div></div><div id='poem_note_501791_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 26.080447,
+                    "Longitude": 119.302938,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3501",
+                    "Title": "福州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"31097fdc9d1a46c9b7acea78c49ad6c8\");'><span id='31097fdc9d1a46c9b7acea78c49ad6c8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1080')\">1079-1080年</a>，52-53岁</div><div id='31097fdc9d1a46c9b7acea78c49ad6c8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年7月</a>　坐苏轼诗狱，徙知福州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年12月庚申</a>　知福州。御史舒亶言孙觉收受苏轼讥讽朝政文字，复坐罚铜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　知福州。裁闽俗昏丧费，定为中制。募偿市易钱。秦观有《寄孙莘老学士简》，参寥有《寄福州太守孙莘老》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　知福州。为越州祠堂记。<span class='label'>作品：</span>程给事祠堂记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　知福州。夫人寿字君卒，子实遂丁忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　知福州。弟孙览以知尉氏县改司农寺主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年9月</a>　知福州。作序文。<span class='label'>作品：</span>玄沙广录序。<br /></div>"
+                },
+                {
+                    "Latitude": 33.850774,
+                    "Longitude": 115.785767,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3416",
+                    "Title": "亳州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b1f7b85d7f8b48d589bd9d6ad6a2dbd8\");'><span id='b1f7b85d7f8b48d589bd9d6ad6a2dbd8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>，54岁</div><div id='b1f7b85d7f8b48d589bd9d6ad6a2dbd8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　徙知亳州，辞不赴。<br /></div>"
+                },
+                {
+                    "Latitude": 34.210143,
+                    "Longitude": 117.29235,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3203",
+                    "Title": "徐州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"80a99eca2c844940b82c260a675f4d70\");'><span id='80a99eca2c844940b82c260a675f4d70_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1082')\">1081-1082年</a>，54-55岁</div><div id='80a99eca2c844940b82c260a675f4d70' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　徙知徐州。道经扬州，与秦观有交游。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年7月</a>　知徐州。有文。<span class='label'>作品：</span>差补效庙监祭事奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年7月</a>　知徐州。为陈副使诗作跋。<span class='label'>作品：</span>陈副使诗跋。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年9月</a>　知徐州。为陈襄作墓志铭。<span class='label'>作品：</span>陈先生墓志铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　知徐州。释候门盗不诛，为例。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　知徐州。要昭玘为徐州教授，觉深礼之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年7月</a>　知徐州。请修城及官舍。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"efb39271efdb4bd3b1573146fcaa311f\");'><span id='efb39271efdb4bd3b1573146fcaa311f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1083')\">1082-1083年</a>，55-56岁</div><div id='efb39271efdb4bd3b1573146fcaa311f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年7月</a>　诏知应天府。张舜民来遇。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年10月</a>　在应天府。十月，请修外城门及西桥等。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "孙觉 <span class='inlineComment2'>(1028-1090)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：茆泮林编，曹清华校点《宋孙莘老先生年谱》、曾枣庄、刘琳主编《全宋文》　录入整理：柯贞金</p><p><a href=\"javascript: ViewRoute(0, 8, 115.961113, 32.262153, 8, 0)\">1-34岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">高邮</a> → <a href=\"javascript: ViewPoint(1, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(2, 0)\">开封</a> → <a href=\"javascript: ViewPoint(3, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(4, 0)\">合肥</a> → <a href=\"javascript: ViewPoint(5, 0)\">黄山</a> → <a href=\"javascript: ViewPoint(6, 0)\">开封</a> → <a href=\"javascript: ViewPoint(7, 0)\">高邮</a></p><p><a href=\"javascript: ViewRoute(8, 12, 117.476653, 32.908894, 8, 0)\">35-41岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">涟水</a> → <a href=\"javascript: ViewPoint(9, 0)\">开封</a> → <a href=\"javascript: ViewPoint(10, 0)\">吴江</a> → <a href=\"javascript: ViewPoint(11, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(12, 16, 117.6071025, 32.41973, 8, 0)\">41-43岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(13, 0)\">开封</a> → <a href=\"javascript: ViewPoint(14, 0)\">南通</a> → <a href=\"javascript: ViewPoint(15, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(16, 20, 117.204235, 32.850978, 8, 0)\">43-48岁</a><br /><a href=\"javascript: ViewPoint(16, 0)\">广德</a> → <a href=\"javascript: ViewPoint(17, 0)\">湖州</a> → <a href=\"javascript: ViewPoint(18, 0)\">合肥</a> → <a href=\"javascript: ViewPoint(19, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(20, 29, 117.4517585, 30.441694, 7, 0)\">48-63岁</a><br /><a href=\"javascript: ViewPoint(20, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(21, 0)\">高邮</a> → <a href=\"javascript: ViewPoint(22, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(23, 0)\">福州</a> → <a href=\"javascript: ViewPoint(24, 0)\">亳州</a> → <a href=\"javascript: ViewPoint(25, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(26, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(27, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(28, 0)\">开封</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.576279,
+            "CenterLongitude": 104.071216,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "faeb7459a0df45739c0aad72a9765e85",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "92ae3233a62543b9b64df3953c1fa830",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "9487cbcbfa4a4b77add23e82b6c8a027",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "455a33e0fa204610adf25dc1424d4fdb",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "b039d9d38c23492c9a950fc2fe841893",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "3a70e099b77e480abe02bbe5bc62acaa",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "211962fe66a549938b20127b939799c7",
+                            "Latitude": 24.491021,
+                            "Longitude": 108.64309,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN451281",
+                            "Title": "宜州"
+                        },
+                        {
+                            "Id": "293010b92afb46e8899f22ed594e6a32",
+                            "Latitude": 31.951147,
+                            "Longitude": 119.175072,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321183",
+                            "Title": "句容"
+                        },
+                        {
+                            "Id": "9205ef5b54bd4a10bd27a1e51d623964",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "5b3ae4bdac384344a5f20dbe41131ec2",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "76828bb9593245e483968132a927621e",
+                            "Latitude": 34.041737,
+                            "Longitude": 113.858804,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411",
+                            "Title": "许昌"
+                        },
+                        {
+                            "Id": "8a44cbfb3b2341eba6065ac79e9e5b03",
+                            "Latitude": 35.239435,
+                            "Longitude": 115.487696,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3717",
+                            "Title": "菏泽"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"faeb7459a0df45739c0aad72a9765e85\");'><span id='faeb7459a0df45739c0aad72a9765e85_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1080')\">1062-1080年</a>，1-19岁</div><div id='faeb7459a0df45739c0aad72a9765e85' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>　出身蜀中富家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1079')\">1063-1079年</a>　在蜀中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　慷慨使财，出手阔绰，磊落任气，流落市井。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9487cbcbfa4a4b77add23e82b6c8a027\");'><span id='9487cbcbfa4a4b77add23e82b6c8a027_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>，25岁</div><div id='9487cbcbfa4a4b77add23e82b6c8a027' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　匿于邻郡为园丁，因技痒难忍，题诗于亭壁，主人擅识人，认为他非此中人，赠金遣去。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"92ae3233a62543b9b64df3953c1fa830\");'><span id='92ae3233a62543b9b64df3953c1fa830_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>，20岁</div><div id='92ae3233a62543b9b64df3953c1fa830' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　折节读书，以成都第二名荐送。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5b3ae4bdac384344a5f20dbe41131ec2\");'><span id='5b3ae4bdac384344a5f20dbe41131ec2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1108')\">1107-1108年</a>，46-47岁</div><div id='5b3ae4bdac384344a5f20dbe41131ec2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>　因告发张怀素案而立功，授供备库副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')\">1108年</a>　任供备库副使。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"455a33e0fa204610adf25dc1424d4fdb\");'><span id='455a33e0fa204610adf25dc1424d4fdb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1099')\">1096-1099年</a>，35-38岁</div><div id='455a33e0fa204610adf25dc1424d4fdb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')\">1096年</a>　易容乔装为方外士，投越州知府翟思，翟思爱其书法精绝即留之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>　翟思之子翟汝文见他面相清炯，眸子锐烁，定非常人，又得知他习《易》、《书》，出题试之，果然经学高妙通脱，遂敬待之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')\">1098年</a>　翟氏归镇江，范寥安置在州学，并给其师钱百千急需，并嘱咐老师不要一次全部给他，以免他胡乱使钱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')\">1099年</a>　范寥离州学出游。翟思得教授书云:“自范之留，一学之士为之不宁，已付百千与之去，不知所之矣。”<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b039d9d38c23492c9a950fc2fe841893\");'><span id='b039d9d38c23492c9a950fc2fe841893_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')\">1103年</a>，42岁</div><div id='b039d9d38c23492c9a950fc2fe841893' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')\">1103年</a>　客居建康。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3a70e099b77e480abe02bbe5bc62acaa\");'><span id='3a70e099b77e480abe02bbe5bc62acaa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')\">1104年</a>，43岁</div><div id='3a70e099b77e480abe02bbe5bc62acaa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')\">1104年</a>　翟思死。范寥突然造访，嚎哭大坳于灵前，翟家为其诚意所感，厚待之。明日夙兴，范寥悄然携卷灵前黄白器皿倏逝，携之前往宜州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9205ef5b54bd4a10bd27a1e51d623964\");'><span id='9205ef5b54bd4a10bd27a1e51d623964_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')\">1106年</a>，45岁</div><div id='9205ef5b54bd4a10bd27a1e51d623964' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')\">1106年</a>　无路费，至镇江府学内舍生汤东野家中，汤母给钱一万，范寥顺利到开封。<br /></div>"
+                },
+                {
+                    "Latitude": 24.491021,
+                    "Longitude": 108.64309,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN451281",
+                    "Title": "宜州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"211962fe66a549938b20127b939799c7\");'><span id='211962fe66a549938b20127b939799c7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')\">1105年</a>，44岁</div><div id='211962fe66a549938b20127b939799c7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')\">1105年3月14日</a>　溯大江，历谧浦，舍舟于洞庭，取道荆湘，以趋八桂，至乙酉三月十四日，始达宜州，访黄庭坚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')\">1105年5月7日</a>　范寥与黄庭坚一起搬到宜州城楼上居住，终日陪侍在黄庭坚左右。<span class='label'>作品：</span>从庭坚城南晚望诗。<div id='poem_759823' class='_poem'><div id='poem_title_759823' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=759823' class='poemCommentLink' target='_blank'>从庭坚城南晚望</a><a href='javascript: ShowPoemAuthorProfile(31522, \"宋\", \"范寥\", \"poem_title_759823\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>范寥</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_759823_comment'></div><div class='poemContent' id='poem_content_759823'><div class='poemSentence' id='poem_sentence_0_759823'>此邦虽在牂牁南，更远不离天地间。</div><div id='poem_sentence_0_759823_comment'></div><div class='poemSentence' id='poem_sentence_1_759823'>人生随处皆可乐，为报中原秪如昨。</div><div id='poem_sentence_1_759823_comment'></div><div class='poemSentence' id='poem_sentence_2_759823'></div><div id='poem_sentence_2_759823_comment'></div></div><div class='poemNote' id='poem_note_759823'><span class='label'>注：</span>录自《京口耆旧传》。<br /></div><div id='poem_note_759823_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')\">1105年6月16日</a>　黄庭坚与范寥等人有龙隐洞之游。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')\">1105年9月30日</a>　黄庭坚病逝，范寥独自为之办理后事。<br /></div>"
+                },
+                {
+                    "Latitude": 31.951147,
+                    "Longitude": 119.175072,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321183",
+                    "Title": "句容",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"293010b92afb46e8899f22ed594e6a32\");'><span id='293010b92afb46e8899f22ed594e6a32_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')\">1106年</a>，45岁</div><div id='293010b92afb46e8899f22ed594e6a32' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>又往茅山，投靠道人张怀素。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>张怀素与吴储、吴侔进行谋逆计划，范寥决计至京师告发张怀素。<br /></div>"
+                },
+                {
+                    "Latitude": 34.041737,
+                    "Longitude": 113.858804,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411",
+                    "Title": "许昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"76828bb9593245e483968132a927621e\");'><span id='76828bb9593245e483968132a927621e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1110')\">1109-1110年</a>，48-49岁</div><div id='76828bb9593245e483968132a927621e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1110')\">1109-1110年</a>　任颍昌府兵马钤辖。<br /></div>"
+                },
+                {
+                    "Latitude": 35.239435,
+                    "Longitude": 115.487696,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3717",
+                    "Title": "菏泽",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8a44cbfb3b2341eba6065ac79e9e5b03\");'><span id='8a44cbfb3b2341eba6065ac79e9e5b03_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1118')\">1111-1118年</a>，50-57岁</div><div id='8a44cbfb3b2341eba6065ac79e9e5b03' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1111')\">1111年</a>　政和年间，还曾在曹州为官，吕本中有诗《次韵答曹州同官兼简范寥信中》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1116')\">1112-1116年</a>　或在曹州为官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1118')\">1117-1118年</a>　不详。<br /></div>"
+                },
+                {
+                    "Latitude": 31.801003,
+                    "Longitude": 119.322475,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211 茅山",
+                    "Title": "茅山",
+                    "RequestUri": "scope=当代/句容市茅山&author=范寥&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "范寥 <span class='inlineComment2'>(1062-1137)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：张静《黄庭坚的临终关怀者——范寥的传奇人生》　录入整理：张静</p><p><a href=\"javascript: ViewRoute(0, 6, 112.3289445, 32.41973, 7, 0)\">1-43岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">成都</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">成都</a> → <a href=\"javascript: ViewPoint(3, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(4, 0)\">南京</a> → <a href=\"javascript: ViewPoint(5, 0)\">镇江</a></p><p><a href=\"javascript: ViewRoute(6, 12, 114.037292, 29.865228, 7, 0)\">44-57岁</a><br /><a href=\"javascript: ViewPoint(6, 0)\">宜州</a> → <a href=\"javascript: ViewPoint(7, 0)\">句容</a> → <a href=\"javascript: ViewPoint(8, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(9, 0)\">开封</a> → <a href=\"javascript: ViewPoint(10, 0)\">许昌</a> → <a href=\"javascript: ViewPoint(11, 0)\">菏泽</a></p>"
+        }
+    ]
+}

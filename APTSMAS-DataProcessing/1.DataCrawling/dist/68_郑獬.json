@@ -1,0 +1,340 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.261254,
+            "CenterLongitude": 113.695713,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "cf26fce195aa4049b97d7651523c5222",
+                            "Latitude": 31.261254,
+                            "Longitude": 113.695713,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420982",
+                            "Title": "安陆"
+                        },
+                        {
+                            "Id": "91d7a846d0e24198a164ee4635ed7e5f",
+                            "Latitude": 30.934057,
+                            "Longitude": 113.579487,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420981",
+                            "Title": "应城"
+                        },
+                        {
+                            "Id": "a1fc369c6c794141826dc19d2a57eac8",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "b11c7573d5eb427980b6f7305a5ada7e",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "815e742aaad34aeeb482a5597430638a",
+                            "Latitude": 31.214347,
+                            "Longitude": 107.474504,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5117",
+                            "Title": "达州"
+                        },
+                        {
+                            "Id": "23963658a4c64da7b6315c688cf5ee6f",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "1fa3f541cd3c496abe4a53a0f4f208cc",
+                            "Latitude": 28.165218,
+                            "Longitude": 115.777688,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360981",
+                            "Title": "丰城"
+                        },
+                        {
+                            "Id": "65b056f026c84b8b99471db154fbe1f2",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "a4791f92cc224d2680cbe0c9743c1d02",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "9763b742d66f416eaaaced3d2b944db9",
+                            "Latitude": 33.737245,
+                            "Longitude": 114.892727,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411626",
+                            "Title": "淮阳"
+                        },
+                        {
+                            "Id": "cfbbc8ecdb78458f8b7474c003950094",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "5f537814009e44618517296ab2ea5153",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "e2f28691a23d41b2be4f3d41d35e37bd",
+                            "Latitude": 30.459422,
+                            "Longitude": 114.878872,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4211",
+                            "Title": "黄冈"
+                        },
+                        {
+                            "Id": "43e5c889ca90428dba7b09448cdfd408",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "3ade114d13b54cfda7216da9ee17a8f9",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "bd129a4761bf4380ac3ce27525329539",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "c4c5835570ea47368c4daf49c9290308",
+                            "Latitude": 36.778223,
+                            "Longitude": 118.440962,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370781002",
+                            "Title": "益都"
+                        },
+                        {
+                            "Id": "05485f0b72664d069294f25339e603a3",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.261254,
+                    "Longitude": 113.695713,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420982",
+                    "Title": "安陆 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cf26fce195aa4049b97d7651523c5222\");'><span id='cf26fce195aa4049b97d7651523c5222_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1022&endYear=1029')\">1022-1029年</a>，1-8岁</div><div id='cf26fce195aa4049b97d7651523c5222' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1022&endYear=1029')\">1022-1029年</a>　居乡。<br /></div>"
+                },
+                {
+                    "Latitude": 30.934057,
+                    "Longitude": 113.579487,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420981",
+                    "Title": "应城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"91d7a846d0e24198a164ee4635ed7e5f\");'><span id='91d7a846d0e24198a164ee4635ed7e5f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1035')\">1030-1035年</a>，9-14岁</div><div id='91d7a846d0e24198a164ee4635ed7e5f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1030')\">1030年</a>　父郑纾登进士第，任应城县主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')\">1031年</a>　随父旅居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')\">1031年8月</a>　随父旅居，母李氏卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1035')\">1032-1035年</a>　随父旅居。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a1fc369c6c794141826dc19d2a57eac8\");'><span id='a1fc369c6c794141826dc19d2a57eac8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1040')\">1036-1040年</a>，15-19岁</div><div id='a1fc369c6c794141826dc19d2a57eac8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')\">1036年</a>　父任越州司法参军，随父旅居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1040')\">1037-1040年</a>　随父旅居。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b11c7573d5eb427980b6f7305a5ada7e\");'><span id='b11c7573d5eb427980b6f7305a5ada7e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1046')\">1045-1046年</a>，24-25岁</div><div id='b11c7573d5eb427980b6f7305a5ada7e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　赴京应试。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年3月</a>　初试落地。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"23963658a4c64da7b6315c688cf5ee6f\");'><span id='23963658a4c64da7b6315c688cf5ee6f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1049')\">1048-1049年</a>，27-28岁</div><div id='23963658a4c64da7b6315c688cf5ee6f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　赴京应试。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年3月</a>　不第赋诗。<span class='label'>作品：</span>下第后与孙仲叔饮。<div id='poem_175959' class='_poem'><div id='poem_title_175959' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175959' class='poemCommentLink' target='_blank'>下第后与孙仲叔饮</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_175959\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_175959_comment'></div><div class='poemContent' id='poem_content_175959'><div class='poemSentence' id='poem_sentence_0_175959'>万里青云失意深，画楼酒美共登临。</div><div id='poem_sentence_0_175959_comment'></div><div class='poemSentence' id='poem_sentence_1_175959'>不羞独落众人后，却是重辜亲老心。</div><div id='poem_sentence_1_175959_comment'></div><div class='poemSentence' id='poem_sentence_2_175959'>一缺不完非折剑，至刚无屈是精金。</div><div id='poem_sentence_2_175959_comment'></div><div class='poemSentence' id='poem_sentence_3_175959'>男儿三十年方壮，何必尊前泪满襟。</div><div id='poem_sentence_3_175959_comment'></div><div class='poemSentence' id='poem_sentence_4_175959'></div><div id='poem_sentence_4_175959_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a4791f92cc224d2680cbe0c9743c1d02\");'><span id='a4791f92cc224d2680cbe0c9743c1d02_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1053')\">1052-1053年</a>，31-32岁</div><div id='a4791f92cc224d2680cbe0c9743c1d02' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')\">1052年</a>　住京师景德寺白土院，秋赋举国学进士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年3月13日</a>　中状元登第。<span class='label'>作品：</span>登第后作。<div id='poem_175941' class='_poem'><div id='poem_title_175941' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175941' class='poemCommentLink' target='_blank'>登第后作</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_175941\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175941_comment'></div><div class='poemContent' id='poem_content_175941'><div class='poemSentence' id='poem_sentence_0_175941'>文闱数战夺先锋，变化须知自古同。</div><div id='poem_sentence_0_175941_comment'></div><div class='poemSentence' id='poem_sentence_1_175941'>霹雳一声从地起，到头身是白云翁<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_1_175941_comment'></div><div class='poemSentence' id='poem_sentence_2_175941'></div><div id='poem_sentence_2_175941_comment'></div></div><div class='poemNote' id='poem_note_175941'><div class='inline1'><div id='poem_sentence_1_175941_0'>⑴ 原注：公病中尝梦浴玉龙池，惊见体生鳞角而寤。</div></div></div><div id='poem_note_175941_comment'></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"cfbbc8ecdb78458f8b7474c003950094\");'><span id='cfbbc8ecdb78458f8b7474c003950094_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1063')\">1055-1063年</a>，34-42岁</div><div id='cfbbc8ecdb78458f8b7474c003950094' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')\">1055年1月21日</a>　为著作郎直集贤院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年5月</a>　父卒。有诗。<span class='label'>作品：</span>慈乌行。<div id='poem_176210' class='_poem'><div id='poem_title_176210' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176210' class='poemCommentLink' target='_blank'>慈乌行</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176210\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176210_comment'></div><div class='poemContent' id='poem_content_176210'><div class='poemSentence' id='poem_sentence_0_176210'>鸦鸦林中雏，日晚犹未栖。</div><div id='poem_sentence_0_176210_comment'></div><div class='poemSentence' id='poem_sentence_1_176210'>口衔山樱来，独向林中啼。</div><div id='poem_sentence_1_176210_comment'></div><div class='poemSentence' id='poem_sentence_2_176210'>林中有鸦父，昔生六七儿。</div><div id='poem_sentence_2_176210_comment'></div><div class='poemSentence' id='poem_sentence_3_176210'>一朝弃之去，空此群雏悲。</div><div id='poem_sentence_3_176210_comment'></div><div class='poemSentence' id='poem_sentence_4_176210'>意谓父在林，还傍前山飞。</div><div id='poem_sentence_4_176210_comment'></div><div class='poemSentence' id='poem_sentence_5_176210'>山中得山樱，欲来反哺之。</div><div id='poem_sentence_5_176210_comment'></div><div class='poemSentence' id='poem_sentence_6_176210'>绕林复穿树，疑在叶东西。</div><div id='poem_sentence_6_176210_comment'></div><div class='poemSentence' id='poem_sentence_7_176210'>东西竟无有，还上高高枝。</div><div id='poem_sentence_7_176210_comment'></div><div class='poemSentence' id='poem_sentence_8_176210'>高枝仅空巢，见此涕沾衣。</div><div id='poem_sentence_8_176210_comment'></div><div class='poemSentence' id='poem_sentence_9_176210'>复念营巢初，手足生疮痍。</div><div id='poem_sentence_9_176210_comment'></div><div class='poemSentence' id='poem_sentence_10_176210'>朝飞恐雏渴，暮飞恐雏饥。</div><div id='poem_sentence_10_176210_comment'></div><div class='poemSentence' id='poem_sentence_11_176210'>一日万千回，日日衔黍归。</div><div id='poem_sentence_11_176210_comment'></div><div class='poemSentence' id='poem_sentence_12_176210'>今我羽翼成，反哺方有期。</div><div id='poem_sentence_12_176210_comment'></div><div class='poemSentence' id='poem_sentence_13_176210'>如何天夺去，遂成长别离。</div><div id='poem_sentence_13_176210_comment'></div><div class='poemSentence' id='poem_sentence_14_176210'>山樱正满枝，结子红琲肥。</div><div id='poem_sentence_14_176210_comment'></div><div class='poemSentence' id='poem_sentence_15_176210'>而我不得哺，安用自啄为。</div><div id='poem_sentence_15_176210_comment'></div><div class='poemSentence' id='poem_sentence_16_176210'>嗟嗟我薄祜，哺之固已迟。</div><div id='poem_sentence_16_176210_comment'></div><div class='poemSentence' id='poem_sentence_17_176210'>尚有慈母恩，群雏且相随。</div><div id='poem_sentence_17_176210_comment'></div><div class='poemSentence' id='poem_sentence_18_176210'></div><div id='poem_sentence_18_176210_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年2月</a>　为著作郎直集贤院，有诗。<span class='label'>作品：</span>二月雪。<div id='poem_176113' class='_poem'><div id='poem_title_176113' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176113' class='poemCommentLink' target='_blank'>二月雪</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176113\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176113_comment'></div><div class='poemContent' id='poem_content_176113'><div class='poemSentence' id='poem_sentence_0_176113'>戊戌二月二十六，忽见大雪漫空来。</div><div id='poem_sentence_0_176113_comment'></div><div class='poemSentence' id='poem_sentence_1_176113'>长老惊叹共相语，非时有雪诚怪哉。</div><div id='poem_sentence_1_176113_comment'></div><div class='poemSentence' id='poem_sentence_2_176113'>阳爻四画已出地，至今百蛰不闻雷。</div><div id='poem_sentence_2_176113_comment'></div><div class='poemSentence' id='poem_sentence_3_176113'>怪得气候斗暄暖，便疑赤帝来相排。</div><div id='poem_sentence_3_176113_comment'></div><div class='poemSentence' id='poem_sentence_4_176113'>黑风倏起捲沧海，白日黯黯如烟煤。</div><div id='poem_sentence_4_176113_comment'></div><div class='poemSentence' id='poem_sentence_5_176113'>须臾大雹杂猛雨，满地走迸琼与瑰。</div><div id='poem_sentence_5_176113_comment'></div><div class='poemSentence' id='poem_sentence_6_176113'>阴气蓄怒固未已，即时飞雪相倾颓。</div><div id='poem_sentence_6_176113_comment'></div><div class='poemSentence' id='poem_sentence_7_176113'>青灵何处避威侮，苍凤停车寒毰毸。</div><div id='poem_sentence_7_176113_comment'></div><div class='poemSentence' id='poem_sentence_8_176113'>天地万物失光彩，草树僵冻成枯荄。</div><div id='poem_sentence_8_176113_comment'></div><div class='poemSentence' id='poem_sentence_9_176113'>凌暴春工大酷烈，似恨百花先时开。</div><div id='poem_sentence_9_176113_comment'></div><div class='poemSentence' id='poem_sentence_10_176113'>隐公三月亦雨雪，仲尼春秋书为灾。</div><div id='poem_sentence_10_176113_comment'></div><div class='poemSentence' id='poem_sentence_11_176113'>是时鲁国行谬政，天心可用人理推。</div><div id='poem_sentence_11_176113_comment'></div><div class='poemSentence' id='poem_sentence_12_176113'>我疑此雪不虚应，必有沴气戕栽培。</div><div id='poem_sentence_12_176113_comment'></div><div class='poemSentence' id='poem_sentence_13_176113'>去年六月已大水，居人万类生鱼腮。</div><div id='poem_sentence_13_176113_comment'></div><div class='poemSentence' id='poem_sentence_14_176113'>当时夏税不得免，至今里正排门催。</div><div id='poem_sentence_14_176113_comment'></div><div class='poemSentence' id='poem_sentence_15_176113'>农夫出田掘野荠，饿倒只向田中埋。</div><div id='poem_sentence_15_176113_comment'></div><div class='poemSentence' id='poem_sentence_16_176113'>方春鸟兽尚有禁，不许弹猎伤胚胎。</div><div id='poem_sentence_16_176113_comment'></div><div class='poemSentence' id='poem_sentence_17_176113'>而况吾民戴君后，上官不肯一挂怀。</div><div id='poem_sentence_17_176113_comment'></div><div class='poemSentence' id='poem_sentence_18_176113'>岂无愁苦动天地，所以当春阴气乖。</div><div id='poem_sentence_18_176113_comment'></div><div class='poemSentence' id='poem_sentence_19_176113'>只消黄纸一幅诏，敕责长吏须矜哀。</div><div id='poem_sentence_19_176113_comment'></div><div class='poemSentence' id='poem_sentence_20_176113'>蠲除馀租不尽取，收提赤子苏饥骸。</div><div id='poem_sentence_20_176113_comment'></div><div class='poemSentence' id='poem_sentence_21_176113'>沛然德泽满天下，坐中可使春风回。</div><div id='poem_sentence_21_176113_comment'></div><div class='poemSentence' id='poem_sentence_22_176113'></div><div id='poem_sentence_22_176113_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1059')\">1058-1059年</a>　为著作郎直集贤院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年8月6日</a>　与王安石同为集贤校理。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年3月</a>　参加赏花钓鱼宴会。<span class='label'>作品：</span>和御制赏花钓鱼。<div id='poem_176110' class='_poem'><div id='poem_title_176110' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176110' class='poemCommentLink' target='_blank'>和御制赏花钓鱼</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176110\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>五言排律</div></div><div id='poem_title_176110_comment'></div><div class='poemContent' id='poem_content_176110'><div class='poemSentence' id='poem_sentence_0_176110'>晓日开阊阖，春风满未央。</div><div id='poem_sentence_0_176110_comment'></div><div class='poemSentence' id='poem_sentence_1_176110'>水摇天仗影，花杂御衣香。</div><div id='poem_sentence_1_176110_comment'></div><div class='poemSentence' id='poem_sentence_2_176110'>覆槛红梢接，连钩紫鬣长。</div><div id='poem_sentence_2_176110_comment'></div><div class='poemSentence' id='poem_sentence_3_176110'>千钟浮帝酒，五色染天章。</div><div id='poem_sentence_3_176110_comment'></div><div class='poemSentence' id='poem_sentence_4_176110'>邹马摛嘉颂，夔龙拜寿觞。</div><div id='poem_sentence_4_176110_comment'></div><div class='poemSentence' id='poem_sentence_5_176110'>金舆归晚处，正在五云旁。</div><div id='poem_sentence_5_176110_comment'></div><div class='poemSentence' id='poem_sentence_6_176110'></div><div id='poem_sentence_6_176110_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年1月8日</a>　以同修起居注集贤校理。<span class='label'>作品：</span>三司续磨勘司题名记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　与钱公辅同除知制诰。<span class='label'>作品：</span>谢知制诰表。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年4月</a>　仁宗登遐，獬赋诗悼挽。<span class='label'>作品：</span>挽仁宗皇帝辞五首。<div id='poem_176065' class='_poem'><div id='poem_title_176065' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176065' class='poemCommentLink' target='_blank'>挽仁宗皇帝辞五首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176065\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_176065_comment'></div><div class='poemContent' id='poem_content_176065'><div class='poemSentence' id='poem_sentence_0_176065'>恭俭同尧舜，忧勤固损年。</div><div id='poem_sentence_0_176065_comment'></div><div class='poemSentence' id='poem_sentence_1_176065'>悲风来万国，白日下中天。</div><div id='poem_sentence_1_176065_comment'></div><div class='poemSentence' id='poem_sentence_2_176065'>薄葬遵周室，初陵兆洛川。</div><div id='poem_sentence_2_176065_comment'></div><div class='poemSentence' id='poem_sentence_3_176065'>至仁推庙号，百世不能迁。</div><div id='poem_sentence_3_176065_comment'></div><div class='poemSentence' id='poem_sentence_4_176065'></div><div id='poem_sentence_4_176065_comment'></div></div></div><div id='poem_176064' class='_poem'><div id='poem_title_176064' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176064' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_176064_comment'></div><div class='poemContent' id='poem_content_176064'><div class='poemSentence' id='poem_sentence_0_176064'>四海一明鉴，舟车万里通。</div><div id='poem_sentence_0_176064_comment'></div><div class='poemSentence' id='poem_sentence_1_176064'>名王花赐绶，战士锦韬弓。</div><div id='poem_sentence_1_176064_comment'></div><div class='poemSentence' id='poem_sentence_2_176064'>孝武曾疲战，明皇亦召戎。</div><div id='poem_sentence_2_176064_comment'></div><div class='poemSentence' id='poem_sentence_3_176064'>争如四十载，终始太平中。</div><div id='poem_sentence_3_176064_comment'></div><div class='poemSentence' id='poem_sentence_4_176064'></div><div id='poem_sentence_4_176064_comment'></div></div></div><div id='poem_176063' class='_poem'><div id='poem_title_176063' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176063' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_176063_comment'></div><div class='poemContent' id='poem_content_176063'><div class='poemSentence' id='poem_sentence_0_176063'>付托神灵器，子孙千万年。</div><div id='poem_sentence_0_176063_comment'></div><div class='poemSentence' id='poem_sentence_1_176063'>果为天下福，遂得圣人传。</div><div id='poem_sentence_1_176063_comment'></div><div class='poemSentence' id='poem_sentence_2_176063'>已定无疆业，方成顾命篇。</div><div id='poem_sentence_2_176063_comment'></div><div class='poemSentence' id='poem_sentence_3_176063'>明朝无一事，脱屣或登仙。</div><div id='poem_sentence_3_176063_comment'></div><div class='poemSentence' id='poem_sentence_4_176063'></div><div id='poem_sentence_4_176063_comment'></div></div></div><div id='poem_176062' class='_poem'><div id='poem_title_176062' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176062' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_176062_comment'></div><div class='poemContent' id='poem_content_176062'><div class='poemSentence' id='poem_sentence_0_176062'>歌舞西陵望，衣冠渭北游。</div><div id='poem_sentence_0_176062_comment'></div><div class='poemSentence' id='poem_sentence_1_176062'>应从天上乐，不为世间留。</div><div id='poem_sentence_1_176062_comment'></div><div class='poemSentence' id='poem_sentence_2_176062'>龙去鼎湖晚，雁飞汾水秋。</div><div id='poem_sentence_2_176062_comment'></div><div class='poemSentence' id='poem_sentence_3_176062'>群臣泪横臆，空拜翠云裘。</div><div id='poem_sentence_3_176062_comment'></div><div class='poemSentence' id='poem_sentence_4_176062'></div><div id='poem_sentence_4_176062_comment'></div></div></div><div id='poem_176061' class='_poem'><div id='poem_title_176061' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176061' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_176061_comment'></div><div class='poemContent' id='poem_content_176061'><div class='poemSentence' id='poem_sentence_0_176061'>曾从西池幸，宫花落未稀。</div><div id='poem_sentence_0_176061_comment'></div><div class='poemSentence' id='poem_sentence_1_176061'>日随黄伞转，云绕赭袍飞。</div><div id='poem_sentence_1_176061_comment'></div><div class='poemSentence' id='poem_sentence_2_176061'>临水楼台在，伤心歌管非。</div><div id='poem_sentence_2_176061_comment'></div><div class='poemSentence' id='poem_sentence_3_176061'>都门旧行处，却望寿山归。</div><div id='poem_sentence_3_176061_comment'></div><div class='poemSentence' id='poem_sentence_4_176061'></div><div id='poem_sentence_4_176061_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年4月</a>　仁宗登遐，英宗即位，獬进言山陵制度应行俭。<span class='label'>作品：</span>论减仁宗山陵制度状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年7月</a>　獬上言反对推恩制度。<span class='label'>作品：</span>上英宗乞绝缪恩。上英宗勿须再行登极恩。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3ade114d13b54cfda7216da9ee17a8f9\");'><span id='3ade114d13b54cfda7216da9ee17a8f9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1069')\">1067-1069年</a>，46-48岁</div><div id='3ade114d13b54cfda7216da9ee17a8f9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年9月25日</a>　上面授以翰林学士。<span class='label'>作品：</span>谢翰林学士表。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　任翰林学士。<span class='label'>作品：</span>安州重修学记。论种谔擅入西界疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　权发遣开封府。<span class='label'>作品：</span>知开封府劄子。<br /></div>"
+                },
+                {
+                    "Latitude": 31.214347,
+                    "Longitude": 107.474504,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5117",
+                    "Title": "达州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"815e742aaad34aeeb482a5597430638a\");'><span id='815e742aaad34aeeb482a5597430638a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1048')\">1046-1048年</a>，25-27岁</div><div id='815e742aaad34aeeb482a5597430638a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')\">1046年</a>　寓通州城南文殊院读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年</a>　寓通州城南文殊院读书，娶张氏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')\">1048年</a>　寓通州城南文殊院读书。<br /></div>"
+                },
+                {
+                    "Latitude": 28.165218,
+                    "Longitude": 115.777688,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360981",
+                    "Title": "丰城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1fa3f541cd3c496abe4a53a0f4f208cc\");'><span id='1fa3f541cd3c496abe4a53a0f4f208cc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年</a>，28岁</div><div id='1fa3f541cd3c496abe4a53a0f4f208cc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')\">1049年9月</a>　游剑池。<span class='label'>作品：</span>剑池赋。<br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"65b056f026c84b8b99471db154fbe1f2\");'><span id='65b056f026c84b8b99471db154fbe1f2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1051')\">1050-1051年</a>，29-30岁</div><div id='65b056f026c84b8b99471db154fbe1f2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')\">1050年</a>　见张存，料其科名当为天下第一。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')\">1051年</a>　求学江西。<br /></div>"
+                },
+                {
+                    "Latitude": 33.737245,
+                    "Longitude": 114.892727,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411626",
+                    "Title": "淮阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9763b742d66f416eaaaced3d2b944db9\");'><span id='9763b742d66f416eaaaced3d2b944db9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1054')\">1053-1054年</a>，32-33岁</div><div id='9763b742d66f416eaaaced3d2b944db9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1054')\">1053-1054年</a>　为将作监丞通判陈州。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5f537814009e44618517296ab2ea5153\");'><span id='5f537814009e44618517296ab2ea5153_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1065')\">1063-1065年</a>，42-44岁</div><div id='5f537814009e44618517296ab2ea5153' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1064')\">1063-1064年</a>　以右司谏知荆南。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年8月</a>　上疏言事。<span class='label'>作品：</span>论臣僚极言得失疏。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"43e5c889ca90428dba7b09448cdfd408\");'><span id='43e5c889ca90428dba7b09448cdfd408_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1067')\">1066-1067年</a>，45-46岁</div><div id='43e5c889ca90428dba7b09448cdfd408' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')\">1066年</a>　还判三班院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')\">1066年11月17日</a>　为黄州重建门作记。<span class='label'>作品：</span>黄州重建门记碑。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　以右司谏知荆南。<br /></div>"
+                },
+                {
+                    "Latitude": 30.459422,
+                    "Longitude": 114.878872,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4211",
+                    "Title": "黄冈",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e2f28691a23d41b2be4f3d41d35e37bd\");'><span id='e2f28691a23d41b2be4f3d41d35e37bd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>，44岁</div><div id='e2f28691a23d41b2be4f3d41d35e37bd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　浮舟跨长江而南，道出黄州，往见刺史陈侯。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bd129a4761bf4380ac3ce27525329539\");'><span id='bd129a4761bf4380ac3ce27525329539_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>，48岁</div><div id='bd129a4761bf4380ac3ce27525329539' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年5月</a>　断狱不依新法，安石恶之，出为侍读学士、知杭州。<span class='label'>作品：</span>湖上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　以侍读学士知杭州。<span class='label'>作品：</span>湖上遇雨。题杭郡阁。观涛。捕蝗。舟行次南都遇雨。杭州喜雪。题关彦长孤山四照阁。御制狄公祭文序。江宁县思贤堂记。<div id='poem_176197' class='_poem'><div id='poem_title_176197' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176197' class='poemCommentLink' target='_blank'>湖上遇雨</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176197\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176197_comment'></div><div class='poemContent' id='poem_content_176197'><div class='poemSentence' id='poem_sentence_0_176197'>老龙怒相搏，快雨忽喷洒。</div><div id='poem_sentence_0_176197_comment'></div><div class='poemSentence' id='poem_sentence_1_176197'>天公白羽箭，竦竦射万瓦。</div><div id='poem_sentence_1_176197_comment'></div><div class='poemSentence' id='poem_sentence_2_176197'>电眼窥人屋，狂雷震欲下。</div><div id='poem_sentence_2_176197_comment'></div><div class='poemSentence' id='poem_sentence_3_176197'>直疑恶溪山，扫除重造化。</div><div id='poem_sentence_3_176197_comment'></div><div class='poemSentence' id='poem_sentence_4_176197'>顷之苍云裂，天光出缝罅。</div><div id='poem_sentence_4_176197_comment'></div><div class='poemSentence' id='poem_sentence_5_176197'>变怪忽寂寥，乾坤似新画。</div><div id='poem_sentence_5_176197_comment'></div><div class='poemSentence' id='poem_sentence_6_176197'>秀霭翠堪包，清风健可跨。</div><div id='poem_sentence_6_176197_comment'></div><div class='poemSentence' id='poem_sentence_7_176197'>林影走群龙，溪声回万马。</div><div id='poem_sentence_7_176197_comment'></div><div class='poemSentence' id='poem_sentence_8_176197'>更无一尘飞，清光熨平野。</div><div id='poem_sentence_8_176197_comment'></div><div class='poemSentence' id='poem_sentence_9_176197'>沙路净无泥，侵凉宜早驾。</div><div id='poem_sentence_9_176197_comment'></div><div class='poemSentence' id='poem_sentence_10_176197'>高堂应念归，屈指期到舍。</div><div id='poem_sentence_10_176197_comment'></div><div class='poemSentence' id='poem_sentence_11_176197'></div><div id='poem_sentence_11_176197_comment'></div></div></div><div id='poem_176221' class='_poem'><div id='poem_title_176221' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176221' class='poemCommentLink' target='_blank'>题杭郡阁<span class='inlineComment2'>（原校：此首从《玉壶清话》补入）</span></a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176221\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176221_comment'></div><div class='poemContent' id='poem_content_176221'><div class='poemSentence' id='poem_sentence_0_176221'>雨影横残虹，秋容映阴日。</div><div id='poem_sentence_0_176221_comment'></div><div class='poemSentence' id='poem_sentence_1_176221'>寒江带暮流，晓角穿云出。</div><div id='poem_sentence_1_176221_comment'></div><div class='poemSentence' id='poem_sentence_2_176221'>峰藏翠如织，宿鸟去无迹。</div><div id='poem_sentence_2_176221_comment'></div><div class='poemSentence' id='poem_sentence_3_176221'>封书寄所怀，聊托金门翼。</div><div id='poem_sentence_3_176221_comment'></div><div class='poemSentence' id='poem_sentence_4_176221'></div><div id='poem_sentence_4_176221_comment'></div></div></div><div id='poem_175851' class='_poem'><div id='poem_title_175851' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175851' class='poemCommentLink' target='_blank'>观涛</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_175851\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175851_comment'></div><div class='poemContent' id='poem_content_175851'><div class='poemSentence' id='poem_sentence_0_175851'>怒涛沃日为之阴，下有蛟龙不测深。</div><div id='poem_sentence_0_175851_comment'></div><div class='poemSentence' id='poem_sentence_1_175851'>若比人间恶风浪，长江风浪本无心。</div><div id='poem_sentence_1_175851_comment'></div><div class='poemSentence' id='poem_sentence_2_175851'></div><div id='poem_sentence_2_175851_comment'></div></div></div><div id='poem_176182' class='_poem'><div id='poem_title_176182' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176182' class='poemCommentLink' target='_blank'>捕蝗</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176182\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176182_comment'></div><div class='poemContent' id='poem_content_176182'><div class='poemSentence' id='poem_sentence_0_176182'>翁妪妇子相催行，官遣捕蝗赤日里。</div><div id='poem_sentence_0_176182_comment'></div><div class='poemSentence' id='poem_sentence_1_176182'>蝗满田中不见田，穗头栉栉如排指。</div><div id='poem_sentence_1_176182_comment'></div><div class='poemSentence' id='poem_sentence_2_176182'>凿坑篝火齐声驱，腹饱翅短飞不起。</div><div id='poem_sentence_2_176182_comment'></div><div class='poemSentence' id='poem_sentence_3_176182'>囊提籯负输入官，换官仓粟能得几。</div><div id='poem_sentence_3_176182_comment'></div><div class='poemSentence' id='poem_sentence_4_176182'>虽然捕得一斗蝗，又生百斗新蝗子。</div><div id='poem_sentence_4_176182_comment'></div><div class='poemSentence' id='poem_sentence_5_176182'>只应食尽田中禾，饿杀农夫方始死。</div><div id='poem_sentence_5_176182_comment'></div><div class='poemSentence' id='poem_sentence_6_176182'></div><div id='poem_sentence_6_176182_comment'></div></div></div><div id='poem_175849' class='_poem'><div id='poem_title_175849' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175849' class='poemCommentLink' target='_blank'>舟行次南都遇雨<sup class='reference inlineComment2'>①</sup><span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_175849\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175849_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_175849_0'>① 《两宋名贤小集》题作罢禁林行次南都遇雨</div></div></div><div class='poemContent' id='poem_content_175849'><div class='poemSentence' id='poem_sentence_0_175849'>雨声飘断忽南去，云势旋生从北流。</div><div id='poem_sentence_0_175849_comment'></div><div class='poemSentence' id='poem_sentence_1_175849'>料得<sup class='reference inlineComment2'>⑴</sup>凉风消息近，萧萧只在柳<sup class='reference inlineComment2'>⑵</sup>梢头。</div><div id='poem_sentence_1_175849_comment'></div><div class='poemSentence' id='poem_sentence_2_175849'></div><div id='poem_sentence_2_175849_comment'></div></div><div class='poemNote' id='poem_note_175849'><div class='inline1'><div id='poem_sentence_1_175849_0'>⑴ 《两宋名贤小集》作应料</div></div><div class='inline1'><div id='poem_sentence_1_175849_0'>⑵ 《两宋名贤小集》作已在树</div></div></div><div id='poem_note_175849_comment'></div></div><div id='poem_175850' class='_poem'><div id='poem_title_175850' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175850' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175850_comment'></div><div class='poemContent' id='poem_content_175850'><div class='poemSentence' id='poem_sentence_0_175850'>老火烧空未拟收<sup class='reference inlineComment2'>⑴</sup>，忽惊快雨破新秋。</div><div id='poem_sentence_0_175850_comment'></div><div class='poemSentence' id='poem_sentence_1_175850'>晚云浓淡落日下<span class='inlineComment2'>（《两宋名贤小集》作淡淡趁落日）</span>，已似<sup class='reference inlineComment2'>⑵</sup>楚江南岸头。</div><div id='poem_sentence_1_175850_comment'></div><div class='poemSentence' id='poem_sentence_2_175850'></div><div id='poem_sentence_2_175850_comment'></div></div><div class='poemNote' id='poem_note_175850'><div class='inline1'><div id='poem_sentence_0_175850_0'>⑴ 《两宋名贤小集》作榴火烧空未拟休</div></div><div class='inline1'><div id='poem_sentence_1_175850_0'>⑵ 《两宋名贤小集》作只到</div></div></div><div id='poem_note_175850_comment'></div></div><div id='poem_176025' class='_poem'><div id='poem_title_176025' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176025' class='poemCommentLink' target='_blank'>杭州喜雪</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176025\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_176025_comment'></div><div class='poemContent' id='poem_content_176025'><div class='poemSentence' id='poem_sentence_0_176025'>吴儿经年不识雪，忽惊大片遮空来。</div><div id='poem_sentence_0_176025_comment'></div><div class='poemSentence' id='poem_sentence_1_176025'>黑帝不分苦荒拙，六花一夜随风开。</div><div id='poem_sentence_1_176025_comment'></div><div class='poemSentence' id='poem_sentence_2_176025'>平明扫径招佳客，座上岂无邹与枚。</div><div id='poem_sentence_2_176025_comment'></div><div class='poemSentence' id='poem_sentence_3_176025'>荆州新酿泼醅熟，清光透彻黄金杯。</div><div id='poem_sentence_3_176025_comment'></div><div class='poemSentence' id='poem_sentence_4_176025'></div><div id='poem_sentence_4_176025_comment'></div></div></div><div id='poem_176219' class='_poem'><div id='poem_title_176219' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=176219' class='poemCommentLink' target='_blank'>题关彦长孤山四照阁</a><a href='javascript: ShowPoemAuthorProfile(29879, \"宋\", \"郑獬\", \"poem_title_176219\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑獬</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_176219_comment'></div><div class='poemContent' id='poem_content_176219'><div class='poemSentence' id='poem_sentence_0_176219'>湖<sup class='reference inlineComment2'>⑴</sup>山天下之绝境，群山绕湖千百重。</div><div id='poem_sentence_0_176219_comment'></div><div class='poemSentence' id='poem_sentence_1_176219'>碧笋四插明镜外，此阁正落明镜中。</div><div id='poem_sentence_1_176219_comment'></div><div class='poemSentence' id='poem_sentence_2_176219'>绿波一穗扫沙尾，拥门尽是红芙蓉。</div><div id='poem_sentence_2_176219_comment'></div><div class='poemSentence' id='poem_sentence_3_176219'>清香断处接苍霭，绿萝攀树登高峰。</div><div id='poem_sentence_3_176219_comment'></div><div class='poemSentence' id='poem_sentence_4_176219'>当轩不置窗与槛，湖光山翠还相通。</div><div id='poem_sentence_4_176219_comment'></div><div class='poemSentence' id='poem_sentence_5_176219'>侧耳似闻天上语，接手便欲翻长空。</div><div id='poem_sentence_5_176219_comment'></div><div class='poemSentence' id='poem_sentence_6_176219'>忽疑跃入画屏上，但觉毛发生清风。</div><div id='poem_sentence_6_176219_comment'></div><div class='poemSentence' id='poem_sentence_7_176219'>光景动荡失天地，直与颢气争雌雄。</div><div id='poem_sentence_7_176219_comment'></div><div class='poemSentence' id='poem_sentence_8_176219'>君何容易得此处，著意镵凿由天公。</div><div id='poem_sentence_8_176219_comment'></div><div class='poemSentence' id='poem_sentence_9_176219'>西湖虽然多佳境，游人到此景遂穷。</div><div id='poem_sentence_9_176219_comment'></div><div class='poemSentence' id='poem_sentence_10_176219'>昔日郎官退居此，足踏藤履手携筇。</div><div id='poem_sentence_10_176219_comment'></div><div class='poemSentence' id='poem_sentence_11_176219'>时陪金壶宴亲旧，船飞两楫如归鸿。</div><div id='poem_sentence_11_176219_comment'></div><div class='poemSentence' id='poem_sentence_12_176219'>溪鱼鲜白玉膏脆，林果红熟燕脂浓。</div><div id='poem_sentence_12_176219_comment'></div><div class='poemSentence' id='poem_sentence_13_176219'>挥弄清泉倚苍石，当时即是神仙翁。</div><div id='poem_sentence_13_176219_comment'></div><div class='poemSentence' id='poem_sentence_14_176219'>又况诸子尽奋发，绿袍照烂时相从。</div><div id='poem_sentence_14_176219_comment'></div><div class='poemSentence' id='poem_sentence_15_176219'>我来登览但叹息，有家不得居江东。</div><div id='poem_sentence_15_176219_comment'></div><div class='poemSentence' id='poem_sentence_16_176219'>至今此景常入梦，尚有清气留心胸。</div><div id='poem_sentence_16_176219_comment'></div><div class='poemSentence' id='poem_sentence_17_176219'>屡蒙书尾追拙唱，强临纸札诚难工。</div><div id='poem_sentence_17_176219_comment'></div><div class='poemSentence' id='poem_sentence_18_176219'>湖山有灵必见笑，便与弃掷无留踪。</div><div id='poem_sentence_18_176219_comment'></div><div class='poemSentence' id='poem_sentence_19_176219'>直须收拾买邻舍，兄乎异日能相容<span class='inlineComment2'>（以上《郧溪集》卷二五）</span>。</div><div id='poem_sentence_19_176219_comment'></div><div class='poemSentence' id='poem_sentence_20_176219'></div><div id='poem_sentence_20_176219_comment'></div></div><div class='poemNote' id='poem_note_176219'><div class='inline1'><div id='poem_sentence_0_176219_0'>⑴ 张本校：潘本作孤</div></div></div><div id='poem_note_176219_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　祖无择下秀州狱，獬上章救解。<span class='label'>作品：</span>救祖无择疏。<br /></div>"
+                },
+                {
+                    "Latitude": 36.778223,
+                    "Longitude": 118.440962,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370781002",
+                    "Title": "益都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c4c5835570ea47368c4daf49c9290308\");'><span id='c4c5835570ea47368c4daf49c9290308_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1071')\">1070-1071年</a>，49-50岁</div><div id='c4c5835570ea47368c4daf49c9290308' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年4月</a>　徙知青州，张先作词送别。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年</a>　乞罢青苗法。<span class='label'>作品：</span>乞罢青苗法状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年12月</a>　卧病，乞别选近臣代之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　带病在任上。<br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"05485f0b72664d069294f25339e603a3\");'><span id='05485f0b72664d069294f25339e603a3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1072')\">1071-1072年</a>，50-51岁</div><div id='05485f0b72664d069294f25339e603a3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年9月</a>　闲居楚州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年9月</a>　卒于楚州，家贫子弱，十余年后由滕甫助安葬安州故里。<br /></div>"
+                },
+                {
+                    "Latitude": 30.251772,
+                    "Longitude": 120.139058,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301 西湖",
+                    "Title": "西湖",
+                    "RequestUri": "scope=当代/杭州市西湖&author=郑獬&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "郑獬 <span class='inlineComment2'>(1022-1072)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：胡银元《郑獬年谱简编》　录入整理：王可喜</p><p><a href=\"javascript: ViewRoute(0, 4, 117.08308, 32.41973, 8, 0)\">1-25岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">安陆</a> → <a href=\"javascript: ViewPoint(1, 0)\">应城</a> → <a href=\"javascript: ViewPoint(2, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(3, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(4, 9, 111.669516, 31.4840795, 8, 0)\">25-32岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">达州</a> → <a href=\"javascript: ViewPoint(5, 0)\">开封</a> → <a href=\"javascript: ViewPoint(6, 0)\">丰城</a> → <a href=\"javascript: ViewPoint(7, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(8, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(9, 18, 116.296423, 33.413151, 8, 0)\">32-51岁</a><br /><a href=\"javascript: ViewPoint(9, 0)\">淮阳</a> → <a href=\"javascript: ViewPoint(10, 0)\">开封</a> → <a href=\"javascript: ViewPoint(11, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(12, 0)\">黄冈</a> → <a href=\"javascript: ViewPoint(13, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(14, 0)\">开封</a> → <a href=\"javascript: ViewPoint(15, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(16, 0)\">益都</a> → <a href=\"javascript: ViewPoint(17, 0)\">淮安</a></p>"
+        }
+    ]
+}

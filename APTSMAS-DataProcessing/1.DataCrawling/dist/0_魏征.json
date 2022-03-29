@@ -1,0 +1,360 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 35.857585,
+            "CenterLongitude": 115.510696,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "21ad1bee8dd04f6c885b53ef6aca4e43",
+                            "Latitude": 35.857585,
+                            "Longitude": 115.510696,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410926",
+                            "Title": "范县"
+                        },
+                        {
+                            "Id": "681a99a01c824e6db0bea40703882607",
+                            "Latitude": 36.541552,
+                            "Longitude": 115.312712,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130433",
+                            "Title": "馆陶"
+                        },
+                        {
+                            "Id": "98caf5b102b94d538fff0739e89d9d36",
+                            "Latitude": 35.602155,
+                            "Longitude": 110.718432,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140882",
+                            "Title": "河津"
+                        },
+                        {
+                            "Id": "7a22b413acb6409aa02649bde6d1f0c2",
+                            "Latitude": 34.26471,
+                            "Longitude": 112.610147,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410482103",
+                            "Title": "临汝"
+                        },
+                        {
+                            "Id": "1d3c1131401542f780c627ffb7b9621c",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "8315037a6ab34569a4935295f6f7f8f5",
+                            "Latitude": 36.541552,
+                            "Longitude": 115.312712,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130433",
+                            "Title": "馆陶"
+                        },
+                        {
+                            "Id": "608c11707ea94b1394e8124b83920611",
+                            "Latitude": 35.681885,
+                            "Longitude": 114.557388,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410621",
+                            "Title": "浚县"
+                        },
+                        {
+                            "Id": "898a9f384da94451b75f77d0201ba559",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4ca966c0362240dab6cacf4a1e3cb0bf",
+                            "Latitude": 34.550316,
+                            "Longitude": 110.253065,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610522",
+                            "Title": "潼关"
+                        },
+                        {
+                            "Id": "44a56de360cb45d1a9b088b0fe3b849c",
+                            "Latitude": 35.681885,
+                            "Longitude": 114.557388,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410621",
+                            "Title": "浚县"
+                        },
+                        {
+                            "Id": "6483f32e392e43f9a01de86fa9e8659c",
+                            "Latitude": 36.631222,
+                            "Longitude": 114.545808,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN1304",
+                            "Title": "邯郸"
+                        },
+                        {
+                            "Id": "c558ebe188f04e769880a5a3987fab52",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "626d12258b824ee389c6f986c12585e1",
+                            "Latitude": 35.952793,
+                            "Longitude": 114.905961,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410527",
+                            "Title": "内黄"
+                        },
+                        {
+                            "Id": "e64477a9fb6c4057b74b7c36d3e39f2b",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "dcff0bf1130847c4b22381a0ae4612b6",
+                            "Latitude": 36.713019,
+                            "Longitude": 118.836327,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370725",
+                            "Title": "昌乐"
+                        },
+                        {
+                            "Id": "7949f09d030d4ed580a301d1189909f1",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "8232c53775d444bc89cdba5a564d7169",
+                            "Latitude": 36.38022,
+                            "Longitude": 114.380351,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130427",
+                            "Title": "磁县"
+                        },
+                        {
+                            "Id": "7643a7c4fe8a46308b9e466bbe72a205",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "fe1da9df8d1b424e993af3c083daf880",
+                            "Latitude": 35.857585,
+                            "Longitude": 115.510696,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410926",
+                            "Title": "范县"
+                        },
+                        {
+                            "Id": "1624407360d7419ba9523738b5a84926",
+                            "Latitude": 34.778442,
+                            "Longitude": 111.206832,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4112",
+                            "Title": "三门峡"
+                        },
+                        {
+                            "Id": "f62838e0af054a63a804a134c8e36b56",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 35.857585,
+                    "Longitude": 115.510696,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410926",
+                    "Title": "范县 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"21ad1bee8dd04f6c885b53ef6aca4e43\");'><span id='21ad1bee8dd04f6c885b53ef6aca4e43_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=580&endYear=593')\">580-593年</a>，1-14岁</div><div id='21ad1bee8dd04f6c885b53ef6aca4e43' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=580&endYear=580')\">580年</a>　当在临黄出生（出生地难确考）<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=581&endYear=590')\">581-590年</a>　随父居于临黄。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=591&endYear=591')\">591年</a>　为父守丧于临黄（本年前后其父卒）<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=592&endYear=593')\">592-593年</a>　为父守丧于临黄。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fe1da9df8d1b424e993af3c083daf880\");'><span id='fe1da9df8d1b424e993af3c083daf880_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=638')\">638年</a>，59岁</div><div id='fe1da9df8d1b424e993af3c083daf880' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=638')\">638年1月</a>　还乡扫墓。<br /></div>"
+                },
+                {
+                    "Latitude": 36.541552,
+                    "Longitude": 115.312712,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN130433",
+                    "Title": "馆陶",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"681a99a01c824e6db0bea40703882607\");'><span id='681a99a01c824e6db0bea40703882607_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=594&endYear=602')\">594-602年</a>，15-23岁</div><div id='681a99a01c824e6db0bea40703882607' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=594&endYear=594')\">594年</a>　出家做道士于馆陶。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=595&endYear=602')\">595-602年</a>　道士隐居于馆陶。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8315037a6ab34569a4935295f6f7f8f5\");'><span id='8315037a6ab34569a4935295f6f7f8f5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=605&endYear=617')\">605-617年</a>，26-38岁</div><div id='8315037a6ab34569a4935295f6f7f8f5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=605&endYear=615')\">605-615年</a>　做道士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=616&endYear=616')\">616年</a>　做道士。《道观内柏树赋并序》本年或稍前。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=617&endYear=617')\">617年8月</a>　八、九月间，出山佐郡丞元宝藏起兵。<br /></div>"
+                },
+                {
+                    "Latitude": 35.602155,
+                    "Longitude": 110.718432,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140882",
+                    "Title": "河津",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"98caf5b102b94d538fff0739e89d9d36\");'><span id='98caf5b102b94d538fff0739e89d9d36_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=603&endYear=603')\">603年</a>，24岁</div><div id='98caf5b102b94d538fff0739e89d9d36' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=603&endYear=603')\">603年</a>　去河、汾访学于王通。<br /></div>"
+                },
+                {
+                    "Latitude": 34.26471,
+                    "Longitude": 112.610147,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410482103",
+                    "Title": "临汝",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7a22b413acb6409aa02649bde6d1f0c2\");'><span id='7a22b413acb6409aa02649bde6d1f0c2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=604&endYear=604')\">604年</a>，25岁</div><div id='7a22b413acb6409aa02649bde6d1f0c2' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>或至崆峒山访道。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1d3c1131401542f780c627ffb7b9621c\");'><span id='1d3c1131401542f780c627ffb7b9621c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=604&endYear=604')\">604年</a>，25岁</div><div id='1d3c1131401542f780c627ffb7b9621c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=604&endYear=604')\">604年</a>　游会稽，题诗山寺。<span class='label'>作品：</span>《宿沃洲山寺》<br /></div>"
+                },
+                {
+                    "Latitude": 35.681885,
+                    "Longitude": 114.557388,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410621",
+                    "Title": "浚县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"608c11707ea94b1394e8124b83920611\");'><span id='608c11707ea94b1394e8124b83920611_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=617&endYear=617')\">617年</a>，38岁</div><div id='608c11707ea94b1394e8124b83920611' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=617&endYear=617')\">617年9月</a>　入李密军，掌记室。为李密作书劝降荥阳守郇王杨庆。<span class='label'>作品：</span>《为李密檄荥阳守郇王庆文》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"44a56de360cb45d1a9b088b0fe3b849c\");'><span id='44a56de360cb45d1a9b088b0fe3b849c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=619')\">618-619年</a>，39-40岁</div><div id='44a56de360cb45d1a9b088b0fe3b849c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=618')\">618年11月</a>　秘书丞。，有书与徐世绩劝降。<span class='label'>作品：</span>《与徐世绩书》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=619&endYear=619')\">619年2月</a>　被窦建德俘虏，任起居舍人。为李密撰墓志铭。<span class='label'>作品：</span>《唐故邢国公李密墓志铭》<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"898a9f384da94451b75f77d0201ba559\");'><span id='898a9f384da94451b75f77d0201ba559_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=618')\">618年</a>，39岁</div><div id='898a9f384da94451b75f77d0201ba559' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=618')\">618年10月</a>　在长安，任李密府文学参军。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c558ebe188f04e769880a5a3987fab52\");'><span id='c558ebe188f04e769880a5a3987fab52_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=621&endYear=621')\">621年</a>，42岁</div><div id='c558ebe188f04e769880a5a3987fab52' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=621&endYear=621')\">621年</a>　入东宫。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e64477a9fb6c4057b74b7c36d3e39f2b\");'><span id='e64477a9fb6c4057b74b7c36d3e39f2b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=622&endYear=622')\">622年</a>，43岁</div><div id='e64477a9fb6c4057b74b7c36d3e39f2b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=622&endYear=622')\">622年</a>　在长安。任太子洗马。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7949f09d030d4ed580a301d1189909f1\");'><span id='7949f09d030d4ed580a301d1189909f1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=623&endYear=626')\">623-626年</a>，44-47岁</div><div id='7949f09d030d4ed580a301d1189909f1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=623&endYear=623')\">623年</a>　在长安。任太子洗马。有文。<span class='label'>作品：</span>《赏旧左右议》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=624&endYear=625')\">624-625年</a>　在长安。任太子洗马。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=626')\">626年4月</a>　在长安。任詹事主簿。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7643a7c4fe8a46308b9e466bbe72a205\");'><span id='7643a7c4fe8a46308b9e466bbe72a205_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=637')\">626-637年</a>，47-58岁</div><div id='7643a7c4fe8a46308b9e466bbe72a205' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=626')\">626年9月</a>　在京任谏议大夫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=626')\">626年11月</a>　迁给事中，谏诏免租赋。<span class='label'>作品：</span>《谏诏免租赋又令输纳疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=627&endYear=627')\">627年6月</a>　拜尚书右丞相。置宅东都劝善坊。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=628&endYear=628')\">628年</a>　与王圭上表请为李建成送葬。<span class='label'>作品：</span>《请陪送葬建成元吉表》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=629&endYear=629')\">629年</a>　在长安任秘书监。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=630&endYear=630')\">630年</a>　进言仁义，收聚石经。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=631&endYear=631')\">631年9月27日</a>　上所撰《群书治要》，太宗手诏答之。<span class='label'>作品：</span>《群书治要序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=632&endYear=632')\">632年4月</a>　奉敕撰《九成宫醴泉铭》<span class='label'>作品：</span>《九成宫醴泉碑铭》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=633&endYear=633')\">633年1月</a>　奉命与虞世南等改制《破阵乐》歌词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=633&endYear=633')\">633年6月</a>　与房玄龄游戴胄卒地，数为之流涕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=633&endYear=633')\">633年</a>　奉命作《自古诸侯王善恶录》（今已佚，仅存序）<span class='label'>作品：</span>《诸王善恶录序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=633&endYear=633')\">633年</a>　追赠其父为定州刺史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=634&endYear=634')\">634年</a>　得太宗赞赏孜孜辅弼之功。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=635&endYear=635')\">635年</a>　欲拜右仆射，魏征固辞之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=636&endYear=636')\">636年1月</a>　与房玄龄等上所撰五代史。<span class='label'>作品：</span>《隋书·文学传序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=636&endYear=636')\">636年</a>　加左光禄大夫，进封郑国公。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=637&endYear=637')\">637年</a>　上疏论君子小人。<span class='label'>作品：</span>《论君子小人疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=637&endYear=637')\">637年</a>　上论时政第一、二、三、四疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=637&endYear=637')\">637年</a>　上疏论理狱与纳谏。<span class='label'>作品：</span>《理狱听谏疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=637&endYear=637')\">637年</a>　于洛阳西苑积翠池宴会赋《西汉》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f62838e0af054a63a804a134c8e36b56\");'><span id='f62838e0af054a63a804a134c8e36b56_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=643')\">638-643年</a>，59-64岁</div><div id='f62838e0af054a63a804a134c8e36b56' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=638')\">638年2月</a>　从太宗返京。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=639&endYear=639')\">639年5月</a>　上“十渐疏”<span class='label'>作品：</span>《十渐疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=639&endYear=639')\">639年</a>　参与整理御府所藏王羲之等书法作品。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=640&endYear=640')\">640年5月</a>　上所撰《类礼》二十卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=640&endYear=640')\">640年</a>　上疏论任臣之弊、御臣之弊。<span class='label'>作品：</span>《论御臣之疏》《论治道疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=641&endYear=641')\">641年7月</a>　谏于西域市马。<span class='label'>作品：</span>《谏遣使市马疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=641&endYear=641')\">641年10月</a>　与高士廉等撰成《文思博要》一千二百卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=642&endYear=642')\">642年7月</a>　卧病，太宗手诏问疾，魏征上四奏。<span class='label'>作品：</span>《答太宗手诏疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=642&endYear=642')\">642年</a>　得赐庄田于澄城县，子孙居住，称郑公庄。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=643&endYear=643')\">643年1月</a>　正月卒。临终草遗表讽谏。<span class='label'>作品：</span>《遗表稿》<br /></div>"
+                },
+                {
+                    "Latitude": 34.550316,
+                    "Longitude": 110.253065,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610522",
+                    "Title": "潼关",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4ca966c0362240dab6cacf4a1e3cb0bf\");'><span id='4ca966c0362240dab6cacf4a1e3cb0bf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=618')\">618年</a>，39岁</div><div id='4ca966c0362240dab6cacf4a1e3cb0bf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=618&endYear=618')\">618年11月</a>　过潼关，有《抒怀》诗。<span class='label'>作品：</span>《述怀》<div id='poem_52055' class='_poem'><div id='poem_title_52055' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=52055' class='poemCommentLink' target='_blank'>述怀<span class='inlineComment2'>（一作出关）</span></a><a href='javascript: ShowPoemAuthorProfile(12415, \"隋末唐初\", \"魏徵\", \"poem_title_52055\")'><span class='poemAuthor'><span class='inlineComment1'> 隋末唐初·</span>魏徵</span></a><br /><div class='titleIndent'>五言排律</div></div><div id='poem_title_52055_comment'></div><div class='titleComment' id='poem_allusion_52055'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(389, \"poem_allusion_52055\")'>无二诺</span>　<span class='link' onclick='ShowAllusionComment(437, \"poem_allusion_52055\")'>投笔</span>　<span class='link' onclick='ShowAllusionComment(528, \"poem_allusion_52055\")'>侯嬴</span>　<span class='link' onclick='ShowAllusionComment(1366, \"poem_allusion_52055\")'>请缨</span>　<span class='link' onclick='ShowAllusionComment(6034, \"poem_allusion_52055\")'>逐鹿</span>　<span class='link' onclick='ShowAllusionComment(11015, \"poem_allusion_52055\")'>纵横</span></div><div id='poem_allusion_52055_comment'></div><div class='poemContent' id='poem_content_52055'><div class='poemSentence' id='poem_sentence_0_52055'>中原初<span class='inlineComment2'>（一作还）</span><span class='link' onclick='ShowAllusionComment(6034, \"poem_sentence_0_52055\")'>逐鹿</span>，<span class='link' onclick='ShowAllusionComment(437, \"poem_sentence_0_52055\")'>投笔</span>事<span class='link' onclick='ShowWordComment(\"poem_sentence_0_52055\", 52055, \"Clauses/1/Comments/1\")'>戎轩</span>。</div><div id='poem_sentence_0_52055_comment'></div><div class='poemSentence' id='poem_sentence_1_52055'><span class='link' onclick='ShowAllusionComment(11015, \"poem_sentence_1_52055\")'>纵横</span>计不就，慷慨志犹存。</div><div id='poem_sentence_1_52055_comment'></div><div class='poemSentence' id='poem_sentence_2_52055'><span class='link' onclick='ShowWordComment(\"poem_sentence_2_52055\", 52055, \"Clauses/4/Comments/0\")'>杖策</span>谒天子，驱马出关门。</div><div id='poem_sentence_2_52055_comment'></div><div class='poemSentence' id='poem_sentence_3_52055'><span class='link' onclick='ShowAllusionComment(1366, \"poem_sentence_3_52055\")'>请缨</span>系南粤，<span class='link' onclick='ShowWordComment(\"poem_sentence_3_52055\", 52055, \"Clauses/7/Comments/0\")'>凭轼</span>下东藩。</div><div id='poem_sentence_3_52055_comment'></div><div class='poemSentence' id='poem_sentence_4_52055'><span class='link' onclick='ShowWordComment(\"poem_sentence_4_52055\", 52055, \"Clauses/8/Comments/0\")'>郁纡</span>陟高岫，出没望平原。</div><div id='poem_sentence_4_52055_comment'></div><div class='poemSentence' id='poem_sentence_5_52055'>古木鸣寒鸟<span class='inlineComment2'>（一作雁）</span>，空山啼夜猿。</div><div id='poem_sentence_5_52055_comment'></div><div class='poemSentence' id='poem_sentence_6_52055'>既伤千里目，还惊九折<span class='inlineComment2'>（一作逝）</span>魂。</div><div id='poem_sentence_6_52055_comment'></div><div class='poemSentence' id='poem_sentence_7_52055'>岂不惮<span class='link' onclick='ShowWordComment(\"poem_sentence_7_52055\", 52055, \"Clauses/14/Comments/0\")'>艰险</span>，深怀国士恩。</div><div id='poem_sentence_7_52055_comment'></div><div class='poemSentence' id='poem_sentence_8_52055'>季布<span class='link' onclick='ShowAllusionComment(389, \"poem_sentence_8_52055\")'>无二诺</span>，<span class='link' onclick='ShowAllusionComment(528, \"poem_sentence_8_52055\")'>侯嬴</span>重<span class='link' onclick='ShowWordComment(\"poem_sentence_8_52055\", 52055, \"Clauses/17/Comments/1\")'>一言</span>。</div><div id='poem_sentence_8_52055_comment'></div><div class='poemSentence' id='poem_sentence_9_52055'>人生感意气，功名谁复论。</div><div id='poem_sentence_9_52055_comment'></div><div class='poemSentence' id='poem_sentence_10_52055'></div><div id='poem_sentence_10_52055_comment'></div></div><div class='poemComment' id='poem_comment_52055'><a href='javascript: ShowPoemComment(52055)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 36.631222,
+                    "Longitude": 114.545808,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN1304",
+                    "Title": "邯郸",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6483f32e392e43f9a01de86fa9e8659c\");'><span id='6483f32e392e43f9a01de86fa9e8659c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=620&endYear=620')\">620年</a>，41岁</div><div id='6483f32e392e43f9a01de86fa9e8659c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=620&endYear=620')\">620年</a>　在河北任起居舍人。<br /></div>"
+                },
+                {
+                    "Latitude": 35.952793,
+                    "Longitude": 114.905961,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410527",
+                    "Title": "内黄",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"626d12258b824ee389c6f986c12585e1\");'><span id='626d12258b824ee389c6f986c12585e1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=621&endYear=621')\">621年</a>，42岁</div><div id='626d12258b824ee389c6f986c12585e1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=621&endYear=621')\">621年</a>　本年或稍后，徙家相州内黄，后置宅于相州安阳，妻裴氏。<br /></div>"
+                },
+                {
+                    "Latitude": 36.713019,
+                    "Longitude": 118.836327,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370725",
+                    "Title": "昌乐",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dcff0bf1130847c4b22381a0ae4612b6\");'><span id='dcff0bf1130847c4b22381a0ae4612b6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=622&endYear=622')\">622年</a>，43岁</div><div id='dcff0bf1130847c4b22381a0ae4612b6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=622&endYear=622')\">622年12月</a>　随李建成至河北，献绥抚攻心之策，大败刘黑闼。<br /></div>"
+                },
+                {
+                    "Latitude": 36.38022,
+                    "Longitude": 114.380351,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN130427",
+                    "Title": "磁县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8232c53775d444bc89cdba5a564d7169\");'><span id='8232c53775d444bc89cdba5a564d7169_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=626')\">626年</a>，47岁</div><div id='8232c53775d444bc89cdba5a564d7169' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=626&endYear=626')\">626年7月</a>　奉命出使宣慰河北，释放李建成、李元吉之党。<br /></div>"
+                },
+                {
+                    "Latitude": 34.778442,
+                    "Longitude": 111.206832,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4112",
+                    "Title": "三门峡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1624407360d7419ba9523738b5a84926\");'><span id='1624407360d7419ba9523738b5a84926_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=638')\">638年</a>，59岁</div><div id='1624407360d7419ba9523738b5a84926' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=638&endYear=638')\">638年2月</a>　从太宗过陕州，观砥柱，奉命勒铭。<span class='label'>作品：</span>《砥柱山铭》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "魏征 <span class='inlineComment2'>(580-643)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：杜来梭《魏征年谱》　录入整理：亢巧霞</p><p><a href=\"javascript: ViewRoute(0, 7, 115.6525525, 33.2890355, 7, 0)\">1-38岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">范县</a> → <a href=\"javascript: ViewPoint(1, 0)\">馆陶</a> → <a href=\"javascript: ViewPoint(2, 0)\">河津</a> → <a href=\"javascript: ViewPoint(3, 0)\">临汝</a> → <a href=\"javascript: ViewPoint(4, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(5, 0)\">馆陶</a> → <a href=\"javascript: ViewPoint(6, 0)\">浚县</a></p><p><a href=\"javascript: ViewRoute(7, 12, 111.751847, 35.489329, 8, 0)\">39-42岁</a><br /><a href=\"javascript: ViewPoint(7, 0)\">西安</a> → <a href=\"javascript: ViewPoint(8, 0)\">潼关</a> → <a href=\"javascript: ViewPoint(9, 0)\">浚县</a> → <a href=\"javascript: ViewPoint(10, 0)\">邯郸</a> → <a href=\"javascript: ViewPoint(11, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(12, 16, 113.8913165, 35.5302275, 7, 0)\">42-47岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">内黄</a> → <a href=\"javascript: ViewPoint(13, 0)\">西安</a> → <a href=\"javascript: ViewPoint(14, 0)\">昌乐</a> → <a href=\"javascript: ViewPoint(15, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(16, 21, 112.228501, 35.363828, 8, 0)\">47-64岁</a><br /><a href=\"javascript: ViewPoint(16, 0)\">磁县</a> → <a href=\"javascript: ViewPoint(17, 0)\">西安</a> → <a href=\"javascript: ViewPoint(18, 0)\">范县</a> → <a href=\"javascript: ViewPoint(19, 0)\">三门峡</a> → <a href=\"javascript: ViewPoint(20, 0)\">西安</a></p>"
+        }
+    ]
+}

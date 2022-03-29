@@ -1,0 +1,80 @@
+{
+  "id": 123123,
+  "name": "李白",
+  "dynasty": "唐",
+  "lifeDuration": [701, 762],
+  "mapConfig": {
+    "center": {
+      "lat": 42.8321571,
+      "lng": 75.28238
+    },
+    "scaleLevel": 5
+  },
+  "reference": [
+    "《李太白年谱补正》",
+    "《李白全集编年笺注》",
+    "《李太白全集校注》"
+  ],
+  "agesDetail": [
+    // one more objects will be included
+    {
+      "agesDuration": [1, 19],
+      "correspondPath": ["托克马克", "江油", "平武", "剑阁", "三台", "江油"]
+    }
+  ],
+  "travelDetail": {
+    "lines": [
+      // one more objects will be included
+      {
+        "markers": [
+          // one more objects will be included
+          {
+            "id": "ea80440f951041639f23f4b4fb38dbde",
+            "lat": 42.8321571,
+            "lng": 75.28238,
+            "regionId": "JP110",
+            "location": "托克马克",
+            "city": "",
+            "province": "楚河州",
+            "country": "吉尔吉斯斯坦",
+            "visitYear": 701
+          }
+        ]
+      }
+    ],
+    "markers": [
+      {
+        "lat": 42.8321571,
+        "lng": 75.28238,
+        "id": "",
+        "regionId": "JP110",
+        "location": "托克马克",
+        "city": "",
+        "province": "楚河州",
+        "country": "吉尔吉斯斯坦",
+        "visitTimes": 1,
+        "visitYears": [701],
+        "detail": [
+          // one more objects will be included
+          "701年 李白生于碎叶。随父居住。",
+          "702-704年　随父居。"
+        ]
+      }
+    ]
+  },
+  "trajectoryEmbedding": {
+    // define by the numbers of embedding kernel
+    "word2vec": {
+      "embedding": [],
+      "isNormal": true
+    },
+    "universalTransformer": {
+      "embedding": [],
+      "isNormal": true
+    },
+    "bert": {
+      "embedding": [],
+      "isNormal": true
+    }
+  }
+}

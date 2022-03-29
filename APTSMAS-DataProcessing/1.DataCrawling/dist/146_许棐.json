@@ -1,0 +1,40 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.5318,
+            "CenterLongitude": 120.952236,
+            "ZoomLevel": 16,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "bcef866639294c81a76d97edfbcf07be",
+                            "Latitude": 30.5318,
+                            "Longitude": 120.952236,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330424",
+                            "Title": "海盐"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.5318,
+                    "Longitude": 120.952236,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330424",
+                    "Title": "海盐 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bcef866639294c81a76d97edfbcf07be\");'><span id='bcef866639294c81a76d97edfbcf07be_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1249')\">1185-1249年</a>，1-65岁</div><div id='bcef866639294c81a76d97edfbcf07be' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>　生年难确考。姑拟生于本年。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1213')\">1186-1213年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1223')\">1214-1223年</a>　曾仕于县？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')\">1226年</a>　后归隐海盐秦溪，筑小庄于溪北。溪南别筑数椽，为读书之所，四檐植梅，因匾“梅屋”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1227')\">1227年</a>　震凌，屋仆梅压，移扁故庐。爱梅，尤喜写梅，并以梅屋自名诗稿？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　当宋季江湖诗派盛行之时，与江湖诗人陈起、高翥、叶绍翁等交游唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1233')\">1229-1233年</a>　隐居于乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1234')\">1234年</a>　集端平元年之前作品为《梅屋诗稿》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1238')\">1235-1238年</a>　隐居于乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年</a>　集端平元年至嘉熙三年作品为《融春小缀》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1242')\">1240-1242年</a>　隐居于乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')\">1243年</a>　集嘉熙三年至淳祐三年作品为《梅屋第三稿》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年</a>　本年春，得诗四十余篇，结为《梅屋第四稿》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1248')\">1245-1248年</a>　隐居于乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1249')\">1249年</a>　卒。陈起有诗挽之。作品有《梅屋诗稿》一卷，《融春小缀》一卷，《梅屋三稿》一卷，《梅屋四稿》一卷，《杂著》一卷，《樵谈》一卷，《献丑集》一卷。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "许棐 <span class='inlineComment2'>(1185-1249)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：张宏生、曾维刚《宋才子传笺证·词人卷·许棐传》　录入整理：唐元</p><p><a href=\"javascript: ViewRoute(0, 1, 120.952236, 30.5318, 16, 0)\">1-65岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">海盐</a></p>"
+        }
+    ]
+}

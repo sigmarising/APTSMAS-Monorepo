@@ -1,0 +1,280 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.001095,
+            "CenterLongitude": 120.705869,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "228596d5cba248d6b61c66c74277efb1",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "f1a1d95ec7d545d7abad966ed704a468",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "b56e51b06ada47c689509166df5533e8",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "c29e25872eb64644b967c07fa1a951d3",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "3feb275d35724ba79b67ae9989515adb",
+                            "Latitude": 29.084455,
+                            "Longitude": 119.654027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3307",
+                            "Title": "金华"
+                        },
+                        {
+                            "Id": "625dad9ec7a64bedb6f32b2cd3362989",
+                            "Latitude": 24.519197,
+                            "Longitude": 117.653827,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3506",
+                            "Title": "漳州"
+                        },
+                        {
+                            "Id": "a76ab2eabfbc41d296f463b5e187e266",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "fe76fdf3b18a49f2995ea9cc6d110e9f",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "04047dc6f310406a960a23eefbcaa47f",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "9d420205554a43b68ecc15fe3a196cc0",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "159c8055589c446684951c66a6c94384",
+                            "Latitude": 26.080447,
+                            "Longitude": 119.302938,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3501",
+                            "Title": "福州"
+                        },
+                        {
+                            "Id": "885647a3536a4b4baedd9301f6444910",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "8d8b193295ca423b8f02740c4c22535d",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "3203de2770814ab1b5f9bcd9f0d1691e",
+                            "Latitude": 29.084455,
+                            "Longitude": 119.654027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3307",
+                            "Title": "金华"
+                        },
+                        {
+                            "Id": "35f8c434427f48a09934d4a8b3bc9156",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "a7fa596fa2094104bf18e7cb0c9fcea6",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "3ab22715492444ebbaceb2f53f3e84d7",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "35ebca36d905414ca1a1bfdf6ebfb00a",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.001095,
+                    "Longitude": 120.705869,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3303",
+                    "Title": "温州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"228596d5cba248d6b61c66c74277efb1\");'><span id='228596d5cba248d6b61c66c74277efb1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1144')\">1124-1144年</a>，1-21岁</div><div id='228596d5cba248d6b61c66c74277efb1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1129')\">1124-1129年</a>　居家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　居家。胞弟伯英生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　居家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年10月16日</a>　居家。堂弟伯海生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　居家。父熙绩卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1144')\">1134-1144年</a>　居家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b56e51b06ada47c689509166df5533e8\");'><span id='b56e51b06ada47c689509166df5533e8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1149')\">1146-1149年</a>，23-26岁</div><div id='b56e51b06ada47c689509166df5533e8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1149')\">1146-1149年</a>　倡周行己洛学，秦桧擅权，回乡闲居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a76ab2eabfbc41d296f463b5e187e266\");'><span id='a76ab2eabfbc41d296f463b5e187e266_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1162')\">1159-1162年</a>，36-39岁</div><div id='a76ab2eabfbc41d296f463b5e187e266' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　回乡养病。木待问、朱伯起、陈傅良师事之。<span class='label'>作品：</span>《和清卿雪溪泛舟晚登华盖亭》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1162')\">1160-1162年</a>　回乡养病。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"04047dc6f310406a960a23eefbcaa47f\");'><span id='04047dc6f310406a960a23eefbcaa47f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1165')\">1163-1165年</a>，40-42岁</div><div id='04047dc6f310406a960a23eefbcaa47f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年8月</a>　监潭州南岳庙。奉祠家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年4月</a>　奉祠家居。弟伯英居家候选；薛季宣与郑氏兄弟定交；同知枢密院洪遵荐之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>　奉祠家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8d8b193295ca423b8f02740c4c22535d\");'><span id='8d8b193295ca423b8f02740c4c22535d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1174')\">1173-1174年</a>，50-51岁</div><div id='8d8b193295ca423b8f02740c4c22535d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年4月</a>　乞祠归家，过建宁府，会周必大，赠以《程氏遗书》；薛季宣卒，为文祭之。<span class='label'>作品：</span>《祭薛季宣文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>　有命起知婺州。叶适师事之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3ab22715492444ebbaceb2f53f3e84d7\");'><span id='3ab22715492444ebbaceb2f53f3e84d7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年</a>，57岁</div><div id='3ab22715492444ebbaceb2f53f3e84d7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年6月</a>　夏秋间居乡，陈亮来访，与永嘉诸人会相聚。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f1a1d95ec7d545d7abad966ed704a468\");'><span id='f1a1d95ec7d545d7abad966ed704a468_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年</a>，22岁</div><div id='f1a1d95ec7d545d7abad966ed704a468' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年</a>　赴临安赶考，进士及第。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fe76fdf3b18a49f2995ea9cc6d110e9f\");'><span id='fe76fdf3b18a49f2995ea9cc6d110e9f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，40岁</div><div id='fe76fdf3b18a49f2995ea9cc6d110e9f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年3月</a>　以从政郎任秘书省正字。门人木待问中状元。门人潘景宪、楼钥、周去非、许及之，友人吕祖谦、丘崇等皆中进士。弟伯英进士及第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年2月21日</a>　召试馆职。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9d420205554a43b68ecc15fe3a196cc0\");'><span id='9d420205554a43b68ecc15fe3a196cc0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1170')\">1166-1170年</a>，43-47岁</div><div id='9d420205554a43b68ecc15fe3a196cc0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年</a>　召为国子丞。八月温州水灾，率乡人在朝者奏请赈恤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')\">1167年6月</a>　除著作佐郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年6月</a>　任吏部员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年8月5日</a>　吏部员外郎兼国子监发解试考试官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年11月</a>　吏部员外郎兼《绍兴新法》删修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年12月</a>　吏部员外郎兼太子侍读，上书反对对金使用乐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年</a>　任吏部员外郎。友人刘朔卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　任吏部员外郎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"35f8c434427f48a09934d4a8b3bc9156\");'><span id='35f8c434427f48a09934d4a8b3bc9156_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1177')\">1176-1177年</a>，53-54岁</div><div id='35f8c434427f48a09934d4a8b3bc9156' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年7月</a>　作国子监丞。支持李焘科举改革主张。<span class='label'>作品：</span>《金华被召八诗》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　任国子监丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年2月</a>　国子监丞，兼任铨试、公试、类试考试官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年7月</a>　国子监丞，兼国史院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年9月</a>　宗正少卿，兼国史院编修官。<br /></div>"
+                },
+                {
+                    "Latitude": 28.662297,
+                    "Longitude": 121.426996,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331",
+                    "Title": "台州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c29e25872eb64644b967c07fa1a951d3\");'><span id='c29e25872eb64644b967c07fa1a951d3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1152')\">1150-1152年</a>，27-29岁</div><div id='c29e25872eb64644b967c07fa1a951d3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')\">1150年</a>　任黄岩县尉。<span class='label'>作品：</span>《黄岩县楼》<div id='poem_175070' class='_poem'><div id='poem_title_175070' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175070' class='poemCommentLink' target='_blank'>黄岩县楼</a><a href='javascript: ShowPoemAuthorProfile(33171, \"宋\", \"郑伯熊\", \"poem_title_175070\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑伯熊</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_175070_comment'></div><div class='poemContent' id='poem_content_175070'><div class='poemSentence' id='poem_sentence_0_175070'>飞甍郁峥嵘，万井交错综。</div><div id='poem_sentence_0_175070_comment'></div><div class='poemSentence' id='poem_sentence_1_175070'>俯仰各有则，静以御群动。</div><div id='poem_sentence_1_175070_comment'></div><div class='poemSentence' id='poem_sentence_2_175070'>平时心匠微，斤斧袖不用。</div><div id='poem_sentence_2_175070_comment'></div><div class='poemSentence' id='poem_sentence_3_175070'>少施见其馀，规画已惊众。</div><div id='poem_sentence_3_175070_comment'></div><div class='poemSentence' id='poem_sentence_4_175070'>姬公昔营洛，道德作梁栋。</div><div id='poem_sentence_4_175070_comment'></div><div class='poemSentence' id='poem_sentence_5_175070'>东家有馀材，凤衰无复梦。</div><div id='poem_sentence_5_175070_comment'></div><div class='poemSentence' id='poem_sentence_6_175070'>帝方议明堂，行矣与君共。</div><div id='poem_sentence_6_175070_comment'></div><div class='poemSentence' id='poem_sentence_7_175070'></div><div id='poem_sentence_7_175070_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>　任黄岩县尉。堂弟伯海进士及第。<span class='label'>作品：</span>《过万年山望罗汉岭上大松》<div id='poem_175062' class='_poem'><div id='poem_title_175062' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175062' class='poemCommentLink' target='_blank'>过万年山望罗汉岭上大松</a><a href='javascript: ShowPoemAuthorProfile(33171, \"宋\", \"郑伯熊\", \"poem_title_175062\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑伯熊</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175062_comment'></div><div class='poemContent' id='poem_content_175062'><div class='poemSentence' id='poem_sentence_0_175062'>苍髯白甲老烟云，万木丛中独挺身。</div><div id='poem_sentence_0_175062_comment'></div><div class='poemSentence' id='poem_sentence_1_175062'>一柱擎天须此物，执柯它日属何人<span class='inlineComment2'>（以上《天台续集别编》卷五）</span>。</div><div id='poem_sentence_1_175062_comment'></div><div class='poemSentence' id='poem_sentence_2_175062'></div><div id='poem_sentence_2_175062_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')\">1152年</a>　任黄岩县尉。师事徐庭筠。<br /></div>"
+                },
+                {
+                    "Latitude": 29.084455,
+                    "Longitude": 119.654027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3307",
+                    "Title": "金华",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3feb275d35724ba79b67ae9989515adb\");'><span id='3feb275d35724ba79b67ae9989515adb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1155')\">1153-1155年</a>，30-32岁</div><div id='3feb275d35724ba79b67ae9989515adb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1155')\">1153-1155年</a>　任婺州司户参考。<span class='label'>作品：</span>《次韵陈倅瑞岩之什》<div id='poem_175065' class='_poem'><div id='poem_title_175065' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175065' class='poemCommentLink' target='_blank'>次韵陈倅瑞岩之什</a><a href='javascript: ShowPoemAuthorProfile(33171, \"宋\", \"郑伯熊\", \"poem_title_175065\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑伯熊</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_175065_comment'></div><div class='poemContent' id='poem_content_175065'><div class='poemSentence' id='poem_sentence_0_175065'>诗到南昌老更奇，固知流派自江西。</div><div id='poem_sentence_0_175065_comment'></div><div class='poemSentence' id='poem_sentence_1_175065'>滕王阁下秋涛壮，孺子堂前春鸟啼。</div><div id='poem_sentence_1_175065_comment'></div><div class='poemSentence' id='poem_sentence_2_175065'>我似痴蝇思骥尾，君如野鹤趁鸡栖。</div><div id='poem_sentence_2_175065_comment'></div><div class='poemSentence' id='poem_sentence_3_175065'>十年翰墨元犹白，不识微言为指迷。</div><div id='poem_sentence_3_175065_comment'></div><div class='poemSentence' id='poem_sentence_4_175065'></div><div id='poem_sentence_4_175065_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3203de2770814ab1b5f9bcd9f0d1691e\");'><span id='3203de2770814ab1b5f9bcd9f0d1691e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1176')\">1175-1176年</a>，52-53岁</div><div id='3203de2770814ab1b5f9bcd9f0d1691e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')\">1175年</a>　奉议郎，知婺州。<span class='label'>作品：</span>《婺州道中》<div id='poem_175063' class='_poem'><div id='poem_title_175063' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175063' class='poemCommentLink' target='_blank'>婺舟道中</a><a href='javascript: ShowPoemAuthorProfile(33171, \"宋\", \"郑伯熊\", \"poem_title_175063\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑伯熊</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_175063_comment'></div><div class='poemContent' id='poem_content_175063'><div class='poemSentence' id='poem_sentence_0_175063'>笋舆时得并溪行，溪水秋来似鉴清。</div><div id='poem_sentence_0_175063_comment'></div><div class='poemSentence' id='poem_sentence_1_175063'>仰春云山劳眼力，临流照眼却分明<span class='inlineComment2'>（以上《宋诗拾遗》卷一六）</span>。</div><div id='poem_sentence_1_175063_comment'></div><div class='poemSentence' id='poem_sentence_2_175063'></div><div id='poem_sentence_2_175063_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年</a>　奉议郎，知婺州。召赴阙。进京途中赴永康访陈亮、郎翥。<br /></div>"
+                },
+                {
+                    "Latitude": 24.519197,
+                    "Longitude": 117.653827,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3506",
+                    "Title": "漳州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"625dad9ec7a64bedb6f32b2cd3362989\");'><span id='625dad9ec7a64bedb6f32b2cd3362989_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1158')\">1156-1158年</a>，33-35岁</div><div id='625dad9ec7a64bedb6f32b2cd3362989' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1158')\">1156-1158年</a>　任尤溪县丞。<br /></div>"
+                },
+                {
+                    "Latitude": 26.080447,
+                    "Longitude": 119.302938,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3501",
+                    "Title": "福州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"159c8055589c446684951c66a6c94384\");'><span id='159c8055589c446684951c66a6c94384_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>，47岁</div><div id='159c8055589c446684951c66a6c94384' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年6月</a>　出任福建路提举常平茶盐公事，赈济旱灾。<br /></div>"
+                },
+                {
+                    "Latitude": 30.946576,
+                    "Longitude": 118.765196,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3418",
+                    "Title": "宣城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"885647a3536a4b4baedd9301f6444910\");'><span id='885647a3536a4b4baedd9301f6444910_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1173')\">1171-1173年</a>，48-50岁</div><div id='885647a3536a4b4baedd9301f6444910' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年2月</a>　直敷文阁，任宁国府司马。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年4月14日</a>　任宁国府司马。<span class='label'>作品：</span>《四月十四日到广陵》<span class='inlineComment2'>（《二郑集》之《郑伯熊集》之四《诗歌》）</span><div id='poem_175064' class='_poem'><div id='poem_title_175064' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=175064' class='poemCommentLink' target='_blank'>四月十四日至广陵</a><a href='javascript: ShowPoemAuthorProfile(33171, \"宋\", \"郑伯熊\", \"poem_title_175064\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>郑伯熊</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_175064_comment'></div><div class='poemContent' id='poem_content_175064'><div class='poemSentence' id='poem_sentence_0_175064'>春归村坞绿阴迷，又向山腰转马蹄。</div><div id='poem_sentence_0_175064_comment'></div><div class='poemSentence' id='poem_sentence_1_175064'>收尽雪芳犹采撷，割残云穗再扶犁。</div><div id='poem_sentence_1_175064_comment'></div><div class='poemSentence' id='poem_sentence_2_175064'>乡谣到处无音律，野饭黄昏只笋齑。</div><div id='poem_sentence_2_175064_comment'></div><div class='poemSentence' id='poem_sentence_3_175064'>惟有客愁消不得，隔溪篁竹子规啼。</div><div id='poem_sentence_3_175064_comment'></div><div class='poemSentence' id='poem_sentence_4_175064'></div><div id='poem_sentence_4_175064_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年</a>　任宁国府司马。薛季宣致书。秘书省少监权直学士院周必大请辞并荐郑伯熊自代。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　在宁国府司马任，上书劝谏魏王，不听，自劾免职。改任江西提刑，未行。乞祠归家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a7fa596fa2094104bf18e7cb0c9fcea6\");'><span id='a7fa596fa2094104bf18e7cb0c9fcea6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1180')\">1178-1180年</a>，55-57岁</div><div id='a7fa596fa2094104bf18e7cb0c9fcea6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年</a>　直龙图阁，知宁国府。辟治学斋，购官书二千卷，聚生徒至二百人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')\">1179年</a>　直龙图阁，知宁国府。陈傅良自福州寄诗《怀宁国守郑少卿景望》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年5月</a>　五月，宁国府任满回乡。途经馆头，与陈亮、徐元德会晤。<br /></div>"
+                },
+                {
+                    "Latitude": 27.028915,
+                    "Longitude": 118.311441,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350783",
+                    "Title": "建瓯",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"35ebca36d905414ca1a1bfdf6ebfb00a\");'><span id='35ebca36d905414ca1a1bfdf6ebfb00a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1181')\">1180-1181年</a>，57-58岁</div><div id='35ebca36d905414ca1a1bfdf6ebfb00a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年7月</a>　秋，出知建宁府。叶适、陈傅良有诗相送。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年7月3日</a>　卒于知建宁府任上，谥文肃。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "郑伯熊 <span class='inlineComment2'>(1124-1181)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：《二郑集》　录入整理：许伯卿</p><p><a href=\"javascript: ViewRoute(0, 7, 119.5404115, 27.399628, 8, 0)\">1-39岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">温州</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">温州</a> → <a href=\"javascript: ViewPoint(3, 0)\">台州</a> → <a href=\"javascript: ViewPoint(4, 0)\">金华</a> → <a href=\"javascript: ViewPoint(5, 0)\">漳州</a> → <a href=\"javascript: ViewPoint(6, 0)\">温州</a></p><p><a href=\"javascript: ViewRoute(7, 12, 119.7355325, 28.5135115, 8, 0)\">40-50岁</a><br /><a href=\"javascript: ViewPoint(7, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(8, 0)\">温州</a> → <a href=\"javascript: ViewPoint(9, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(10, 0)\">福州</a> → <a href=\"javascript: ViewPoint(11, 0)\">宣城</a></p><p><a href=\"javascript: ViewRoute(12, 17, 119.7355325, 29.4738355, 9, 0)\">50-57岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">温州</a> → <a href=\"javascript: ViewPoint(13, 0)\">金华</a> → <a href=\"javascript: ViewPoint(14, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(15, 0)\">宣城</a> → <a href=\"javascript: ViewPoint(16, 0)\">温州</a></p><p><a href=\"javascript: ViewRoute(17, 18, 118.311441, 27.028915, 16, 0)\">57-58岁</a><br /><a href=\"javascript: ViewPoint(17, 0)\">建瓯</a></p>"
+        }
+    ]
+}

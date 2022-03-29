@@ -1,0 +1,141 @@
+{
+    "id": 115,
+    "name": "倪称",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1114,
+        1166
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 30.89305,
+            "lng": 120.08805
+        },
+        "scaleLevel": 10
+    },
+    "reference": [
+        "《全宋词》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                53
+            ],
+            "correspondPath": [
+                "湖州",
+                "杭州",
+                "常州",
+                "杭州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "f28846d46275466dbe77161583b6a098",
+                        "lat": 30.89305,
+                        "lng": 120.08805,
+                        "regionId": "CN3305",
+                        "location": "湖州",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "108bbd4578e5437fab353de3a5ec22e8",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "934213a406e547698a909438ad59ceb0",
+                        "lat": 31.81072,
+                        "lng": 119.97365,
+                        "regionId": "CN3204",
+                        "location": "常州",
+                        "city": "常州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e11d36bbaa474f84910064783ec6147a",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 30.89305,
+                "lng": 120.08805,
+                "id": null,
+                "regionId": "CN3305",
+                "location": "湖州",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1114-1137年 ，1-24岁",
+                    "1114年 或生于本年。倪称生卒年难确考。其年岁为虚拟数。",
+                    "1115-1137年 居乡？"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1138年 ，25岁",
+                    "1138年 中进士。",
+                    "1143-1166年 ，30-53岁",
+                    "1143-1146年 曾任太常寺主簿？",
+                    "1147年 子倪思生？",
+                    "1166年 子倪思中进士，其后事迹不详。"
+                ]
+            },
+            {
+                "lat": 31.81072,
+                "lng": 119.97365,
+                "id": null,
+                "regionId": "CN3204",
+                "location": "常州",
+                "city": "常州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1139-1142年 ，26-29岁",
+                    "1139-1142年 曾任常州教授？"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

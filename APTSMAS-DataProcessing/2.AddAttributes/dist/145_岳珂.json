@@ -1,0 +1,613 @@
+{
+    "id": 145,
+    "name": "岳珂",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1183,
+        1242
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 31.5699,
+            "lng": 118.4978
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《岳珂生平事迹考述》",
+        "《岳珂所交作家考》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                8,
+                13
+            ],
+            "correspondPath": [
+                "当涂",
+                "广州",
+                "宜兴",
+                "九江"
+            ]
+        },
+        {
+            "agesDuration": [
+                14,
+                19
+            ],
+            "correspondPath": [
+                "泉州",
+                "南昌",
+                "杭州",
+                "九江"
+            ]
+        },
+        {
+            "agesDuration": [
+                20,
+                22
+            ],
+            "correspondPath": [
+                "杭州",
+                "九江",
+                "镇江",
+                "杭州"
+            ]
+        },
+        {
+            "agesDuration": [
+                23,
+                50
+            ],
+            "correspondPath": [
+                "镇江",
+                "杭州",
+                "九江",
+                "杭州",
+                "嘉兴",
+                "南京",
+                "镇江"
+            ]
+        },
+        {
+            "agesDuration": [
+                51,
+                59
+            ],
+            "correspondPath": [
+                "九江",
+                "武汉",
+                "九江",
+                "当涂",
+                "苏州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "2b3dae6f23ae4d3babfe304b8279b446",
+                        "lat": 31.5699,
+                        "lng": 118.4978,
+                        "regionId": "CN340521",
+                        "location": "当涂",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "24204d24efab48b2af7bd62c09b374b8",
+                        "lat": 23.12908,
+                        "lng": 113.26436,
+                        "regionId": "CN4401",
+                        "location": "广州",
+                        "city": "广州市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0d26622c16f841eb926d0184d849d82d",
+                        "lat": 31.34042,
+                        "lng": 119.82346,
+                        "regionId": "CN320282",
+                        "location": "宜兴",
+                        "city": "无锡市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7b4ac39de0b44dd2816ac39bc4f5909c",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7011c4f5389c4ec1a5dd0e3d746f3ff8",
+                        "lat": 24.87389,
+                        "lng": 118.67587,
+                        "regionId": "CN3505",
+                        "location": "泉州",
+                        "city": "泉州市",
+                        "province": "福建省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4d813b7a38c144f4a852d95282c7f939",
+                        "lat": 28.68202,
+                        "lng": 115.85794,
+                        "regionId": "CN3601",
+                        "location": "南昌",
+                        "city": "南昌市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4e360482339a49c99f553fecfa56e15e",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "998f9592757a4533a74f5286f7b4f077",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4014c88fb1b949a2b08e24a3ed098c2b",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "589932178e45402c84ed86f92a8f2a69",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "38e1666c4e704bfc8548518b9f9b1024",
+                        "lat": 32.18959,
+                        "lng": 119.425,
+                        "regionId": "CN3211",
+                        "location": "镇江",
+                        "city": "镇江市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0376fd0581444dbf9730d3dcdc47399a",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "266c77814f47498e9d350f4e33fa4920",
+                        "lat": 32.18959,
+                        "lng": 119.425,
+                        "regionId": "CN3211",
+                        "location": "镇江",
+                        "city": "镇江市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "42e491bd114045b5bd2eac14d1bd3989",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5dfef6eb826947c9bf0f187777cd0037",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2051c242f98c40c1afc34fb3299a9d3e",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "325b4fdc16e0445296c33377163fbf59",
+                        "lat": 30.74501,
+                        "lng": 120.7555,
+                        "regionId": "CN3304",
+                        "location": "嘉兴",
+                        "city": "嘉兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2a1b84dc48494776ae6ed26baa1a16c3",
+                        "lat": 32.05838,
+                        "lng": 118.79647,
+                        "regionId": "CN3201",
+                        "location": "南京",
+                        "city": "南京市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2a4072a2c9ea4d99a4df94ea57d4a4b8",
+                        "lat": 32.18959,
+                        "lng": 119.425,
+                        "regionId": "CN3211",
+                        "location": "镇江",
+                        "city": "镇江市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7877c6e78d1d45bd8ace1b57c5fd5df2",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a303edb533ea45b1804c1f4c0e17f097",
+                        "lat": 30.59276,
+                        "lng": 114.30525,
+                        "regionId": "CN4201",
+                        "location": "武汉",
+                        "city": "武汉市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "248565bf0fe6407b8f3871d9909eac3b",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cd847acdd6344bb1827dcbd29003d5b9",
+                        "lat": 31.5699,
+                        "lng": 118.4978,
+                        "regionId": "CN340521",
+                        "location": "当涂",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cd2747bf86c34c18b9ea774376c863b4",
+                        "lat": 31.29834,
+                        "lng": 120.58319,
+                        "regionId": "CN3205",
+                        "location": "苏州",
+                        "city": "苏州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 31.5699,
+                "lng": 118.4978,
+                "id": null,
+                "regionId": "CN340521",
+                "location": "当涂",
+                "city": "马鞍山市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1190年 ，8岁",
+                    "1190年 随父宦游，四处迁徙。本年与父亲过当涂，赵汝愚为当涂守，岳珂代父作报书，受到赵汝愚称赞。",
+                    "1240年 ，58岁",
+                    "1240年 为权户部尚书、八路制置茶盐使，兼守当涂，正三品。",
+                    "1240年12月 任八路制置茶盐使。十二月转官为通议大夫。",
+                    "1240年 任八路制置茶盐使。《玉楮集》结集于是年。"
+                ]
+            },
+            {
+                "lat": 23.12908,
+                "lng": 113.26436,
+                "id": null,
+                "regionId": "CN4401",
+                "location": "广州",
+                "city": "广州市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1192年 ，10岁",
+                    "1192年 冬，父亲卒于知广州任上。"
+                ]
+            },
+            {
+                "lat": 31.34042,
+                "lng": 119.82346,
+                "id": null,
+                "regionId": "CN320282",
+                "location": "宜兴",
+                "city": "无锡市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1192-1194年 ，10-12岁",
+                    "1192-1194年 护丧北归，居于宜兴。"
+                ]
+            },
+            {
+                "lat": 29.70548,
+                "lng": 116.00146,
+                "id": null,
+                "regionId": "CN3604",
+                "location": "九江",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1195年 ，13岁",
+                    "1195年 回到故宅。",
+                    "1200-1201年 ，18-19岁",
+                    "1200-1201年 回到故宅。",
+                    "1203-1204年 ，21-22岁",
+                    "1203年 回到故宅。",
+                    "1204年4月 整理岳飞遗文，上呈宁宗。",
+                    "1204年4月 整理岳飞遗文，上呈宁宗，同以副本分送宰执、台谏诸官。",
+                    "1204年5月21日 宋宁宗下诏追封岳飞为鄂王。",
+                    "1212-1214年 ，30-32岁",
+                    "1212-1213年 丁母忧服丧。",
+                    "1214年 丁母忧服丧。《桯史》成书。",
+                    "1214年 丁母忧服丧。《愧郯录》成书。",
+                    "1214年 丁母忧服丧。王子俊（字材臣）从四川回乡，经由九江，曾拜访岳珂，将《淳熙内禅颂》一文送岳珂品评。",
+                    "1233-1237年 ，51-55岁",
+                    "1233年 冬，因韩正伦诬陷，罢淮东总领，归家。",
+                    "1234-1237年 蒙冤居家。",
+                    "1239年 ，57岁",
+                    "1239年5月 五月，解官归江州，卧病于家。",
+                    "1239年8月 八月，拜宝谟阁直学士、提举江州太平兴国宫。",
+                    "1239年 封邺侯。"
+                ]
+            },
+            {
+                "lat": 24.87389,
+                "lng": 118.67587,
+                "id": null,
+                "regionId": "CN3505",
+                "location": "泉州",
+                "city": "泉州市",
+                "province": "福建省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1196-1197年 ，14-15岁",
+                    "1196-1197年 侍亲如闽。"
+                ]
+            },
+            {
+                "lat": 28.68202,
+                "lng": 115.85794,
+                "id": null,
+                "regionId": "CN3601",
+                "location": "南昌",
+                "city": "南昌市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1198年 ，16岁",
+                    "1198年8月 就试于江南西路转运司。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1199年 ，17岁",
+                    "1199年 入京赴省试？",
+                    "1202年 ，20岁",
+                    "1202年 入京赴省试？",
+                    "1204年 ，22岁",
+                    "1204年12月 任监仓二十天后，谒告赴考。",
+                    "1207-1211年 ，25-29岁",
+                    "1207年 经宇文绍节等人向宁宗举荐，岳珂被擢拔至京，任光禄丞。",
+                    "1208年2月 在京太官令，再度赴试。",
+                    "1209年 在京为中朝官，或为扈寺主簿。",
+                    "1210-1211年 在京为司农寺主簿。",
+                    "1215-1216年 ，33-34岁",
+                    "1215年 终丧除服，为军器监丞。",
+                    "1216年 改任司农寺丞。"
+                ]
+            },
+            {
+                "lat": 32.18959,
+                "lng": 119.425,
+                "id": null,
+                "regionId": "CN3211",
+                "location": "镇江",
+                "city": "镇江市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1204年 ，22岁",
+                    "1204年12月 为承务郎监镇江府户部大军仓（可能由恩荫而得）",
+                    "1205-1206年 ，23-24岁",
+                    "1205年 省试不中，回镇江总所。致信秘阁修撰、江陵知府吴猎，受其褒扬。",
+                    "1205年 与辛弃疾讨论辛词《永遇乐·京口北固亭怀古》之得失。",
+                    "1205年 与刘过相识，曾相互酬唱。",
+                    "1205年 与章升之（字以初）相识，曾相互酬唱。",
+                    "1205年 与黄机（字几叔）相识，曾相互酬唱。",
+                    "1205年 与王迈（字英伯）相识，曾相互酬唱。",
+                    "1206年 在镇江总所。时王师北伐，岳珂曾深入战场，有诗纪见闻。",
+                    "1221-1232年 ，39-50岁",
+                    "1221年8月 除军器监淮东总领。",
+                    "1221年 在淮东总领任上。约于本年与刘宰（字平国）相识。",
+                    "1222年 在淮东总领任上，官阶升为朝奉郎，正七品。",
+                    "1223年 在淮东总领任上。",
+                    "1224年 在淮东总领任上。新年之际，给李刘送酒。",
+                    "1225年 在淮东总领任上。除朝奉大夫司农少卿，李刘作文以贺。",
+                    "1226年 在淮东总领任上。",
+                    "1227年 在淮东总领任上，官阶升为户部侍郎。",
+                    "1228年 在淮东总领任上，官阶为朝请大夫。把《金佗粹编》以后搜集到的岳飞遗文和有关资料，汇刻为《金佗续编》三十卷。",
+                    "1229-1232年 在淮东总领任上。"
+                ]
+            },
+            {
+                "lat": 30.74501,
+                "lng": 120.7555,
+                "id": null,
+                "regionId": "CN3304",
+                "location": "嘉兴",
+                "city": "嘉兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1217-1218年 ，35-36岁",
+                    "1217年10月 出守嘉兴。",
+                    "1218年 编成《金佗粹编》，付梓于郡塾。"
+                ]
+            },
+            {
+                "lat": 32.05838,
+                "lng": 118.79647,
+                "id": null,
+                "regionId": "CN3201",
+                "location": "南京",
+                "city": "南京市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1219-1221年 ，37-39岁",
+                    "1219年8月5日 任承议郎权发江南东路转运判官，本年八月五日到任。",
+                    "1220年 在江东转运判官任上。",
+                    "1221年 任江东转运判官，置平籴仓。"
+                ]
+            },
+            {
+                "lat": 30.59276,
+                "lng": 114.30525,
+                "id": null,
+                "regionId": "CN4201",
+                "location": "武汉",
+                "city": "武汉市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1238年 ，56岁",
+                    "1238年2月 起复为户部侍郎、湖广总领。",
+                    "1238年 在湖广总领任上。李曾伯（字长孺）有文贺其除帅，又有诗贺寿。",
+                    "1238年 在湖广总领任上。徐元杰（字仁伯）有文贺其除帅。"
+                ]
+            },
+            {
+                "lat": 31.29834,
+                "lng": 120.58319,
+                "id": null,
+                "regionId": "CN3205",
+                "location": "苏州",
+                "city": "苏州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1241年 ，59岁",
+                    "1241年 罢职居吴门。",
+                    "1241年12月 继遭弹劾，削官一秩。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

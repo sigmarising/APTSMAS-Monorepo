@@ -1,0 +1,340 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.740504,
+            "CenterLongitude": 119.58468,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "7ae6608bdee9422da8a5a0a8bf0836fb",
+                            "Latitude": 31.740504,
+                            "Longitude": 119.58468,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320413",
+                            "Title": "金坛"
+                        },
+                        {
+                            "Id": "a5b91b362cde43ddb60da195b7b411e4",
+                            "Latitude": 30.001094,
+                            "Longitude": 119.846692,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330111",
+                            "Title": "富阳"
+                        },
+                        {
+                            "Id": "8848e72623244a87a868333f131439aa",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "052eb11d1aff47e4825fab65de12b8c1",
+                            "Latitude": 30.001094,
+                            "Longitude": 119.846692,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330111",
+                            "Title": "富阳"
+                        },
+                        {
+                            "Id": "5062668e72b346958c406c9a2126cde4",
+                            "Latitude": 31.740504,
+                            "Longitude": 119.58468,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320413",
+                            "Title": "金坛"
+                        },
+                        {
+                            "Id": "4e733e81c0c145059759448002e78850",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "08c61cd9adf14c22900fd383543b6a99",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "7f957d3c9a1e49fba4c2a38ceb077d2e",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "70571833dfff464ebbaeb86b6c94f392",
+                            "Latitude": 31.740504,
+                            "Longitude": 119.58468,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320413",
+                            "Title": "金坛"
+                        },
+                        {
+                            "Id": "d06dd37d15744da69b3ed299d154dfce",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "37e9b2207a6c4ba8ac187faaf4421f44",
+                            "Latitude": 27.346635,
+                            "Longitude": 117.498948,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350781",
+                            "Title": "邵武"
+                        },
+                        {
+                            "Id": "e067a0d111804e278bac96ad8d0fe796",
+                            "Latitude": 32.579375,
+                            "Longitude": 116.793572,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341521",
+                            "Title": "寿县"
+                        },
+                        {
+                            "Id": "ee7fca3cade843688d04cb2326c18b61",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "afeaad2913c84c10b9dabf57929dc512",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "3b0b1d9bbef34eee9565072c2cdb0261",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "a37413e244a84f8cb07d7cf75052287b",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "ecaa79971bb44568beb7a369d4f4f4c0",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        },
+                        {
+                            "Id": "fa31ad6e59d44f98a80490f3f3d4593b",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "97b04926c6a045c59ed6830d6d35373e",
+                            "Latitude": 31.740504,
+                            "Longitude": 119.58468,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320413",
+                            "Title": "金坛"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.740504,
+                    "Longitude": 119.58468,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320413",
+                    "Title": "金坛 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7ae6608bdee9422da8a5a0a8bf0836fb\");'><span id='7ae6608bdee9422da8a5a0a8bf0836fb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1196')\">1182-1196年</a>，1-15岁</div><div id='7ae6608bdee9422da8a5a0a8bf0836fb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年</a>　是年王遂生。上有兄王适、王逢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1186')\">1183-1186年</a>　少年居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>　始读书，母夫人蔡氏给予幼年王遂以良好教育。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1191')\">1188-1191年</a>　居乡读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年</a>　能应举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1194')\">1193-1194年</a>　居乡读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>　试江东，因对策抵韩侂胄而被黜落，其父万枢降一官放罢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')\">1196年</a>　赴省复试，径驳放。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5062668e72b346958c406c9a2126cde4\");'><span id='5062668e72b346958c406c9a2126cde4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1207')\">1205-1207年</a>，24-26岁</div><div id='5062668e72b346958c406c9a2126cde4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年4月1日</a>　父王万枢卒，丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1207')\">1206-1207年</a>　居家丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年7月</a>　服除，居家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"70571833dfff464ebbaeb86b6c94f392\");'><span id='70571833dfff464ebbaeb86b6c94f392_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1224&endYear=1227')\">1224-1227年</a>，43-46岁</div><div id='70571833dfff464ebbaeb86b6c94f392' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1224&endYear=1224')\">1224年</a>　居家丁母忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1225&endYear=1225')\">1225年11月</a>　居家丁母忧。冬，与刘宰一起在吕城拜访魏了翁。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')\">1226年4月</a>　四月服除，仍居家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1227')\">1227年</a>　居家。吴定夫来访。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"97b04926c6a045c59ed6830d6d35373e\");'><span id='97b04926c6a045c59ed6830d6d35373e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1246&endYear=1248')\">1246-1248年</a>，65-67岁</div><div id='97b04926c6a045c59ed6830d6d35373e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1246&endYear=1246')\">1246年5月</a>　五月，提举江州太平兴国宫，奉祠居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1246&endYear=1246')\">1246年5月</a>　是月，增修华亭县学成，为作记。<span class='label'>作品：</span>《增修华亭县学记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1247&endYear=1247')\">1247年6月</a>　奉祠居乡。六月，作《鲁公祠堂记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1247&endYear=1247')\">1247年</a>　淳安县青溪桥成，为作记。<span class='label'>作品：</span>《青溪桥记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1248')\">1248年</a>　除权工部尚书，未及造朝而薨。积官至龙图阁直学士通奉大夫。<br /></div>"
+                },
+                {
+                    "Latitude": 30.001094,
+                    "Longitude": 119.846692,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330111",
+                    "Title": "富阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a5b91b362cde43ddb60da195b7b411e4\");'><span id='a5b91b362cde43ddb60da195b7b411e4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1201')\">1197-1201年</a>，16-20岁</div><div id='a5b91b362cde43ddb60da195b7b411e4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')\">1197年</a>　以父任主富阳簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')\">1198年</a>　主富阳簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>　主富阳簿。兄王逢登第，授溧水主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1201')\">1200-1201年</a>　主富阳簿。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"052eb11d1aff47e4825fab65de12b8c1\");'><span id='052eb11d1aff47e4825fab65de12b8c1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1204')\">1203-1204年</a>，22-23岁</div><div id='052eb11d1aff47e4825fab65de12b8c1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1204')\">1203-1204年</a>　主富阳簿。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8848e72623244a87a868333f131439aa\");'><span id='8848e72623244a87a868333f131439aa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1202')\">1201-1202年</a>，20-21岁</div><div id='8848e72623244a87a868333f131439aa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')\">1201年10月</a>　赴京应试。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')\">1202年3月</a>　登进士第，续任富阳主簿，刘宰作序相送。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ee7fca3cade843688d04cb2326c18b61\");'><span id='ee7fca3cade843688d04cb2326c18b61_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1236')\">1232-1236年</a>，51-55岁</div><div id='ee7fca3cade843688d04cb2326c18b61' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　迁国子监主薄。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')\">1233年</a>　又迁太常寺主薄。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')\">1233年11月28日</a>　与洪咨夔同拜监察御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')\">1233年12月</a>　连上三疏，人心震悚，朝纲精明。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1234')\">1234年</a>　在监察御史任上。疏奏极论进君子，退小人。论劾甚众，奸党为之一空。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1234')\">1234年</a>　是年底，除右正言。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')\">1235年</a>　寻拜殿中侍御史。劾李知孝、梁大成、莫泽。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')\">1235年4月</a>　有跋文。<span class='label'>作品：</span>《跋封事后》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')\">1235年11月</a>　年底，除户部侍郎。辞免不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1236')\">1236年1月</a>　正月，以户部侍郎兼同修国史、实录院同修撰，暂兼权侍左侍郎。辞免不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1236')\">1236年4月</a>　旋以宝章阁侍制差知遂宁府，改进焕章阁待制、四川安抚制置副使兼知成都府，皆未到任。<br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4e733e81c0c145059759448002e78850\");'><span id='4e733e81c0c145059759448002e78850_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年</a>，26岁</div><div id='4e733e81c0c145059759448002e78850' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年11月</a>　移楚州教授。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"08c61cd9adf14c22900fd383543b6a99\");'><span id='08c61cd9adf14c22900fd383543b6a99_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1217')\">1208-1217年</a>，27-36岁</div><div id='08c61cd9adf14c22900fd383543b6a99' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年</a>　楚州教授。适苦旱，献救荒之策，参与救荒，得建康留守丘崇器重。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')\">1209年8月</a>　参与救荒，得建康留守杨辅器重。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')\">1210年</a>　入黄度幕。初显政治才能。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1214')\">1211-1214年</a>　在黄度幕府任职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')\">1215年</a>　与真德秀共议救荒赈饥事，民多全活。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')\">1216年</a>　与李道传共议救荒赈饥事，民多全活。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1217')\">1217年</a>　李道传出知果州，有诗相送。<span class='label'>作品：</span>《送李果州归蜀》<div id='poem_75941' class='_poem'><div id='poem_title_75941' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=75941' class='poemCommentLink' target='_blank'>送李果州归蜀</a><a href='javascript: ShowPoemAuthorProfile(30377, \"宋\", \"王遂\", \"poem_title_75941\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王遂</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_75941_comment'></div><div class='poemContent' id='poem_content_75941'><div class='poemSentence' id='poem_sentence_0_75941'>大原发邹鲁，功德被九州。</div><div id='poem_sentence_0_75941_comment'></div><div class='poemSentence' id='poem_sentence_1_75941'>迢迢数千年，伊洛乘其流。</div><div id='poem_sentence_1_75941_comment'></div><div class='poemSentence' id='poem_sentence_2_75941'>去之又百载，武夷阐诸幽。</div><div id='poem_sentence_2_75941_comment'></div><div class='poemSentence' id='poem_sentence_3_75941'>斯文代显晦，天意非人谋。</div><div id='poem_sentence_3_75941_comment'></div><div class='poemSentence' id='poem_sentence_4_75941'>正脉远相续，何必并世游。</div><div id='poem_sentence_4_75941_comment'></div><div class='poemSentence' id='poem_sentence_5_75941'>峨峨陵阳山，下镇西南陬。</div><div id='poem_sentence_5_75941_comment'></div><div class='poemSentence' id='poem_sentence_6_75941'>师法自心得，如亲接前修。</div><div id='poem_sentence_6_75941_comment'></div><div class='poemSentence' id='poem_sentence_7_75941'>一气妙亭毒，小大各有求。</div><div id='poem_sentence_7_75941_comment'></div><div class='poemSentence' id='poem_sentence_8_75941'>惟此生息机，不隔春与秋。</div><div id='poem_sentence_8_75941_comment'></div><div class='poemSentence' id='poem_sentence_9_75941'>皎皎冰雪姿，高疑揖浮丘。</div><div id='poem_sentence_9_75941_comment'></div><div class='poemSentence' id='poem_sentence_10_75941'>太虚丽日月，纤翳无停留。</div><div id='poem_sentence_10_75941_comment'></div><div class='poemSentence' id='poem_sentence_11_75941'>本根自深茂，况复加穷搜。</div><div id='poem_sentence_11_75941_comment'></div><div class='poemSentence' id='poem_sentence_12_75941'>微言析脉理，要指会衿喉。</div><div id='poem_sentence_12_75941_comment'></div><div class='poemSentence' id='poem_sentence_13_75941'>工夫自中积，应物乃其优。</div><div id='poem_sentence_13_75941_comment'></div><div class='poemSentence' id='poem_sentence_14_75941'>汉庭高论著，周原出咨诹。</div><div id='poem_sentence_14_75941_comment'></div><div class='poemSentence' id='poem_sentence_15_75941'>耿耿恻隐心，若将纳诸沟。</div><div id='poem_sentence_15_75941_comment'></div><div class='poemSentence' id='poem_sentence_16_75941'>拳拳敬王义，敢有非嘉猷。</div><div id='poem_sentence_16_75941_comment'></div><div class='poemSentence' id='poem_sentence_17_75941'>俯视不义贵，如比空云浮。</div><div id='poem_sentence_17_75941_comment'></div><div class='poemSentence' id='poem_sentence_18_75941'>所虞素学负，岂愿清名收。</div><div id='poem_sentence_18_75941_comment'></div><div class='poemSentence' id='poem_sentence_19_75941'>阊阖入云端，蜀天方阻修。</div><div id='poem_sentence_19_75941_comment'></div><div class='poemSentence' id='poem_sentence_20_75941'>西上香炉峰，江流去悠悠。</div><div id='poem_sentence_20_75941_comment'></div><div class='poemSentence' id='poem_sentence_21_75941'>问学久不明，风俗日以偷。</div><div id='poem_sentence_21_75941_comment'></div><div class='poemSentence' id='poem_sentence_22_75941'>塞口谨勿言，令人但深忧。</div><div id='poem_sentence_22_75941_comment'></div><div class='poemSentence' id='poem_sentence_23_75941'>世如大膏肓，终当待公瘳。</div><div id='poem_sentence_23_75941_comment'></div><div class='poemSentence' id='poem_sentence_24_75941'>格天未易到，责己尤难周。</div><div id='poem_sentence_24_75941_comment'></div><div class='poemSentence' id='poem_sentence_25_75941'>大学无已时，白首何当休。</div><div id='poem_sentence_25_75941_comment'></div><div class='poemSentence' id='poem_sentence_26_75941'>陋质谢顽朽，居然费雕锼。</div><div id='poem_sentence_26_75941_comment'></div><div class='poemSentence' id='poem_sentence_27_75941'>建德苦不勇，怀知若为酬。</div><div id='poem_sentence_27_75941_comment'></div><div class='poemSentence' id='poem_sentence_28_75941'>四非去未能，用力信有由。</div><div id='poem_sentence_28_75941_comment'></div><div class='poemSentence' id='poem_sentence_29_75941'>永当佩深训，无作明公羞<span class='inlineComment2'>（同上书页四三九四）</span>。</div><div id='poem_sentence_29_75941_comment'></div><div class='poemSentence' id='poem_sentence_30_75941'></div><div id='poem_sentence_30_75941_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.575549,
+                    "Longitude": 118.504404,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340521",
+                    "Title": "当涂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7f957d3c9a1e49fba4c2a38ceb077d2e\");'><span id='7f957d3c9a1e49fba4c2a38ceb077d2e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1223')\">1221-1223年</a>，40-42岁</div><div id='7f957d3c9a1e49fba4c2a38ceb077d2e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年</a>　知当涂县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')\">1222年4月</a>　在知当涂县令任上。四月，有跋文。<span class='label'>作品：</span>《跋陈少阳建炎所上第三书》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1223&endYear=1223')\">1223年</a>　在当涂令任上，有善政。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1223&endYear=1223')\">1223年12月</a>　十二月丁母忧，去当涂县令任。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d06dd37d15744da69b3ed299d154dfce\");'><span id='d06dd37d15744da69b3ed299d154dfce_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1228')\">1227-1228年</a>，46-47岁</div><div id='d06dd37d15744da69b3ed299d154dfce' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1227')\">1227年4月</a>　四月，知山阴县。刘宰有诗送行。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　在知山阴县任上。<br /></div>"
+                },
+                {
+                    "Latitude": 27.346635,
+                    "Longitude": 117.498948,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350781",
+                    "Title": "邵武",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"37e9b2207a6c4ba8ac187faaf4421f44\");'><span id='37e9b2207a6c4ba8ac187faaf4421f44_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1231')\">1229-1231年</a>，48-50岁</div><div id='37e9b2207a6c4ba8ac187faaf4421f44' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1229')\">1229年</a>　盗起江西、闽中，王遂陈《弭盗六策四要》，差干办审计司。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1229')\">1229年12月</a>　年底知邵武军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')\">1230年</a>　在知邵武军任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　知邵武军、兼招捕司参议官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　辟包恢为光泽主簿。<br /></div>"
+                },
+                {
+                    "Latitude": 32.579375,
+                    "Longitude": 116.793572,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341521",
+                    "Title": "寿县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e067a0d111804e278bac96ad8d0fe796\");'><span id='e067a0d111804e278bac96ad8d0fe796_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1232')\">1231-1232年</a>，50-51岁</div><div id='e067a0d111804e278bac96ad8d0fe796' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　未几，罢。改知安丰军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　知安丰军。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"afeaad2913c84c10b9dabf57929dc512\");'><span id='afeaad2913c84c10b9dabf57929dc512_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1238')\">1236-1238年</a>，55-57岁</div><div id='afeaad2913c84c10b9dabf57929dc512' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1236')\">1236年7月9日</a>　四月，差知平江府，七月初九日到任。赴任，友人刘宰有言相送。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1236')\">1236年7月</a>　上任，会两倅六邑宰，作诗劝解勤政为民。<span class='label'>作品：</span>《会平江两倅六邑宰》<div id='poem_75901' class='_poem'><div id='poem_title_75901' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=75901' class='poemCommentLink' target='_blank'>会平江两倅六邑宰</a><a href='javascript: ShowPoemAuthorProfile(30377, \"宋\", \"王遂\", \"poem_title_75901\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王遂</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_75901_comment'></div><div class='poemContent' id='poem_content_75901'><div class='poemSentence' id='poem_sentence_0_75901'>守令张官本为民，恫■<span class='inlineComment2'>（疒众）</span>无异切吾身。</div><div id='poem_sentence_0_75901_comment'></div><div class='poemSentence' id='poem_sentence_1_75901'>但令六县皆朱邑，何必黄堂有信臣。</div><div id='poem_sentence_1_75901_comment'></div><div class='poemSentence' id='poem_sentence_2_75901'>田里要须兴孝弟，闾阎谨勿致嚬呻。</div><div id='poem_sentence_2_75901_comment'></div><div class='poemSentence' id='poem_sentence_3_75901'>与君共举一杯酒，化作人家点点春<span class='inlineComment2'>（宋史绳祖《学斋佔毕》卷三）</span>。</div><div id='poem_sentence_3_75901_comment'></div><div class='poemSentence' id='poem_sentence_4_75901'></div><div id='poem_sentence_4_75901_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年2月</a>　知平江府。以秤提会子进一秩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年3月</a>　三月，魏了翁卒。王遂经纪丧事，甚为周挚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年7月</a>　秋七月，除敷文阁待制差知庆元府沿海制置使，改知太平州，皆未赴任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年7月</a>　秋，有跋文。<span class='label'>作品：</span>《乐庵语录》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年7月</a>　平江通判西厅记落成，有记文。<span class='label'>作品：</span>《平江通判西厅记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年8月8日</a>　作文祭奠王蘋。<span class='label'>作品：</span>《祭王著作（蘋）文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年</a>　是年，平江重修社稷坛落成，有记文。<span class='label'>作品：</span>《重修社稷坛记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')\">1237年</a>　知平江府，崇学校、宽民力、抑豪强，有善政。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　进显谟阁待制、知泉州，改温州，亦皆未赴任，仍知平江府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年8月</a>　南陵修儒学落成，请为记。<span class='label'>作品：</span>《南陵修儒学记》<br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3b0b1d9bbef34eee9565072c2cdb0261\");'><span id='3b0b1d9bbef34eee9565072c2cdb0261_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1240')\">1239-1240年</a>，58-59岁</div><div id='3b0b1d9bbef34eee9565072c2cdb0261' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年</a>　以华文阁直学士差知隆兴府兼江西转运副使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')\">1239年4月</a>　有诗。<span class='label'>作品：</span>《题端明苏子瞻书天庆观乳泉赋后》<div id='poem_75955' class='_poem'><div id='poem_title_75955' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=75955' class='poemCommentLink' target='_blank'>题端明苏子瞻书天庆观乳泉赋后<span class='inlineComment2'>（嘉熙三年四月旦）</span></a><a href='javascript: ShowPoemAuthorProfile(30377, \"宋\", \"王遂\", \"poem_title_75955\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王遂</span></a><br /><div class='titleIndent'>六言诗</div></div><div id='poem_title_75955_comment'></div><div class='poemContent' id='poem_content_75955'><div class='poemSentence' id='poem_sentence_0_75955'>天一生兮上浮，羽人俟兮丹丘。</div><div id='poem_sentence_0_75955_comment'></div><div class='poemSentence' id='poem_sentence_1_75955'>溯儋耳兮东注，夹昆仑兮倒流<span class='inlineComment2'>（明汪砢玉《珊瑚网》卷四）</span>。</div><div id='poem_sentence_1_75955_comment'></div><div class='poemSentence' id='poem_sentence_2_75955'></div><div id='poem_sentence_2_75955_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年</a>　在知隆兴府兼江西转运副使任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')\">1240年</a>　三月，溧水县小学建成，请作记。<span class='label'>作品：</span>《溧水县建小学记》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fa31ad6e59d44f98a80490f3f3d4593b\");'><span id='fa31ad6e59d44f98a80490f3f3d4593b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1246')\">1245-1246年</a>，64-65岁</div><div id='fa31ad6e59d44f98a80490f3f3d4593b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1245')\">1245年</a>　复知隆兴府兼江西安抚使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1246&endYear=1246')\">1246年</a>　在知隆兴府兼江西安抚使任。<br /></div>"
+                },
+                {
+                    "Latitude": 30.946576,
+                    "Longitude": 118.765196,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3418",
+                    "Title": "宣城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a37413e244a84f8cb07d7cf75052287b\");'><span id='a37413e244a84f8cb07d7cf75052287b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1242')\">1241-1242年</a>，60-61岁</div><div id='a37413e244a84f8cb07d7cf75052287b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年</a>　以显谟阁待制知宁国府，政绩卓著。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年8月</a>　八月，作《真文忠公祠堂记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年9月</a>　九月，作《华亭修复经界本末记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年</a>　是年，作《赡学圩田记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1242')\">1242年8月</a>　在知宁国府任上。秋，为刘宰《漫塘文集》作序。<span class='label'>作品：</span>《漫塘文集序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1242')\">1242年</a>　是年，作文祭梅尧臣。<span class='label'>作品：</span>《祭宛陵先生文》<br /></div>"
+                },
+                {
+                    "Latitude": 27.028915,
+                    "Longitude": 118.311441,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350783",
+                    "Title": "建瓯",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ecaa79971bb44568beb7a369d4f4f4c0\");'><span id='ecaa79971bb44568beb7a369d4f4f4c0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1244')\">1243-1244年</a>，62-63岁</div><div id='ecaa79971bb44568beb7a369d4f4f4c0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')\">1243年</a>　以宝章阁直学士知建宁府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')\">1243年9月</a>　九月，建阳重修儒学成，为作记。<span class='label'>作品：</span>《建阳重修儒学记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')\">1243年</a>　是年，建宁府重修府学成，为作记。<span class='label'>作品：</span>《建宁府重修府学记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')\">1243年</a>　是年，建安书院成，为作记。<span class='label'>作品：</span>《建安书院记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年</a>　知建宁府，筑风雨坛。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年5月5日</a>　五月，重修拱辰桥成，为作记。<span class='label'>作品：</span>《重修拱辰桥记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年5月</a>　是月，重造十桥成，为作记。<span class='label'>作品：</span>《重造十桥记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年</a>　是年，为仁智堂作记。<span class='label'>作品：</span>《仁智堂记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')\">1244年</a>　是年，又作《忠列公庙碑记》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "王遂 <span class='inlineComment2'>(1182-1248)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王可喜《王遂年谱》　录入整理：王可喜</p><p><a href=\"javascript: ViewRoute(0, 5, 119.8731865, 30.870799, 10, 0)\">1-26岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">金坛</a> → <a href=\"javascript: ViewPoint(1, 0)\">富阳</a> → <a href=\"javascript: ViewPoint(2, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(3, 0)\">富阳</a> → <a href=\"javascript: ViewPoint(4, 0)\">金坛</a></p><p><a href=\"javascript: ViewRoute(5, 15, 118.2270705, 30.4814535, 8, 0)\">26-59岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(6, 0)\">南京</a> → <a href=\"javascript: ViewPoint(7, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(8, 0)\">金坛</a> → <a href=\"javascript: ViewPoint(9, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(10, 0)\">邵武</a> → <a href=\"javascript: ViewPoint(11, 0)\">寿县</a> → <a href=\"javascript: ViewPoint(12, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(13, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(14, 0)\">南昌</a></p><p><a href=\"javascript: ViewRoute(15, 19, 117.724604, 29.3847095, 8, 0)\">60-67岁</a><br /><a href=\"javascript: ViewPoint(15, 0)\">宣城</a> → <a href=\"javascript: ViewPoint(16, 0)\">建瓯</a> → <a href=\"javascript: ViewPoint(17, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(18, 0)\">金坛</a></p>"
+        }
+    ]
+}

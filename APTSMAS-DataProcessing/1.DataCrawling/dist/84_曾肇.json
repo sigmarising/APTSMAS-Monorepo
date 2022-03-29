@@ -1,0 +1,480 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 27.224962,
+            "CenterLongitude": 116.531664,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "e7734ef144b8444f8950fe547648c9cd",
+                            "Latitude": 27.224962,
+                            "Longitude": 116.531664,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361023",
+                            "Title": "南丰"
+                        },
+                        {
+                            "Id": "275aa4c9e58e4075a3ceac32777e15df",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "c7a2b96da8c041019ece3b788a95f055",
+                            "Latitude": 34.753488,
+                            "Longitude": 113.631349,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4101",
+                            "Title": "郑州"
+                        },
+                        {
+                            "Id": "28268fed583442488d4be8a22186c69c",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "8c2d9e975ce64a7999ab89d5b6fd4cef",
+                            "Latitude": 27.224962,
+                            "Longitude": 116.531664,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361023",
+                            "Title": "南丰"
+                        },
+                        {
+                            "Id": "f290aa8531f04b12999faaa3046b2245",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "273a77a67d7442c4a59bcbcf96f5745b",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "1a1065f7a8754dd995306255c9d375d0",
+                            "Latitude": 32.694085,
+                            "Longitude": 112.093781,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411381",
+                            "Title": "邓州"
+                        },
+                        {
+                            "Id": "eec1d8eb4f55431282b226b55e17df83",
+                            "Latitude": 33.737245,
+                            "Longitude": 114.892727,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411626",
+                            "Title": "淮阳"
+                        },
+                        {
+                            "Id": "a41bd203fce847d28c5d78fc94273c8e",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "56273df1546c4ee1911598b9ce52b291",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "9778ae6ee4e24483b2bf146508afc9cd",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "be3140cda5e1425794aed26c7f3112b8",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "881569bd909f49958544a8025bf011fa",
+                            "Latitude": 38.451137,
+                            "Longitude": 116.105628,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN130984",
+                            "Title": "河间"
+                        },
+                        {
+                            "Id": "6272a11fc2ce4002baa7a10cc85acee3",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "c3d7add9873d414194eaa17d6fb0cb86",
+                            "Latitude": 32.308165,
+                            "Longitude": 118.323252,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3411",
+                            "Title": "滁州"
+                        },
+                        {
+                            "Id": "b7ad5c84b2e24b429e11c2f84b471d77",
+                            "Latitude": 32.4612,
+                            "Longitude": 119.932115,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3212",
+                            "Title": "泰州"
+                        },
+                        {
+                            "Id": "44c03f1cfdfa46cc87c64b510780b299",
+                            "Latitude": 34.602342,
+                            "Longitude": 119.229571,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3207",
+                            "Title": "连云港"
+                        },
+                        {
+                            "Id": "b36551904deb4046b031cce54af67234",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "24f7eb2170b7470d9ff328a762ca8513",
+                            "Latitude": 33.737245,
+                            "Longitude": 114.892727,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN411626",
+                            "Title": "淮阳"
+                        },
+                        {
+                            "Id": "4ea74c774c3d47b79a7c0aedd0941415",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "f5e5f5821b574ceab180802301c92c0f",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "ffe5bfdd0e62404da0bd7850a6560750",
+                            "Latitude": 38.465839,
+                            "Longitude": 115.057407,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN139001",
+                            "Title": "定州"
+                        },
+                        {
+                            "Id": "29f09442e7914afb9277f12a3079c7fd",
+                            "Latitude": 29.363262,
+                            "Longitude": 113.135679,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4306",
+                            "Title": "岳阳"
+                        },
+                        {
+                            "Id": "7d3a8a55d3f9448db29438ac296d0f3e",
+                            "Latitude": 25.838359,
+                            "Longitude": 116.369249,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350821100",
+                            "Title": "汀州"
+                        },
+                        {
+                            "Id": "859f3c1eacae4e34a443d6e3799cf25e",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 27.224962,
+                    "Longitude": 116.531664,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361023",
+                    "Title": "南丰 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e7734ef144b8444f8950fe547648c9cd\");'><span id='e7734ef144b8444f8950fe547648c9cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1066')\">1047-1066年</a>，1-20岁</div><div id='e7734ef144b8444f8950fe547648c9cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')\">1047年9月2日</a>　曾肇生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1052')\">1048-1052年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年</a>　居乡，是年兄晔卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1056')\">1054-1056年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年3月</a>　居乡，是年兄巩、牟、布及从兄阜、姐夫王补之俱中进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年7月</a>　居乡，是年长姐卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年5月</a>　居乡，是年次姐卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　居乡，是年从兄庠中进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年</a>　居乡，是年七姐嫁王补之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　居乡，是年兄宰进士及第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年9月</a>　居乡，是年八姐德耀卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年10月</a>　居乡，是年长姐葬于杭州钱塘县履泰乡龙井原。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1064')\">1062-1064年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　居乡，是年兄牟卒，母朱太夫人入京师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　居乡，是年兄子觉中进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')\">1066年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8c2d9e975ce64a7999ab89d5b6fd4cef\");'><span id='8c2d9e975ce64a7999ab89d5b6fd4cef_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1084')\">1082-1084年</a>，36-38岁</div><div id='8c2d9e975ce64a7999ab89d5b6fd4cef' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年9月</a>　丁母忧，回乡守孝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年</a>　在乡守孝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年4月丙辰</a>　兄巩卒于江宁府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年</a>　在乡守孝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年6月丁酉</a>　兄巩葬于南丰南丰从周乡之源头。<br /></div>"
+                },
+                {
+                    "Latitude": 28.662297,
+                    "Longitude": 121.426996,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331",
+                    "Title": "台州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"275aa4c9e58e4075a3ceac32777e15df\");'><span id='275aa4c9e58e4075a3ceac32777e15df_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>，21岁</div><div id='275aa4c9e58e4075a3ceac32777e15df' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　举进士，调黄岩县主簿（暂任）<br /></div>"
+                },
+                {
+                    "Latitude": 34.753488,
+                    "Longitude": 113.631349,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4101",
+                    "Title": "郑州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c7a2b96da8c041019ece3b788a95f055\");'><span id='c7a2b96da8c041019ece3b788a95f055_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>，21岁</div><div id='c7a2b96da8c041019ece3b788a95f055' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　未几，郑州郡守简公亢荐为郑州教授。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"28268fed583442488d4be8a22186c69c\");'><span id='28268fed583442488d4be8a22186c69c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1082')\">1067-1082年</a>，21-36岁</div><div id='28268fed583442488d4be8a22186c69c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　擢崇文校书、馆阁校勘兼国子监直讲。<span class='label'>作品：</span>刊定《九域志》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年4月</a>　在京任崇文校书、馆阁校勘兼国子监直讲，是年兄宰卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年闰11</a>　在京任崇文校书、馆阁校勘兼国子监直讲，是年姐夫王补之卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1073')\">1070-1073年</a>　在京任崇文校书、馆阁校勘兼国子监直讲。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年3月</a>　在京同知太常礼院，是年九姐德操卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年3月</a>　兄布因论判官吕嘉问市易掊克之虐而出知饶州，公亦因兄布事滞于馆下。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　除集贤校理，转殿中丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年</a>　在京任殿中丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年闰9</a>　与王存等奉敕撰《元丰九域志》十卷，是年书成，为作书序。<span class='label'>作品：</span>《进元丰九域志表》<span class='inlineComment2'>（王应麟称进书原序见于《曲阜集》，盖曾肇之词。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　在京任殿中丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年4月</a>　除大理寺丞集贤校理。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年5月</a>　在京转朝散郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　曾公亮薨，为作行状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年8月</a>　转除国史院编修，判登闻鼓院吏部郎中。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f290aa8531f04b12999faaa3046b2245\");'><span id='f290aa8531f04b12999faaa3046b2245_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1089')\">1085-1089年</a>，39-43岁</div><div id='f290aa8531f04b12999faaa3046b2245' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年3月</a>　服除，入为户部郎中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年4月</a>　上奏哲宗皇帝，有文。<span class='label'>作品：</span>《乞复转对奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　复还吏部，兼著作职事官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　迁右司郎中，接送契丹贺正旦使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　哲宗嗣位，命公充《神宗实录》检讨官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　擢起居舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　未几，为中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　因论叶康直知秦州不当受众攻，公求去，范纯仁为之言，乃得释。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　上奏哲宗皇帝，有文。<span class='label'>作品：</span>《论经明行修科宜罢投牒乞试糊名誊录之制奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年9月1日</a>　司马光卒，公代范纯仁为司马光作祭文。<span class='label'>作品：</span>《代范枢密祭温公文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年2月</a>　因受册事上奏宣仁皇后，有文。<span class='label'>作品：</span>《论文德殿受册奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年2月</a>　再上奏宣仁皇后，有文。<span class='label'>作品：</span>《论坤成节百官上寿奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年10月</a>　门下侍郎韩维因奏范百禄事被太皇太后以为谗毁而出守邓，公上奏为之言。<span class='label'>作品：</span>《论韩维不当罢门下侍郎奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年5月</a>　谏议大夫王觌以论胡宗愈出守润，公上奏为之言。<span class='label'>作品：</span>《缴王觌外任词头奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年8月</a>　上奏哲宗皇帝，有文。<span class='label'>作品：</span>《进仁宗朝戒饬内降诏书事迹乞禁止请谒奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年</a>　有文记御史台事。<span class='label'>作品：</span>《重修御史台记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>　与彭汝砺因春旱同时上疏请旨罢宴，有文。<span class='label'>作品：</span>《论亢旱乞罢春宴奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>　因明堂礼成上贺表，有文。<span class='label'>作品：</span>《贺元祐四年明堂礼成肆赦表》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"56273df1546c4ee1911598b9ce52b291\");'><span id='56273df1546c4ee1911598b9ce52b291_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1092')\">1091-1092年</a>，45-46岁</div><div id='56273df1546c4ee1911598b9ce52b291' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年</a>　居数月，除中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　入为吏部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年5月</a>　擢守尚书礼部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　上诏集议，范纯礼、曾肇、刘安世等二十二人因主分祭作文。<span class='label'>作品：</span>《分祭郊社议》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　单独上奏哲宗皇帝乞分祭，有文。<span class='label'>作品：</span>《上哲宗皇帝乞分祭奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年10月</a>　再上奏哲宗皇帝乞分祭事，有文。<span class='label'>作品：</span>《乞分祭奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年10月</a>　再上奏哲宗皇帝，有文。<span class='label'>作品：</span>《议明堂祀上帝及五帝奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年10月</a>　再上奏哲宗皇帝论选忠良博古之士，有文。<span class='label'>作品：</span>《哲宗皇帝论选忠良博古之士置诸左右奏》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b36551904deb4046b031cce54af67234\");'><span id='b36551904deb4046b031cce54af67234_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1101')\">1100-1101年</a>，54-55岁</div><div id='b36551904deb4046b031cce54af67234' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年1月</a>　复召为中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年2月19日</a>　上徽宗皇帝奏，有文。<span class='label'>作品：</span>《乞修转对之制诏百官民庶极言时政奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年4月1日</a>　日食，上降诏求言，公作训词请并录死者赦恩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　上奏徽宗皇帝，有文。<span class='label'>作品：</span>《论减罢监司守臣上殿奏》《论中书舍人不当书门下录黄奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年9月</a>　转除开封集贤院修撰，为中书舍人兼翰林学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年9月</a>　上奏徽宗皇帝论龚原事，有文。<span class='label'>作品：</span>《论龚原罢给事中奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年9月</a>　上奏徽宗皇帝论内降指挥事，有文。<span class='label'>作品：</span>《论内降指挥不可直付有司奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年10月</a>　谏官陈瓘、给事中龚原以言得罪，无敢救，公极力论解。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　上奏徽宗皇帝，有文。<span class='label'>作品：</span>《乞法仁宗下诏禁止干求内降奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　为兄布行制，有文。<span class='label'>作品：</span>《除曾布银青光禄大夫守尚右仆射兼门下中书侍郎制》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　兄布在相位，引故事避禁职，拜龙图阁学士，提举中太一宫兼集禧观事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')\">1100年</a>　修撰哲宗实录，仍侍读如故，有文。<span class='label'>作品：</span>《哲宗实录》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　在京为翰林学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年3月</a>　上奏徽宗论日食事，有文。<span class='label'>作品：</span>《论日食赤气之异奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　为南丰军山庙作碑文。<span class='label'>作品：</span>《南丰军山庙碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年4月庚子</a>　范纯仁葬，公为作墓志铭。<span class='label'>作品：</span>《范忠宣公墓志铭》<span class='inlineComment2'>（范纯仁卒于正月癸亥，葬于四月庚子。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年10月</a>　奉敕撰东岳庙碑文。<span class='label'>作品：</span>《东岳庙碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　封曲阜县开国侯，食邑一千户，赐紫金鱼带。<br /></div>"
+                },
+                {
+                    "Latitude": 32.895879,
+                    "Longitude": 115.821389,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3412",
+                    "Title": "阜阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"273a77a67d7442c4a59bcbcf96f5745b\");'><span id='273a77a67d7442c4a59bcbcf96f5745b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>，43岁</div><div id='273a77a67d7442c4a59bcbcf96f5745b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')\">1089年</a>　除给事中，以宝文阁待制知颍州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.694085,
+                    "Longitude": 112.093781,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411381",
+                    "Title": "邓州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1a1065f7a8754dd995306255c9d375d0\");'><span id='1a1065f7a8754dd995306255c9d375d0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>，44岁</div><div id='1a1065f7a8754dd995306255c9d375d0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>　徙邓州，治水利。<br /></div>"
+                },
+                {
+                    "Latitude": 33.737245,
+                    "Longitude": 114.892727,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN411626",
+                    "Title": "淮阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"eec1d8eb4f55431282b226b55e17df83\");'><span id='eec1d8eb4f55431282b226b55e17df83_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>，44岁</div><div id='eec1d8eb4f55431282b226b55e17df83' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>　徙齐州，未至即改陈州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"24f7eb2170b7470d9ff328a762ca8513\");'><span id='24f7eb2170b7470d9ff328a762ca8513_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>，55岁</div><div id='24f7eb2170b7470d9ff328a762ca8513' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　出知陈州。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a41bd203fce847d28c5d78fc94273c8e\");'><span id='a41bd203fce847d28c5d78fc94273c8e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年</a>，45岁</div><div id='a41bd203fce847d28c5d78fc94273c8e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年</a>　移知应天府，兼南京留守，大兴学校，亲加训导。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4ea74c774c3d47b79a7c0aedd0941415\");'><span id='4ea74c774c3d47b79a7c0aedd0941415_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>，55岁</div><div id='4ea74c774c3d47b79a7c0aedd0941415' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　徙知太原府，充河东路经略安抚使，力辞不赴，改知南京应天府。<br /></div>"
+                },
+                {
+                    "Latitude": 34.210143,
+                    "Longitude": 117.29235,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3203",
+                    "Title": "徐州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9778ae6ee4e24483b2bf146508afc9cd\");'><span id='9778ae6ee4e24483b2bf146508afc9cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>，46岁</div><div id='9778ae6ee4e24483b2bf146508afc9cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　是岁当郊，坚抗前说，力主分祭，既而自劾，改刑部，请不已，出知徐州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"be3140cda5e1425794aed26c7f3112b8\");'><span id='be3140cda5e1425794aed26c7f3112b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1093')\">1092-1093年</a>，46-47岁</div><div id='be3140cda5e1425794aed26c7f3112b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　居数月，徙知江宁府，兼江南东路兵马钤辖。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年9月3日</a>　知江宁府，有文荐徐积。<span class='label'>作品：</span>《荐徐积为太学状》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')\">1093年10月</a>　知江宁府，有文荐章处厚吕南公秦观。<span class='label'>作品：</span>《荐章处厚吕南公秦观状》<br /></div>"
+                },
+                {
+                    "Latitude": 38.451137,
+                    "Longitude": 116.105628,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN130984",
+                    "Title": "河间",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"881569bd909f49958544a8025bf011fa\");'><span id='881569bd909f49958544a8025bf011fa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>，48岁</div><div id='881569bd909f49958544a8025bf011fa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>　出知瀛洲，与兄布易地，充高阳关路安抚使。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6272a11fc2ce4002baa7a10cc85acee3\");'><span id='6272a11fc2ce4002baa7a10cc85acee3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>，48岁</div><div id='6272a11fc2ce4002baa7a10cc85acee3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年闰4</a>　除知杭州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.308165,
+                    "Longitude": 118.323252,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3411",
+                    "Title": "滁州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c3d7add9873d414194eaa17d6fb0cb86\");'><span id='c3d7add9873d414194eaa17d6fb0cb86_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1095')\">1094-1095年</a>，48-49岁</div><div id='c3d7add9873d414194eaa17d6fb0cb86' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>　有文上奏哲宗皇帝，因实录讥讪罪降为滁州。<span class='label'>作品：</span>《乞诏天下皆得直言及百官次对奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')\">1094年</a>　知滁州，稍复集贤殿修撰。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')\">1095年</a>　知滁州，为滁人徐徽文集作序。<span class='label'>作品：</span>《滁阳庆历前集序》<br /></div>"
+                },
+                {
+                    "Latitude": 32.4612,
+                    "Longitude": 119.932115,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3212",
+                    "Title": "泰州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b7ad5c84b2e24b429e11c2f84b471d77\");'><span id='b7ad5c84b2e24b429e11c2f84b471d77_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1096')\">1095-1096年</a>，49-50岁</div><div id='b7ad5c84b2e24b429e11c2f84b471d77' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')\">1095年</a>　守滁岁满，除知泰州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')\">1096年</a>　在泰州任知州。<br /></div>"
+                },
+                {
+                    "Latitude": 34.602342,
+                    "Longitude": 119.229571,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3207",
+                    "Title": "连云港",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"44c03f1cfdfa46cc87c64b510780b299\");'><span id='44c03f1cfdfa46cc87c64b510780b299_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1099')\">1097-1099年</a>，51-53岁</div><div id='44c03f1cfdfa46cc87c64b510780b299' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>　徙知海州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>　知海州，王补之二子集父遗文，为作序。<span class='label'>作品：</span>《王补之文集序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1099')\">1098-1099年</a>　知海州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f5e5f5821b574ceab180802301c92c0f\");'><span id='f5e5f5821b574ceab180802301c92c0f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>，55岁</div><div id='f5e5f5821b574ceab180802301c92c0f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　徙知扬州，兼淮南东路兵马钤辖，仅到官一日。<br /></div>"
+                },
+                {
+                    "Latitude": 38.465839,
+                    "Longitude": 115.057407,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN139001",
+                    "Title": "定州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ffe5bfdd0e62404da0bd7850a6560750\");'><span id='ffe5bfdd0e62404da0bd7850a6560750_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>，55岁</div><div id='ffe5bfdd0e62404da0bd7850a6560750' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')\">1101年</a>　徙知定州路安抚使。<br /></div>"
+                },
+                {
+                    "Latitude": 29.363262,
+                    "Longitude": 113.135679,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4306",
+                    "Title": "岳阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"29f09442e7914afb9277f12a3079c7fd\");'><span id='29f09442e7914afb9277f12a3079c7fd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年</a>，56岁</div><div id='29f09442e7914afb9277f12a3079c7fd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年7月</a>　落龙图阁学士，谪知和州，道除舒州灵仙观，徙居岳州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年9月丁酉</a>　治臣僚议复元祐皇后及谋废元符皇后者罪，降韩忠彦、曾布官，窜曾肇以下十七人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年11月丙申</a>　苏颂下葬，为作墓志铭。<span class='label'>作品：</span>《赠司空苏公墓志铭》<span class='inlineComment2'>（苏颂卒于1101年。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 25.838359,
+                    "Longitude": 116.369249,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350821100",
+                    "Title": "汀州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7d3a8a55d3f9448db29438ac296d0f3e\");'><span id='7d3a8a55d3f9448db29438ac296d0f3e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1105')\">1103-1105年</a>，57-59岁</div><div id='7d3a8a55d3f9448db29438ac296d0f3e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')\">1103年7月庚寅</a>　责授濮州团练副使，安置汀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1105')\">1104-1105年</a>　在汀州安置。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"859f3c1eacae4e34a443d6e3799cf25e\");'><span id='859f3c1eacae4e34a443d6e3799cf25e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1107')\">1106-1107年</a>，60-61岁</div><div id='859f3c1eacae4e34a443d6e3799cf25e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')\">1106年1月</a>　移台州，未至，复朝散郎，遂还居润州里第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')\">1106年</a>　公与兄布寓居润州里第，兄弟戴白相从，人所歆慕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年8月</a>　兄布先肇一日卒于润州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年8月丙辰</a>　公卒于润州。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "曾肇 <span class='inlineComment2'>(1047-1107)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：（近）周明泰编，李春梅校点《曾子开年谱稿》　录入整理：董希平</p><p><a href=\"javascript: ViewRoute(0, 5, 117.5291725, 31.0139515, 7, 0)\">1-38岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">南丰</a> → <a href=\"javascript: ViewPoint(1, 0)\">台州</a> → <a href=\"javascript: ViewPoint(2, 0)\">郑州</a> → <a href=\"javascript: ViewPoint(3, 0)\">开封</a> → <a href=\"javascript: ViewPoint(4, 0)\">南丰</a></p><p><a href=\"javascript: ViewRoute(5, 11, 113.957585, 33.748513, 9, 0)\">39-46岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">开封</a> → <a href=\"javascript: ViewPoint(6, 0)\">阜阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">邓州</a> → <a href=\"javascript: ViewPoint(8, 0)\">淮阳</a> → <a href=\"javascript: ViewPoint(9, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(10, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(11, 26, 116.648686, 32.152099, 7, 0)\">46-61岁</a><br /><a href=\"javascript: ViewPoint(11, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(12, 0)\">南京</a> → <a href=\"javascript: ViewPoint(13, 0)\">河间</a> → <a href=\"javascript: ViewPoint(14, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(15, 0)\">滁州</a> → <a href=\"javascript: ViewPoint(16, 0)\">泰州</a> → <a href=\"javascript: ViewPoint(17, 0)\">连云港</a> → <a href=\"javascript: ViewPoint(18, 0)\">开封</a> → <a href=\"javascript: ViewPoint(19, 0)\">淮阳</a> → <a href=\"javascript: ViewPoint(20, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(21, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(22, 0)\">定州</a> → <a href=\"javascript: ViewPoint(23, 0)\">岳阳</a> → <a href=\"javascript: ViewPoint(24, 0)\">汀州</a> → <a href=\"javascript: ViewPoint(25, 0)\">镇江</a></p>"
+        }
+    ]
+}

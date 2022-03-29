@@ -1,0 +1,530 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.92579,
+            "CenterLongitude": 120.291969,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "8636e3376b334bf0a51f92edb1bdd4ca",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "fa96a6c007c54b61b6e11943e0f77eeb",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "4970cdc35f7f4efd9ca19775d5828391",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "ed2d821f9f2346a5a09d31a9f691e889",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "90fab40ecc4744ac843e771f1fabfdd4",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "81b0785345514286bb604cc20a42e306",
+                            "Latitude": 31.038472,
+                            "Longitude": 121.233011,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN310117",
+                            "Title": "松江"
+                        },
+                        {
+                            "Id": "0792f54fe9374da4b7d21fa4bb2d7838",
+                            "Latitude": 30.750912,
+                            "Longitude": 120.762045,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3304",
+                            "Title": "嘉兴"
+                        },
+                        {
+                            "Id": "649aa953cd154277b72949321e6c3e19",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "af147ec9b42945e0916316e59587f2b8",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "000a06bdf56e4f21af4960214e932b58",
+                            "Latitude": 27.119751,
+                            "Longitude": 115.00027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3608",
+                            "Title": "吉安"
+                        },
+                        {
+                            "Id": "10066d99744e445d80a06b4f8c95da4a",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "5a5c22dbbeef4240b4dec43527c6ea5f",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "4323f6c662114e4e930caabdbdd549a9",
+                            "Latitude": 31.038472,
+                            "Longitude": 121.233011,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN310117",
+                            "Title": "松江"
+                        },
+                        {
+                            "Id": "b93ad0a7ba104d17ac27b4b92423862c",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "cf9f2e1aa0d14cb2bc6b32a389795fb7",
+                            "Latitude": 30.598428,
+                            "Longitude": 114.311831,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4201",
+                            "Title": "武汉"
+                        },
+                        {
+                            "Id": "41b4159fc1184f07b070b7c04193828b",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "c30af8c522b1459e8f2dd7a4eecb30a8",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "0d8c9928e98044ec812dbbb0b72987b4",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "09cd0905001c4c0180d2ebec62016aef",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "4c2b66a0187a4d8a8d69fd0443ee8157",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "e2df2fb83d2048398c51663667126876",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "28ecced387d44beea60956cd609f8adb",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "8d9e2cac163542548ebc1e4863836139",
+                            "Latitude": 39.911013,
+                            "Longitude": 116.413554,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN11",
+                            "Title": "北京"
+                        },
+                        {
+                            "Id": "5b6f8d5f85ec429dbc45ebf4ede96060",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "18aafa6505754491ab0d5b9159752c0d",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "aa01bcbeb6cb405ba09c0b8998d4d84a",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "d2ef5856302642aea5821fafa796c393",
+                            "Latitude": 30.042849,
+                            "Longitude": 121.160934,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330281",
+                            "Title": "余姚"
+                        },
+                        {
+                            "Id": "2099552eaf514c82845077f070711535",
+                            "Latitude": 29.880177,
+                            "Longitude": 121.556686,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3302",
+                            "Title": "宁波"
+                        },
+                        {
+                            "Id": "b8e6406768554b5489fb90325a632188",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "7cf5b9ee85084c31b994d423a1542873",
+                            "Latitude": 29.880177,
+                            "Longitude": 121.556686,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3302",
+                            "Title": "宁波"
+                        },
+                        {
+                            "Id": "015595cdc125474fa2700ea5873acfb0",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "00944e946d6d4f1883c9a4d221d5cc04",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "1e8f21a3e68a4f359117f481a3e930c3",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        },
+                        {
+                            "Id": "e27994af9ff74cfea717e3fcc97c9ec9",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "135c61c8f5a345f8966a6eb31005210e",
+                            "Latitude": 31.92579,
+                            "Longitude": 120.291969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320281",
+                            "Title": "江阴"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.92579,
+                    "Longitude": 120.291969,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320281",
+                    "Title": "江阴 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8636e3376b334bf0a51f92edb1bdd4ca\");'><span id='8636e3376b334bf0a51f92edb1bdd4ca_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1160')\">1135-1160年</a>，1-26岁</div><div id='8636e3376b334bf0a51f92edb1bdd4ca' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　是年，丘崇出生于故乡江阴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1141')\">1136-1141年</a>　少年居家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1160')\">1142-1160年</a>　在家乡求学。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4970cdc35f7f4efd9ca19775d5828391\");'><span id='4970cdc35f7f4efd9ca19775d5828391_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1165')\">1164-1165年</a>，30-31岁</div><div id='4970cdc35f7f4efd9ca19775d5828391' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1165')\">1164-1165年</a>　居家待职。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"af147ec9b42945e0916316e59587f2b8\");'><span id='af147ec9b42945e0916316e59587f2b8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1176')\">1173-1176年</a>，39-42岁</div><div id='af147ec9b42945e0916316e59587f2b8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年4月</a>　四月，差主管台州崇道观。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年8月</a>　主管台州崇道观，居故里。秋，有词。<span class='label'>作品：</span>《菩萨蛮》（秋声夜到秋香院）<div id='poem_77124' class='_poem'><div id='poem_title_77124' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77124' class='poemCommentLink' target='_blank'>菩萨蛮<span style='margin: 0 0.5em'> 其二 </span>甲午秋作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77124\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77124_comment'></div><div class='poemContent' id='poem_content_77124'><div class='poemSentence' id='poem_sentence_0_77124'>秋声夜到秋香院。重帘试卷都开遍。</div><div id='poem_sentence_0_77124_comment'></div><div class='poemSentence' id='poem_sentence_1_77124'>只似旧时香。更添些子黄。</div><div id='poem_sentence_1_77124_comment'></div><br /><div class='poemSentence' id='poem_sentence_2_77124'>绮窗人共赋。犹忆分香句。</div><div id='poem_sentence_2_77124_comment'></div><div class='poemSentence' id='poem_sentence_3_77124'>别后几回秋。见花空复愁。</div><div id='poem_sentence_3_77124_comment'></div><div class='poemSentence' id='poem_sentence_4_77124'></div><div id='poem_sentence_4_77124_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')\">1175年1月</a>　居故里。正月，有词与前知江阴军严焕唱和。<span class='label'>作品：</span>《汉宫春》（横笛吹梅）<div id='poem_77088' class='_poem'><div id='poem_title_77088' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77088' class='poemCommentLink' target='_blank'>汉宫春<span style='margin: 0 0.5em'> 其一 </span>乙未正月和李汉老韵，简严子文</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77088\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77088_comment'></div><div class='poemContent' id='poem_content_77088'><div class='poemSentence' id='poem_sentence_0_77088'>横笛吹梅，记南楼夜月，疏蕊纤枝。</div><div id='poem_sentence_0_77088_comment'></div><div class='poemSentence' id='poem_sentence_1_77088'>香尘软红自暖，不怕寒欺。</div><div id='poem_sentence_1_77088_comment'></div><div class='poemSentence' id='poem_sentence_2_77088'>人归梦悄，怅凭阑、密约深期。</div><div id='poem_sentence_2_77088_comment'></div><div class='poemSentence' id='poem_sentence_3_77088'>身渐老，风流纵在，逢花那似当时。</div><div id='poem_sentence_3_77088_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77088'>东阁占春宜早，甚开迟也似，雪屋疏篱。</div><div id='poem_sentence_4_77088_comment'></div><div class='poemSentence' id='poem_sentence_5_77088'>须公彩毫度曲，锦帐题诗。</div><div id='poem_sentence_5_77088_comment'></div><div class='poemSentence' id='poem_sentence_6_77088'>多应见我，怪尊前、华发其谁。</div><div id='poem_sentence_6_77088_comment'></div><div class='poemSentence' id='poem_sentence_7_77088'>烦道与，巡檐共笑，元是旧日相知。</div><div id='poem_sentence_7_77088_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')\">1175年12月17日</a>　十二月十七日，高宗庆七十寿，崇母臧氏封宜人，有词。<span class='label'>作品：</span>《临江仙》（天上玉卮称万寿）<div id='poem_77111' class='_poem'><div id='poem_title_77111' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77111' class='poemCommentLink' target='_blank'>临江仙 乙未，高宗庆七十，母氏封宜人作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77111\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77111_comment'></div><div class='poemContent' id='poem_content_77111'><div class='poemSentence' id='poem_sentence_0_77111'>天上玉卮称万寿，人间湛露初匀。</div><div id='poem_sentence_0_77111_comment'></div><div class='poemSentence' id='poem_sentence_1_77111'>种萱堂上阅青春。</div><div id='poem_sentence_1_77111_comment'></div><div class='poemSentence' id='poem_sentence_2_77111'>薰风频送喜，同日拜丝纶。</div><div id='poem_sentence_2_77111_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77111'>班在蕊珠仙缀立，等闲历遍燕秦。</div><div id='poem_sentence_3_77111_comment'></div><div class='poemSentence' id='poem_sentence_4_77111'>紫皇先付与佳名。</div><div id='poem_sentence_4_77111_comment'></div><div class='poemSentence' id='poem_sentence_5_77111'>宜家更宜国，宜子又宜孙。</div><div id='poem_sentence_5_77111_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')\">1175年9月</a>　居故里。是年秋，登君山有词与知江阴军钱仰之唱和。<span class='label'>作品：</span>《鹧鸪天》（准拟关门度一秋）<div id='poem_77152' class='_poem'><div id='poem_title_77152' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77152' class='poemCommentLink' target='_blank'>鹧鸪天<span style='margin: 0 0.5em'> 其三 </span>乙未钱守登君山</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77152\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77152_comment'></div><div class='poemContent' id='poem_content_77152'><div class='poemSentence' id='poem_sentence_0_77152'>准拟关门度一秋。</div><div id='poem_sentence_0_77152_comment'></div><div class='poemSentence' id='poem_sentence_1_77152'>强扶衰病起相酬。</div><div id='poem_sentence_1_77152_comment'></div><div class='poemSentence' id='poem_sentence_2_77152'>不辞酩酊还吹帽，自笑鬅鬙怯露头。</div><div id='poem_sentence_2_77152_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77152'>江日晚，更迟留。</div><div id='poem_sentence_3_77152_comment'></div><div class='poemSentence' id='poem_sentence_4_77152'>争传五马足风流。</div><div id='poem_sentence_4_77152_comment'></div><div class='poemSentence' id='poem_sentence_5_77152'>论车载酒浑闲事，著笼藏花说未休。</div><div id='poem_sentence_5_77152_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年8月15日</a>　居故里。八月中秋，有词。<span class='label'>作品：</span>《诉衷情•丙申中秋》（素衣苍狗不成妍）<div id='poem_77101' class='_poem'><div id='poem_title_77101' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77101' class='poemCommentLink' target='_blank'>诉衷情令<span style='margin: 0 0.5em'> 其二 </span>丙申中秋</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77101\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77101_comment'></div><div class='poemContent' id='poem_content_77101'><div class='poemSentence' id='poem_sentence_0_77101'>素衣苍狗不成妍。</div><div id='poem_sentence_0_77101_comment'></div><div class='poemSentence' id='poem_sentence_1_77101'>何意妒蝉娟。</div><div id='poem_sentence_1_77101_comment'></div><div class='poemSentence' id='poem_sentence_2_77101'>不知高处难掩，终自十分圆。</div><div id='poem_sentence_2_77101_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77101'>涵万象，独当天。</div><div id='poem_sentence_3_77101_comment'></div><div class='poemSentence' id='poem_sentence_4_77101'>照无边。</div><div id='poem_sentence_4_77101_comment'></div><div class='poemSentence' id='poem_sentence_5_77101'>乾坤呈露，何况人间，大地山川。</div><div id='poem_sentence_5_77101_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年9月9日</a>　居故里。九月重九，有词。<span class='label'>作品：</span>《愁倚阑•丙申重九和钱守》（风雨骤）<div id='poem_77135' class='_poem'><div id='poem_title_77135' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77135' class='poemCommentLink' target='_blank'>愁倚阑/春光好 丙申重九和钱守</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77135\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77135_comment'></div><div class='poemContent' id='poem_content_77135'><div class='poemSentence' id='poem_sentence_0_77135'>风雨骤，妒花黄。</div><div id='poem_sentence_0_77135_comment'></div><div class='poemSentence' id='poem_sentence_1_77135'>忽斜阳。</div><div id='poem_sentence_1_77135_comment'></div><div class='poemSentence' id='poem_sentence_2_77135'>急手打开君会否，是伊凉。</div><div id='poem_sentence_2_77135_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77135'>深深密密传觞。</div><div id='poem_sentence_3_77135_comment'></div><div class='poemSentence' id='poem_sentence_4_77135'>似差胜、落帽清狂。</div><div id='poem_sentence_4_77135_comment'></div><div class='poemSentence' id='poem_sentence_5_77135'>满引休辞还醉倒，却何妨。</div><div id='poem_sentence_5_77135_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年10月</a>　冬，友人周必大寄书问候。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b93ad0a7ba104d17ac27b4b92423862c\");'><span id='b93ad0a7ba104d17ac27b4b92423862c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')\">1179年</a>，45岁</div><div id='b93ad0a7ba104d17ac27b4b92423862c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')\">1179年</a>　奉祠居家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e2df2fb83d2048398c51663667126876\");'><span id='e2df2fb83d2048398c51663667126876_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1188')\">1187-1188年</a>，53-54岁</div><div id='e2df2fb83d2048398c51663667126876' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>　冬，丁母忧。友人陈亮以文祭奠。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')\">1188年</a>　居家丁母忧。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"aa01bcbeb6cb405ba09c0b8998d4d84a\");'><span id='aa01bcbeb6cb405ba09c0b8998d4d84a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1203')\">1194-1203年</a>，60-69岁</div><div id='aa01bcbeb6cb405ba09c0b8998d4d84a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年10月</a>　自是年十月闲居十年。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>　闲居故里。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')\">1196年4月</a>　闲居。四月，友人新任常熟县令孙应时寄书问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')\">1196年</a>　秋，应时又寄书问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1198')\">1197-1198年</a>　闲居故里。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年5月</a>　闲居。五月，友人孙应时寄书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年6月</a>　六月，应时将离常熟，再致书告知行程安排。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年11月</a>　冬，有词。<span class='label'>作品：</span>《锦帐春》（翠竹如屏）<div id='poem_77143' class='_poem'><div id='poem_title_77143' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77143' class='poemCommentLink' target='_blank'>锦帐春 己未孟冬乐净见梅英作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77143\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77143_comment'></div><div class='poemContent' id='poem_content_77143'><div class='poemSentence' id='poem_sentence_0_77143'>翠竹如屏，浅山如画。</div><div id='poem_sentence_0_77143_comment'></div><div class='poemSentence' id='poem_sentence_1_77143'>小池面、危桥一跨。</div><div id='poem_sentence_1_77143_comment'></div><div class='poemSentence' id='poem_sentence_2_77143'>著棕亭临水，宛然郊野。</div><div id='poem_sentence_2_77143_comment'></div><div class='poemSentence' id='poem_sentence_3_77143'>竹篱茅舍。</div><div id='poem_sentence_3_77143_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77143'>好是天寒，倍添幽雅。</div><div id='poem_sentence_4_77143_comment'></div><div class='poemSentence' id='poem_sentence_5_77143'>正雪意、垂垂欲下。</div><div id='poem_sentence_5_77143_comment'></div><div class='poemSentence' id='poem_sentence_6_77143'>更朦胧月影，弄明初夜。</div><div id='poem_sentence_6_77143_comment'></div><div class='poemSentence' id='poem_sentence_7_77143'>梅花动也。</div><div id='poem_sentence_7_77143_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')\">1200年3月</a>　闲居。春，有词。<span class='label'>作品：</span>《洞仙歌》（花中尤物）<div id='poem_77117' class='_poem'><div id='poem_title_77117' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77117' class='poemCommentLink' target='_blank'>洞仙歌<span style='margin: 0 0.5em'> 其四 </span>庚申乐净锦棠盛开作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77117\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77117_comment'></div><div class='poemContent' id='poem_content_77117'><div class='poemSentence' id='poem_sentence_0_77117'>花中尤物，欲赋无佳句。</div><div id='poem_sentence_0_77117_comment'></div><div class='poemSentence' id='poem_sentence_1_77117'>深染燕脂浅含露。</div><div id='poem_sentence_1_77117_comment'></div><div class='poemSentence' id='poem_sentence_2_77117'>被春寒无赖，不放全开，才半吐，翻与留连妙处。</div><div id='poem_sentence_2_77117_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77117'>人间称绝色，倾国倾城，试问太真似花否。</div><div id='poem_sentence_3_77117_comment'></div><div class='poemSentence' id='poem_sentence_4_77117'>最娉婷，偏艳冶，百媚千娇，谁道许，须要能歌解舞。</div><div id='poem_sentence_4_77117_comment'></div><div class='poemSentence' id='poem_sentence_5_77117'>算费尽、春工到开时，甚却付、连宵等闲风雨。</div><div id='poem_sentence_5_77117_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')\">1200年8月</a>　秋，子寿隽生日，有词《感皇恩》（时节近中秋）<div id='poem_77136' class='_poem'><div id='poem_title_77136' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77136' class='poemCommentLink' target='_blank'>感皇恩 庚申为大儿寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77136\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77136_comment'></div><div class='poemContent' id='poem_content_77136'><div class='poemSentence' id='poem_sentence_0_77136'>时节近中秋，桂花天气。</div><div id='poem_sentence_0_77136_comment'></div><div class='poemSentence' id='poem_sentence_1_77136'>忆得熊罴梦呈瑞。</div><div id='poem_sentence_1_77136_comment'></div><div class='poemSentence' id='poem_sentence_2_77136'>向来三度，恨被一官萦系。</div><div id='poem_sentence_2_77136_comment'></div><div class='poemSentence' id='poem_sentence_3_77136'>今朝称寿，也休辞醉。</div><div id='poem_sentence_3_77136_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77136'>斑衣戏彩，薄罗初试。</div><div id='poem_sentence_4_77136_comment'></div><div class='poemSentence' id='poem_sentence_5_77136'>华发双亲剩欢喜。</div><div id='poem_sentence_5_77136_comment'></div><div class='poemSentence' id='poem_sentence_6_77136'>功名荣贵，未要匆匆深计。</div><div id='poem_sentence_6_77136_comment'></div><div class='poemSentence' id='poem_sentence_7_77136'>一杯先要祝，千百岁。</div><div id='poem_sentence_7_77136_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')\">1201年2月</a>　闲居。春，有词。<span class='label'>作品：</span>《好事近》（整整一冬晴）<div id='poem_77089' class='_poem'><div id='poem_title_77089' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77089' class='poemCommentLink' target='_blank'>好事近<span style='margin: 0 0.5em'> 其二 </span>辛酉二月望日雨中作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77089\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77089_comment'></div><div class='poemContent' id='poem_content_77089'><div class='poemSentence' id='poem_sentence_0_77089'>整整一冬晴，雨后不论朝夕。</div><div id='poem_sentence_0_77089_comment'></div><div class='poemSentence' id='poem_sentence_1_77089'>麦陇救得一半，莫妨他寒食。</div><div id='poem_sentence_1_77089_comment'></div><br /><div class='poemSentence' id='poem_sentence_2_77089'>试看天气定乘除，宽更待三日。</div><div id='poem_sentence_2_77089_comment'></div><div class='poemSentence' id='poem_sentence_3_77089'>桃李且须宁耐，有无边春色。</div><div id='poem_sentence_3_77089_comment'></div><div class='poemSentence' id='poem_sentence_4_77089'></div><div id='poem_sentence_4_77089_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')\">1201年11月</a>　冬，夫人吴氏离世。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')\">1202年</a>　闲居故里。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年3月</a>　春，差知庆元府。友人孙应时闻讯故人来守庆元，驰书问候。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"1e8f21a3e68a4f359117f481a3e930c3\");'><span id='1e8f21a3e68a4f359117f481a3e930c3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年</a>，73岁</div><div id='1e8f21a3e68a4f359117f481a3e930c3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年1月</a>　正月，丘崇罢签书枢密院事、江淮督视。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"135c61c8f5a345f8966a6eb31005210e\");'><span id='135c61c8f5a345f8966a6eb31005210e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年</a>，74岁</div><div id='135c61c8f5a345f8966a6eb31005210e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年8月4日</a>　八月四日，丘崇薨于江阴之里第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年8月14日</a>　八月十四日，诏特授正议大夫守、同知枢密院事致仕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年8月</a>　赠资政殿大学士金紫光禄大夫。封魏国，谥文定。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年8月</a>　葬江阴县由里山。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fa96a6c007c54b61b6e11943e0f77eeb\");'><span id='fa96a6c007c54b61b6e11943e0f77eeb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1163')\">1161-1163年</a>，27-29岁</div><div id='fa96a6c007c54b61b6e11943e0f77eeb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　入太学。有词。<span class='label'>作品：</span>《朝中措》（晚风斜日折梅花）<div id='poem_77134' class='_poem'><div id='poem_title_77134' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77134' class='poemCommentLink' target='_blank'>朝中措<span style='margin: 0 0.5em'> 其一 </span>绍兴未太学作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77134\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77134_comment'></div><div class='poemContent' id='poem_content_77134'><div class='poemSentence' id='poem_sentence_0_77134'>晚风斜日折梅花。</div><div id='poem_sentence_0_77134_comment'></div><div class='poemSentence' id='poem_sentence_1_77134'>楼外卷残霞。</div><div id='poem_sentence_1_77134_comment'></div><div class='poemSentence' id='poem_sentence_2_77134'>领略一城春气，华灯十万人家。</div><div id='poem_sentence_2_77134_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77134'>轻衫短帽，风前趁马，月下随车。</div><div id='poem_sentence_3_77134_comment'></div><div class='poemSentence' id='poem_sentence_4_77134'>道个小来脚定，那人笑隔笼纱。</div><div id='poem_sentence_4_77134_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　求学太学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年5月</a>　以第三名“探花”登进士第，补左文林郎，两使职官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　是年团司归，舟中作有词。<span class='label'>作品：</span>《诉衷情》《东风罨岸进船难》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"90fab40ecc4744ac843e771f1fabfdd4\");'><span id='90fab40ecc4744ac843e771f1fabfdd4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1171')\">1170-1171年</a>，36-37岁</div><div id='90fab40ecc4744ac843e771f1fabfdd4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年10月6日</a>　十月，虞允文奇其才，奏除左宣义郎国子博士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年2月</a>　二月，以太常博士考校点检试卷。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"10066d99744e445d80a06b4f8c95da4a\");'><span id='10066d99744e445d80a06b4f8c95da4a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1178')\">1177-1178年</a>，43-44岁</div><div id='10066d99744e445d80a06b4f8c95da4a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　召除户部郎中。为八月国子监发解试考试官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年</a>　迁枢密院检详文字。为接伴金国贺生辰使，被劾不礼金使奉祠。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4c2b66a0187a4d8a8d69fd0443ee8157\");'><span id='4c2b66a0187a4d8a8d69fd0443ee8157_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>，53岁</div><div id='4c2b66a0187a4d8a8d69fd0443ee8157' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年4月</a>　四月，改两浙转运副使。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"28ecced387d44beea60956cd609f8adb\");'><span id='28ecced387d44beea60956cd609f8adb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1190')\">1189-1190年</a>，55-56岁</div><div id='28ecced387d44beea60956cd609f8adb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1189')\">1189年2月</a>　二月，光宗即位。召对，除太常少卿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年1月</a>　正月，在太常少卿任上，为是年科举点检试卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年4月</a>　四月，以太常少卿兼实录院检讨官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年6月</a>　六月，使金贺金主生辰，以宋甡为书状官随行。友人陈亮有词相送。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5b6f8d5f85ec429dbc45ebf4ede96060\");'><span id='5b6f8d5f85ec429dbc45ebf4ede96060_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1192')\">1190-1192年</a>，56-58岁</div><div id='5b6f8d5f85ec429dbc45ebf4ede96060' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年10月</a>　十月，权户部侍郎，兼实录院同修撰。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')\">1191年</a>　在权户部侍郎，兼实录院同修撰任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年4月</a>　四月，擢焕章阁直学士、四川安抚制置使兼知成都府。友人陈傅良、杨万里有诗相送。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ed2d821f9f2346a5a09d31a9f691e889\");'><span id='ed2d821f9f2346a5a09d31a9f691e889_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1170')\">1166-1170年</a>，32-36岁</div><div id='ed2d821f9f2346a5a09d31a9f691e889' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年4月</a>　四月，以左文林郎任建康府观察推官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年5月12日</a>　五月，韩元吉生日有词祝寿。<span class='label'>作品：</span>《谒金门•为韩漕无咎寿》（槐阴绿）<div id='poem_77129' class='_poem'><div id='poem_title_77129' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77129' class='poemCommentLink' target='_blank'>谒金门<span style='margin: 0 0.5em'> 其二 </span>为韩漕无咎寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77129\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77129_comment'></div><div class='poemContent' id='poem_content_77129'><div class='poemSentence' id='poem_sentence_0_77129'>槐阴绿。帘卷翠屏山曲。</div><div id='poem_sentence_0_77129_comment'></div><div class='poemSentence' id='poem_sentence_1_77129'>照眼冰壶寒并玉。赐衣便雾縠。</div><div id='poem_sentence_1_77129_comment'></div><br /><div class='poemSentence' id='poem_sentence_2_77129'>熊梦又惊初卜。好在掖垣梧竹。</div><div id='poem_sentence_2_77129_comment'></div><div class='poemSentence' id='poem_sentence_3_77129'>应讶人归犹未速。已颁新诏墨。</div><div id='poem_sentence_3_77129_comment'></div><div class='poemSentence' id='poem_sentence_4_77129'></div><div id='poem_sentence_4_77129_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')\">1167年1月19日</a>　任建康府观察推官。正月十九日，淮西江东总领叶衡生日，有词祝寿。<span class='label'>作品：</span>《洞仙歌•为叶梦锡总领寿》（一番好景）《蓦山溪•为叶总领寿》（风传芳信）<div id='poem_77113' class='_poem'><div id='poem_title_77113' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77113' class='poemCommentLink' target='_blank'>洞仙歌<span style='margin: 0 0.5em'> 其一 </span>为叶梦锡总领寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77113\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77113_comment'></div><div class='poemContent' id='poem_content_77113'><div class='poemSentence' id='poem_sentence_0_77113'>一番好景，近莺花时候。</div><div id='poem_sentence_0_77113_comment'></div><div class='poemSentence' id='poem_sentence_1_77113'>才过收灯便晴昼。</div><div id='poem_sentence_1_77113_comment'></div><div class='poemSentence' id='poem_sentence_2_77113'>正熊罴、占梦日，戏彩称觞，当此际，须信人间未有。</div><div id='poem_sentence_2_77113_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77113'>光华分瑞节，粉署兰台，谁出如公望郎右。</div><div id='poem_sentence_3_77113_comment'></div><div class='poemSentence' id='poem_sentence_4_77113'>气如虹，才吐凤，指掌功名，馀事也，千载犹当不朽。</div><div id='poem_sentence_4_77113_comment'></div><div class='poemSentence' id='poem_sentence_5_77113'>待辟国、清边取封侯，看肘后、黄金印悬如斗。</div><div id='poem_sentence_5_77113_comment'></div></div></div><div id='poem_77142' class='_poem'><div id='poem_title_77142' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77142' class='poemCommentLink' target='_blank'>蓦山溪 为叶总领寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77142\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77142_comment'></div><div class='poemContent' id='poem_content_77142'><div class='poemSentence' id='poem_sentence_0_77142'>风传芳信，晓色便清霁。</div><div id='poem_sentence_0_77142_comment'></div><div class='poemSentence' id='poem_sentence_1_77142'>帘幕护春寒，篆香温、笙簧韵美。</div><div id='poem_sentence_1_77142_comment'></div><div class='poemSentence' id='poem_sentence_2_77142'>使华容与，星动帝王州，花上脸，柳边眉，竞报占熊喜。</div><div id='poem_sentence_2_77142_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77142'>欢娱好是，玉塞无尘起。</div><div id='poem_sentence_3_77142_comment'></div><div class='poemSentence' id='poem_sentence_4_77142'>鞭计小迟留，要长折、遐冲万里。</div><div id='poem_sentence_4_77142_comment'></div><div class='poemSentence' id='poem_sentence_5_77142'>传闻有诏，宣室待归来，醽醁满，叵罗深，莫负春葱指。</div><div id='poem_sentence_5_77142_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年3月9日</a>　任建康府观察推官。暮春，有词。<span class='label'>作品：</span>《点绛唇》（花落花开）<div id='poem_77118' class='_poem'><div id='poem_title_77118' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77118' class='poemCommentLink' target='_blank'>点绛唇</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77118\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77118_comment'></div><div class='titleComment' id='poem_preface_77118'>序：戊子之春，同官皆拘文，不暇游集。春暮，皆兴牢落之叹。予亦颇叹之，作此，乃三月九日也。是日，杨花甚盛，盖风云</div><div id='poem_preface_77118_comment'></div><div class='poemContent' id='poem_content_77118'><div class='poemSentence' id='poem_sentence_0_77118'>花落花开，等闲不管流年度。</div><div id='poem_sentence_0_77118_comment'></div><div class='poemSentence' id='poem_sentence_1_77118'>旧游何处。</div><div id='poem_sentence_1_77118_comment'></div><div class='poemSentence' id='poem_sentence_2_77118'>浅立空凝伫。</div><div id='poem_sentence_2_77118_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77118'>惊拍栏干，忍见春将暮。</div><div id='poem_sentence_3_77118_comment'></div><div class='poemSentence' id='poem_sentence_4_77118'>凭风絮。</div><div id='poem_sentence_4_77118_comment'></div><div class='poemSentence' id='poem_sentence_5_77118'>为人飞去。</div><div id='poem_sentence_5_77118_comment'></div><div class='poemSentence' id='poem_sentence_6_77118'>散作愁无数。</div><div id='poem_sentence_6_77118_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年</a>　是年春，有词为史正志祝寿。<span class='label'>作品：</span>《水龙吟•为建康史帅志道寿》（蕊珠仙籍标名）<div id='poem_77080' class='_poem'><div id='poem_title_77080' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77080' class='poemCommentLink' target='_blank'>水龙吟 为建康史帅志道寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77080\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77080_comment'></div><div class='poemContent' id='poem_content_77080'><div class='poemSentence' id='poem_sentence_0_77080'>蕊珠仙籍标名，绛纱覆玉云霞里。</div><div id='poem_sentence_0_77080_comment'></div><div class='poemSentence' id='poem_sentence_1_77080'>銮坡凤掖，丝絇鸣佩，甘泉近侍。</div><div id='poem_sentence_1_77080_comment'></div><div class='poemSentence' id='poem_sentence_2_77080'>濯柳临春，饤梨照座，绝尘风味。</div><div id='poem_sentence_2_77080_comment'></div><div class='poemSentence' id='poem_sentence_3_77080'>记青蒲、夜半论兵，万人惊诵回天意。</div><div id='poem_sentence_3_77080_comment'></div><div class='poemSentence' id='poem_sentence_4_77080'>麟组遥临万里。</div><div id='poem_sentence_4_77080_comment'></div><div class='poemSentence' id='poem_sentence_5_77080'>谈笑处、江山增丽。</div><div id='poem_sentence_5_77080_comment'></div><div class='poemSentence' id='poem_sentence_6_77080'>遐冲坐折，风流馀事，唯应燕喜。</div><div id='poem_sentence_6_77080_comment'></div><div class='poemSentence' id='poem_sentence_7_77080'>新筑沙堤，暂占熊梦，恰经长至。</div><div id='poem_sentence_7_77080_comment'></div><div class='poemSentence' id='poem_sentence_8_77080'>过佳辰献寿，双旌便好，作朝天计。</div><div id='poem_sentence_8_77080_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年</a>　是年春，又有词为史正志祝寿。<span class='label'>作品：</span>《黄河清•为史帅寿》（鼓角清雄占云祲）<div id='poem_77131' class='_poem'><div id='poem_title_77131' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77131' class='poemCommentLink' target='_blank'>黄河清 为史帅寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77131\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77131_comment'></div><div class='poemContent' id='poem_content_77131'><div class='poemSentence' id='poem_sentence_0_77131'>鼓角清雄占<span class='link' onclick='ShowWordComment(\"poem_sentence_0_77131\", 77131, \"Clauses/0/Comments/0\")'>云祲</span>。</div><div id='poem_sentence_0_77131_comment'></div><div class='poemSentence' id='poem_sentence_1_77131'>喜边尘、今度还静。</div><div id='poem_sentence_1_77131_comment'></div><div class='poemSentence' id='poem_sentence_2_77131'>一线乍添，长觉皇州日永。</div><div id='poem_sentence_2_77131_comment'></div><div class='poemSentence' id='poem_sentence_3_77131'>楼外崇牙影转，拥千骑、欢声万井。</div><div id='poem_sentence_3_77131_comment'></div><div class='poemSentence' id='poem_sentence_4_77131'>太平官府人初见，梦熊三占佳景。</div><div id='poem_sentence_4_77131_comment'></div><div class='poemSentence' id='poem_sentence_5_77131'>皇恩夜出天闱，云章粲、凤鸾飞动相映。</div><div id='poem_sentence_5_77131_comment'></div><div class='poemSentence' id='poem_sentence_6_77131'>宝带万钉，与作今朝佳庆。</div><div id='poem_sentence_6_77131_comment'></div><div class='poemSentence' id='poem_sentence_7_77131'>勋业如斯得也，况整顿、江淮大定。</div><div id='poem_sentence_7_77131_comment'></div><div class='poemSentence' id='poem_sentence_8_77131'>这回恰好，归朝去、共调金鼎。</div><div id='poem_sentence_8_77131_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年9月</a>　秋，有词为赵彦端祝寿。<span class='label'>作品：</span>《水调歌头•为赵漕德庄寿》（人物冠江左）<div id='poem_77082' class='_poem'><div id='poem_title_77082' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77082' class='poemCommentLink' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其二 </span>为赵漕德庄寿</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77082\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77082_comment'></div><div class='poemContent' id='poem_content_77082'><div class='poemSentence' id='poem_sentence_0_77082'>人物冠江左，正始有遗音。</div><div id='poem_sentence_0_77082_comment'></div><div class='poemSentence' id='poem_sentence_1_77082'>谪仙风味，洒然那受一尘侵。</div><div id='poem_sentence_1_77082_comment'></div><div class='poemSentence' id='poem_sentence_2_77082'>倚马文章天与，霏屑谈辞云委，宣室为虚襟。</div><div id='poem_sentence_2_77082_comment'></div><div class='poemSentence' id='poem_sentence_3_77082'>小驻外台节，聊屈济时心。</div><div id='poem_sentence_3_77082_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77082'>记长庚，曾入梦，恰而今。</div><div id='poem_sentence_4_77082_comment'></div><div class='poemSentence' id='poem_sentence_5_77082'>橙黄橘绿，可人风物是秋深。</div><div id='poem_sentence_5_77082_comment'></div><div class='poemSentence' id='poem_sentence_6_77082'>九日明朝佳节，得得天教好景，供与醉时吟。</div><div id='poem_sentence_6_77082_comment'></div><div class='poemSentence' id='poem_sentence_7_77082'>从此寿千岁，一岁一登临。</div><div id='poem_sentence_7_77082_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年</a>　任建康府观察推官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年1月</a>　任建康府观察推官。正月镇淮、饮虹二桥建成，为作记。<span class='label'>作品：</span>《镇淮饮虹二桥记》<span class='inlineComment2'>（文见《景定建康志》卷十六，《全宋文》不录，暂定为《镇淮饮虹桥记》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年5月</a>　五月，范成大使金 ，丘崇论其“无益大计，徒以骄敌。”<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"015595cdc125474fa2700ea5873acfb0\");'><span id='015595cdc125474fa2700ea5873acfb0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1205')\">1204-1205年</a>，70-71岁</div><div id='015595cdc125474fa2700ea5873acfb0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年4月</a>　四月，以敷文阁学士安抚使兼行宫留守司公事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')\">1204年8月</a>　秋，杨万里来书问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　在行宫留守司公事任上，重建镇淮桥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年6月</a>　夏，友人孙应时寄书问候。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e27994af9ff74cfea717e3fcc97c9ec9\");'><span id='e27994af9ff74cfea717e3fcc97c9ec9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1208')\">1207-1208年</a>，73-74岁</div><div id='e27994af9ff74cfea717e3fcc97c9ec9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年11月</a>　十一月，以丘崇知建康府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年12月</a>　十二月，以资政殿学士安抚使兼行宫留守。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年12月</a>　重用楚州教授王遂，协助救荒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年1月</a>　正月，改除江淮制置大使兼知建康府。得上抚问。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年5月</a>　夏，得上抚问。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年6月</a>　夏，乞致仕不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年7月</a>　再辞免不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年7月16日</a>　七月十六日，拜同知枢密院事。辞免不允。<br /></div>"
+                },
+                {
+                    "Latitude": 31.038472,
+                    "Longitude": 121.233011,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN310117",
+                    "Title": "松江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"81b0785345514286bb604cc20a42e306\");'><span id='81b0785345514286bb604cc20a42e306_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>，37岁</div><div id='81b0785345514286bb604cc20a42e306' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>五月，以太常博士出知秀州华亭县。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>赴任，友人杨万里、吕祖谦、陈亮有诗文相送。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4323f6c662114e4e930caabdbdd549a9\");'><span id='4323f6c662114e4e930caabdbdd549a9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年</a>，44岁</div><div id='4323f6c662114e4e930caabdbdd549a9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年9月</a>　回程至松江，又有词。<span class='label'>作品：</span>《水调歌头》（小队拥龙节）<div id='poem_77081' class='_poem'><div id='poem_title_77081' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77081' class='poemCommentLink' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其三 </span>戊戌迓客回程至松江作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77081\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77081_comment'></div><div class='poemContent' id='poem_content_77081'><div class='poemSentence' id='poem_sentence_0_77081'>小队拥龙节，三度过鲈乡。</div><div id='poem_sentence_0_77081_comment'></div><div class='poemSentence' id='poem_sentence_1_77081'>烟波万顷，縠纹轻皱湿斜阳。</div><div id='poem_sentence_1_77081_comment'></div><div class='poemSentence' id='poem_sentence_2_77081'>何处渔舟唱晚，最是芦花风断，欸乃一声长。</div><div id='poem_sentence_2_77081_comment'></div><div class='poemSentence' id='poem_sentence_3_77081'>矫首望空阔，逸兴堕微茫。</div><div id='poem_sentence_3_77081_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77081'>笑尘缨，何日许，濯沧浪。</div><div id='poem_sentence_4_77081_comment'></div><div class='poemSentence' id='poem_sentence_5_77081'>天随甫里，相寻无处一凄凉。</div><div id='poem_sentence_5_77081_comment'></div><div class='poemSentence' id='poem_sentence_6_77081'>曾把水光山色，收入烟蓑短艇，胜世作清狂。</div><div id='poem_sentence_6_77081_comment'></div><div class='poemSentence' id='poem_sentence_7_77081'>举酒属公子，富贵未渠央。</div><div id='poem_sentence_7_77081_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.750912,
+                    "Longitude": 120.762045,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3304",
+                    "Title": "嘉兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0792f54fe9374da4b7d21fa4bb2d7838\");'><span id='0792f54fe9374da4b7d21fa4bb2d7838_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1172')\">1171-1172年</a>，37-38岁</div><div id='0792f54fe9374da4b7d21fa4bb2d7838' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年9月11日</a>　因筑海堰功，特转丘崇左承议郎，权发遣知秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年12月</a>　元夕，在嘉兴有词。<span class='label'>作品：</span>《洞仙歌》（江城梅柳）<div id='poem_77115' class='_poem'><div id='poem_title_77115' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77115' class='poemCommentLink' target='_blank'>洞仙歌<span style='margin: 0 0.5em'> 其二 </span>辛卯嘉禾元夕作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77115\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77115_comment'></div><div class='poemContent' id='poem_content_77115'><div class='poemSentence' id='poem_sentence_0_77115'>江城梅柳，惯得春先处。</div><div id='poem_sentence_0_77115_comment'></div><div class='poemSentence' id='poem_sentence_1_77115'>催趁风光上歌舞。</div><div id='poem_sentence_1_77115_comment'></div><div class='poemSentence' id='poem_sentence_2_77115'>见九衢、车马流水如龙，喧笑语，罗绮香尘载路。</div><div id='poem_sentence_2_77115_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77115'>欢娱多暇日，尊俎风流，重见承平旧官府。</div><div id='poem_sentence_3_77115_comment'></div><div class='poemSentence' id='poem_sentence_4_77115'>有多少、佳丽事，堕珥遗簪，芳径里，瑟瑟<span class='link' onclick='ShowWordComment(\"poem_sentence_4_77115\", 77115, \"Clauses/12/Comments/0\")'>珠玑</span>翠羽。</div><div id='poem_sentence_4_77115_comment'></div><div class='poemSentence' id='poem_sentence_5_77115'>好惜取、韶华醉连宵，更莫待、收灯酒阑人去。</div><div id='poem_sentence_5_77115_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年2月</a>　二月，除直秘阁。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"649aa953cd154277b72949321e6c3e19\");'><span id='649aa953cd154277b72949321e6c3e19_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1173')\">1172-1173年</a>，38-39岁</div><div id='649aa953cd154277b72949321e6c3e19' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年7月</a>　七月，以左承议郎直秘阁知平江府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年8月</a>　八月磨勘转朝奉郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年7月</a>　到任，平江府教授崔敦礼上启拜见。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　在知平江府任上，修府学，造直庐。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0d8c9928e98044ec812dbbb0b72987b4\");'><span id='0d8c9928e98044ec812dbbb0b72987b4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1185')\">1184-1185年</a>，50-51岁</div><div id='0d8c9928e98044ec812dbbb0b72987b4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')\">1184年12月</a>　十二月，进直徽猷阁、知平江府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')\">1184年</a>　冬，友人周必大又寄书问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>　知平江府，建二井亭、花月楼、丽景楼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年6月</a>　六月，与范成大有词唱和。<span class='label'>作品：</span>《满江红•和范石湖》（十载重游）《满江红》（冠盖吴中）<div id='poem_77139' class='_poem'><div id='poem_title_77139' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77139' class='poemCommentLink' target='_blank'>满江红<span style='margin: 0 0.5em'> 其三 </span>和范石湖</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77139\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77139_comment'></div><div class='poemContent' id='poem_content_77139'><div class='poemSentence' id='poem_sentence_0_77139'>十载重游，愧好在、吴中父老。</div><div id='poem_sentence_0_77139_comment'></div><div class='poemSentence' id='poem_sentence_1_77139'>官事里、空然痴绝，竟何曾了。</div><div id='poem_sentence_1_77139_comment'></div><div class='poemSentence' id='poem_sentence_2_77139'>赖有平生知己地，全胜末路依刘表。</div><div id='poem_sentence_2_77139_comment'></div><div class='poemSentence' id='poem_sentence_3_77139'>竟此身、还复雁门踦，宁论早。</div><div id='poem_sentence_3_77139_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77139'>蓬仙语，开朕兆。</div><div id='poem_sentence_4_77139_comment'></div><div class='poemSentence' id='poem_sentence_5_77139'>郇翰洒，增荣耀。</div><div id='poem_sentence_5_77139_comment'></div><div class='poemSentence' id='poem_sentence_6_77139'>倚先声风动，了然家晓。</div><div id='poem_sentence_6_77139_comment'></div><div class='poemSentence' id='poem_sentence_7_77139'>翘馆每烦尘想□，宾筵更著红妆绕。</div><div id='poem_sentence_7_77139_comment'></div><div class='poemSentence' id='poem_sentence_8_77139'>算从前、得此慰初心，于人少。</div><div id='poem_sentence_8_77139_comment'></div><div class='poemSentence' id='poem_sentence_9_77139'></div><div id='poem_sentence_9_77139_comment'></div></div></div><div id='poem_77138' class='_poem'><div id='poem_title_77138' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77138' class='poemCommentLink' target='_blank'>满江红<span style='margin: 0 0.5em'> 其四 </span>余以词为石湖寿，胡长文见和，复用韵谢之</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77138\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77138_comment'></div><div class='poemContent' id='poem_content_77138'><div class='poemSentence' id='poem_sentence_0_77138'>冠盖吴中，羡来往、风流二老。</div><div id='poem_sentence_0_77138_comment'></div><div class='poemSentence' id='poem_sentence_1_77138'>谈笑处、清风满座，倡酬不了。</div><div id='poem_sentence_1_77138_comment'></div><div class='poemSentence' id='poem_sentence_2_77138'>琪树相鲜昆阆里，玉山高并云烟表。</div><div id='poem_sentence_2_77138_comment'></div><div class='poemSentence' id='poem_sentence_3_77138'>叹□时、顿有古来无，功名早。</div><div id='poem_sentence_3_77138_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77138'>膺帝眷，符梦兆。</div><div id='poem_sentence_4_77138_comment'></div><div class='poemSentence' id='poem_sentence_5_77138'>为国镇，腾光耀。</div><div id='poem_sentence_5_77138_comment'></div><div class='poemSentence' id='poem_sentence_6_77138'>更宁容秀野，醉眠清晓。</div><div id='poem_sentence_6_77138_comment'></div><div class='poemSentence' id='poem_sentence_7_77138'>麟组已联方面重，衮衣行接天香绕。</div><div id='poem_sentence_7_77138_comment'></div><div class='poemSentence' id='poem_sentence_8_77138'>许畸人、巾履奉英游，荣多少。</div><div id='poem_sentence_8_77138_comment'></div><div class='poemSentence' id='poem_sentence_9_77138'></div><div id='poem_sentence_9_77138_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年6月</a>　夏，友人周必大再寄书问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年12月</a>　年底去任，范成大有诗相送。<br /></div>"
+                },
+                {
+                    "Latitude": 27.119751,
+                    "Longitude": 115.00027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3608",
+                    "Title": "吉安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"000a06bdf56e4f21af4960214e932b58\");'><span id='000a06bdf56e4f21af4960214e932b58_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>，43岁</div><div id='000a06bdf56e4f21af4960214e932b58' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　知吉州。<br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5a5c22dbbeef4240b4dec43527c6ea5f\");'><span id='5a5c22dbbeef4240b4dec43527c6ea5f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年</a>，44岁</div><div id='5a5c22dbbeef4240b4dec43527c6ea5f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')\">1178年9月</a>　迎接金使入淮南，有词。<span class='label'>作品：</span>《垂丝钓》（夕烽戍鼓）<div id='poem_77103' class='_poem'><div id='poem_title_77103' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77103' class='poemCommentLink' target='_blank'>垂丝钓 戊戌迓客。自入淮南，多所感怆作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77103\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77103_comment'></div><div class='poemContent' id='poem_content_77103'><div class='poemSentence' id='poem_sentence_0_77103'>夕烽戍鼓。</div><div id='poem_sentence_0_77103_comment'></div><div class='poemSentence' id='poem_sentence_1_77103'>悲凉江岸淮浦。</div><div id='poem_sentence_1_77103_comment'></div><div class='poemSentence' id='poem_sentence_2_77103'>雾隐孤城，水荒沙聚。</div><div id='poem_sentence_2_77103_comment'></div><div class='poemSentence' id='poem_sentence_3_77103'>人共语。</div><div id='poem_sentence_3_77103_comment'></div><div class='poemSentence' id='poem_sentence_4_77103'>尽向来胜处。</div><div id='poem_sentence_4_77103_comment'></div><div class='poemSentence' id='poem_sentence_5_77103'>谩怀古。</div><div id='poem_sentence_5_77103_comment'></div><div class='poemSentence' id='poem_sentence_6_77103'>问柳津花渡。</div><div id='poem_sentence_6_77103_comment'></div><br /><div class='poemSentence' id='poem_sentence_7_77103'>露桥夜月，吹箫人在何许。</div><div id='poem_sentence_7_77103_comment'></div><div class='poemSentence' id='poem_sentence_8_77103'>缭墙望篽。</div><div id='poem_sentence_8_77103_comment'></div><div class='poemSentence' id='poem_sentence_9_77103'>粉黛成黄土。</div><div id='poem_sentence_9_77103_comment'></div><div class='poemSentence' id='poem_sentence_10_77103'>惟有江东注。</div><div id='poem_sentence_10_77103_comment'></div><div class='poemSentence' id='poem_sentence_11_77103'>都无虏。</div><div id='poem_sentence_11_77103_comment'></div><div class='poemSentence' id='poem_sentence_12_77103'>似旧时得否。</div><div id='poem_sentence_12_77103_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.598428,
+                    "Longitude": 114.311831,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201",
+                    "Title": "武汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cf9f2e1aa0d14cb2bc6b32a389795fb7\");'><span id='cf9f2e1aa0d14cb2bc6b32a389795fb7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年</a>，46岁</div><div id='cf9f2e1aa0d14cb2bc6b32a389795fb7' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>起知鄂州，因职事修举除直秘阁。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在鄂州有词。<span class='label'>作品：</span>《水调歌头•鄂渚忆浮远》（彩舰驾飞鹢）《满江红》（楚甸云收）<div id='poem_77083' class='_poem'><div id='poem_title_77083' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77083' class='poemCommentLink' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其五 </span>鄂渚忆浮远</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77083\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77083_comment'></div><div class='poemContent' id='poem_content_77083'><div class='poemSentence' id='poem_sentence_0_77083'>彩舰驾飞鹢，帆影漾江乡。</div><div id='poem_sentence_0_77083_comment'></div><div class='poemSentence' id='poem_sentence_1_77083'>肥梅天气，一声横玉换新阳。</div><div id='poem_sentence_1_77083_comment'></div><div class='poemSentence' id='poem_sentence_2_77083'>惊起沙汀鸥鹭，点破暮天寒碧，极目楚天长。</div><div id='poem_sentence_2_77083_comment'></div><div class='poemSentence' id='poem_sentence_3_77083'>一抹残霞外，云断水茫茫。</div><div id='poem_sentence_3_77083_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77083'>逆清风，歌白雪，和沧浪。</div><div id='poem_sentence_4_77083_comment'></div><div class='poemSentence' id='poem_sentence_5_77083'>枕流亭馆，昔年行处半荒凉。</div><div id='poem_sentence_5_77083_comment'></div><div class='poemSentence' id='poem_sentence_6_77083'>我欲骖风游戏，收拾烟波佳景，一一付词章。</div><div id='poem_sentence_6_77083_comment'></div><div class='poemSentence' id='poem_sentence_7_77083'>闻说洞天好，何处水中央。</div><div id='poem_sentence_7_77083_comment'></div></div></div><div id='poem_77137' class='_poem'><div id='poem_title_77137' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77137' class='poemCommentLink' target='_blank'>满江红<span style='margin: 0 0.5em'> 其五 </span>渚宫怀古即事，用二干韵</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77137\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77137_comment'></div><div class='poemContent' id='poem_content_77137'><div class='poemSentence' id='poem_sentence_0_77137'>楚甸云收，歌舞地、依然江渚。</div><div id='poem_sentence_0_77137_comment'></div><div class='poemSentence' id='poem_sentence_1_77137'>嗟往事、豪华无限，梦回何许。</div><div id='poem_sentence_1_77137_comment'></div><div class='poemSentence' id='poem_sentence_2_77137'>翠被那知思玉度，绣袿谩说为行雨。</div><div id='poem_sentence_2_77137_comment'></div><div class='poemSentence' id='poem_sentence_3_77137'>悄不禁、俯仰一凄凉，成千古。</div><div id='poem_sentence_3_77137_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77137'>吴蜀会，襟喉处。</div><div id='poem_sentence_4_77137_comment'></div><div class='poemSentence' id='poem_sentence_5_77137'>据胜势，开天府。</div><div id='poem_sentence_5_77137_comment'></div><div class='poemSentence' id='poem_sentence_6_77137'>著诗书元帅，谈笑尊俎。</div><div id='poem_sentence_6_77137_comment'></div><div class='poemSentence' id='poem_sentence_7_77137'>步障月明翻鼓吹，华榱雾湿披窗户。</div><div id='poem_sentence_7_77137_comment'></div><div class='poemSentence' id='poem_sentence_8_77137'>把胜游、都与旧风光，湔尘土。</div><div id='poem_sentence_8_77137_comment'></div><div class='poemSentence' id='poem_sentence_9_77137'></div><div id='poem_sentence_9_77137_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"41b4159fc1184f07b070b7c04193828b\");'><span id='41b4159fc1184f07b070b7c04193828b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1182')\">1181-1182年</a>，47-48岁</div><div id='41b4159fc1184f07b070b7c04193828b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年</a>　以朝奉大夫直秘阁移江西转运判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年10月</a>　十月祭吕祖谦（字伯恭）<span class='label'>作品：</span>《祭吕子伯恭文》<span class='inlineComment2'>（文见吕祖谦《东莱集》附录卷二《祭文》，《全宋文》不录，暂定为《祭吕子伯恭文》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年</a>　是年，梁安世赴任桂林转运使，途径江西，有词相送。<span class='label'>作品：</span>《满江红•和梁漕次张韵》（玉宇无尘）<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年</a>　器重宋甡，与之交游，待以上客。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年9月</a>　在江西运判兼提刑任上。九月，始刻吕祖谦《吕氏家塾读诗记序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年12月5日</a>　十二月，乞将妻所封回授其母。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c30af8c522b1459e8f2dd7a4eecb30a8\");'><span id='c30af8c522b1459e8f2dd7a4eecb30a8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1184')\">1183-1184年</a>，49-50岁</div><div id='c30af8c522b1459e8f2dd7a4eecb30a8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')\">1183年7月</a>　七月，以朝奉大夫、直秘阁、提点浙东刑狱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')\">1183年</a>　杨万里族弟、词人杨炎正来谒，杨万里有诗  寄予问候。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')\">1184年</a>　提点浙东刑狱。议亩头均科之说至公至平。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"09cd0905001c4c0180d2ebec62016aef\");'><span id='09cd0905001c4c0180d2ebec62016aef_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年</a>，52岁</div><div id='09cd0905001c4c0180d2ebec62016aef' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>升直龙图阁、移帅绍兴府。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>杨万里来访，有诗唱和。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b8e6406768554b5489fb90325a632188\");'><span id='b8e6406768554b5489fb90325a632188_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年</a>，69岁</div><div id='b8e6406768554b5489fb90325a632188' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年8月</a>　秋到绍兴府，拜会知绍兴府兼浙东安抚使辛弃疾，与辛弃疾、姜夔等相唱合。<span class='label'>作品：</span>《汉宫春》（闻说瓢泉）<div id='poem_77087' class='_poem'><div id='poem_title_77087' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77087' class='poemCommentLink' target='_blank'>汉宫春<span style='margin: 0 0.5em'> 其二 </span>和辛幼安秋风亭韵，癸亥中秋前二日</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77087\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77087_comment'></div><div class='poemContent' id='poem_content_77087'><div class='poemSentence' id='poem_sentence_0_77087'>闻说瓢泉，占烟霏空翠，中著精庐。</div><div id='poem_sentence_0_77087_comment'></div><div class='poemSentence' id='poem_sentence_1_77087'>旁连吹台燕榭，人境清殊。</div><div id='poem_sentence_1_77087_comment'></div><div class='poemSentence' id='poem_sentence_2_77087'>犹疑未足，称主人、胸次恢疏。</div><div id='poem_sentence_2_77087_comment'></div><div class='poemSentence' id='poem_sentence_3_77087'>天自与，相攸佳处，除今禹会应无。</div><div id='poem_sentence_3_77087_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77087'>选胜卧龙东畔，望蓬莱对起，岩壑屏如。</div><div id='poem_sentence_4_77087_comment'></div><div class='poemSentence' id='poem_sentence_5_77087'>秋风夜凉弄笛，明月邀予。</div><div id='poem_sentence_5_77087_comment'></div><div class='poemSentence' id='poem_sentence_6_77087'>三英笑粲，更吴天、不隔莼鲈。</div><div id='poem_sentence_6_77087_comment'></div><div class='poemSentence' id='poem_sentence_7_77087'>新度曲，银钩照眼，争看阿素工书。</div><div id='poem_sentence_7_77087_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 39.911013,
+                    "Longitude": 116.413554,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN11",
+                    "Title": "北京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8d9e2cac163542548ebc1e4863836139\");'><span id='8d9e2cac163542548ebc1e4863836139_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年</a>，56岁</div><div id='8d9e2cac163542548ebc1e4863836139' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年8月</a>　此行有使北诗，杨万里跋以长句。<br /></div>"
+                },
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"18aafa6505754491ab0d5b9159752c0d\");'><span id='18aafa6505754491ab0d5b9159752c0d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1194')\">1192-1194年</a>，58-60岁</div><div id='18aafa6505754491ab0d5b9159752c0d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年5月5日</a>　五月端午日，辟严州遂安县令孙应时入制幕，为职事官，应时回书欣允并致谢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年7月</a>　秋七月，泸州军乱，帅臣张孝芳被杀，丘崇奏赠张孝芳官，又奏罢王齐舆等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年8月</a>　秋，又辟王君保入制幕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年9月</a>　在成都，请幕僚孙应时代回启知兴元府宇文价。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')\">1192年12月</a>　十二月，诏罢王齐舆等，系制置使丘崇奏劾。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')\">1193年4月</a>　在四川安抚制置使兼知成都府任上。四月，奏罢王朴、施次尹等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')\">1193年5月</a>　五月，利州安抚使吴挺卒，丘崇承制，以总领财赋杨辅权安抚使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')\">1193年8月</a>　八月，奏罢喻文然。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年2月</a>　在四川安抚制置使兼知成都府任上，奏罢王公沂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年4月</a>　春，幕僚孙应时念亲请先行出蜀。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年</a>　蜀期间，还奏罢知成都府郫县郭公谟、知叙州庆符县魏良忠、录事参军史定之等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年</a>　在蜀有词。<span class='label'>作品：</span>《扑蝴蝶•蜀中作》（鸣鸠乳燕）《夜行船•和成都王漕巽泽》（飞舄朝天云作路）《祝英台•成都牡丹会》（聚春工）<div id='poem_77086' class='_poem'><div id='poem_title_77086' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77086' class='poemCommentLink' target='_blank'>扑蝴蝶 蜀中作</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77086\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77086_comment'></div><div class='poemContent' id='poem_content_77086'><div class='poemSentence' id='poem_sentence_0_77086'>鸣鸠乳燕。</div><div id='poem_sentence_0_77086_comment'></div><div class='poemSentence' id='poem_sentence_1_77086'>春在梨花院。</div><div id='poem_sentence_1_77086_comment'></div><div class='poemSentence' id='poem_sentence_2_77086'>重门镇掩。</div><div id='poem_sentence_2_77086_comment'></div><div class='poemSentence' id='poem_sentence_3_77086'>沈沈帘不卷。</div><div id='poem_sentence_3_77086_comment'></div><div class='poemSentence' id='poem_sentence_4_77086'>纱窗红日三竿，睡鸭馀香一线。</div><div id='poem_sentence_4_77086_comment'></div><div class='poemSentence' id='poem_sentence_5_77086'>佳眠悄无人唤。</div><div id='poem_sentence_5_77086_comment'></div><br /><div class='poemSentence' id='poem_sentence_6_77086'>谩消遣。</div><div id='poem_sentence_6_77086_comment'></div><div class='poemSentence' id='poem_sentence_7_77086'>行云无定，楚雨难凭梦魂断。</div><div id='poem_sentence_7_77086_comment'></div><div class='poemSentence' id='poem_sentence_8_77086'>清明渐近，天涯人正远。</div><div id='poem_sentence_8_77086_comment'></div><div class='poemSentence' id='poem_sentence_9_77086'>尽教闲了秋千，觑著海棠开遍。</div><div id='poem_sentence_9_77086_comment'></div><div class='poemSentence' id='poem_sentence_10_77086'>难禁旧愁新怨。</div><div id='poem_sentence_10_77086_comment'></div></div></div><div id='poem_77105' class='_poem'><div id='poem_title_77105' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77105' class='poemCommentLink' target='_blank'>夜行船<span style='margin: 0 0.5em'> 其三 </span>和成都王漕巽泽</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77105\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77105_comment'></div><div class='poemContent' id='poem_content_77105'><div class='poemSentence' id='poem_sentence_0_77105'>飞舄朝天云作路。</div><div id='poem_sentence_0_77105_comment'></div><div class='poemSentence' id='poem_sentence_1_77105'>长安近、更无程数。</div><div id='poem_sentence_1_77105_comment'></div><div class='poemSentence' id='poem_sentence_2_77105'>梧竹当年，丝纶弈世，咫尺凤池平渡。</div><div id='poem_sentence_2_77105_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77105'>青眼相逢何太暮。</div><div id='poem_sentence_3_77105_comment'></div><div class='poemSentence' id='poem_sentence_4_77105'>眉黄透、却愁君去。</div><div id='poem_sentence_4_77105_comment'></div><div class='poemSentence' id='poem_sentence_5_77105'>官事无多，丰年有暇，莫负赏心佳处。</div><div id='poem_sentence_5_77105_comment'></div></div></div><div id='poem_77119' class='_poem'><div id='poem_title_77119' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77119' class='poemCommentLink' target='_blank'>祝英台/祝英台近 成都牡丹会</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77119\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77119_comment'></div><div class='poemContent' id='poem_content_77119'><div class='poemSentence' id='poem_sentence_0_77119'>聚春工，开绝艳，天巧信无比。</div><div id='poem_sentence_0_77119_comment'></div><div class='poemSentence' id='poem_sentence_1_77119'>旧日京华，应也只如此。</div><div id='poem_sentence_1_77119_comment'></div><div class='poemSentence' id='poem_sentence_2_77119'>等闲一尺娇红，燕脂微点，宛然印、昭阳玉指。</div><div id='poem_sentence_2_77119_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_77119'>最好是。</div><div id='poem_sentence_3_77119_comment'></div><div class='poemSentence' id='poem_sentence_4_77119'>乐岁台府官闲，风流剩欢意。</div><div id='poem_sentence_4_77119_comment'></div><div class='poemSentence' id='poem_sentence_5_77119'>痛饮连宵，花也为人醉。</div><div id='poem_sentence_5_77119_comment'></div><div class='poemSentence' id='poem_sentence_6_77119'>可堪银烛烧残，红妆归去，任春在、宝钗云髻。</div><div id='poem_sentence_6_77119_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年9月28日</a>　九月，由中大夫、焕章阁直学士、知成都府，降充焕章阁直学士放罢。<br /></div>"
+                },
+                {
+                    "Latitude": 30.042849,
+                    "Longitude": 121.160934,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330281",
+                    "Title": "余姚",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d2ef5856302642aea5821fafa796c393\");'><span id='d2ef5856302642aea5821fafa796c393_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年</a>，69岁</div><div id='d2ef5856302642aea5821fafa796c393' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年4月</a>　过余姚，友人孙应时乘舟迎拜于上虞、余姚之间。<br /></div>"
+                },
+                {
+                    "Latitude": 29.880177,
+                    "Longitude": 121.556686,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3302",
+                    "Title": "宁波",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2099552eaf514c82845077f070711535\");'><span id='2099552eaf514c82845077f070711535_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年</a>，69岁</div><div id='2099552eaf514c82845077f070711535' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年4月</a>　到庆元府任上。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7cf5b9ee85084c31b994d423a1542873\");'><span id='7cf5b9ee85084c31b994d423a1542873_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年</a>，69岁</div><div id='7cf5b9ee85084c31b994d423a1542873' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')\">1203年9月9日</a>　九月重阳，有词。<span class='label'>作品：</span>《满江红》（平楚苍然）<div id='poem_77141' class='_poem'><div id='poem_title_77141' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=77141' class='poemCommentLink' target='_blank'>满江红<span style='margin: 0 0.5em'> 其六 </span>癸亥九日</a><a href='javascript: ShowPoemAuthorProfile(25145, \"宋\", \"丘崇\", \"poem_title_77141\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>丘崇</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_77141_comment'></div><div class='poemContent' id='poem_content_77141'><div class='poemSentence' id='poem_sentence_0_77141'>平楚苍然，烟霭外、飞鸿冥灭。</div><div id='poem_sentence_0_77141_comment'></div><div class='poemSentence' id='poem_sentence_1_77141'>身老矣、登临感慨，几时当彻。</div><div id='poem_sentence_1_77141_comment'></div><div class='poemSentence' id='poem_sentence_2_77141'>痛饮从教吹帽落，悲歌莫击壶边缺。</div><div id='poem_sentence_2_77141_comment'></div><div class='poemSentence' id='poem_sentence_3_77141'>算人生、任运复何为，伤情切。</div><div id='poem_sentence_3_77141_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_77141'>功名事，休谩说。</div><div id='poem_sentence_4_77141_comment'></div><div class='poemSentence' id='poem_sentence_5_77141'>渠有命，谁工拙。</div><div id='poem_sentence_5_77141_comment'></div><div class='poemSentence' id='poem_sentence_6_77141'>且随宜斗健，强酬佳节。</div><div id='poem_sentence_6_77141_comment'></div><div class='poemSentence' id='poem_sentence_7_77141'>九节从今知几度，试看镜里头如雪。</div><div id='poem_sentence_7_77141_comment'></div><div class='poemSentence' id='poem_sentence_8_77141'>向醉中、赢取万缘空，真蝉脱。</div><div id='poem_sentence_8_77141_comment'></div><div class='poemSentence' id='poem_sentence_9_77141'></div><div id='poem_sentence_9_77141_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"00944e946d6d4f1883c9a4d221d5cc04\");'><span id='00944e946d6d4f1883c9a4d221d5cc04_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年</a>，72岁</div><div id='00944e946d6d4f1883c9a4d221d5cc04' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年6月</a>　六月，宣抚两淮、迁刑部尚书。辞免不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年11月</a>　十一月，命丘崇督视江淮军马，除签书枢密院事。辞免不允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年12月</a>　十二月，奏劾罢郭倪。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "丘崇 <span class='inlineComment2'>(1135-1208)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王可喜《南宋词人丘崇年谱》　录入整理：王可喜</p><p><a href=\"javascript: ViewRoute(0, 5, 119.54743, 31.172397, 10, 0)\">1-37岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(3, 0)\">南京</a> → <a href=\"javascript: ViewPoint(4, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(5, 13, 118.1166405, 30.3680115, 8, 0)\">37-44岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">松江</a> → <a href=\"javascript: ViewPoint(6, 0)\">嘉兴</a> → <a href=\"javascript: ViewPoint(7, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(8, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(9, 0)\">吉安</a> → <a href=\"javascript: ViewPoint(10, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(11, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(12, 0)\">松江</a></p><p><a href=\"javascript: ViewRoute(13, 17, 117.449252, 30.3067325, 8, 0)\">45-50岁</a><br /><a href=\"javascript: ViewPoint(13, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(14, 0)\">武汉</a> → <a href=\"javascript: ViewPoint(15, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(16, 0)\">绍兴</a></p><p><a href=\"javascript: ViewRoute(17, 22, 120.375653, 30.9811545, 9, 0)\">50-56岁</a><br /><a href=\"javascript: ViewPoint(17, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(18, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(19, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(20, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(21, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(22, 28, 112.813951, 34.895595, 7, 0)\">56-69岁</a><br /><a href=\"javascript: ViewPoint(22, 0)\">北京</a> → <a href=\"javascript: ViewPoint(23, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(24, 0)\">成都</a> → <a href=\"javascript: ViewPoint(25, 0)\">江阴</a> → <a href=\"javascript: ViewPoint(26, 0)\">余姚</a> → <a href=\"javascript: ViewPoint(27, 0)\">宁波</a></p><p><a href=\"javascript: ViewRoute(28, 33, 120.1797885, 31.1400185, 9, 0)\">69-73岁</a><br /><a href=\"javascript: ViewPoint(28, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(29, 0)\">宁波</a> → <a href=\"javascript: ViewPoint(30, 0)\">南京</a> → <a href=\"javascript: ViewPoint(31, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(32, 0)\">江阴</a></p><p><a href=\"javascript: ViewRoute(33, 35, 119.54743, 31.9952625, 10, 0)\">73-74岁</a><br /><a href=\"javascript: ViewPoint(33, 0)\">南京</a> → <a href=\"javascript: ViewPoint(34, 0)\">江阴</a></p>"
+        }
+    ]
+}

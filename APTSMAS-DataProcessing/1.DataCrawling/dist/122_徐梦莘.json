@@ -1,0 +1,280 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 29.193583,
+            "CenterLongitude": 114.797997,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "0e09ec2d28614809a7edb8e08c7ff6e0",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "be48b9dcac16440286e126e30f14519f",
+                            "Latitude": 24.748055,
+                            "Longitude": 114.536702,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360729",
+                            "Title": "全南"
+                        },
+                        {
+                            "Id": "52e58dedb8c44e79a07585cd2c3819f5",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "4647f905735f4cb4bf04987d522c6b07",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "4d1f24393f0143e29e8bf84c2dd5fa93",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "4233568533d9480e96a1474872f99f63",
+                            "Latitude": 22.660656,
+                            "Longitude": 110.18743,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4509",
+                            "Title": "玉林"
+                        },
+                        {
+                            "Id": "59e7ff37fc3d4064ba16fe0fbd985ae5",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "fc7c2a789a624c06a65e41dcc44c0e40",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "2ac6af164edd45c2840a0a78d726b9e8",
+                            "Latitude": 25.407817,
+                            "Longitude": 114.368357,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360723",
+                            "Title": "大余"
+                        },
+                        {
+                            "Id": "65429e298f684225a828c006ad31e3a4",
+                            "Latitude": 28.695538,
+                            "Longitude": 112.915606,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430624",
+                            "Title": "湘阴"
+                        },
+                        {
+                            "Id": "5988718b3a324884b3d24cba3aedd0fb",
+                            "Latitude": 25.279893,
+                            "Longitude": 110.296442,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4503",
+                            "Title": "桂林"
+                        },
+                        {
+                            "Id": "7d05a2112a6042ab9dd4241f67b4c7ea",
+                            "Latitude": 23.421451,
+                            "Longitude": 111.253949,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN450421",
+                            "Title": "苍梧"
+                        },
+                        {
+                            "Id": "2087c167687f4dc090dbc02772fb7832",
+                            "Latitude": 23.223686,
+                            "Longitude": 108.816801,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN450126",
+                            "Title": "宾阳"
+                        },
+                        {
+                            "Id": "532de39ca47c474aafef15b417adf4a4",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "8189d39eb1b74423be5e2526cb61bdb5",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "116b68747dca493e88788eee56fec507",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 29.193583,
+                    "Longitude": 114.797997,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360423207",
+                    "Title": "清江 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0e09ec2d28614809a7edb8e08c7ff6e0\");'><span id='0e09ec2d28614809a7edb8e08c7ff6e0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1128')\">1126-1128年</a>，1-3岁</div><div id='0e09ec2d28614809a7edb8e08c7ff6e0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1128')\">1126-1128年</a>　在家乡清江家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"52e58dedb8c44e79a07585cd2c3819f5\");'><span id='52e58dedb8c44e79a07585cd2c3819f5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1153')\">1130-1153年</a>，5-28岁</div><div id='52e58dedb8c44e79a07585cd2c3819f5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1134')\">1130-1134年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　痛感靖康之祸的惨烈，立志撰写史书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1141')\">1136-1141年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　读书作文;表弟彭龟年生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1153')\">1143-1153年</a>　不详。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4d1f24393f0143e29e8bf84c2dd5fa93\");'><span id='4d1f24393f0143e29e8bf84c2dd5fa93_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1156')\">1154-1156年</a>，29-31岁</div><div id='4d1f24393f0143e29e8bf84c2dd5fa93' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年</a>　以父去世，未上任而奔丧归家乡清江。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　在家乡清江守墓。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')\">1156年</a>　在家乡清江庐墓第三年。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"59e7ff37fc3d4064ba16fe0fbd985ae5\");'><span id='59e7ff37fc3d4064ba16fe0fbd985ae5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1159')\">1157-1159年</a>，32-34岁</div><div id='59e7ff37fc3d4064ba16fe0fbd985ae5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年</a>　因母亲去世而奔丧归家乡清江。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　在家乡清江守墓。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　在家乡清江庐墓第三年;表弟彭龟年荐于乡，三预计偕。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"532de39ca47c474aafef15b417adf4a4\");'><span id='532de39ca47c474aafef15b417adf4a4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1189')\">1184-1189年</a>，59-64岁</div><div id='532de39ca47c474aafef15b417adf4a4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')\">1184年</a>　弟徐得之、侄徐筠同中进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>　闲居清江，著述自娱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年</a>　夫人鄢氏卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1189')\">1187-1189年</a>　闲居清江，著述自娱。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"116b68747dca493e88788eee56fec507\");'><span id='116b68747dca493e88788eee56fec507_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1208')\">1196-1208年</a>，71-卒后1年</div><div id='116b68747dca493e88788eee56fec507' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')\">1196年11月</a>　除直秘阁，盖属异恩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1198')\">1197-1198年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>　春日，创儒荣堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')\">1200年</a>　赐紫衣金鱼;长侄徐筠出宰分宁。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')\">1201年2月15日</a>　二侄徐天麟著《汉兵本末》一卷，二月十五日，友人周必大为之序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')\">1202年12月</a>　冬，友人陆游为其儒荣堂作诗。<span class='label'>作品：</span>《寄题儒荣堂》<span class='inlineComment2'>（宋·陆游《剑南诗稿》卷五二。）</span><div id='poem_149000' class='_poem'><div id='poem_title_149000' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=149000' class='poemCommentLink' target='_blank'>寄题儒荣堂<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(34522, \"宋\", \"陆游\", \"poem_title_149000\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>陆游</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_149000_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_149000_0'>① 朝散大夫徐梦莘著《北盟录》，上之，除直秘阁，训辞有“儒荣”之语，因以名堂，来求赋诗</div></div></div><div class='poemContent' id='poem_content_149000'><div class='poemSentence' id='poem_sentence_0_149000'>军容基祸庙谋疏，尚记文登遣使初。</div><div id='poem_sentence_0_149000_comment'></div><div class='poemSentence' id='poem_sentence_1_149000'>只道大功随指顾，至今遗种费诛锄。</div><div id='poem_sentence_1_149000_comment'></div><div class='poemSentence' id='poem_sentence_2_149000'>还朝不遣参麟笔，寓直空闻上石渠。</div><div id='poem_sentence_2_149000_comment'></div><div class='poemSentence' id='poem_sentence_3_149000'>剩办杀青君记取，龙庭焚尽始成书。</div><div id='poem_sentence_3_149000_comment'></div><div class='poemSentence' id='poem_sentence_4_149000'></div><div id='poem_sentence_4_149000_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1204')\">1203-1204年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')\">1205年</a>　春，二侄徐天麟举进士第;亲党为贺八十寿庆。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年3月23日</a>　三月二十三日，表弟彭龟年卒于家乡清江。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')\">1207年8月21日</a>　八月二十一日，卒于家乡清江。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年11月</a>　十一月，葬清江县修德乡古牛冈之原，弟徐得之状其行。<br /></div>"
+                },
+                {
+                    "Latitude": 24.748055,
+                    "Longitude": 114.536702,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360729",
+                    "Title": "全南",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"be48b9dcac16440286e126e30f14519f\");'><span id='be48b9dcac16440286e126e30f14519f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>，4岁</div><div id='be48b9dcac16440286e126e30f14519f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年11月13日</a>　十一月十三日，金人攻陷临江军，母负襁褓走陂头刘家。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4647f905735f4cb4bf04987d522c6b07\");'><span id='4647f905735f4cb4bf04987d522c6b07_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年</a>，29岁</div><div id='4647f905735f4cb4bf04987d522c6b07' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年3月</a>　三月，中张孝祥榜进士第;授洪州新建县尉。<br /></div>"
+                },
+                {
+                    "Latitude": 22.660656,
+                    "Longitude": 110.18743,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4509",
+                    "Title": "玉林",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4233568533d9480e96a1474872f99f63\");'><span id='4233568533d9480e96a1474872f99f63_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年</a>，32岁</div><div id='4233568533d9480e96a1474872f99f63' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年</a>　服除，调郁林州司户参军。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fc7c2a789a624c06a65e41dcc44c0e40\");'><span id='fc7c2a789a624c06a65e41dcc44c0e40_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1162')\">1160-1162年</a>，35-37岁</div><div id='fc7c2a789a624c06a65e41dcc44c0e40' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　服除，被任命为江陵府司户。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　任江陵府司户。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　江陵府司户任满，关升左从政郎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8189d39eb1b74423be5e2526cb61bdb5\");'><span id='8189d39eb1b74423be5e2526cb61bdb5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1195')\">1190-1195年</a>，65-70岁</div><div id='8189d39eb1b74423be5e2526cb61bdb5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年</a>　因杨万里推荐，任荆湖北路安抚司参议官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1193')\">1191-1193年</a>　为荆湖北路安抚司参议官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年12月8日</a>　十二月八日《三朝北盟会编》成，自为序。<span class='label'>作品：</span>《三朝北盟会编序》<span class='inlineComment2'>（宋·徐梦莘《三朝北盟会编》卷首。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')\">1194年12月</a>　十二月，表弟彭龟年除知江陵府，遂上乞致仕之章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年3月</a>　暮春，乞求致仕之命下，即日东归。<br /></div>"
+                },
+                {
+                    "Latitude": 25.407817,
+                    "Longitude": 114.368357,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360723",
+                    "Title": "大余",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2ac6af164edd45c2840a0a78d726b9e8\");'><span id='2ac6af164edd45c2840a0a78d726b9e8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1173')\">1168-1173年</a>，43-48岁</div><div id='2ac6af164edd45c2840a0a78d726b9e8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年</a>　任南安军教授。<span class='label'>作品：</span>《云汉阁记》<span class='inlineComment2'>（宋·楼钥《直秘阁徐公墓志铭》原作已佚;王德毅误作“四十二岁”）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年</a>　任南安军教授;表弟彭龟年举进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1173')\">1170-1173年</a>　任南安军教授。<br /></div>"
+                },
+                {
+                    "Latitude": 28.695538,
+                    "Longitude": 112.915606,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430624",
+                    "Title": "湘阴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"65429e298f684225a828c006ad31e3a4\");'><span id='65429e298f684225a828c006ad31e3a4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1179')\">1174-1179年</a>，49-54岁</div><div id='65429e298f684225a828c006ad31e3a4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>　以举者荐，改宣教郎、知湘阴县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1179')\">1175-1179年</a>　知湘阴县。<br /></div>"
+                },
+                {
+                    "Latitude": 25.279893,
+                    "Longitude": 110.296442,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4503",
+                    "Title": "桂林",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5988718b3a324884b3d24cba3aedd0fb\");'><span id='5988718b3a324884b3d24cba3aedd0fb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1181')\">1180-1181年</a>，55-56岁</div><div id='5988718b3a324884b3d24cba3aedd0fb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')\">1180年</a>　除广南西路转运司主管文字，赐绯衣银鱼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年5月</a>　夏至，游弹子岩，友人梁安世有题名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年6月15日</a>　六月，游潜洞，友人王卿月有题名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年8月</a>　初秋，游冷水岩，友人梁安世有题名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年8月15日</a>　中秋，讲乡会于湘南楼，过弹子岩题名。<span class='label'>作品：</span>《与乡人宴集岩中作》<span class='inlineComment2'>（明·张鸣凤《桂胜》卷二。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 23.421451,
+                    "Longitude": 111.253949,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN450421",
+                    "Title": "苍梧",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7d05a2112a6042ab9dd4241f67b4c7ea\");'><span id='7d05a2112a6042ab9dd4241f67b4c7ea_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年</a>，57岁</div><div id='7d05a2112a6042ab9dd4241f67b4c7ea' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年2月</a>　二月，应邀至苍梧会所参与集议两广盐法。<br /></div>"
+                },
+                {
+                    "Latitude": 23.223686,
+                    "Longitude": 108.816801,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN450126",
+                    "Title": "宾阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2087c167687f4dc090dbc02772fb7832\");'><span id='2087c167687f4dc090dbc02772fb7832_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')\">1183年</a>，58岁</div><div id='2087c167687f4dc090dbc02772fb7832' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>以议与胡庭直不合，诸司辟改知宾州。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>知宾州未几，以朝散大夫致仕。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "徐梦莘 <span class='inlineComment2'>(1126-1207)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王德毅《徐梦莘年表》、明·张鸣凤《桂故》、明·张鸣凤《桂胜》　录入整理：朱光立</p><p><a href=\"javascript: ViewRoute(0, 5, 117.3491975, 27.514057, 8, 0)\">1-31岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">清江</a> → <a href=\"javascript: ViewPoint(1, 0)\">全南</a> → <a href=\"javascript: ViewPoint(2, 0)\">清江</a> → <a href=\"javascript: ViewPoint(3, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(4, 0)\">清江</a></p><p><a href=\"javascript: ViewRoute(5, 14, 111.807399, 26.3543675, 8, 0)\">32-64岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">玉林</a> → <a href=\"javascript: ViewPoint(6, 0)\">清江</a> → <a href=\"javascript: ViewPoint(7, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(8, 0)\">大余</a> → <a href=\"javascript: ViewPoint(9, 0)\">湘阴</a> → <a href=\"javascript: ViewPoint(10, 0)\">桂林</a> → <a href=\"javascript: ViewPoint(11, 0)\">苍梧</a> → <a href=\"javascript: ViewPoint(12, 0)\">宾阳</a> → <a href=\"javascript: ViewPoint(13, 0)\">清江</a></p><p><a href=\"javascript: ViewRoute(14, 16, 113.614575, 29.620831, 9, 0)\">65-卒后1年</a><br /><a href=\"javascript: ViewPoint(14, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(15, 0)\">清江</a></p>"
+        }
+    ]
+}

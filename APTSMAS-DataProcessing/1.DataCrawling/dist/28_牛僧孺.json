@@ -1,0 +1,320 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 34.347436,
+            "CenterLongitude": 108.946306,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "1c0ca6d9d1ac493eb30722bf43661ac4",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "235370c7fa5e45329b23a6a4b2919c71",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "f43e2e71ac3746928d3f414c19dd480b",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "8f9a7a2357cf47568558a275812beb90",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "fde18ecd5c0f41ebba19bd912d7ab3c1",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "f2ed2060ac92483787dbacdde9d8c088",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "ca3403ddc72c4dd39a12242484a88232",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "7125d1a1207641549d3f8aa6e5209220",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "04236ff903b644c7889ce36069fece35",
+                            "Latitude": 30.598428,
+                            "Longitude": 114.311831,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4201",
+                            "Title": "武汉"
+                        },
+                        {
+                            "Id": "092fc602453d406d9e5bca4a93a61667",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "537bfeadb1e846d5a03cf99479fdc014",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "a8cae14ed9614dd5b4b90b3592c17223",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "8d8e1d0547b742898efe96bb7e6d0a0d",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "15ded37738a24e75a321102de1b3675c",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "1d3fb19fb3b44df19e7e6311d4fff5f7",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "d56b1e179752445895746624e5a86ebb",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "f3f203a9b1ef40aeaae354525264c6fa",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "7f5489edd3f64d12ac5f8a6fbc47361b",
+                            "Latitude": 23.116409,
+                            "Longitude": 114.423348,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4413",
+                            "Title": "惠州"
+                        },
+                        {
+                            "Id": "6adbab719a024293bdbc8747f40af5a5",
+                            "Latitude": 26.899517,
+                            "Longitude": 112.578397,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4304",
+                            "Title": "衡阳"
+                        },
+                        {
+                            "Id": "d91b5770fa4243ea9646fe5b7babcbbc",
+                            "Latitude": 34.26471,
+                            "Longitude": 112.610147,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410482103",
+                            "Title": "临汝"
+                        },
+                        {
+                            "Id": "43fde6b2136642d48ec1c62f6a0df1b4",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "08a0944275e14b4693c0decc75de84ea",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1c0ca6d9d1ac493eb30722bf43661ac4\");'><span id='1c0ca6d9d1ac493eb30722bf43661ac4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=780&endYear=799')\">780-799年</a>，1-20岁</div><div id='1c0ca6d9d1ac493eb30722bf43661ac4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=780&endYear=780')\">780年</a>　牛僧孺生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=781&endYear=785')\">781-785年</a>　疑居京。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=794&endYear=794')\">794年</a>　依外族周氏，本年回到樊川祖居，开始攻读先人遗书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=795&endYear=798')\">795-798年</a>　居樊川肄习学业。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=799&endYear=799')\">799年</a>　居樊川肄习学业，经过四五年，学业大进，成为京师一带著名青年学者。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f43e2e71ac3746928d3f414c19dd480b\");'><span id='f43e2e71ac3746928d3f414c19dd480b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=806')\">802-806年</a>，23-27岁</div><div id='f43e2e71ac3746928d3f414c19dd480b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　约于本年赴京拜谒韩愈、皇甫湜，并行卷，受到二人奖誉。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年</a>　与刘禹锡相识，有“地瘦草丛短”诗句。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=804&endYear=804')\">804年</a>　继续在长安一带拜谒名流，行卷投献。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　本年春，韦执谊命刘禹锡、柳宗元访牛僧孺于樊川，受到韦的奖掖。三月，牛僧孺与沈传师、李宗闵、杨嗣复等同登进士科。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=806&endYear=806')\">806年</a>　约于本年春，在长安结识白居易。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fde18ecd5c0f41ebba19bd912d7ab3c1\");'><span id='fde18ecd5c0f41ebba19bd912d7ab3c1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>，29岁</div><div id='fde18ecd5c0f41ebba19bd912d7ab3c1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年3月</a>　三月，诏举贤良方正能直言极谏科，牛僧孺与皇甫湜、李宗闵等同登第，三人直陈时政，得罪权贵。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ca3403ddc72c4dd39a12242484a88232\");'><span id='ca3403ddc72c4dd39a12242484a88232_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=814&endYear=825')\">814-825年</a>，35-46岁</div><div id='ca3403ddc72c4dd39a12242484a88232' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=814&endYear=814')\">814年</a>　本年底或明年春，牛僧孺由河南尉入朝为监察御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=815&endYear=816')\">815-816年</a>　丁母忧，守制。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>　服除，复除监察御史，寻转殿中侍御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=818&endYear=818')\">818年</a>　于本年迁礼部员外郎，转都官员外郎兼侍御史知杂事。本年白居易在江州司马任，有诗寄牛僧孺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=819&endYear=819')\">819年</a>　于本年改考功员外郎，充集贤殿直学士。本年春，白居易由江州抵达忠州刺史任，与牛僧孺有诗往来。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=820&endYear=820')\">820年</a>　夏五月，由丞相段文昌援引，牛僧孺迁库部郎中、知制诰。冬十二月，解知制诰，迁御史中丞。十二月，岳父辛秘卒，牛僧孺撰写碑文。<span class='label'>作品：</span>《昭义军节度使辛公神道碑》<span class='inlineComment2'>（《昭义军节度使辛公神道碑》见于《全唐文》卷六八二。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')\">821年</a>　五月，鉴于刑狱淹滞，牛僧孺奏请决狱程限。十月，牛僧孺审理宿州刺史李直臣赃罪，执法不阿。十月十日，牛僧孺随同宰相、右仆射、六曹尚书等与吐蕃会盟于长安西郊。牛僧孺举荐宋申锡、张彻为御史中丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=822&endYear=822')\">822年</a>　正月十四日后，牛僧孺由御史中丞拜户部侍郎。十月，由于拒绝韩公武行贿，受穆宗赞赏。十月，题写韩愈《溪堂诗》碑文。十二月，宰相李逢吉奏请立景王湛为太子，牛僧孺持异议。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=823&endYear=823')\">823年3月</a>　三月，牛僧孺拜相。十月庚寅，牛僧孺进位中书侍郎。十月后为山南西道节度使韦绶撰写碑文。冬，牛僧孺阻止李逢吉陷害杜元颍。本年，居住长安新昌里。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年</a>　正月壬申穆宗卒，敬宗即位。四月，牛僧孺封奇章县子。十二月，牛僧孺进封奇章郡公，除银青光禄大夫、守中书侍郎、同中书门下平章事、兼集贤殿大学士、监修国史。本年，白居易罢杭州刺史，以太子左庶子召还，有诗寄宰相牛僧孺求分司东都，于是得遂所请，留居洛阳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>　敬宗即位后沉迷淫乐，李逢吉、王守澄等把持朝政。牛僧孺不愿同流合污，累请罢相。正月乙卯，牛僧孺检校礼部尚书，同中书门下平章事，出为武昌军节度使。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"092fc602453d406d9e5bca4a93a61667\");'><span id='092fc602453d406d9e5bca4a93a61667_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=832')\">830-832年</a>，51-53岁</div><div id='092fc602453d406d9e5bca4a93a61667' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　正月辛卯，牛僧孺拜相。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年三月，文宗令改修韩愈《顺宗实录》“说禁中事颇切直”的内容，于此事，牛僧孺、李宗闵、路隋等取推诿态度。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年，杜牧在江西观察使沈传师幕中，有诗寄牛僧孺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年，牛僧孺为王播撰写墓志。<span class='label'>作品：</span>《唐太尉王播墓志》<span class='inlineComment2'>（牛僧孺撰《唐太尉王播墓志》，见于《宝刻丛编》卷十与卷四。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年初，牛僧孺编录《玄怪录·张老》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=831&endYear=831')\">831年</a>　正月，幽州军乱，副兵马使杨志诚自立为留后，文宗采纳牛僧孺扶绥政策的建议，以杨志诚为卢龙节度使。三月，牛僧孺加中书侍郎，弘文馆大学士。二月，申锡被郑注与王守澄等诬陷谋立漳王，赖牛僧孺等人救助，申锡免死被贬开州司马。本年秋，因处理吐蕃维州守将悉怛请降事，发生了牛僧孺与李德裕之间的“维州公案”。本年，牛僧孺撰《普宁郡王陈府君碑》<span class='label'>作品：</span>《普宁郡王陈府君碑》<span class='inlineComment2'>（牛僧孺撰《普宁郡王陈府君碑》，见《宝刻丛编》卷五。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=832&endYear=832')\">832年</a>　十一月，宦官王践言受李德裕贿，屡谗牛僧孺，文宗因此认为牛僧孺处理维州事失策。文宗求致“太平”之策，牛僧孺对以“太平无象”之论，颇失文宗之望。于是，牛僧孺累求表罢。十二月，牛僧孺罢相，出镇淮南。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"15ded37738a24e75a321102de1b3675c\");'><span id='15ded37738a24e75a321102de1b3675c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=839')\">838-839年</a>，59-60岁</div><div id='15ded37738a24e75a321102de1b3675c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=838')\">838年</a>　本年九月，文宗遣使征牛僧孺入朝为左仆射。牛僧孺入朝后，托疾不造宰相之门。牛僧孺入朝时，泾原节度使王茂元命幕僚李商隐作《为荥阳公贺牛相公状》，致贺牛僧孺。本年，文宗欲委以牛僧孺御史大夫重任，遭李党人物郑覃沮议。入京后，牛僧孺仍与居洛阳的白居易、刘禹锡等频繁诗歌互赠。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=839&endYear=839')\">839年</a>　本年八月，牛僧孺以使相身份出镇山南东道。出镇襄州时，杜牧有诗相送。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"d56b1e179752445895746624e5a86ebb\");'><span id='d56b1e179752445895746624e5a86ebb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=842')\">841-842年</a>，62-63岁</div><div id='d56b1e179752445895746624e5a86ebb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')\">841年</a>　闰九月，襄州发生水灾，漂民庐舍，宰相李德裕趁机报复，罢牛僧孺山南东道节度使，左迁太子少师，时议不平，还检校司徒、兼太子太保。本年，牛僧孺与白居易仍有诗歌往来。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>　四月，牛僧孺与宰相李德裕、李绅等上疏，加武宗尊号曰“仁圣文武至神大孝皇帝”。八、九月间，回纥犯边，诏令牛僧孺、陈夷行与公卿集议对策。十二月，牛僧孺等奏上《升御史大夫为三品奏》。同时，牛僧孺等又上《改谏议大夫为正四品下奏》<span class='label'>作品：</span>《升御史大夫为三品奏》<span class='inlineComment2'>（《升御史大夫为三品奏》，见《唐文拾遗》卷二十七。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"08a0944275e14b4693c0decc75de84ea\");'><span id='08a0944275e14b4693c0decc75de84ea_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年</a>，卒后1年</div><div id='08a0944275e14b4693c0decc75de84ea' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年5月19日</a>　五月十九日，牛僧孺葬于长安南少陵原。杜牧为其撰写墓志铭，李珏撰写神道碑，李商隐撰写奠文。碑文、志文均由柳公权书写。<br /></div>"
+                },
+                {
+                    "Latitude": 32.014789,
+                    "Longitude": 112.129089,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4206",
+                    "Title": "襄阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"235370c7fa5e45329b23a6a4b2919c71\");'><span id='235370c7fa5e45329b23a6a4b2919c71_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=800&endYear=801')\">800-801年</a>，21-22岁</div><div id='235370c7fa5e45329b23a6a4b2919c71' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=800&endYear=800')\">800年</a>　开始外出游学，干谒名流。于本年前后赴襄阳拜谒山南东道节度使于頔，不为所礼，怒而去。外出游学、干谒名流过程中，撰写了传奇集《玄怪录》中的部分篇章。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=801&endYear=801')\">801年</a>　拜谒山南东道节度使于頔未受礼遇，可能在江、黄一代游学。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7125d1a1207641549d3f8aa6e5209220\");'><span id='7125d1a1207641549d3f8aa6e5209220_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>，46岁</div><div id='7125d1a1207641549d3f8aa6e5209220' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>　牛僧孺出为武昌军节度使，途经襄州，山南东道节度使柳公绰隆礼相迎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"1d3fb19fb3b44df19e7e6311d4fff5f7\");'><span id='1d3fb19fb3b44df19e7e6311d4fff5f7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=839&endYear=841')\">839-841年</a>，60-62岁</div><div id='1d3fb19fb3b44df19e7e6311d4fff5f7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=839&endYear=839')\">839年</a>　本年八月，牛僧孺以使相身份出镇山南东道。牛僧孺在襄州辟刘蕡为幕僚，辟卢简求为使府观察判官，辟韩愈子韩昶为使府殿中侍御史加观察支使。本年，牛僧孺与白居易、刘禹锡继续有诗歌唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=840&endYear=840')\">840年</a>　本年，牛僧孺夫人辛氏卒。在襄州，牛僧孺与释思公（僧思公）有交往。本年，分司东都的太子宾客白居易仍有诗寄牛僧孺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')\">841年</a>　九月前，牛僧孺依旧以使相身份任职山南东道节度使。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8f9a7a2357cf47568558a275812beb90\");'><span id='8f9a7a2357cf47568558a275812beb90_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=807&endYear=807')\">807年</a>，28岁</div><div id='8f9a7a2357cf47568558a275812beb90' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=807&endYear=807')\">807年</a>　于今年或去年释褐为伊阙县尉。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f2ed2060ac92483787dbacdde9d8c088\");'><span id='f2ed2060ac92483787dbacdde9d8c088_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=813')\">808-813年</a>，29-34岁</div><div id='f2ed2060ac92483787dbacdde9d8c088' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年3月</a>　三月，诏举贤良方正能直言极谏科，牛僧孺等直陈时政，得罪权贵，宰相李吉甫恶其直言，牛僧孺赴河南尹杜兼幕任水路运判官，兼任伊阙县尉。本年，牛僧孺在洛阳初识殿中侍御史分司东都韦乾度，并再次与韩愈相会。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=809&endYear=809')\">809年9月23日</a>　牛僧孺在河南尹杜兼幕任水路运判官，兼任伊阙县尉。九月二十三日，牛僧孺与韩愈、李宗闵于洛阳福先寺迎候杜兼，并题名于福先寺塔。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=810')\">810年</a>　牛僧孺告诫好友白居易谨慎行事以免祸。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=811&endYear=811')\">811年</a>　牛僧孺与辛秘之女结婚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=812&endYear=812')\">812年</a>　牛僧孺约于本年除河南尉。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=813')\">813年</a>　牛僧孺仍为河南尉。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"537bfeadb1e846d5a03cf99479fdc014\");'><span id='537bfeadb1e846d5a03cf99479fdc014_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=833&endYear=833')\">833年</a>，54岁</div><div id='537bfeadb1e846d5a03cf99479fdc014' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=833&endYear=833')\">833年</a>　早春，牛僧孺在赴淮南途中与太子宾客分司洛阳的白居易相会于洛阳。本年春，牛僧孺抵达淮南。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8d8e1d0547b742898efe96bb7e6d0a0d\");'><span id='8d8e1d0547b742898efe96bb7e6d0a0d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=838')\">837-838年</a>，58-59岁</div><div id='8d8e1d0547b742898efe96bb7e6d0a0d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>　本年初牛僧孺累求罢淮南重镇之职，五月，获准罢镇，改授东都留守。牛僧孺卸任淮南，李德裕代之，诬奏牛僧孺副使张鹭侵吞公款，以中伤牛僧孺。牛僧孺在洛阳居于归仁里，并在南郊营建“南庄”别墅。牛僧孺任东都留守后，苏州刺史李道枢赠其太湖石，牛僧孺、白居易、刘禹锡均有诗咏此事。牛僧孺任东都留守时，曾一度悠闲服食，与白居易、刘禹锡多有诗歌唱和，然牛诗皆佚。本年，牛僧孺次子牛丛与李商隐等东登进士第，外孙苗台符出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=838')\">838年</a>　本年九月前，仍任职东都留守。本年九月，文宗遣使征牛僧孺入朝为左仆射，牛僧孺赴长安途中，至甘棠馆梦与刘禹锡携手同游，遂有诗互赠。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f3f203a9b1ef40aeaae354525264c6fa\");'><span id='f3f203a9b1ef40aeaae354525264c6fa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=844')\">842-844年</a>，63-65岁</div><div id='f3f203a9b1ef40aeaae354525264c6fa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>　十二月，牛僧孺等奏上《升御史大夫为三品奏》。同时，牛僧孺等又上《改谏议大夫为正四品下奏》。年底，牛僧孺出为检校司徒、太子太傅、东都留守。在洛阳，牛僧孺与以刑部尚书分司致仕的白居易有诗歌唱和。<span class='label'>作品：</span>《改谏议大夫为正四品下奏》<span class='inlineComment2'>（《改谏议大夫为正四品下奏》，见《唐会要》卷五十五。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=843')\">843年</a>　三月，李德裕追论维州事，旨在委罪于牛僧孺，会泽潞事起，暂缓。五月，白居易为牛僧孺撰《太湖石记》。本年白居易仍与牛僧孺多有诗歌往来。本年，牛僧孺黜降留守府讨击使张季戎为衙前将。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=844&endYear=844')\">844年</a>　十月，李德裕因泽潞事，罗织罪名，诬奏牛僧孺、李宗闵、刘从谏等，贬牛僧孺为太子少保分司，李宗闵为漳州刺史。不久，再贬牛僧孺为汀州刺史，李宗闵为漳州长史。十一月，复贬牛僧孺为循州长史，李宗闵长流封州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"43fde6b2136642d48ec1c62f6a0df1b4\");'><span id='43fde6b2136642d48ec1c62f6a0df1b4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>，69岁</div><div id='43fde6b2136642d48ec1c62f6a0df1b4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　夏秋之际，牛僧孺由汝州长史迁太子少保分司东都，复迁太子少师。十月，卒于洛阳，册赠太尉。后于大中十三年赐谥号曰“文贞”<br /></div>"
+                },
+                {
+                    "Latitude": 30.598428,
+                    "Longitude": 114.311831,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201",
+                    "Title": "武汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"04236ff903b644c7889ce36069fece35\");'><span id='04236ff903b644c7889ce36069fece35_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=829')\">825-829年</a>，46-50岁</div><div id='04236ff903b644c7889ce36069fece35' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>　牛僧孺镇武昌，辟李珏、柳仲郢、韩佽为幕府从事。牛僧孺赴任伊始，即革除弊政，解除州人筑城之劳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=826&endYear=826')\">826年</a>　四月，牛僧孺奏请省并管内州县，以裁减冗官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=827&endYear=827')\">827年</a>　牛僧孺奏题释无等兰若曰“大寂院”。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=828')\">828年</a>　仍在武昌节度使任，为崔群撰家庙碑。<span class='label'>作品：</span>《崔群家庙碑》<span class='inlineComment2'>（《崔群家庙碑》见于《全唐文》卷六八二。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=828')\">828年</a>　秋，编录《玄怪录·齐饶州》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　仍在武昌节度使任，由检校礼部尚书加检校吏部尚书。于武昌拜会道士“毛仙翁”。后作《别志》纪其事。<span class='label'>作品：</span>《别志》<span class='inlineComment2'>（《别志》见于《全唐文》卷六八二。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　仍在武昌节度使任，由检校礼部尚书加检校吏部尚书。本年撰《赠吏部尚书杨玄琰碑》<span class='label'>作品：</span>《赠吏部尚书杨玄琰碑》<span class='inlineComment2'>（牛僧孺撰《赠吏部尚书杨玄琰碑》，见于《宝刻丛编》卷八。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　仍在武昌节度使任，由检校礼部尚书加检校吏部尚书。本年编录《玄怪录·尼妙寂》<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a8cae14ed9614dd5b4b90b3592c17223\");'><span id='a8cae14ed9614dd5b4b90b3592c17223_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=833&endYear=837')\">833-837年</a>，54-58岁</div><div id='a8cae14ed9614dd5b4b90b3592c17223' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=833&endYear=833')\">833年</a>　本年春，牛僧孺抵达淮南。杜牧奉宣歙观察使沈传师之命，赴扬州拜访牛僧孺。四月，牛僧孺辟杜牧为淮南节度府掌书记。本年秋，李绅由洛阳赴浙东观察使任，途中与牛僧孺会于扬州。本年前后，牛僧孺为温造父温辅国撰神道碑。<span class='label'>作品：</span>《唐谏议大夫温府君碑》<span class='inlineComment2'>（牛僧孺撰《唐谏议大夫温府君碑》，见《宝刻丛编》卷四，又见《唐文拾遗》卷二七。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年</a>　本年，杜牧仍在牛僧孺淮南节度使任幕僚，杜牧生活放浪，牛僧孺对其备极关怀。本年秋，刘禹锡由苏州刺史移汝州刺史，途经扬州，与牛僧孺会面，有诗唱和。<span class='label'>作品：</span>《席上赠刘梦得》<span class='inlineComment2'>（《席上赠刘梦得》，见《全唐诗》卷四百六十六。《云溪友议》载该诗名《席上赠汝州刘中丞》）</span><div id='poem_7724' class='_poem'><div id='poem_title_7724' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7724' class='poemCommentLink' target='_blank'>席上赠刘梦得</a><a href='javascript: ShowPoemAuthorProfile(18505, \"唐\", \"牛僧孺\", \"poem_title_7724\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>牛僧孺</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7724_comment'></div><div class='poemContent' id='poem_content_7724'><div class='poemSentence' id='poem_sentence_0_7724'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_7724\", 7724, \"Clauses/0/Comments/0\")'>粉署</span>为郎四十春，今来<span class='link' onclick='ShowWordComment(\"poem_sentence_0_7724\", 7724, \"Clauses/1/Comments/0\")'>名辈</span>更无人。</div><div id='poem_sentence_0_7724_comment'></div><div class='poemSentence' id='poem_sentence_1_7724'>休论世上<span class='link' onclick='ShowWordComment(\"poem_sentence_1_7724\", 7724, \"Clauses/2/Comments/0\")'>升沉</span>事，且斗樽前<span class='link' onclick='ShowWordComment(\"poem_sentence_1_7724\", 7724, \"Clauses/3/Comments/0\")'>见在身</span>。</div><div id='poem_sentence_1_7724_comment'></div><div class='poemSentence' id='poem_sentence_2_7724'>珠玉会应成咳唾，山川犹觉露精神。</div><div id='poem_sentence_2_7724_comment'></div><div class='poemSentence' id='poem_sentence_3_7724'>莫嫌恃酒轻言语，曾把文章<span class='link' onclick='ShowWordComment(\"poem_sentence_3_7724\", 7724, \"Clauses/7/Comments/0\")'>谒后尘</span>。</div><div id='poem_sentence_3_7724_comment'></div><div class='poemSentence' id='poem_sentence_4_7724'></div><div id='poem_sentence_4_7724_comment'></div></div><div class='poemComment' id='poem_comment_7724'><a href='javascript: ShowPoemComment(7724)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年</a>　本年五月，李绅由浙东观察使改任太子宾客，分司东都，经扬州，再次与牛僧孺相会。本年，杜牧擢监察御史，离开牛僧孺淮南幕府，赴长安供职，不久移疾，分司东都。本年冬，牛僧孺辟杜牧弟杜顗入幕府，顗辞谢不就。本年秋，李党人物托名刘轲作《牛羊日历》，极力诽谤牛僧孺等。本年，牛僧孺长子牛蔚登进士科。本年或去年，牛僧孺外孙张读出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=836&endYear=836')\">836年</a>　本年，牛僧孺仍在淮南节度使任，与白居易有诗歌唱和与礼物互赠。李德裕亲信韦瓘可能于本年伪托牛僧孺作《周秦行纪》，诬陷牛僧孺，赖文宗明察，未能得逞。本年，“《周秦行纪》案”后，牛僧孺厌倦了党争，累表求罢归散地，未获许。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>　由于受到“《周秦行纪》案”的影响，本年初牛僧孺累求罢淮南重镇之职，五月，获准罢镇，改授东都留守。<br /></div>"
+                },
+                {
+                    "Latitude": 23.116409,
+                    "Longitude": 114.423348,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4413",
+                    "Title": "惠州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7f5489edd3f64d12ac5f8a6fbc47361b\");'><span id='7f5489edd3f64d12ac5f8a6fbc47361b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=844&endYear=846')\">844-846年</a>，65-67岁</div><div id='7f5489edd3f64d12ac5f8a6fbc47361b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=844&endYear=844')\">844年10月</a>　十月，牛僧孺因泽潞事被贬循州长史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=845&endYear=845')\">845年</a>　二月，素被牛僧孺器重的柳仲郢为李德裕引荐为京兆尹。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=846')\">846年</a>　春，牛僧孺仍在循州，白居易有诗怀之。八月，牛僧孺与李宗闵、崔珙、杨嗣复、李珏等被诏北迁，牛僧孺由循州长史移衡州长史。<br /></div>"
+                },
+                {
+                    "Latitude": 26.899517,
+                    "Longitude": 112.578397,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4304",
+                    "Title": "衡阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6adbab719a024293bdbc8747f40af5a5\");'><span id='6adbab719a024293bdbc8747f40af5a5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=847')\">846-847年</a>，67-68岁</div><div id='6adbab719a024293bdbc8747f40af5a5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=846')\">846年</a>　春，牛僧孺仍在循州，白居易有诗怀之。八月，牛僧孺与李宗闵、崔珙、杨嗣复、李珏等被诏北迁，牛僧孺由循州长史移衡州长史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年</a>　春夏，牛僧孺在衡州长史任。李德裕亲信郑亚由给事中出为桂管观察使，途经衡州，拜会牛僧孺，由李商隐代笔撰写书状与贺状。春夏之际，迁汝州长史。<br /></div>"
+                },
+                {
+                    "Latitude": 34.26471,
+                    "Longitude": 112.610147,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410482103",
+                    "Title": "临汝",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d91b5770fa4243ea9646fe5b7babcbbc\");'><span id='d91b5770fa4243ea9646fe5b7babcbbc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=848')\">847-848年</a>，68-69岁</div><div id='d91b5770fa4243ea9646fe5b7babcbbc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年</a>　春夏，会见郑亚后，牛僧孺去衡赴汝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　春，牛僧孺在汝州长史任。李德裕南谪过汝州，受到牛僧孺热情款待。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "牛僧孺 <span class='inlineComment2'>(780-848)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：丁鼎《牛僧孺年谱》　录入整理：罗昌繁</p><p><a href=\"javascript: ViewRoute(0, 4, 110.7031695, 33.3195825, 9, 0)\">1-28岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">西安</a> → <a href=\"javascript: ViewPoint(1, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(2, 0)\">西安</a> → <a href=\"javascript: ViewPoint(3, 0)\">洛阳</a></p><p><a href=\"javascript: ViewRoute(4, 11, 111.6290685, 32.611402, 8, 0)\">29-54岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">西安</a> → <a href=\"javascript: ViewPoint(5, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(6, 0)\">西安</a> → <a href=\"javascript: ViewPoint(7, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(8, 0)\">武汉</a> → <a href=\"javascript: ViewPoint(9, 0)\">西安</a> → <a href=\"javascript: ViewPoint(10, 0)\">洛阳</a></p><p><a href=\"javascript: ViewRoute(11, 17, 114.1827065, 33.3195825, 7, 0)\">54-65岁</a><br /><a href=\"javascript: ViewPoint(11, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(12, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(13, 0)\">西安</a> → <a href=\"javascript: ViewPoint(14, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(15, 0)\">西安</a> → <a href=\"javascript: ViewPoint(16, 0)\">洛阳</a></p><p><a href=\"javascript: ViewRoute(17, 22, 111.684827, 28.8703925, 7, 0)\">65-卒后1年</a><br /><a href=\"javascript: ViewPoint(17, 0)\">惠州</a> → <a href=\"javascript: ViewPoint(18, 0)\">衡阳</a> → <a href=\"javascript: ViewPoint(19, 0)\">临汝</a> → <a href=\"javascript: ViewPoint(20, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(21, 0)\">西安</a></p>"
+        }
+    ]
+}

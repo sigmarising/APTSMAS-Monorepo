@@ -1,0 +1,110 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.001095,
+            "CenterLongitude": 120.705869,
+            "ZoomLevel": 9,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "82617d192b144980a6a73775d129d53f",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "e379db4a3d044d02adeec5b2e21528b9",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "e7badb77c65e41d3bfe6027e96a95449",
+                            "Latitude": 30.692676,
+                            "Longitude": 117.573824,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341702",
+                            "Title": "贵池"
+                        },
+                        {
+                            "Id": "2f32da1d26ff4ec7985cb9705edf4309",
+                            "Latitude": 31.014847,
+                            "Longitude": 120.639402,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320509",
+                            "Title": "吴江"
+                        },
+                        {
+                            "Id": "70c09b680b6a44aba497d81f35fcace4",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.001095,
+                    "Longitude": 120.705869,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3303",
+                    "Title": "温州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"82617d192b144980a6a73775d129d53f\");'><span id='82617d192b144980a6a73775d129d53f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1198')\">1174-1198年</a>，1-25岁</div><div id='82617d192b144980a6a73775d129d53f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>　约生于孝宗乾道九年（1173）或淳熙元年（1174）。本表所列年岁为虚拟数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1188')\">1175-1188年</a>　自小失怙恃，由舅父楼钥抚养成人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1198')\">1189-1198年</a>　居乡？<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e379db4a3d044d02adeec5b2e21528b9\");'><span id='e379db4a3d044d02adeec5b2e21528b9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>，26岁</div><div id='e379db4a3d044d02adeec5b2e21528b9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>　曾从龙榜进士。与魏了翁为同年进士。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"70c09b680b6a44aba497d81f35fcace4\");'><span id='70c09b680b6a44aba497d81f35fcace4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1218&endYear=1223')\">1218-1223年</a>，45-50岁</div><div id='70c09b680b6a44aba497d81f35fcace4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1218&endYear=1219')\">1218-1219年</a>　在临安主管刑、工部架阁文字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')\">1220年1月</a>　在临安。正月为秘书省正字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')\">1220年3月</a>　三月为校书郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')\">1220年12月</a>　十二月为秘书郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年1月</a>　正月为著作佐郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')\">1221年10月</a>　十月为著作郎兼权司封郎官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')\">1222年9月</a>　十五年九月为将作少监。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1223&endYear=1223')\">1223年</a>　官至权直学士院，俄而卒于官，逝后葬于西湖之畔。诗集不传，遗著有《蒲江词稿》一卷。<br /></div>"
+                },
+                {
+                    "Latitude": 30.692676,
+                    "Longitude": 117.573824,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341702",
+                    "Title": "贵池",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e7badb77c65e41d3bfe6027e96a95449\");'><span id='e7badb77c65e41d3bfe6027e96a95449_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>，26岁</div><div id='e7badb77c65e41d3bfe6027e96a95449' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')\">1199年</a>　初任池州教授。<span class='label'>作品：</span>水龙吟·淮西重午。<div id='poem_78360' class='_poem'><div id='poem_title_78360' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=78360' class='poemCommentLink' target='_blank'>水龙吟<span style='margin: 0 0.5em'> 其三 </span>淮西重午</a><a href='javascript: ShowPoemAuthorProfile(23213, \"宋\", \"卢祖皋\", \"poem_title_78360\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>卢祖皋</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_78360_comment'></div><div class='poemContent' id='poem_content_78360'><div class='poemSentence' id='poem_sentence_0_78360'>会昌湖上扁舟，几年不醉西山路。</div><div id='poem_sentence_0_78360_comment'></div><div class='poemSentence' id='poem_sentence_1_78360'>流光又是，宫衣初试，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_78360\", 78360, \"Clauses/4/Comments/0\")'>安榴</span>半吐。</div><div id='poem_sentence_1_78360_comment'></div><div class='poemSentence' id='poem_sentence_2_78360'>千里江山，满川烟草，薰风淮楚。</div><div id='poem_sentence_2_78360_comment'></div><div class='poemSentence' id='poem_sentence_3_78360'>念离骚恨远，独醒人去，阑干外，谁怀古。</div><div id='poem_sentence_3_78360_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_78360'>亦有鱼龙戏舞。</div><div id='poem_sentence_4_78360_comment'></div><div class='poemSentence' id='poem_sentence_5_78360'>艳晴川、绮罗歌鼓。</div><div id='poem_sentence_5_78360_comment'></div><div class='poemSentence' id='poem_sentence_6_78360'>乡情节意，尊前同是，天涯羁旅。</div><div id='poem_sentence_6_78360_comment'></div><div class='poemSentence' id='poem_sentence_7_78360'>涨渌池塘，翠阴庭院，归期无据。</div><div id='poem_sentence_7_78360_comment'></div><div class='poemSentence' id='poem_sentence_8_78360'>问明年此夜，一眉新月，照人何处。</div><div id='poem_sentence_8_78360_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.014847,
+                    "Longitude": 120.639402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320509",
+                    "Title": "吴江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2f32da1d26ff4ec7985cb9705edf4309\");'><span id='2f32da1d26ff4ec7985cb9705edf4309_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1203')\">1200-1203年</a>，27-30岁</div><div id='2f32da1d26ff4ec7985cb9705edf4309' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')\">1200年</a>　调任吴江主簿，有词。<span class='label'>作品：</span>清平乐·庚申吴中对雪。<div id='poem_78401' class='_poem'><div id='poem_title_78401' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=78401' class='poemCommentLink' target='_blank'>清平乐<span style='margin: 0 0.5em'> 其四 </span>庚申中吴对雪</a><a href='javascript: ShowPoemAuthorProfile(23213, \"宋\", \"卢祖皋\", \"poem_title_78401\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>卢祖皋</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_78401_comment'></div><div class='poemContent' id='poem_content_78401'><div class='poemSentence' id='poem_sentence_0_78401'>朔风凝冱。</div><div id='poem_sentence_0_78401_comment'></div><div class='poemSentence' id='poem_sentence_1_78401'>不放云来去。</div><div id='poem_sentence_1_78401_comment'></div><div class='poemSentence' id='poem_sentence_2_78401'>稚柳回春能几许。</div><div id='poem_sentence_2_78401_comment'></div><div class='poemSentence' id='poem_sentence_3_78401'>一夜满城飞絮。</div><div id='poem_sentence_3_78401_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_78401'>羊羔酒面频倾。</div><div id='poem_sentence_4_78401_comment'></div><div class='poemSentence' id='poem_sentence_5_78401'>护寒香缓娇屏。</div><div id='poem_sentence_5_78401_comment'></div><div class='poemSentence' id='poem_sentence_6_78401'>唤取雪儿对舞，看他若个轻盈。</div><div id='poem_sentence_6_78401_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1203')\">1201-1203年</a>　吴江主簿？<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "卢祖皋 <span class='inlineComment2'>(1174-1223)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：卞东波《宋才子传笺证·南宋后期卷·卢祖皋传》　录入整理：唐元</p><p><a href=\"javascript: ViewRoute(0, 5, 119.1398465, 29.507971, 9, 0)\">1-50岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">温州</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">贵池</a> → <a href=\"javascript: ViewPoint(3, 0)\">吴江</a> → <a href=\"javascript: ViewPoint(4, 0)\">杭州</a></p>"
+        }
+    ]
+}

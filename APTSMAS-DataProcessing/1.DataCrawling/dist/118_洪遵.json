@@ -1,0 +1,280 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.750912,
+            "CenterLongitude": 120.762045,
+            "ZoomLevel": 9,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "93e4bec277a9475b998e6bddb537a446",
+                            "Latitude": 30.750912,
+                            "Longitude": 120.762045,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3304",
+                            "Title": "嘉兴"
+                        },
+                        {
+                            "Id": "52551782f874413ab575896b4e60d7bc",
+                            "Latitude": 31.496704,
+                            "Longitude": 120.318954,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3202",
+                            "Title": "无锡"
+                        },
+                        {
+                            "Id": "fe37c6fb39d84a6697ae7dd03b18e153",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "12311625804d43fca783b88711fa8f49",
+                            "Latitude": 31.816791,
+                            "Longitude": 119.980142,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3204",
+                            "Title": "常州"
+                        },
+                        {
+                            "Id": "00997ca1b19d4139889be782514b8d5e",
+                            "Latitude": 29.084455,
+                            "Longitude": 119.654027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3307",
+                            "Title": "金华"
+                        },
+                        {
+                            "Id": "322f616b174c49a595b69471360b0feb",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "cd3d14c90ccd4d55a01a1232dcd6de0b",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "145c791741d74b848ecf273cbafe7aff",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "efec902a4d76496787568e50cd105dcb",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "a5ee93e1c27242098297cbf2c8fc5c0a",
+                            "Latitude": 28.968047,
+                            "Longitude": 117.135438,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360281",
+                            "Title": "乐平"
+                        },
+                        {
+                            "Id": "a53889498bfe4a9aa1d9ca7f04e1a6c3",
+                            "Latitude": 28.460864,
+                            "Longitude": 117.950028,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3611",
+                            "Title": "上饶"
+                        },
+                        {
+                            "Id": "fd88ef4550bf4a06b6a163babee764b4",
+                            "Latitude": 31.358798,
+                            "Longitude": 118.439561,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3402",
+                            "Title": "芜湖"
+                        },
+                        {
+                            "Id": "28c3500b86a040a9b5bf66312f92d239",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "e9d6a8c3a23948c19f5c7da02519af04",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "5d40f585633b4fa3bf9c0564292565fa",
+                            "Latitude": 28.968047,
+                            "Longitude": 117.135438,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360281",
+                            "Title": "乐平"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.750912,
+                    "Longitude": 120.762045,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3304",
+                    "Title": "嘉兴 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"93e4bec277a9475b998e6bddb537a446\");'><span id='93e4bec277a9475b998e6bddb537a446_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1137')\">1120-1137年</a>，1-18岁</div><div id='93e4bec277a9475b998e6bddb537a446' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')\">1120年</a>　出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1127')\">1121-1127年</a>　随父居秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　是年秦国公薨，忠宣公奔丧归鄱阳，寓家秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>　仍寓家秀州。从师业文，不以岁时寒暑辍。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　金人陷秀州，公兄弟奉秦国夫人、魏国夫人避乱归鄱阳，旋复还秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　诏下秀州，存问家属。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1133')\">1132-1133年</a>　居秀州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')\">1134年</a>　以父荫补承务郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1137')\">1135-1137年</a>　居秀州。<br /></div>"
+                },
+                {
+                    "Latitude": 31.496704,
+                    "Longitude": 120.318954,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3202",
+                    "Title": "无锡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"52551782f874413ab575896b4e60d7bc\");'><span id='52551782f874413ab575896b4e60d7bc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1141')\">1138-1141年</a>，19-22岁</div><div id='52551782f874413ab575896b4e60d7bc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年11月23日</a>　魏国夫人沈氏薨，孺慕攀号以孝闻。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年11月</a>　葬魏国夫人于无锡县。公兄弟即僧舍肄词业。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1141')\">1140-1141年</a>　居家。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fe37c6fb39d84a6697ae7dd03b18e153\");'><span id='fe37c6fb39d84a6697ae7dd03b18e153_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1143')\">1142-1143年</a>，23-24岁</div><div id='fe37c6fb39d84a6697ae7dd03b18e153' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年2月</a>　与兄适同试博学宏词科中选。名在第一。试题有《代枢密使谢赐玉带表》、《克敌弓铭》、《皇叔庆远军承宣使授昭化军节度使封安定郡王同知大宗正事制》、《唐勤政务本楼记》、《周成王搜岐阳颂》、《汉五家要说章句》。<span class='label'>作品：</span>《代枢密使谢赐玉带表》、《克敌弓铭》、《皇叔庆远军承宣使授昭化军节度使封安定郡王同知大宗正事制》、《唐勤政务本楼记》、《周成王搜岐阳颂》、《汉五家要说章句》。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-422页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　官秘书省正字。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"cd3d14c90ccd4d55a01a1232dcd6de0b\");'><span id='cd3d14c90ccd4d55a01a1232dcd6de0b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1160')\">1155-1160年</a>，36-41岁</div><div id='cd3d14c90ccd4d55a01a1232dcd6de0b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　入为秘书省正字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年8月</a>　兼权直学士院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年11月</a>　自秘书省正字兼权中书舍人以丁忧去国。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　官正字时有乞塞侥幸劄子、奏请复建鸿胪官劄子、乞禁奏祥瑞劄子。<span class='label'>作品：</span>乞塞侥幸劄子、奏请复建鸿胪官劄子、乞禁奏祥瑞劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-442页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')\">1156年11月</a>　葬忠宣公于鄱阳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年</a>　丁忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　服阕，与弟迈相继被召。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年2月</a>　二月壬子，垂拱殿奏事毕，极陈父冤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　除起居舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　撰《迩英记注》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年3月</a>　三月戊子奏对，为父乞谥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年6月</a>　六月甲辰作忠宣公谥告碑记。题衔称左朝散郎起居舍人。<span class='label'>作品：</span>忠宣公谥告碑记。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-450页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　奏论张子正、子颜除官。<span class='label'>作品：</span>奏论张子正、子颜除官。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-451页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　经筵进褚遂良论漆器故事、又进汉文帝不凿露台故事，又进宋璟献《尚书·无逸》为图故事，又进韩昭侯敝绔故事。<span class='label'>作品：</span>经筵进褚遂良论漆器故事、又进汉文帝不凿露台故事，又进宋璟献《尚书·无逸》为图故事，又进韩昭侯敝绔故事。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-452页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年7月</a>　七月戊寅，面对，论铸钱利害。帝嘉之，除起居郎兼枢密院都承旨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　请修绍兴九年以后起居注。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　经筵进仁宗诏阁门通进银台司登闻检鼓院故事。<span class='label'>作品：</span>经筵进仁宗诏阁门通进银台司登闻检鼓院故事。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-455页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　奏乞减免平江、湖、秀三州秋苗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　兼权中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　拜中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　奏皇太后庆八十增恩数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论辅逵王纲转官。<span class='label'>作品：</span>论辅逵王纲转官。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-460页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　时勋臣子孙多躐居台省，奏乞明示禁止。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　与给事中王晞亮同上奏言，历任六考举官五员当如旧制。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　经筵进周世宗斩樊爱能等故事。<span class='label'>作品：</span>经筵进周世宗斩樊爱能等故事。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-463页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论限田利弊。<span class='label'>作品：</span>论限田利弊。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-464页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论李文会恤典。<span class='label'>作品：</span>论李文会恤典。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-465页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　奏请看详被赦罪人军伍。<span class='label'>作品：</span>奏请看详被赦罪人军伍。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-466页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　缴罗殿蕃进马指挥并上奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　奏乞榜谕瑞昌兴国失业茶商。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论买马博易。<span class='label'>作品：</span>论买马博易。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-469页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论祷雨思所当戒。<span class='label'>作品：</span>论祷雨思所当戒。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-470页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年</a>　论鄱阳永平、永丰两监宜复置鼓铸使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年1月</a>　正月乙酉，以中书舍人兼权尚书礼部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年1月</a>　正月丁未，试吏部侍郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　奏荐王珏、林珦、胡梿。<span class='label'>作品：</span>奏荐王珏、林珦、胡梿。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-474页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　奏革选人贿吏等弊。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　奏选举二事。<span class='label'>作品：</span>奏选举二事。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-476页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　奏乞修国朝续会要。奏乞修国朝续会要。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年8月</a>　以吏部侍郎除翰林学士兼吏部尚书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　奏论川陕淮汉立功将士当亟行赏。<span class='label'>作品：</span>奏论川陕淮汉立功将士当亟行赏。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-479页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年9月</a>　诏试馆职，发策。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　汤思退罢相，当制。为汪澈所论，丐去。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年12月</a>　除徽猷阁直学士提举江太平兴国宫。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"efec902a4d76496787568e50cd105dcb\");'><span id='efec902a4d76496787568e50cd105dcb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1164')\">1162-1164年</a>，43-45岁</div><div id='efec902a4d76496787568e50cd105dcb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年5月</a>　以徽猷阁直学士知平江府除翰林学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年6月</a>　孝宗即位，除承旨兼侍读。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　撰禅位诏、登极赦文、尊号、改元等文。<span class='label'>作品：</span>禅位诏、登极赦文、尊号、改元等文。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-488页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　奏请申敕中外循太上皇后之训。<span class='label'>作品：</span>奏请申敕中外循太上皇后之训。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-489页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　有诏议应敌定论，与金安节等相继论列。<span class='label'>作品：</span>制敌定计劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-490页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　奏乞放免昆山县隐户田赋。<span class='label'>作品：</span>乞放免昆山县隐户田赋劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-491页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　奏荐张允之、郭沰、吴松年、张晙。<span class='label'>作品：</span>举监司郡守劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-492页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年1月</a>　礼部试进士，为知贡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　撰《中兴以来玉堂制草》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年5月</a>　丁未，自翰林学士承旨知制诰兼侍读迁左中大夫同知枢密院事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年5月</a>　金人陷宿州，与计议官卢仲贤遗金帅纥石烈志宁书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年</a>　寿康殿产芝，同列议表贺，遵风止之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年</a>　奏荐眉山李焘、永嘉郑伯熊及林光朝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年</a>　御史周璪论遵，遵连章乞罢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年7月</a>　丁亥，罢同知，以端明殿学士提举太平兴国宫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年7月</a>　庚戌，落端明殿学士。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e9d6a8c3a23948c19f5c7da02519af04\");'><span id='e9d6a8c3a23948c19f5c7da02519af04_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>，54岁</div><div id='e9d6a8c3a23948c19f5c7da02519af04' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年12月27日</a>　以资政殿学士提举临安府洞霄宫。<br /></div>"
+                },
+                {
+                    "Latitude": 31.816791,
+                    "Longitude": 119.980142,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3204",
+                    "Title": "常州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"12311625804d43fca783b88711fa8f49\");'><span id='12311625804d43fca783b88711fa8f49_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1153')\">1143-1153年</a>，24-34岁</div><div id='12311625804d43fca783b88711fa8f49' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年9月</a>　乞外通判常州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　有乞访遗书劄子。<span class='label'>作品：</span>乞访遗书劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-425页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1145')\">1144-1145年</a>　在常州任通判。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年</a>　通判常州，日以行县，数往无锡省魏国夫人墓。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1148')\">1147-1148年</a>　在常州任通判。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')\">1149年7月</a>　撰《泉志》，七月晦日序之。<span class='label'>作品：</span>泉志序。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-431页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1153')\">1150-1153年</a>　在常州任通判。<br /></div>"
+                },
+                {
+                    "Latitude": 29.084455,
+                    "Longitude": 119.654027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3307",
+                    "Title": "金华",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"00997ca1b19d4139889be782514b8d5e\");'><span id='00997ca1b19d4139889be782514b8d5e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年</a>，35岁</div><div id='00997ca1b19d4139889be782514b8d5e' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>通判婺州。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>撰《东阳志》。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"322f616b174c49a595b69471360b0feb\");'><span id='322f616b174c49a595b69471360b0feb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>，36岁</div><div id='322f616b174c49a595b69471360b0feb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年</a>　通判越州。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"145c791741d74b848ecf273cbafe7aff\");'><span id='145c791741d74b848ecf273cbafe7aff_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>，42岁</div><div id='145c791741d74b848ecf273cbafe7aff' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　知平江府。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　乞精选间谍。<span class='label'>作品：</span>乞精选间谍。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-484页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年12月</a>　车驾至平江，因对，论商船事。<br /></div>"
+                },
+                {
+                    "Latitude": 28.968047,
+                    "Longitude": 117.135438,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360281",
+                    "Title": "乐平",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a5ee93e1c27242098297cbf2c8fc5c0a\");'><span id='a5ee93e1c27242098297cbf2c8fc5c0a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1169')\">1165-1169年</a>，46-50岁</div><div id='a5ee93e1c27242098297cbf2c8fc5c0a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>　居乡。作《滃潭隧表》。<span class='label'>作品：</span>滃潭隧表。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-502页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年</a>　居乡。作小隐园。因以小隐自号。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1169')\">1167-1169年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5d40f585633b4fa3bf9c0564292565fa\");'><span id='5d40f585633b4fa3bf9c0564292565fa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>，55岁</div><div id='5d40f585633b4fa3bf9c0564292565fa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>　归鄱阳乡居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年11月</a>　薨。晋少保，封信国公，谥文安。<br /></div>"
+                },
+                {
+                    "Latitude": 28.460864,
+                    "Longitude": 117.950028,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3611",
+                    "Title": "上饶",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a53889498bfe4a9aa1d9ca7f04e1a6c3\");'><span id='a53889498bfe4a9aa1d9ca7f04e1a6c3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>，51岁</div><div id='a53889498bfe4a9aa1d9ca7f04e1a6c3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　起知信州。<br /></div>"
+                },
+                {
+                    "Latitude": 31.358798,
+                    "Longitude": 118.439561,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3402",
+                    "Title": "芜湖",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fd88ef4550bf4a06b6a163babee764b4\");'><span id='fd88ef4550bf4a06b6a163babee764b4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>，51岁</div><div id='fd88ef4550bf4a06b6a163babee764b4' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>徙知太平州。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>圩田坏，鸠民筑之。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>罢苗米输耗，听民自持斛概。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>岁大饥，有乞借江西米劄子。蠲租账赡活者万计。戍兵为盗，拘执归军。<span class='label'>作品：</span>乞借江西米劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-511页。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>有乞存留拣中禁军劄子。<span class='label'>作品：</span>乞存留拣中禁军劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-512页。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"28c3500b86a040a9b5bf66312f92d239\");'><span id='28c3500b86a040a9b5bf66312f92d239_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1173')\">1171-1173年</a>，52-54岁</div><div id='28c3500b86a040a9b5bf66312f92d239' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　徙知建康府、江东安抚使兼行营留守。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年7月</a>　入觐赴选德殿奏事，进资政殿学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　奏荐邵宏渊。<span class='label'>作品：</span>荐邵宏渊。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-515页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　荐赵撙、郭刚。<span class='label'>作品：</span>荐赵撙、郭刚。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-516页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　荐梁公永、程渭老。<span class='label'>作品：</span>荐梁公永、程渭老。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-517页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有论采石水军劄子。<span class='label'>作品：</span>论采石水军劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-518页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有论军士展俸劄子。<span class='label'>作品：</span>论军士展俸劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-519页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有论选择将帅劄子。<span class='label'>作品：</span>论选择将帅劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-520页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有论太平州蠲账劄子。<span class='label'>作品：</span>论太平州蠲账劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-521页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有乞倚阁饶州南康军夏税劄子。<span class='label'>作品：</span>乞倚阁饶州南康军夏税劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-522页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　有奏饶州南康军旱灾劄子。<span class='label'>作品：</span>奏饶州南康军旱灾劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-523页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　又请赈济劄子。<span class='label'>作品：</span>请赈济劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-524页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　又奏张运助饶州赈济劄子。<span class='label'>作品：</span>奏张运助饶州赈济劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-525页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　又奏收养童幼劄子。<span class='label'>作品：</span>奏收养童幼劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-526页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　又奏乞借桩管钱收籴浙西米劄子。<span class='label'>作品：</span>奏乞借桩管钱收籴浙西米劄子。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-527页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年</a><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　旋贬两秩，未几，复元官，仍拜资政殿学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年2月7日</a>　跋《翰苑群书》。<span class='label'>作品：</span>翰苑群书跋。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-530页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　校韦述《唐集贤注记》二卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　跋忠宣公《松漠纪闻》。<span class='label'>作品：</span>松漠纪闻跋。<span class='inlineComment2'>（北京图书馆藏珍本年谱丛刊第25册，第333-532页。）</span><br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "洪遵 <span class='inlineComment2'>(1120-1174)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：洪汝奎《洪文安公年谱》　录入整理：凌郁之</p><p><a href=\"javascript: ViewRoute(0, 7, 120.208036, 30.450623, 9, 0)\">1-41岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">嘉兴</a> → <a href=\"javascript: ViewPoint(1, 0)\">无锡</a> → <a href=\"javascript: ViewPoint(2, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(3, 0)\">常州</a> → <a href=\"javascript: ViewPoint(4, 0)\">金华</a> → <a href=\"javascript: ViewPoint(5, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(6, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(7, 15, 118.8625255, 30.2627995, 9, 0)\">42-55岁</a><br /><a href=\"javascript: ViewPoint(7, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(8, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(9, 0)\">乐平</a> → <a href=\"javascript: ViewPoint(10, 0)\">上饶</a> → <a href=\"javascript: ViewPoint(11, 0)\">芜湖</a> → <a href=\"javascript: ViewPoint(12, 0)\">南京</a> → <a href=\"javascript: ViewPoint(13, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(14, 0)\">乐平</a></p>"
+        }
+    ]
+}

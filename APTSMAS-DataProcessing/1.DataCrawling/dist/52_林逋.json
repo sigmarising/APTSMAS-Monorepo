@@ -1,0 +1,530 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.280059,
+            "CenterLongitude": 120.161693,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "1c816a5544134fb788aabfb1c324ccbb",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "b5824129b1be43bbb3c68074450dab05",
+                            "Latitude": 29.660974,
+                            "Longitude": 121.413388,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330283",
+                            "Title": "奉化"
+                        },
+                        {
+                            "Id": "bb953fbb29064132bb7eb73bddfbb32d",
+                            "Latitude": 34.831741,
+                            "Longitude": 115.548597,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN371721",
+                            "Title": "曹县"
+                        },
+                        {
+                            "Id": "8e01b299cfb14e51a4fda5bf7890e2db",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "f26aaf4b31324dc5ab93b81ec208e8e8",
+                            "Latitude": 34.831741,
+                            "Longitude": 115.548597,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN371721",
+                            "Title": "曹县"
+                        },
+                        {
+                            "Id": "acdc57e2697f4ca19011898cfa5c877f",
+                            "Latitude": 36.671627,
+                            "Longitude": 117.001319,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3701",
+                            "Title": "济南"
+                        },
+                        {
+                            "Id": "b1ea6914c7ad48ddaf2e1243e6160d77",
+                            "Latitude": 34.831741,
+                            "Longitude": 115.548597,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN371721",
+                            "Title": "曹县"
+                        },
+                        {
+                            "Id": "81dbdf95cdf64049ac74a203c7f8cba2",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "8fdd2b09f8cd4baebc717cc35c990923",
+                            "Latitude": 33.017144,
+                            "Longitude": 118.55143,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320830",
+                            "Title": "盱眙"
+                        },
+                        {
+                            "Id": "15d36ebf456c476db5e45754e93e1ed2",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "b935417f991842f187efe97d5a1fbc3b",
+                            "Latitude": 31.716472,
+                            "Longitude": 118.293882,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340523",
+                            "Title": "和县"
+                        },
+                        {
+                            "Id": "6624e04acbe64b0cab2da0033b3acf73",
+                            "Latitude": 31.662082,
+                            "Longitude": 118.05207,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340522",
+                            "Title": "含山"
+                        },
+                        {
+                            "Id": "dff9053eb1aa4208bed3008624fd1d1c",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "d8827c99b3834439b245c7a41209a6c5",
+                            "Latitude": 31.716472,
+                            "Longitude": 118.293882,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340523",
+                            "Title": "和县"
+                        },
+                        {
+                            "Id": "5cae02af396443af9ea1113a32dc15ac",
+                            "Latitude": 31.358798,
+                            "Longitude": 118.439561,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3402",
+                            "Title": "芜湖"
+                        },
+                        {
+                            "Id": "986938508a8b49188e49932dc25bd7ac",
+                            "Latitude": 31.256984,
+                            "Longitude": 117.864823,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340225",
+                            "Title": "无为"
+                        },
+                        {
+                            "Id": "f2ecdb242dfd435e8dd91cd1ccf19aa8",
+                            "Latitude": 31.46778,
+                            "Longitude": 116.955302,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341523",
+                            "Title": "舒城"
+                        },
+                        {
+                            "Id": "38e7589b5c754fea80039663fca622cc",
+                            "Latitude": 30.692676,
+                            "Longitude": 117.573824,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341702",
+                            "Title": "贵池"
+                        },
+                        {
+                            "Id": "4dbed48bc566446da8e27d20f81a6a96",
+                            "Latitude": 30.636726,
+                            "Longitude": 116.587941,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340824",
+                            "Title": "潜山"
+                        },
+                        {
+                            "Id": "e95b2aaf7b94465fb9e26dbae7cc14a4",
+                            "Latitude": 32.579375,
+                            "Longitude": 116.793572,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341521",
+                            "Title": "寿县"
+                        },
+                        {
+                            "Id": "4b3543ae0d014787839aab322b939b27",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "ac3201800af14690b1d4196fe0ad87fa",
+                            "Latitude": 27.74584,
+                            "Longitude": 115.393515,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360824",
+                            "Title": "新干"
+                        },
+                        {
+                            "Id": "a21ded3442434a4eb487bb0481ae6240",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "24cca0b618fa4ac8bbfa4bfa2b7aff93",
+                            "Latitude": 27.398983,
+                            "Longitude": 114.626077,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360829",
+                            "Title": "安福"
+                        },
+                        {
+                            "Id": "2e33504086544247b2f82dfe562747b2",
+                            "Latitude": 29.193583,
+                            "Longitude": 114.797997,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360423207",
+                            "Title": "清江"
+                        },
+                        {
+                            "Id": "123d86ce915f45a6b61d1ac00023aaf8",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "cb3095352c7b401a98d274a115004898",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "f1d202c58c0e4e08b9f28613a7146ba7",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1c816a5544134fb788aabfb1c324ccbb\");'><span id='1c816a5544134fb788aabfb1c324ccbb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=968&endYear=978')\">968-978年</a>，1-11岁</div><div id='1c816a5544134fb788aabfb1c324ccbb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=968&endYear=968')\">968年</a>　本年，出生于杭州钱塘县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=969&endYear=977')\">969-977年</a>　本年，居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=978&endYear=978')\">978年</a>　约于本年，随祖父林克己迁居明州奉化县黄贤村。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"123d86ce915f45a6b61d1ac00023aaf8\");'><span id='123d86ce915f45a6b61d1ac00023aaf8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1016')\">1008-1016年</a>，41-49岁</div><div id='123d86ce915f45a6b61d1ac00023aaf8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1008')\">1008年</a>　约于本年，隐居杭州，有诗和周启明。<span class='label'>作品：</span>和酬周启明贤良见寄。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169240' class='_poem'><div id='poem_title_169240' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169240' class='poemCommentLink' target='_blank'>和酬周启明贤良见寄</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169240\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169240_comment'></div><div class='poemContent' id='poem_content_169240'><div class='poemSentence' id='poem_sentence_0_169240'>治世谁能吊屈平，且披湘帙散幽经。</div><div id='poem_sentence_0_169240_comment'></div><div class='poemSentence' id='poem_sentence_1_169240'>春阳<sup class='reference inlineComment2'>⑴</sup>尽吐芊芊草，霄极长垂两两星。</div><div id='poem_sentence_1_169240_comment'></div><div class='poemSentence' id='poem_sentence_2_169240'>半壁烟岚图太华，一筇风雪访支硎。</div><div id='poem_sentence_2_169240_comment'></div><div class='poemSentence' id='poem_sentence_3_169240'>雅吟为惠将何比，明月珊瑚海气腥。</div><div id='poem_sentence_3_169240_comment'></div><div class='poemSentence' id='poem_sentence_4_169240'></div><div id='poem_sentence_4_169240_comment'></div></div><div class='poemNote' id='poem_note_169240'><div class='inline1'><div id='poem_sentence_1_169240_0'>⑴ 原作阳春，据正统本、万历本乙</div></div></div><div id='poem_note_169240_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1008')\">1008年</a>　约于本年，隐居杭州，读种放、丁谓诗，感而作诗。<span class='label'>作品：</span>读种先生丁密谏诗。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169303' class='_poem'><div id='poem_title_169303' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169303' class='poemCommentLink' target='_blank'>读种先生丁密谏诗</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169303\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169303_comment'></div><div class='poemContent' id='poem_content_169303'><div class='poemSentence' id='poem_sentence_0_169303'>旧草闲看即自卑，圣朝空道苦于诗。</div><div id='poem_sentence_0_169303_comment'></div><div class='poemSentence' id='poem_sentence_1_169303'>高才眩<span class='inlineComment2'>（正统本作敢）</span>望如明逸，新句无因似谓之。</div><div id='poem_sentence_1_169303_comment'></div><div class='poemSentence' id='poem_sentence_2_169303'>淮甸月华攲枕静，秣陵春色按鞭迟。</div><div id='poem_sentence_2_169303_comment'></div><div class='poemSentence' id='poem_sentence_3_169303'>邯郸独步西施笑，落得星星两鬓丝。</div><div id='poem_sentence_3_169303_comment'></div><div class='poemSentence' id='poem_sentence_4_169303'></div><div id='poem_sentence_4_169303_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1008')\">1008年</a>　约于本年，隐居杭州，投启王济。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1009&endYear=1011')\">1009-1011年</a>　本年，隐居杭州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1012&endYear=1012')\">1012年</a>　约于本年，隐居杭州，有诗和陈尧佐。<span class='label'>作品：</span>和运使陈学士游灵隐寺寓怀。<span class='inlineComment2'>（此诗见《林和靖集》卷一。葛伟《林逋研究》（杭州师范大学硕士学位论文，2008年）系此诗于天禧三年，误。据《续资治通鉴长编》卷七三和卷八二，陈尧佐大中祥符三年至七年任两浙路转运使。）</span><div id='poem_169390' class='_poem'><div id='poem_title_169390' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169390' class='poemCommentLink' target='_blank'>和运使陈学士游灵隐寺寓怀</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169390\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_169390_comment'></div><div class='poemContent' id='poem_content_169390'><div class='poemSentence' id='poem_sentence_0_169390'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_169390\", 169390, \"Clauses/0/Comments/0\")'>山壑</span>气相合，旦暮生秋阴。</div><div id='poem_sentence_0_169390_comment'></div><div class='poemSentence' id='poem_sentence_1_169390'>松门韵虚籁，铮若鸣瑶琴。</div><div id='poem_sentence_1_169390_comment'></div><div class='poemSentence' id='poem_sentence_2_169390'>举目群状动，倾耳百虑沉。</div><div id='poem_sentence_2_169390_comment'></div><div class='poemSentence' id='poem_sentence_3_169390'>按部既优游，时此振衣襟。</div><div id='poem_sentence_3_169390_comment'></div><div class='poemSentence' id='poem_sentence_4_169390'><span class='link' onclick='ShowWordComment(\"poem_sentence_4_169390\", 169390, \"Clauses/8/Comments/0\")'>泓澄</span>冷泉色，写我<span class='link' onclick='ShowWordComment(\"poem_sentence_4_169390\", 169390, \"Clauses/9/Comments/0\")'>清旷</span>心。</div><div id='poem_sentence_4_169390_comment'></div><div class='poemSentence' id='poem_sentence_5_169390'>飘飖白猿声，答我雅正吟。</div><div id='poem_sentence_5_169390_comment'></div><div class='poemSentence' id='poem_sentence_6_169390'>经台复丹井，扪萝常遍临。</div><div id='poem_sentence_6_169390_comment'></div><div class='poemSentence' id='poem_sentence_7_169390'>鹤盖青霞映，玉趾苍苔侵。</div><div id='poem_sentence_7_169390_comment'></div><div class='poemSentence' id='poem_sentence_8_169390'>温颜煦槁木，真性驯幽禽。</div><div id='poem_sentence_8_169390_comment'></div><div class='poemSentence' id='poem_sentence_9_169390'>所以仁惠政，<span class='link' onclick='ShowWordComment(\"poem_sentence_9_169390\", 169390, \"Clauses/19/Comments/0\")'>及物</span>一一深。</div><div id='poem_sentence_9_169390_comment'></div><div class='poemSentence' id='poem_sentence_10_169390'>洒翰嶙峋壁，返驾旃檀林。</div><div id='poem_sentence_10_169390_comment'></div><div class='poemSentence' id='poem_sentence_11_169390'>回睨<sup class='reference inlineComment2'>⑴</sup>窣堵峰，天半千万寻<span class='inlineComment2'>（以上《林和靖先生诗集》卷四）</span>。</div><div id='poem_sentence_11_169390_comment'></div><div class='poemSentence' id='poem_sentence_12_169390'></div><div id='poem_sentence_12_169390_comment'></div></div><div class='poemNote' id='poem_note_169390'><div class='inline1'><div id='poem_sentence_11_169390_0'>⑴ 《淳祐志》卷八作眺</div></div></div><div id='poem_note_169390_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1013&endYear=1013')\">1013年</a>　本年，隐居杭州，有诗感怀李建中。<span class='label'>作品：</span>集贤李建中工部尝以七言长韵见寄感存怀没因用追和。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169360' class='_poem'><div id='poem_title_169360' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169360' class='poemCommentLink' target='_blank'>集贤李建中工部尝以七言长韵见寄感存怀没因用追和</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169360\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169360_comment'></div><div class='poemContent' id='poem_content_169360'><div class='poemSentence' id='poem_sentence_0_169360'>清绝门墙冷似冰，野人怀刺<sup class='reference inlineComment2'>⑴</sup>昔曾登。</div><div id='poem_sentence_0_169360_comment'></div><div class='poemSentence' id='poem_sentence_1_169360'>新题对雨分萧寺，旧梦经秋说杜陵。</div><div id='poem_sentence_1_169360_comment'></div><div class='poemSentence' id='poem_sentence_2_169360'>贫典郡符资月给，老持<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169360\", 169360, \"Clauses/5/Comments/0\")'>台宪</span>减<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169360\", 169360, \"Clauses/5/Comments/1\")'>霜棱</span>。</div><div id='poem_sentence_2_169360_comment'></div><div class='poemSentence' id='poem_sentence_3_169360'>开元文字<sup class='reference inlineComment2'>⑵</sup>钟王笔，惆怅临风一烬灯。</div><div id='poem_sentence_3_169360_comment'></div><div class='poemSentence' id='poem_sentence_4_169360'></div><div id='poem_sentence_4_169360_comment'></div></div><div class='poemNote' id='poem_note_169360'><div class='inline1'><div id='poem_sentence_0_169360_0'>⑴ 原作别，据康熙本改</div></div><div class='inline1'><div id='poem_sentence_3_169360_0'>⑵ 正统本、万历本作学</div></div></div><div id='poem_note_169360_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')\">1014年9月</a>　九月，隐居杭州，闻侄宥及第，喜而作诗。<span class='label'>作品：</span>喜侄宥及第。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169347' class='_poem'><div id='poem_title_169347' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169347' class='poemCommentLink' target='_blank'>喜侄宥及第</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169347\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169347_comment'></div><div class='poemContent' id='poem_content_169347'><div class='poemSentence' id='poem_sentence_0_169347'>新榜传闻事可惊，<span class='link' onclick='ShowWordComment(\"poem_sentence_0_169347\", 169347, \"Clauses/1/Comments/0\")'>单平</span>于尔一何荣。</div><div id='poem_sentence_0_169347_comment'></div><div class='poemSentence' id='poem_sentence_1_169347'>玉阶已忝登高第，金口仍教改旧名。</div><div id='poem_sentence_1_169347_comment'></div><div class='poemSentence' id='poem_sentence_2_169347'>闻喜宴游秋色雅，<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169347\", 169347, \"Clauses/5/Comments/0\")'>慈恩题记</span>墨行清。</div><div id='poem_sentence_2_169347_comment'></div><div class='poemSentence' id='poem_sentence_3_169347'>岩扉掩罢无他意，但爇<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169347\", 169347, \"Clauses/7/Comments/0\")'>灵芜</span>感盛明。</div><div id='poem_sentence_3_169347_comment'></div><div class='poemSentence' id='poem_sentence_4_169347'></div><div id='poem_sentence_4_169347_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1016')\">1015-1016年</a>　本年，隐居杭州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f1d202c58c0e4e08b9f28613a7146ba7\");'><span id='f1d202c58c0e4e08b9f28613a7146ba7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1018&endYear=1028')\">1018-1028年</a>，51-61岁</div><div id='f1d202c58c0e4e08b9f28613a7146ba7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1018&endYear=1020')\">1018-1020年</a>　本年，隐居杭州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　本年，隐居杭州，问叶曙钱塘江浮石事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　约于本年，隐居杭州，有诗和王随。<span class='label'>作品：</span>和王给事同诸官留题。<span class='inlineComment2'>（此诗见《林和靖集》卷四。）</span><div id='poem_169119' class='_poem'><div id='poem_title_169119' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169119' class='poemCommentLink' target='_blank'>和王给事同诸官<sup class='reference inlineComment2'>①</sup>留题</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169119\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169119_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_169119_0'>① 原作宦，据宋本改</div></div></div><div class='poemContent' id='poem_content_169119'><div class='poemSentence' id='poem_sentence_0_169119'>千兵款户迂红旆，四壁留题拂紫苔。</div><div id='poem_sentence_0_169119_comment'></div><div class='poemSentence' id='poem_sentence_1_169119'>他日北山传故事，愿将猿<sup class='reference inlineComment2'>⑴</sup>鹤比云来。</div><div id='poem_sentence_1_169119_comment'></div><div class='poemSentence' id='poem_sentence_2_169119'></div><div id='poem_sentence_2_169119_comment'></div></div><div class='poemNote' id='poem_note_169119'><div class='inline1'><div id='poem_sentence_1_169119_0'>⑴ 原作云，据万历本改</div></div></div><div id='poem_note_169119_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　约于本年，隐居杭州，有启谢王随送留题唱和石。<span class='label'>作品：</span>启。<span class='inlineComment2'>（此文见吴处厚《青箱杂记》卷六。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　约于本年，隐居杭州，有诗和黄亢。<span class='label'>作品：</span>和黄亢与季父见访。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169238' class='_poem'><div id='poem_title_169238' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169238' class='poemCommentLink' target='_blank'>和黄亢与季父见访</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169238\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169238_comment'></div><div class='poemContent' id='poem_content_169238'><div class='poemSentence' id='poem_sentence_0_169238'>积水凝悬馆，船宽或结楼。</div><div id='poem_sentence_0_169238_comment'></div><div class='poemSentence' id='poem_sentence_1_169238'>一窗方寄傲，二巷忽同游。</div><div id='poem_sentence_1_169238_comment'></div><div class='poemSentence' id='poem_sentence_2_169238'>怨慕采菱曲，苍茫拾翠洲。</div><div id='poem_sentence_2_169238_comment'></div><div class='poemSentence' id='poem_sentence_3_169238'>微风起蘋末，归路满清愁。</div><div id='poem_sentence_3_169238_comment'></div><div class='poemSentence' id='poem_sentence_4_169238'></div><div id='poem_sentence_4_169238_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')\">1021年</a>　约于本年，隐居杭州，有诗赠高若虚。<span class='label'>作品：</span>赠钱塘邑长高秘校。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169380' class='_poem'><div id='poem_title_169380' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169380' class='poemCommentLink' target='_blank'>赠钱唐邑长高秘校</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169380\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169380_comment'></div><div class='poemContent' id='poem_content_169380'><div class='poemSentence' id='poem_sentence_0_169380'>几万人家山水中，为官古雅少人同。</div><div id='poem_sentence_0_169380_comment'></div><div class='poemSentence' id='poem_sentence_1_169380'>疏帘衙退卷花轴，曲槛客来凭竹风。</div><div id='poem_sentence_1_169380_comment'></div><div class='poemSentence' id='poem_sentence_2_169380'>唯道簿书多傍俗，自怜琴酒未妨公。</div><div id='poem_sentence_2_169380_comment'></div><div class='poemSentence' id='poem_sentence_3_169380'>等闲呵出郭门近，轻棹绕湖寻佛宫。</div><div id='poem_sentence_3_169380_comment'></div><div class='poemSentence' id='poem_sentence_4_169380'></div><div id='poem_sentence_4_169380_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1022&endYear=1022')\">1022年</a>　春，隐居杭州，有诗寄马亮。<span class='label'>作品：</span>寄上金陵马右丞三首。<span class='inlineComment2'>（此诗见《林和靖集》卷四。）</span><div id='poem_169163' class='_poem'><div id='poem_title_169163' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169163' class='poemCommentLink' target='_blank'>寄上金陵马右丞<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169163\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169163_comment'></div><div class='poemContent' id='poem_content_169163'><div class='poemSentence' id='poem_sentence_0_169163'>专席顷尝居宪府，拥旄寻亦别明庭。</div><div id='poem_sentence_0_169163_comment'></div><div class='poemSentence' id='poem_sentence_1_169163'>金陵土著多蒙赖，分野三回见福星。</div><div id='poem_sentence_1_169163_comment'></div><div class='poemSentence' id='poem_sentence_2_169163'></div><div id='poem_sentence_2_169163_comment'></div></div></div><div id='poem_169164' class='_poem'><div id='poem_title_169164' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169164' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169164_comment'></div><div class='poemContent' id='poem_content_169164'><div class='poemSentence' id='poem_sentence_0_169164'>惠爱如春威似霜，神明佳政蔼馀杭。</div><div id='poem_sentence_0_169164_comment'></div><div class='poemSentence' id='poem_sentence_1_169164'>集贤庭<sup class='reference inlineComment2'>⑴</sup>畔依依柳，无限行人比颂棠。</div><div id='poem_sentence_1_169164_comment'></div><div class='poemSentence' id='poem_sentence_2_169164'></div><div id='poem_sentence_2_169164_comment'></div></div><div class='poemNote' id='poem_note_169164'><div class='inline1'><div id='poem_sentence_1_169164_0'>⑴ 宋本、正统本作亭</div></div></div><div id='poem_note_169164_comment'></div></div><div id='poem_169162' class='_poem'><div id='poem_title_169162' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169162' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169162_comment'></div><div class='poemContent' id='poem_content_169162'><div class='poemSentence' id='poem_sentence_0_169162'>尽道<span class='link' onclick='ShowWordComment(\"poem_sentence_0_169162\", 169162, \"Clauses/0/Comments/0\")'>次公</span>当入相，江湖那肯久<span class='link' onclick='ShowWordComment(\"poem_sentence_0_169162\", 169162, \"Clauses/1/Comments/0\")'>迟徊</span>。</div><div id='poem_sentence_0_169162_comment'></div><div class='poemSentence' id='poem_sentence_1_169162'>西湖春物空凝意，犹望方舟赏胜来。</div><div id='poem_sentence_1_169162_comment'></div><div class='poemSentence' id='poem_sentence_2_169162'></div><div id='poem_sentence_2_169162_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1022&endYear=1022')\">1022年5月</a>　五月，隐居杭州，病中书诗赠李咨。<span class='label'>作品：</span>自书诗帖。<span class='inlineComment2'>（《全宋文》卷二一一录此文，题《诗跋》，系于天圣元年五月，当误。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1023&endYear=1023')\">1023年</a>　春，隐居杭州，有诗送释遵式赴金陵。<span class='label'>作品：</span>送遵式师谒金陵王相国三首。<span class='inlineComment2'>（此诗见《林和靖集》卷四。参李之亮《宋两江郡守易替考》，巴蜀书社2001年版，第7页。）</span><div id='poem_169150' class='_poem'><div id='poem_title_169150' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169150' class='poemCommentLink' target='_blank'>送遵式<sup class='reference inlineComment2'>①</sup>师谒金陵王相国<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169150\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169150_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_169150_0'>① 原作式遵，据宋本、《咸淳志》卷九一乙</div></div></div><div class='poemContent' id='poem_content_169150'><div class='poemSentence' id='poem_sentence_0_169150'>杯渡当过白鹭<sup class='reference inlineComment2'>⑴</sup>滩，石城春气尚微寒。</div><div id='poem_sentence_0_169150_comment'></div><div class='poemSentence' id='poem_sentence_1_169150'>公台谒罢如乘兴，试访南朝事迹看。</div><div id='poem_sentence_1_169150_comment'></div><div class='poemSentence' id='poem_sentence_2_169150'></div><div id='poem_sentence_2_169150_comment'></div></div><div class='poemNote' id='poem_note_169150'><div class='inline1'><div id='poem_sentence_0_169150_0'>⑴ 原作露，据宋本改</div></div></div><div id='poem_note_169150_comment'></div></div><div id='poem_169152' class='_poem'><div id='poem_title_169152' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169152' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169152_comment'></div><div class='poemContent' id='poem_content_169152'><div class='poemSentence' id='poem_sentence_0_169152'>高<span class='inlineComment2'>（《咸淳志》作虎）</span>牙熊轼隐铃斋，棠树阴浓长绿苔。</div><div id='poem_sentence_0_169152_comment'></div><div class='poemSentence' id='poem_sentence_1_169152'>丞相望尊宾谒少，清言应喜道人来。</div><div id='poem_sentence_1_169152_comment'></div><div class='poemSentence' id='poem_sentence_2_169152'></div><div id='poem_sentence_2_169152_comment'></div></div></div><div id='poem_169151' class='_poem'><div id='poem_title_169151' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169151' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169151_comment'></div><div class='poemContent' id='poem_content_169151'><div class='poemSentence' id='poem_sentence_0_169151'>天竺孱颜暂掩扉，讲香浮穗上<span class='link' onclick='ShowWordComment(\"poem_sentence_0_169151\", 169151, \"Clauses/1/Comments/0\")'>行衣</span>。</div><div id='poem_sentence_0_169151_comment'></div><div class='poemSentence' id='poem_sentence_1_169151'>白猿声里生公石，莫遣移文怨晚归。</div><div id='poem_sentence_1_169151_comment'></div><div class='poemSentence' id='poem_sentence_2_169151'></div><div id='poem_sentence_2_169151_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1023&endYear=1023')\">1023年</a>　约于本年，隐居杭州，有诗送王仕文归阙。<span class='label'>作品：</span>送王舍人罢两浙宪赴阙。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169272' class='_poem'><div id='poem_title_169272' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169272' class='poemCommentLink' target='_blank'>送王舍人罢两浙宪赴阙</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169272\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169272_comment'></div><div class='poemContent' id='poem_content_169272'><div class='poemSentence' id='poem_sentence_0_169272'>上阁<sup class='reference inlineComment2'>⑴</sup>还旌<span class='inlineComment2'>（宋本作旄）</span>节，明廷觐冕旒。</div><div id='poem_sentence_0_169272_comment'></div><div class='poemSentence' id='poem_sentence_1_169272'>清溪<span class='inlineComment2'>（万历本作谈）</span>倾绮<span class='inlineComment2'>（宋本作祖）</span>席，蠹简压归舟。</div><div id='poem_sentence_1_169272_comment'></div><div class='poemSentence' id='poem_sentence_2_169272'>远<span class='inlineComment2'>（万历本作越）</span>俗今无讼，闲田亦有秋。</div><div id='poem_sentence_2_169272_comment'></div><div class='poemSentence' id='poem_sentence_3_169272'>公期<span class='inlineComment2'>（宋本作朝）</span>论爵赏，当拜<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169272\", 169272, \"Clauses/7/Comments/0\")'>富民侯</span>。</div><div id='poem_sentence_3_169272_comment'></div><div class='poemSentence' id='poem_sentence_4_169272'></div><div id='poem_sentence_4_169272_comment'></div></div><div class='poemNote' id='poem_note_169272'><div class='inline1'><div id='poem_sentence_0_169272_0'>⑴ 原作问，据宋本、正统本改</div></div></div><div id='poem_note_169272_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')\">1024年</a>　本年，隐居杭州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1025&endYear=1025')\">1025年</a>　冬，隐居杭州，有诗寄钱易。<span class='label'>作品：</span>寄钱紫微易。<span class='inlineComment2'>（此诗见《林和靖集》卷一。参池泽滋子《吴越钱氏文人群体研究》，上海人民出版社2006年版，第206-207页。）</span><div id='poem_169319' class='_poem'><div id='poem_title_169319' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169319' class='poemCommentLink' target='_blank'>寄钱紫微<span class='inlineComment2'>（宋本、万历本下有易字）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169319\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169319_comment'></div><div class='poemContent' id='poem_content_169319'><div class='poemSentence' id='poem_sentence_0_169319'>晞发起初晨，中丘谢病身。</div><div id='poem_sentence_0_169319_comment'></div><div class='poemSentence' id='poem_sentence_1_169319'>空持白云意，遥赠紫微人。</div><div id='poem_sentence_1_169319_comment'></div><div class='poemSentence' id='poem_sentence_2_169319'><span class='link' onclick='ShowWordComment(\"poem_sentence_2_169319\", 169319, \"Clauses/4/Comments/0\")'>画毂</span>坊门远，苍苔<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169319\", 169319, \"Clauses/5/Comments/0\")'>掖署</span>春。</div><div id='poem_sentence_2_169319_comment'></div><div class='poemSentence' id='poem_sentence_3_169319'>元和旧文体，当许继清尘。</div><div id='poem_sentence_3_169319_comment'></div><div class='poemSentence' id='poem_sentence_4_169319'></div><div id='poem_sentence_4_169319_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1026&endYear=1026')\">1026年</a>　春，隐居杭州，有诗送范仲淹。<span class='label'>作品：</span>送范寺丞仲淹。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169279' class='_poem'><div id='poem_title_169279' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169279' class='poemCommentLink' target='_blank'>送范寺丞<span class='inlineComment2'>（仲淹）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169279\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169279_comment'></div><div class='poemContent' id='poem_content_169279'><div class='poemSentence' id='poem_sentence_0_169279'>林中<span class='link' onclick='ShowWordComment(\"poem_sentence_0_169279\", 169279, \"Clauses/0/Comments/0\")'>萧寂</span>款吾庐，亹亹犹欣接绪馀。</div><div id='poem_sentence_0_169279_comment'></div><div class='poemSentence' id='poem_sentence_1_169279'>去棹看当辨江树，离尊聊为摘园蔬。</div><div id='poem_sentence_1_169279_comment'></div><div class='poemSentence' id='poem_sentence_2_169279'>马卿才大常能赋，梅福官卑数上书。</div><div id='poem_sentence_2_169279_comment'></div><div class='poemSentence' id='poem_sentence_3_169279'><span class='link' onclick='ShowWordComment(\"poem_sentence_3_169279\", 169279, \"Clauses/6/Comments/0\")'>黼座</span><span class='link' onclick='ShowWordComment(\"poem_sentence_3_169279\", 169279, \"Clauses/6/Comments/1\")'>垂精</span>正求治，何时条对召公车。</div><div id='poem_sentence_3_169279_comment'></div><div class='poemSentence' id='poem_sentence_4_169279'></div><div id='poem_sentence_4_169279_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年</a>　春，隐居杭州，有诗和梅尧臣。<span class='label'>作品：</span>和梅圣俞雪中同虚白上人见访。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169391' class='_poem'><div id='poem_title_169391' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169391' class='poemCommentLink' target='_blank'>和梅圣俞雪中同虚白上人来<span class='inlineComment2'>（宋本、正统本作见）</span>访</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169391\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169391_comment'></div><div class='poemContent' id='poem_content_169391'><div class='poemSentence' id='poem_sentence_0_169391'>湖上玩佳雪，相将惟道林。</div><div id='poem_sentence_0_169391_comment'></div><div class='poemSentence' id='poem_sentence_1_169391'>早烟村意远，春涨岸痕深。</div><div id='poem_sentence_1_169391_comment'></div><div class='poemSentence' id='poem_sentence_2_169391'>地僻过三径，人闲试五禽。</div><div id='poem_sentence_2_169391_comment'></div><div class='poemSentence' id='poem_sentence_3_169391'>归桡有馀兴，宁复比<sup class='reference inlineComment2'>⑴</sup>山阴。</div><div id='poem_sentence_3_169391_comment'></div><div class='poemSentence' id='poem_sentence_4_169391'></div><div id='poem_sentence_4_169391_comment'></div></div><div class='poemNote' id='poem_note_169391'><div class='inline1'><div id='poem_sentence_3_169391_0'>⑴ 原作北，据宋本、正统本改</div></div></div><div id='poem_note_169391_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年</a>　本年，隐居杭州，有诗寄梅尧臣。<span class='label'>作品：</span>寄梅室长。<span class='inlineComment2'>（此诗见《林和靖集》卷四。）</span><div id='poem_169167' class='_poem'><div id='poem_title_169167' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169167' class='poemCommentLink' target='_blank'>寄梅室长<span class='inlineComment2'>（宋本下有尧臣二字）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169167\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169167_comment'></div><div class='poemContent' id='poem_content_169167'><div class='poemSentence' id='poem_sentence_0_169167'>君家先祖隐吴门，即日追游往事存。</div><div id='poem_sentence_0_169167_comment'></div><div class='poemSentence' id='poem_sentence_1_169167'>若向明时奏飞牍，并将康济息元元。</div><div id='poem_sentence_1_169167_comment'></div><div class='poemSentence' id='poem_sentence_2_169167'></div><div id='poem_sentence_2_169167_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')\">1028年</a>　冬，隐居杭州，自作寿堂，有诗。<span class='label'>作品：</span>自作寿堂因书一绝以志之。<span class='inlineComment2'>（此诗见《林和靖集》卷四。）</span><div id='poem_169111' class='_poem'><div id='poem_title_169111' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169111' class='poemCommentLink' target='_blank'>自<sup class='reference inlineComment2'>①</sup>作寿堂因书一绝以志之</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169111\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169111_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_169111_0'>① 上原有先生将终之岁六字，据正统本、万历本删</div></div></div><div class='poemContent' id='poem_content_169111'><div class='poemSentence' id='poem_sentence_0_169111'>湖上青山对结庐，坟头秋色亦萧疏。</div><div id='poem_sentence_0_169111_comment'></div><div class='poemSentence' id='poem_sentence_1_169111'>茂陵<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169111\", 169111, \"Clauses/2/Comments/0\")'>他日</span>求遗稿，犹喜曾无<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169111\", 169111, \"Clauses/3/Comments/0\")'>封禅书</span>。</div><div id='poem_sentence_1_169111_comment'></div><div class='poemSentence' id='poem_sentence_2_169111'></div><div id='poem_sentence_2_169111_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')\">1028年</a>　冬，卒于杭州。<br /></div>"
+                },
+                {
+                    "Latitude": 29.660974,
+                    "Longitude": 121.413388,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330283",
+                    "Title": "奉化",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b5824129b1be43bbb3c68074450dab05\");'><span id='b5824129b1be43bbb3c68074450dab05_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=979&endYear=992')\">979-992年</a>，12-25岁</div><div id='b5824129b1be43bbb3c68074450dab05' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=979&endYear=992')\">979-992年</a>　约于本年，居奉化。<br /></div>"
+                },
+                {
+                    "Latitude": 34.831741,
+                    "Longitude": 115.548597,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN371721",
+                    "Title": "曹县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bb953fbb29064132bb7eb73bddfbb32d\");'><span id='bb953fbb29064132bb7eb73bddfbb32d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=993&endYear=1001')\">993-1001年</a>，26-34岁</div><div id='bb953fbb29064132bb7eb73bddfbb32d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=993&endYear=993')\">993年</a>　约于本年，始客居曹州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=994&endYear=999')\">994-999年</a>　约于本年，客居曹州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1000&endYear=1000')\">1000年</a>　约于本年，客居曹州，有诗寄孙冲。<span class='label'>作品：</span>寄孙仲（冲）主簿。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_494158' class='_poem'><div id='poem_title_494158' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=494158' class='poemCommentLink' target='_blank'>寄孙仲<span class='inlineComment2'>（宋本作冲）</span>簿公</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_494158\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_494158_comment'></div><div class='poemContent' id='poem_content_494158'><div class='poemSentence' id='poem_sentence_0_494158'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_494158\", 494158, \"Clauses/0/Comments/0\")'>低折</span>沧洲簿，无书整两春。</div><div id='poem_sentence_0_494158_comment'></div><div class='poemSentence' id='poem_sentence_1_494158'>马从同事借，妻怕罢官贫。</div><div id='poem_sentence_1_494158_comment'></div><div class='poemSentence' id='poem_sentence_2_494158'>道僻收閒药，诗高笑古人。</div><div id='poem_sentence_2_494158_comment'></div><div class='poemSentence' id='poem_sentence_3_494158'>仍闻长吏奏，表乞锁厅频。</div><div id='poem_sentence_3_494158_comment'></div><div class='poemSentence' id='poem_sentence_4_494158'></div><div id='poem_sentence_4_494158_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1001&endYear=1001')\">1001年</a>　约于本年，客居曹州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f26aaf4b31324dc5ab93b81ec208e8e8\");'><span id='f26aaf4b31324dc5ab93b81ec208e8e8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>，35岁</div><div id='f26aaf4b31324dc5ab93b81ec208e8e8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>　约于本年，客居曹州，有诗寄任独复。<span class='label'>作品：</span>曹州寄任独复。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169326' class='_poem'><div id='poem_title_169326' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169326' class='poemCommentLink' target='_blank'>曹州寄任独复</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169326\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169326_comment'></div><div class='poemContent' id='poem_content_169326'><div class='poemSentence' id='poem_sentence_0_169326'>交结文章尽世惊，城中幽隐更无营。</div><div id='poem_sentence_0_169326_comment'></div><div class='poemSentence' id='poem_sentence_1_169326'>敢将古道为吾事，耻对常流语子名。</div><div id='poem_sentence_1_169326_comment'></div><div class='poemSentence' id='poem_sentence_2_169326'>秋思病弹曾独听，太玄闲写待谁评。</div><div id='poem_sentence_2_169326_comment'></div><div class='poemSentence' id='poem_sentence_3_169326'>清朝故实蒲轮在，合为高贤下帝京。</div><div id='poem_sentence_3_169326_comment'></div><div class='poemSentence' id='poem_sentence_4_169326'></div><div id='poem_sentence_4_169326_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b1ea6914c7ad48ddaf2e1243e6160d77\");'><span id='b1ea6914c7ad48ddaf2e1243e6160d77_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='b1ea6914c7ad48ddaf2e1243e6160d77' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，离曹州，开始漫游江淮，有诗。<span class='label'>作品：</span>出曹州。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8e01b299cfb14e51a4fda5bf7890e2db\");'><span id='8e01b299cfb14e51a4fda5bf7890e2db_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>，35岁</div><div id='8e01b299cfb14e51a4fda5bf7890e2db' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>　约于本年，至洛阳，与李建中交游。<br /></div>"
+                },
+                {
+                    "Latitude": 36.671627,
+                    "Longitude": 117.001319,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3701",
+                    "Title": "济南",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"acdc57e2697f4ca19011898cfa5c877f\");'><span id='acdc57e2697f4ca19011898cfa5c877f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>，35岁</div><div id='acdc57e2697f4ca19011898cfa5c877f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>　约于本年，至耿济口，有诗。<span class='label'>作品：</span>耿济口舟行。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169301' class='_poem'><div id='poem_title_169301' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169301' class='poemCommentLink' target='_blank'>耿济口舟行</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169301\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169301_comment'></div><div class='poemContent' id='poem_content_169301'><div class='poemSentence' id='poem_sentence_0_169301'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_169301\", 169301, \"Clauses/0/Comments/0\")'>环回</span>几合似江干，刺眼诗幽尽状难。</div><div id='poem_sentence_0_169301_comment'></div><div class='poemSentence' id='poem_sentence_1_169301'>沙嘴半平春<span class='inlineComment2'>（正统本作舂）</span>晚湿，水痕无底照秋宽。</div><div id='poem_sentence_1_169301_comment'></div><div class='poemSentence' id='poem_sentence_2_169301'>老霜蒲苇交千刃，怕雨凫鸥著<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169301\", 169301, \"Clauses/5/Comments/0\")'>一攒</span>。</div><div id='poem_sentence_2_169301_comment'></div><div class='poemSentence' id='poem_sentence_3_169301'>拟就孤峰寄蓑笠，旧乡渔业久凋残。</div><div id='poem_sentence_3_169301_comment'></div><div class='poemSentence' id='poem_sentence_4_169301'></div><div id='poem_sentence_4_169301_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"81dbdf95cdf64049ac74a203c7f8cba2\");'><span id='81dbdf95cdf64049ac74a203c7f8cba2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='81dbdf95cdf64049ac74a203c7f8cba2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，游汴水，有诗。<span class='label'>作品：</span>汴岸晓行。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169232' class='_poem'><div id='poem_title_169232' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169232' class='poemCommentLink' target='_blank'>汴岸晓行</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169232\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169232_comment'></div><div class='poemContent' id='poem_content_169232'><div class='poemSentence' id='poem_sentence_0_169232'>驴仆剑装轻，寻河早早行。</div><div id='poem_sentence_0_169232_comment'></div><div class='poemSentence' id='poem_sentence_1_169232'>孤烟开道店<span class='inlineComment2'>（原作店道，据宋本、正统本乙）</span>，平野喝农耕。</div><div id='poem_sentence_1_169232_comment'></div><div class='poemSentence' id='poem_sentence_2_169232'>老木回堤暗，初阳出浪明。</div><div id='poem_sentence_2_169232_comment'></div><div class='poemSentence' id='poem_sentence_3_169232'>羁游事无尽，尘土拂吾缨。</div><div id='poem_sentence_3_169232_comment'></div><div class='poemSentence' id='poem_sentence_4_169232'></div><div id='poem_sentence_4_169232_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 33.017144,
+                    "Longitude": 118.55143,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320830",
+                    "Title": "盱眙",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8fdd2b09f8cd4baebc717cc35c990923\");'><span id='8fdd2b09f8cd4baebc717cc35c990923_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='8fdd2b09f8cd4baebc717cc35c990923' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，至盱眙，有诗。<span class='label'>作品：</span>淮甸城居寄任刺史。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169334' class='_poem'><div id='poem_title_169334' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169334' class='poemCommentLink' target='_blank'>淮甸城居寄任刺史</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169334\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169334_comment'></div><div class='poemContent' id='poem_content_169334'><div class='poemSentence' id='poem_sentence_0_169334'>扰扰非吾事，深居断俗情。</div><div id='poem_sentence_0_169334_comment'></div><div class='poemSentence' id='poem_sentence_1_169334'>石莎无雨瘦，秋竹共<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169334\", 169334, \"Clauses/3/Comments/0\")'>蝉清</span>。</div><div id='poem_sentence_1_169334_comment'></div><div class='poemSentence' id='poem_sentence_2_169334'>剑在慵闲拂，诗难忆细评。</div><div id='poem_sentence_2_169334_comment'></div><div class='poemSentence' id='poem_sentence_3_169334'>寥然独支枕，淮月上山城。</div><div id='poem_sentence_3_169334_comment'></div><div class='poemSentence' id='poem_sentence_4_169334'></div><div id='poem_sentence_4_169334_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，游盱眙山寺，有诗。<span class='label'>作品：</span>盱眙山寺。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169248' class='_poem'><div id='poem_title_169248' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169248' class='poemCommentLink' target='_blank'>盱眙山寺</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169248\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169248_comment'></div><div class='poemContent' id='poem_content_169248'><div class='poemSentence' id='poem_sentence_0_169248'>下傍盱眙县，山崖露寺门。</div><div id='poem_sentence_0_169248_comment'></div><div class='poemSentence' id='poem_sentence_1_169248'>疏钟过淮口，一径入云根。</div><div id='poem_sentence_1_169248_comment'></div><div class='poemSentence' id='poem_sentence_2_169248'>竹老生虚籁，池清见古源。</div><div id='poem_sentence_2_169248_comment'></div><div class='poemSentence' id='poem_sentence_3_169248'>高僧拂经榻，茶话到黄昏。</div><div id='poem_sentence_3_169248_comment'></div><div class='poemSentence' id='poem_sentence_4_169248'></div><div id='poem_sentence_4_169248_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，自盱眙南游，有诗。<span class='label'>作品：</span>淮甸南游。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"15d36ebf456c476db5e45754e93e1ed2\");'><span id='15d36ebf456c476db5e45754e93e1ed2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='15d36ebf456c476db5e45754e93e1ed2' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，游金陵台城寺，有诗。<span class='label'>作品：</span>台城寺水亭。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169201' class='_poem'><div id='poem_title_169201' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169201' class='poemCommentLink' target='_blank'>台<sup class='reference inlineComment2'>①</sup>城寺水亭</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169201\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169201_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_169201_0'>① 原作野，据宋本、正统本、万历本改</div></div></div><div class='poemContent' id='poem_content_169201'><div class='poemSentence' id='poem_sentence_0_169201'>金井前朝事<span class='inlineComment2'>（宋本、正统本作寺）</span>，林僧问不知。</div><div id='poem_sentence_0_169201_comment'></div><div class='poemSentence' id='poem_sentence_1_169201'>绿苔欺破阁，白鸟占閒池。</div><div id='poem_sentence_1_169201_comment'></div><div class='poemSentence' id='poem_sentence_2_169201'><span class='link' onclick='ShowWordComment(\"poem_sentence_2_169201\", 169201, \"Clauses/4/Comments/0\")'>清楚</span>曾经晋，荒唐直到隋。</div><div id='poem_sentence_2_169201_comment'></div><div class='poemSentence' id='poem_sentence_3_169201'>南廊一声磬，斜照独凝思。</div><div id='poem_sentence_3_169201_comment'></div><div class='poemSentence' id='poem_sentence_4_169201'></div><div id='poem_sentence_4_169201_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，游金陵清凉寺，有诗。<span class='label'>作品：</span>翠微亭。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169365' class='_poem'><div id='poem_title_169365' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169365' class='poemCommentLink' target='_blank'>翠微亭<span class='inlineComment2'>（宋本注：在金陵清凉寺。）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169365\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169365_comment'></div><div class='poemContent' id='poem_content_169365'><div class='poemSentence' id='poem_sentence_0_169365'>亭在江干寺，清凉更翠微。</div><div id='poem_sentence_0_169365_comment'></div><div class='poemSentence' id='poem_sentence_1_169365'>秋阶响松子，雨壁上<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169365\", 169365, \"Clauses/3/Comments/0\")'>苔衣</span>。</div><div id='poem_sentence_1_169365_comment'></div><div class='poemSentence' id='poem_sentence_2_169365'>绝境长难得，浮生不拟归。</div><div id='poem_sentence_2_169365_comment'></div><div class='poemSentence' id='poem_sentence_3_169365'>旅怀何计是，西崦入斜晖。</div><div id='poem_sentence_3_169365_comment'></div><div class='poemSentence' id='poem_sentence_4_169365'></div><div id='poem_sentence_4_169365_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.716472,
+                    "Longitude": 118.293882,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340523",
+                    "Title": "和县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b935417f991842f187efe97d5a1fbc3b\");'><span id='b935417f991842f187efe97d5a1fbc3b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='b935417f991842f187efe97d5a1fbc3b' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，在和州参与诗社活动。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，在和州，有诗寄金陵诗僧。<span class='label'>作品：</span>历阳寄金陵衍上人。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169196' class='_poem'><div id='poem_title_169196' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169196' class='poemCommentLink' target='_blank'>历阳寄金陵衍上人</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169196\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169196_comment'></div><div class='poemContent' id='poem_content_169196'><div class='poemSentence' id='poem_sentence_0_169196'>藓晕莎丛古石房，寺和松竹背秋冈。</div><div id='poem_sentence_0_169196_comment'></div><div class='poemSentence' id='poem_sentence_1_169196'>骚吟未断云生褐，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169196\", 169196, \"Clauses/3/Comments/0\")'>梵偈</span>重开月照香。</div><div id='poem_sentence_1_169196_comment'></div><div class='poemSentence' id='poem_sentence_2_169196'>五老旧游应<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169196\", 169196, \"Clauses/4/Comments/0\")'>悄默</span>，六朝闲事肯悲凉。</div><div id='poem_sentence_2_169196_comment'></div><div class='poemSentence' id='poem_sentence_3_169196'>西州独客心摇甚，抹碧江天鸟一行。</div><div id='poem_sentence_3_169196_comment'></div><div class='poemSentence' id='poem_sentence_4_169196'></div><div id='poem_sentence_4_169196_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"d8827c99b3834439b245c7a41209a6c5\");'><span id='d8827c99b3834439b245c7a41209a6c5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='d8827c99b3834439b245c7a41209a6c5' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，过玉梁峡，有诗。<span class='label'>作品：</span>玉梁峡口怀朱严从事之官岭外两夕舣舟于此。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169202' class='_poem'><div id='poem_title_169202' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169202' class='poemCommentLink' target='_blank'>玉梁峡口怀朱严从事之官岭外两夕舟次<span class='inlineComment2'>（宋本作舣舟）</span>于此</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169202\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169202_comment'></div><div class='poemContent' id='poem_content_169202'><div class='poemSentence' id='poem_sentence_0_169202'>苍莽江湾尽入深，数家村坞在山阴。</div><div id='poem_sentence_0_169202_comment'></div><div class='poemSentence' id='poem_sentence_1_169202'>烟横落木寒初静，水带微阳晚未沉。</div><div id='poem_sentence_1_169202_comment'></div><div class='poemSentence' id='poem_sentence_2_169202'>极览定非他辈事，不来终负此生心。</div><div id='poem_sentence_2_169202_comment'></div><div class='poemSentence' id='poem_sentence_3_169202'>鲈鱼斫鲙松醪酒，曾属诗人两日吟。</div><div id='poem_sentence_3_169202_comment'></div><div class='poemSentence' id='poem_sentence_4_169202'></div><div id='poem_sentence_4_169202_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，过西梁山，有诗。<span class='label'>作品：</span>西梁山下泊船怀别润州杲上人。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169218' class='_poem'><div id='poem_title_169218' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169218' class='poemCommentLink' target='_blank'>西梁山下泊船怀别润州杲上人</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169218\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169218_comment'></div><div class='poemContent' id='poem_content_169218'><div class='poemSentence' id='poem_sentence_0_169218'>画图行李是随缘，立别江头雨霁天。</div><div id='poem_sentence_0_169218_comment'></div><div class='poemSentence' id='poem_sentence_1_169218'>铁瓮独归三月寺，铜瓶轻挂两潮<sup class='reference inlineComment2'>⑴</sup>船。</div><div id='poem_sentence_1_169218_comment'></div><div class='poemSentence' id='poem_sentence_2_169218'>吟焚篆籀香初竭<span class='inlineComment2'>（原作塌，四库本作袅，据和刻改）</span>，老拥云霞衲已穿。</div><div id='poem_sentence_2_169218_comment'></div><div class='poemSentence' id='poem_sentence_3_169218'>昨夜西梁山下月，为师怀想几凄然。</div><div id='poem_sentence_3_169218_comment'></div><div class='poemSentence' id='poem_sentence_4_169218'></div><div id='poem_sentence_4_169218_comment'></div></div><div class='poemNote' id='poem_note_169218'><div class='inline1'><div id='poem_sentence_1_169218_0'>⑴ 万历本、四库本作朝</div></div></div><div id='poem_note_169218_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.662082,
+                    "Longitude": 118.05207,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340522",
+                    "Title": "含山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6624e04acbe64b0cab2da0033b3acf73\");'><span id='6624e04acbe64b0cab2da0033b3acf73_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='6624e04acbe64b0cab2da0033b3acf73' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，过含山，有诗寄人。<span class='label'>作品：</span>秋日含山道中回寄历阳希然山人。<span class='inlineComment2'>（此诗见《林和靖集》卷四。）</span><div id='poem_169394' class='_poem'><div id='poem_title_169394' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169394' class='poemCommentLink' target='_blank'>秋日含山道中回寄历阳希然山人</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169394\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169394_comment'></div><div class='poemContent' id='poem_content_169394'><div class='poemSentence' id='poem_sentence_0_169394'>村落人家总入诗，下驴盘薄立多时。</div><div id='poem_sentence_0_169394_comment'></div><div class='poemSentence' id='poem_sentence_1_169394'>霜陂一掬清于鉴，漱著牙根便忆归。</div><div id='poem_sentence_1_169394_comment'></div><div class='poemSentence' id='poem_sentence_2_169394'></div><div id='poem_sentence_2_169394_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.575549,
+                    "Longitude": 118.504404,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340521",
+                    "Title": "当涂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dff9053eb1aa4208bed3008624fd1d1c\");'><span id='dff9053eb1aa4208bed3008624fd1d1c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='dff9053eb1aa4208bed3008624fd1d1c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，过采石矶，有诗。<span class='label'>作品：</span>采石山。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169251' class='_poem'><div id='poem_title_169251' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169251' class='poemCommentLink' target='_blank'>采石山</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169251\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169251_comment'></div><div class='poemContent' id='poem_content_169251'><div class='poemSentence' id='poem_sentence_0_169251'>危阁闲登日渐曛，整屏晴雨枕江濆。</div><div id='poem_sentence_0_169251_comment'></div><div class='poemSentence' id='poem_sentence_1_169251'>秋棱瘦出无多寺，古翠浓连一半云。</div><div id='poem_sentence_1_169251_comment'></div><div class='poemSentence' id='poem_sentence_2_169251'>坐卧不抛输钓叟，往来长见属鸥群。</div><div id='poem_sentence_2_169251_comment'></div><div class='poemSentence' id='poem_sentence_3_169251'>翻然却怪宣城守，是甚移将李白坟。</div><div id='poem_sentence_3_169251_comment'></div><div class='poemSentence' id='poem_sentence_4_169251'></div><div id='poem_sentence_4_169251_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.358798,
+                    "Longitude": 118.439561,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3402",
+                    "Title": "芜湖",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5cae02af396443af9ea1113a32dc15ac\");'><span id='5cae02af396443af9ea1113a32dc15ac_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='5cae02af396443af9ea1113a32dc15ac' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，过芜湖，有诗。<span class='label'>作品：</span>过芜湖县。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169224' class='_poem'><div id='poem_title_169224' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169224' class='poemCommentLink' target='_blank'>过芜湖县</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169224\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169224_comment'></div><div class='poemContent' id='poem_content_169224'><div class='poemSentence' id='poem_sentence_0_169224'>诗中长爱杜池州，说著芜湖是胜游。</div><div id='poem_sentence_0_169224_comment'></div><div class='poemSentence' id='poem_sentence_1_169224'>山掩县城当北起，渡冲官道向西流。</div><div id='poem_sentence_1_169224_comment'></div><div class='poemSentence' id='poem_sentence_2_169224'>风稍樯碇网初下，雨摆鱼薪市未收。</div><div id='poem_sentence_2_169224_comment'></div><div class='poemSentence' id='poem_sentence_3_169224'>更好两三僧院舍，<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169224\", 169224, \"Clauses/7/Comments/0\")'>松衣</span><span class='link' onclick='ShowWordComment(\"poem_sentence_3_169224\", 169224, \"Clauses/7/Comments/1\")'>石发</span>斗山幽。</div><div id='poem_sentence_3_169224_comment'></div><div class='poemSentence' id='poem_sentence_4_169224'></div><div id='poem_sentence_4_169224_comment'></div></div><div class='poemNote' id='poem_note_169224'><span class='label'>按：</span>宋王象之《舆地纪胜》卷一八《江南东路·太平州》录前四句，作郭祥正诗。<br /></div><div id='poem_note_169224_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.256984,
+                    "Longitude": 117.864823,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340225",
+                    "Title": "无为",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"986938508a8b49188e49932dc25bd7ac\");'><span id='986938508a8b49188e49932dc25bd7ac_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='986938508a8b49188e49932dc25bd7ac' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，过无为，有诗。<span class='label'>作品：</span>无为军。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169197' class='_poem'><div id='poem_title_169197' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169197' class='poemCommentLink' target='_blank'>无为军</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169197\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169197_comment'></div><div class='poemContent' id='poem_content_169197'><div class='poemSentence' id='poem_sentence_0_169197'>掩映军城隔水乡，人烟景物共苍苍。</div><div id='poem_sentence_0_169197_comment'></div><div class='poemSentence' id='poem_sentence_1_169197'>酒家楼阁摇<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169197\", 169197, \"Clauses/2/Comments/0\")'>风旆</span>，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_169197\", 169197, \"Clauses/3/Comments/0\")'>茶客</span>舟船簇雨樯。</div><div id='poem_sentence_1_169197_comment'></div><div class='poemSentence' id='poem_sentence_2_169197'>残笛远砧闻野墅，老苔寒桧看僧房。</div><div id='poem_sentence_2_169197_comment'></div><div class='poemSentence' id='poem_sentence_3_169197'>狎鸥更有江湖兴，珍重江头白一行。</div><div id='poem_sentence_3_169197_comment'></div><div class='poemSentence' id='poem_sentence_4_169197'></div><div id='poem_sentence_4_169197_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，过无为，有诗和朱仲方。<span class='label'>作品：</span>和朱仲方送然社师无为还历阳。<span class='inlineComment2'>（此诗见《林和靖集》卷一。）</span><div id='poem_169235' class='_poem'><div id='poem_title_169235' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169235' class='poemCommentLink' target='_blank'>和朱仲方送然社师无为还历阳<span class='inlineComment2'>（原作汤，据正统本改）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169235\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_169235_comment'></div><div class='poemContent' id='poem_content_169235'><div class='poemSentence' id='poem_sentence_0_169235'>归路过东关，行行一锡间。</div><div id='poem_sentence_0_169235_comment'></div><div class='poemSentence' id='poem_sentence_1_169235'>破林霜后月，孤寺水边山。</div><div id='poem_sentence_1_169235_comment'></div><div class='poemSentence' id='poem_sentence_2_169235'>顶笠冲残叶，腰装歇暮湾。</div><div id='poem_sentence_2_169235_comment'></div><div class='poemSentence' id='poem_sentence_3_169235'>香灯旧吟社，清思逐师还。</div><div id='poem_sentence_3_169235_comment'></div><div class='poemSentence' id='poem_sentence_4_169235'></div><div id='poem_sentence_4_169235_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.46778,
+                    "Longitude": 116.955302,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341523",
+                    "Title": "舒城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f2ecdb242dfd435e8dd91cd1ccf19aa8\");'><span id='f2ecdb242dfd435e8dd91cd1ccf19aa8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>，36岁</div><div id='f2ecdb242dfd435e8dd91cd1ccf19aa8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1003')\">1003年</a>　约于本年，在舒城，有诗赠李仲宣。<span class='label'>作品：</span>舒城僧舍呈赠李仲宣文学。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169409' class='_poem'><div id='poem_title_169409' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169409' class='poemCommentLink' target='_blank'>舒城僧舍呈赠李仲宣文学</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169409\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169409_comment'></div><div class='poemContent' id='poem_content_169409'><div class='poemSentence' id='poem_sentence_0_169409'>竹深淮寺雪萧骚，一壁寒灯伴寂寥。</div><div id='poem_sentence_0_169409_comment'></div><div class='poemSentence' id='poem_sentence_1_169409'>瘦尽骨毛终騕袅，蚀来锋刃转豪曹。</div><div id='poem_sentence_1_169409_comment'></div><div class='poemSentence' id='poem_sentence_2_169409'>宦情冷落诗中见，谈态轩昂酒后高。</div><div id='poem_sentence_2_169409_comment'></div><div class='poemSentence' id='poem_sentence_3_169409'>莫为无辜惜<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169409\", 169409, \"Clauses/6/Comments/0\")'>才术</span>，<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169409\", 169409, \"Clauses/7/Comments/0\")'>圣明</span>求治正焦劳。</div><div id='poem_sentence_3_169409_comment'></div><div class='poemSentence' id='poem_sentence_4_169409'></div><div id='poem_sentence_4_169409_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.692676,
+                    "Longitude": 117.573824,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341702",
+                    "Title": "贵池",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"38e7589b5c754fea80039663fca622cc\");'><span id='38e7589b5c754fea80039663fca622cc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>，37岁</div><div id='38e7589b5c754fea80039663fca622cc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>　约于本年，过池州，有诗。<span class='label'>作品：</span>池阳山店。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169214' class='_poem'><div id='poem_title_169214' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169214' class='poemCommentLink' target='_blank'>池阳山店</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169214\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169214_comment'></div><div class='poemContent' id='poem_content_169214'><div class='poemSentence' id='poem_sentence_0_169214'>数家村店簇山旁，下马危桥已夕阳。</div><div id='poem_sentence_0_169214_comment'></div><div class='poemSentence' id='poem_sentence_1_169214'>惊鸟忽冲溪霭破，暗花闲堕堑风香。</div><div id='poem_sentence_1_169214_comment'></div><div class='poemSentence' id='poem_sentence_2_169214'>时间<span class='link' onclick='ShowWordComment(\"poem_sentence_2_169214\", 169214, \"Clauses/4/Comments/0\")'>盘泊</span>心犹恋，日后寻思兴必狂。</div><div id='poem_sentence_2_169214_comment'></div><div class='poemSentence' id='poem_sentence_3_169214'>可惜回头一声笛，酒旗斜曳出疏篁。</div><div id='poem_sentence_3_169214_comment'></div><div class='poemSentence' id='poem_sentence_4_169214'></div><div id='poem_sentence_4_169214_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.636726,
+                    "Longitude": 116.587941,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340824",
+                    "Title": "潜山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4dbed48bc566446da8e27d20f81a6a96\");'><span id='4dbed48bc566446da8e27d20f81a6a96_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>，37岁</div><div id='4dbed48bc566446da8e27d20f81a6a96' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>　约于本年，游舒州山谷寺，有诗。<span class='label'>作品：</span>山谷寺。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169190' class='_poem'><div id='poem_title_169190' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169190' class='poemCommentLink' target='_blank'>山谷寺</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169190\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169190_comment'></div><div class='poemContent' id='poem_content_169190'><div class='poemSentence' id='poem_sentence_0_169190'>才<sup class='reference inlineComment2'>⑴</sup>入禅林便懒还，众峰深壑共孱颜。</div><div id='poem_sentence_0_169190_comment'></div><div class='poemSentence' id='poem_sentence_1_169190'>楼台冷簇云萝外，钟磬晴敲水石间。</div><div id='poem_sentence_1_169190_comment'></div><div class='poemSentence' id='poem_sentence_2_169190'>茶版手擎童子净，锡枝肩倚老僧闲。</div><div id='poem_sentence_2_169190_comment'></div><div class='poemSentence' id='poem_sentence_3_169190'>独孤房相碑文在，几认题名拂藓斑。</div><div id='poem_sentence_3_169190_comment'></div><div class='poemSentence' id='poem_sentence_4_169190'></div><div id='poem_sentence_4_169190_comment'></div></div><div class='poemNote' id='poem_note_169190'><div class='inline1'><div id='poem_sentence_0_169190_0'>⑴ 正统本、万历本作一</div></div></div><div id='poem_note_169190_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 32.579375,
+                    "Longitude": 116.793572,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341521",
+                    "Title": "寿县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e95b2aaf7b94465fb9e26dbae7cc14a4\");'><span id='e95b2aaf7b94465fb9e26dbae7cc14a4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>，37岁</div><div id='e95b2aaf7b94465fb9e26dbae7cc14a4' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，游寿州峡石，有诗。<span class='label'>作品：</span>峡石寺。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169256' class='_poem'><div id='poem_title_169256' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169256' class='poemCommentLink' target='_blank'>峡石寺</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169256\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169256_comment'></div><div class='poemContent' id='poem_content_169256'><div class='poemSentence' id='poem_sentence_0_169256'>长淮如练楚山青，禹凿招提甲画屏。</div><div id='poem_sentence_0_169256_comment'></div><div class='poemSentence' id='poem_sentence_1_169256'>数崦林萝攒野色，一崖楼阁贮天形。</div><div id='poem_sentence_1_169256_comment'></div><div class='poemSentence' id='poem_sentence_2_169256'>灯惊独鸟回晴坞，钟送遥帆落晚汀。</div><div id='poem_sentence_2_169256_comment'></div><div class='poemSentence' id='poem_sentence_3_169256'>不会<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169256\", 169256, \"Clauses/6/Comments/0\")'>剃头</span>无事者，几人能老此禅扃。</div><div id='poem_sentence_3_169256_comment'></div><div class='poemSentence' id='poem_sentence_4_169256'></div><div id='poem_sentence_4_169256_comment'></div></div></div><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>约于本年，游寿阳，有诗。<span class='label'>作品：</span>寿阳城南写望怀历阳故友。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169228' class='_poem'><div id='poem_title_169228' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169228' class='poemCommentLink' target='_blank'>寿阳城南写望怀历阳故友<span class='inlineComment2'>（按：此起五首原缺，据正统本补。）</span></a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169228\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169228_comment'></div><div class='poemContent' id='poem_content_169228'><div class='poemSentence' id='poem_sentence_0_169228'>楚山重叠矗淮濆，堪与王维立画勋。</div><div id='poem_sentence_0_169228_comment'></div><div class='poemSentence' id='poem_sentence_1_169228'>白鸟一行天在水，绿芜千阵野平云。</div><div id='poem_sentence_1_169228_comment'></div><div class='poemSentence' id='poem_sentence_2_169228'>孤崖拂阁晴光见，极浦渔舟晓未分。</div><div id='poem_sentence_2_169228_comment'></div><div class='poemSentence' id='poem_sentence_3_169228'>吟罢<span class='link' onclick='ShowWordComment(\"poem_sentence_3_169228\", 169228, \"Clauses/6/Comments/0\")'>骚然</span>略回首，历阳诗社久离群。</div><div id='poem_sentence_3_169228_comment'></div><div class='poemSentence' id='poem_sentence_4_169228'></div><div id='poem_sentence_4_169228_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.193583,
+                    "Longitude": 114.797997,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360423207",
+                    "Title": "清江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4b3543ae0d014787839aab322b939b27\");'><span id='4b3543ae0d014787839aab322b939b27_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1004&endYear=1004')\">1004年</a>，37岁</div><div id='4b3543ae0d014787839aab322b939b27' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，客居临江军，与李咨交游。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，客居临江军，有诗寄李建中。<span class='label'>作品：</span>寄解州李学士。<span class='inlineComment2'>（此诗见《林和靖集》卷三。）</span><div id='poem_169324' class='_poem'><div id='poem_title_169324' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169324' class='poemCommentLink' target='_blank'>寄解州李学士</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169324\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169324_comment'></div><div class='poemContent' id='poem_content_169324'><div class='poemSentence' id='poem_sentence_0_169324'>解梁贤守古难同，张盖垂鞭自士风。</div><div id='poem_sentence_0_169324_comment'></div><div class='poemSentence' id='poem_sentence_1_169324'>馆职久衔疏旧地，郡符重剖枉名公。</div><div id='poem_sentence_1_169324_comment'></div><div class='poemSentence' id='poem_sentence_2_169324'>印厅孤坐琴尊外，铃阁清谈易老中。</div><div id='poem_sentence_2_169324_comment'></div><div class='poemSentence' id='poem_sentence_3_169324'>闻演丝纶徵诏近，相如文学动天聪。</div><div id='poem_sentence_3_169324_comment'></div><div class='poemSentence' id='poem_sentence_4_169324'></div><div id='poem_sentence_4_169324_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a21ded3442434a4eb487bb0481ae6240\");'><span id='a21ded3442434a4eb487bb0481ae6240_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')\">1006年</a>，39岁</div><div id='a21ded3442434a4eb487bb0481ae6240' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')\">1006年</a>　约于本年，客居临江军。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2e33504086544247b2f82dfe562747b2\");'><span id='2e33504086544247b2f82dfe562747b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')\">1007年</a>，40岁</div><div id='2e33504086544247b2f82dfe562747b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')\">1007年</a>　约于本年，自临江军归隐杭州西湖孤山。<br /></div>"
+                },
+                {
+                    "Latitude": 27.74584,
+                    "Longitude": 115.393515,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360824",
+                    "Title": "新干",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ac3201800af14690b1d4196fe0ad87fa\");'><span id='ac3201800af14690b1d4196fe0ad87fa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1005&endYear=1005')\">1005年</a>，38岁</div><div id='ac3201800af14690b1d4196fe0ad87fa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1005&endYear=1005')\">1005年</a>　约于本年，客居临江军，游阁皂山。<br /></div>"
+                },
+                {
+                    "Latitude": 27.398983,
+                    "Longitude": 114.626077,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360829",
+                    "Title": "安福",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"24cca0b618fa4ac8bbfa4bfa2b7aff93\");'><span id='24cca0b618fa4ac8bbfa4bfa2b7aff93_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')\">1007年</a>，40岁</div><div id='24cca0b618fa4ac8bbfa4bfa2b7aff93' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')\">1007年</a>　约于本年，游安福，有诗。<span class='label'>作品：</span>安福县途中作。<span class='inlineComment2'>（此诗见《林和靖集》卷二。）</span><div id='poem_169206' class='_poem'><div id='poem_title_169206' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169206' class='poemCommentLink' target='_blank'>安福县途中作</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169206\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_169206_comment'></div><div class='poemContent' id='poem_content_169206'><div class='poemSentence' id='poem_sentence_0_169206'>诗景纷拿且按鞭，坏桥危磴已<sup class='reference inlineComment2'>⑴</sup>鸣泉。</div><div id='poem_sentence_0_169206_comment'></div><div class='poemSentence' id='poem_sentence_1_169206'>云根道店多沽酒，山崦人家亦种田。</div><div id='poem_sentence_1_169206_comment'></div><div class='poemSentence' id='poem_sentence_2_169206'>谷鸟惊啼冲宿雨，野梅愁绝闭寒烟。</div><div id='poem_sentence_2_169206_comment'></div><div class='poemSentence' id='poem_sentence_3_169206'>玉梁阁皂堪行遍，回得临江即上船。</div><div id='poem_sentence_3_169206_comment'></div><div class='poemSentence' id='poem_sentence_4_169206'></div><div id='poem_sentence_4_169206_comment'></div></div><div class='poemNote' id='poem_note_169206'><div class='inline1'><div id='poem_sentence_0_169206_0'>⑴ 宋本、万历本作走</div></div></div><div id='poem_note_169206_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cb3095352c7b401a98d274a115004898\");'><span id='cb3095352c7b401a98d274a115004898_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1017&endYear=1017')\">1017年</a>，50岁</div><div id='cb3095352c7b401a98d274a115004898' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1017&endYear=1017')\">1017年</a>　约于本年，至苏州，有诗。<span class='label'>作品：</span>宿姑苏净惠大师院。<span class='inlineComment2'>（此诗见《林和靖集》卷四。据诗意，林逋至苏州时间当在其隐居杭州期间，具体时间不详，姑系于此。）</span><div id='poem_169161' class='_poem'><div id='poem_title_169161' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=169161' class='poemCommentLink' target='_blank'>宿姑苏净惠大师院</a><a href='javascript: ShowPoemAuthorProfile(28438, \"宋\", \"林逋\", \"poem_title_169161\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>林逋</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_169161_comment'></div><div class='poemContent' id='poem_content_169161'><div class='poemSentence' id='poem_sentence_0_169161'>常爱人间此会稀，话长终夕<sup class='reference inlineComment2'>⑴</sup>重开扉。</div><div id='poem_sentence_0_169161_comment'></div><div class='poemSentence' id='poem_sentence_1_169161'><span class='link' onclick='ShowWordComment(\"poem_sentence_1_169161\", 169161, \"Clauses/2/Comments/0\")'>孤山</span>猿鸟西湖上，懒对寒灯咏式微。</div><div id='poem_sentence_1_169161_comment'></div><div class='poemSentence' id='poem_sentence_2_169161'></div><div id='poem_sentence_2_169161_comment'></div></div><div class='poemNote' id='poem_note_169161'><div class='inline1'><div id='poem_sentence_0_169161_0'>⑴ 宋本作中夕，四库本作终日</div></div></div><div id='poem_note_169161_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.659391,
+                    "Longitude": 118.468363,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3405 采石矶",
+                    "Title": "采石矶",
+                    "RequestUri": "scope=当代/当涂县采石矶&author=林逋&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 30.246149,
+                    "Longitude": 120.108581,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301 灵隐寺",
+                    "Title": "灵隐寺",
+                    "RequestUri": "scope=当代/杭州市灵隐寺&author=林逋&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "林逋 <span class='inlineComment2'>(968-1028)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：葛伟《林逋研究》、李一飞《林逋早年行踪及生卒考异》、傅璇琮主编《宋登科记考》、陈志平《林逋与李建中交游考》、池泽滋子《丁谓研究》、李焘《续资治通鉴长编》、陈志平《李建中年谱》、沈幼征校注《林和靖集》、〔万历〕《钱塘县志》、李之亮《宋两江郡守易替考》、刘正成主编《中国书法全集·北宋名家卷》、李之亮《宋代路分长官通考》、方健《范仲淹评传》、李一飞《梅尧臣早期事迹考》　录入整理：金传道</p><p><a href=\"javascript: ViewRoute(0, 5, 116.9367105, 32.2463575, 7, 0)\">1-35岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(1, 0)\">奉化</a> → <a href=\"javascript: ViewPoint(2, 0)\">曹县</a> → <a href=\"javascript: ViewPoint(3, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(4, 0)\">曹县</a></p><p><a href=\"javascript: ViewRoute(5, 11, 116.5583975, 34.1940495, 8, 0)\">35-36岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">济南</a> → <a href=\"javascript: ViewPoint(6, 0)\">曹县</a> → <a href=\"javascript: ViewPoint(7, 0)\">开封</a> → <a href=\"javascript: ViewPoint(8, 0)\">盱眙</a> → <a href=\"javascript: ViewPoint(9, 0)\">南京</a> → <a href=\"javascript: ViewPoint(10, 0)\">和县</a></p><p><a href=\"javascript: ViewRoute(11, 21, 116.6512005, 30.886479, 9, 0)\">36-37岁</a><br /><a href=\"javascript: ViewPoint(11, 0)\">含山</a> → <a href=\"javascript: ViewPoint(12, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(13, 0)\">和县</a> → <a href=\"javascript: ViewPoint(14, 0)\">芜湖</a> → <a href=\"javascript: ViewPoint(15, 0)\">无为</a> → <a href=\"javascript: ViewPoint(16, 0)\">舒城</a> → <a href=\"javascript: ViewPoint(17, 0)\">贵池</a> → <a href=\"javascript: ViewPoint(18, 0)\">潜山</a> → <a href=\"javascript: ViewPoint(19, 0)\">寿县</a> → <a href=\"javascript: ViewPoint(20, 0)\">清江</a></p><p><a href=\"javascript: ViewRoute(21, 26, 117.393885, 28.839521, 8, 0)\">38-49岁</a><br /><a href=\"javascript: ViewPoint(21, 0)\">新干</a> → <a href=\"javascript: ViewPoint(22, 0)\">清江</a> → <a href=\"javascript: ViewPoint(23, 0)\">安福</a> → <a href=\"javascript: ViewPoint(24, 0)\">清江</a> → <a href=\"javascript: ViewPoint(25, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(26, 28, 120.375653, 30.7923125, 10, 0)\">50-61岁</a><br /><a href=\"javascript: ViewPoint(26, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(27, 0)\">杭州</a></p>"
+        }
+    ]
+}

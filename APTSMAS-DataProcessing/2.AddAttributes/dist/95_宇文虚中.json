@@ -1,0 +1,615 @@
+{
+    "id": 95,
+    "name": "宇文虚中",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1079,
+        1128
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 30.57447,
+            "lng": 103.92377
+        },
+        "scaleLevel": 6
+    },
+    "reference": [
+        "《金代文学家年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                39
+            ],
+            "correspondPath": [
+                "双流",
+                "剑阁",
+                "淮阳",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                40,
+                47
+            ],
+            "correspondPath": [
+                "凤翔",
+                "开封",
+                "北京",
+                "庆阳",
+                "安徽",
+                "北京",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                47,
+                48
+            ],
+            "correspondPath": [
+                "太原",
+                "开封",
+                "宿州",
+                "亳州",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                48,
+                50
+            ],
+            "correspondPath": [
+                "济南",
+                "韶关",
+                "扬州",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                49,
+                50
+            ],
+            "correspondPath": [
+                "韶关",
+                "扬州",
+                "开封"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "035534ce9566445dbbee091de724f94d",
+                        "lat": 30.57447,
+                        "lng": 103.92377,
+                        "regionId": "CN510122",
+                        "location": "双流",
+                        "city": "成都市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "09a22a70b3474faca944fa83088ea346",
+                        "lat": 32.28849,
+                        "lng": 105.52526,
+                        "regionId": "CN510823",
+                        "location": "剑阁",
+                        "city": "广元市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1e6dc9e5cf55487f90ed94df80e5969b",
+                        "lat": 33.7315,
+                        "lng": 114.88614,
+                        "regionId": "CN411626",
+                        "location": "淮阳",
+                        "city": "周口市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7d23d6d6eeb8408d82c21a957f2a9cba",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0818a94025e74731a84fee17a21235c5",
+                        "lat": 34.52114,
+                        "lng": 107.40076,
+                        "regionId": "CN610322",
+                        "location": "凤翔",
+                        "city": "宝鸡市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a7c406a1bde04948842d61f2a978add3",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "728c97b650044fb980dea571cd6fcc52",
+                        "lat": 39.90469,
+                        "lng": 116.40717,
+                        "regionId": "CN11",
+                        "location": "北京",
+                        "city": null,
+                        "province": null,
+                        "country": null,
+                        "visitYear": null
+                    },
+                    {
+                        "id": "062ec17e5d55483bb223e69792446bf8",
+                        "lat": 35.70978,
+                        "lng": 107.64292,
+                        "regionId": "CN621",
+                        "location": "庆阳",
+                        "city": "庆阳市",
+                        "province": "甘肃省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "82729add8ccd46bcb9db50c3a4be5c46",
+                        "lat": 31.86157,
+                        "lng": 117.28565,
+                        "regionId": "CN34",
+                        "location": "安徽",
+                        "city": "合肥市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9db5785a027a45c4a0aaf480372c496d",
+                        "lat": 39.90469,
+                        "lng": 116.40717,
+                        "regionId": "CN11",
+                        "location": "北京",
+                        "city": null,
+                        "province": null,
+                        "country": null,
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b9851236ca9241fda2ef172ad7585543",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d251b9c845ae41108edd016a8ba9cb1b",
+                        "lat": 37.87059,
+                        "lng": 112.55067,
+                        "regionId": "CN1401",
+                        "location": "太原",
+                        "city": "太原市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "fe7ea0fb8b3f4d158ba6abd54a03cbaa",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a4128350d7914b1ab3336fd83bb4755d",
+                        "lat": 33.64614,
+                        "lng": 116.96391,
+                        "regionId": "CN3413",
+                        "location": "宿州",
+                        "city": "宿州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "480c016a8b76497393d1bf81688bd679",
+                        "lat": 33.84461,
+                        "lng": 115.77931,
+                        "regionId": "CN3416",
+                        "location": "亳州",
+                        "city": "亳州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5b10790462404bbba17799ea6e7a5b97",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "076eabc737f24048bece9e087e753585",
+                        "lat": 36.66529,
+                        "lng": 116.99493,
+                        "regionId": "CN3701",
+                        "location": "济南",
+                        "city": "济南市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "79d1f65db9684f1c96587befaec54f16",
+                        "lat": 24.81039,
+                        "lng": 113.59723,
+                        "regionId": "CN4402",
+                        "location": "韶关",
+                        "city": "韶关市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b133e579cc97411ea992c64e77f3459b",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "623f0bc26b284186b1c872f7d892992e",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "03ea2f5327e74cbababfcc9a8ddee8e1",
+                        "lat": 24.81039,
+                        "lng": 113.59723,
+                        "regionId": "CN4402",
+                        "location": "韶关",
+                        "city": "韶关市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f6e5ad4c3342456faa252b326957e8fd",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "efe0515105f841d8ac1275e3dd11a751",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 30.57447,
+                "lng": 103.92377,
+                "id": null,
+                "regionId": "CN510122",
+                "location": "双流",
+                "city": "成都市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1079-1108年 ，1-30岁",
+                    "1079-1108年 居乡。"
+                ]
+            },
+            {
+                "lat": 32.28849,
+                "lng": 105.52526,
+                "id": null,
+                "regionId": "CN510823",
+                "location": "剑阁",
+                "city": "广元市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1109年 ，31岁",
+                    "1109年 作宦剑门，重阳节登览剑门梁山铺。"
+                ]
+            },
+            {
+                "lat": 33.7315,
+                "lng": 114.88614,
+                "id": null,
+                "regionId": "CN411626",
+                "location": "淮阳",
+                "city": "周口市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1109年 ，31岁",
+                    "1109年 节录《本草》一帙，辨药性大纲。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1115-1117年 ，37-39岁",
+                    "1115年 入为起居舍人、国史院编修。",
+                    "1116年1月22日 同知贡举。",
+                    "1116年4月 除通直郎中书舍人，与吴敏同僚。",
+                    "1116年6月29日 奉赦为皇太子纳妃，并奏告永裕等陵。",
+                    "1116年 与翰林学士许光凝、宣政殿学士薛嗣昌表荐申积中操行。",
+                    "1117年 在京任中书舍人。",
+                    "1122年 ，44岁",
+                    "1122年5月18日 入童贯幕为参谋。",
+                    "1122年 上书谏取燕云，降集英殿修撰。",
+                    "1122年9月 郭药师降，虚中奏言留之京师，弗听。",
+                    "1125年 ，47岁",
+                    "1125年9月 为金告庆接伴使。",
+                    "1125年9月12日 荐陈知质知隆德府。",
+                    "1125年 ，47岁",
+                    "1125年12月16日 随童贯回至京师。",
+                    "1125年12月22日 草罪己诏。",
+                    "1125年12月22日 授资政殿大学士军前宣谕使。",
+                    "1125年12月22日 檄文召姚师古、种师道驰援京师。",
+                    "1126年 ，48岁",
+                    "1126年2月 二月初，以钦宗召，复入汴。",
+                    "1126年2月1日 姚平仲劫金营不利。",
+                    "1126年2月5日 宇文虚中使金营，辩劫营非朝廷意。",
+                    "1126年2月7日 除资政殿大学士、签书枢密院事。",
+                    "1126年2月8日 以金人将退，除送路使副。",
+                    "1126年2月9日 复使金营。",
+                    "1128年 ，50岁",
+                    "1128年7月22日 使金国，祈请二圣，道由京城，暂摄留守司事。",
+                    "1128年10月26日 渡河入金（此后活动事迹在金朝）",
+                    "1128年 ，50岁",
+                    "1128年7月22日 使金国，祈请二圣，道由京城，暂摄留守司事。",
+                    "1128年10月26日 渡河入金（此后活动事迹在金朝）"
+                ]
+            },
+            {
+                "lat": 34.52114,
+                "lng": 107.40076,
+                "id": null,
+                "regionId": "CN610322",
+                "location": "凤翔",
+                "city": "宝鸡市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1118年 ，40岁",
+                    "1118年8月13日 罢中书舍人，提举凤翔府上清太平宫。"
+                ]
+            },
+            {
+                "lat": 39.90469,
+                "lng": 116.40717,
+                "id": null,
+                "regionId": "CN11",
+                "location": "北京",
+                "city": null,
+                "province": null,
+                "country": null,
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1122年 ，44岁",
+                    "1122年10月 辽太后萧氏降，王黼再生攻伐之议，镌虚中为待制，知檀州。",
+                    "1123-1125年 ，45-47岁",
+                    "1123年 燕山奏功，迁直学士，复为童贯参谋。",
+                    "1123年 书折克行墓碑。",
+                    "1124年 在童贯幕。",
+                    "1125年3月29日 随童贯入燕山，犒常胜军。",
+                    "1125年7月 除宣和殿学士。"
+                ]
+            },
+            {
+                "lat": 35.70978,
+                "lng": 107.64292,
+                "id": null,
+                "regionId": "CN621",
+                "location": "庆阳",
+                "city": "庆阳市",
+                "province": "甘肃省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1123年 ，45岁",
+                    "1123年 以郑居中荐，帅庆阳，时御笔亲改名“黄中”为“虚中”"
+                ]
+            },
+            {
+                "lat": 31.86157,
+                "lng": 117.28565,
+                "id": null,
+                "regionId": "CN34",
+                "location": "安徽",
+                "city": "合肥市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1123年 ，45岁",
+                    "1123年 以事责知亳州。"
+                ]
+            },
+            {
+                "lat": 37.87059,
+                "lng": 112.55067,
+                "id": null,
+                "regionId": "CN1401",
+                "location": "太原",
+                "city": "太原市",
+                "province": "山西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1125年 ，47岁",
+                    "1125年9月 童贯复宣抚河东，宇文虚中随行。"
+                ]
+            },
+            {
+                "lat": 33.64614,
+                "lng": 116.96391,
+                "id": null,
+                "regionId": "CN3413",
+                "location": "宿州",
+                "city": "宿州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126年 ，48岁",
+                    "1126年1月 与李邈召东南兵入援。"
+                ]
+            },
+            {
+                "lat": 33.84461,
+                "lng": 115.77931,
+                "id": null,
+                "regionId": "CN3416",
+                "location": "亳州",
+                "city": "亳州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126年 ，48岁",
+                    "1126年1月 与李邈召东南兵入援。"
+                ]
+            },
+            {
+                "lat": 36.66529,
+                "lng": 116.99493,
+                "id": null,
+                "regionId": "CN3701",
+                "location": "济南",
+                "city": "济南市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126年 ，48岁",
+                    "1126年3月4日 为胡舜陟所劾，知青州。",
+                    "1126年4月17日 复为胡舜陟所劾，四月落职，提举亳州明道宫。"
+                ]
+            },
+            {
+                "lat": 24.81039,
+                "lng": 113.59723,
+                "id": null,
+                "regionId": "CN4402",
+                "location": "韶关",
+                "city": "韶关市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1127年 ，49岁",
+                    "1127年5月11日 以靖康大臣主和误国，责授安化军节度副使、韶州安置。",
+                    "1127年2月8日 复中大夫，召赴扬州行在。",
+                    "1127年 ，49岁",
+                    "1127年2月8日 复中大夫，召赴扬州行在。"
+                ]
+            },
+            {
+                "lat": 32.39358,
+                "lng": 119.41269,
+                "id": null,
+                "regionId": "CN321",
+                "location": "扬州",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1128年 ，50岁",
+                    "1128年5月13日 复资政殿大学士，为金国祈请使。撰《资政殿大学士忠显刘公神道碑》",
+                    "1128年 ，50岁",
+                    "1128年5月13日 复资政殿大学士，为金国祈请使。",
+                    "1128年 撰《资政殿大学士忠显刘公神道碑》"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

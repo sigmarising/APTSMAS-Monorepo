@@ -1,0 +1,761 @@
+{
+    "id": 65,
+    "name": "吴中复",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1011,
+        1078
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 29.60638,
+            "lng": 114.48276
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《吴中复年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                37
+            ],
+            "correspondPath": [
+                "通山",
+                "开封",
+                "明光",
+                "金坛",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                38,
+                46
+            ],
+            "correspondPath": [
+                "犍为",
+                "长沙",
+                "开封",
+                "商丘",
+                "高邮",
+                "贵池",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                46,
+                68
+            ],
+            "correspondPath": [
+                "濮阳",
+                "开封",
+                "宁城",
+                "开封",
+                "长沙",
+                "河间",
+                "南京",
+                "正定",
+                "成都",
+                "西安",
+                "九江",
+                "南昌",
+                "荆州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "924ec1df17e44953b0dc7d9f84ac3d6c",
+                        "lat": 29.60638,
+                        "lng": 114.48276,
+                        "regionId": "CN421224",
+                        "location": "通山",
+                        "city": "咸宁市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "734f631309e649198de124a34ad8c868",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "43d1c41efdbe407388ff2adda040c1d0",
+                        "lat": 32.77699,
+                        "lng": 117.98944,
+                        "regionId": "CN341182",
+                        "location": "明光",
+                        "city": "滁州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "27386c290a5e4fd9ac433ff4a9e2a26e",
+                        "lat": 31.73486,
+                        "lng": 119.57808,
+                        "regionId": "CN320413",
+                        "location": "金坛",
+                        "city": "常州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e0100b54d07841bca3bc045a928c1985",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8ef492a324b64367afc512255f43b0d5",
+                        "lat": 29.20828,
+                        "lng": 103.94931,
+                        "regionId": "CN511123",
+                        "location": "犍为",
+                        "city": "乐山市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "45268caae6664917ad154ed44ca1bf3b",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c469f0b4e9d5416ba840bfefaf4932e4",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "490121e9f3a84b6bab603b5d6640b979",
+                        "lat": 34.41427,
+                        "lng": 115.65635,
+                        "regionId": "CN4114",
+                        "location": "商丘",
+                        "city": "商丘市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e56817b1c19b4e84972da39f3c1d727f",
+                        "lat": 32.78112,
+                        "lng": 119.45558,
+                        "regionId": "CN321084",
+                        "location": "高邮",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4f15ae87cf4a48c698518d20b2324251",
+                        "lat": 30.68673,
+                        "lng": 117.56733,
+                        "regionId": "CN341702",
+                        "location": "贵池",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ebb3387b0e074216845778c7d298f9f6",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7ffb0c71d48147d9a717d824350a004c",
+                        "lat": 35.76189,
+                        "lng": 115.02932,
+                        "regionId": "CN4109",
+                        "location": "濮阳",
+                        "city": "濮阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f4ae0de96f7f4672a2df069a568558aa",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8016914d5cb343f3bf4d14f77b297b40",
+                        "lat": 41.59426,
+                        "lng": 119.34308,
+                        "regionId": "CN150429",
+                        "location": "宁城",
+                        "city": "赤峰市",
+                        "province": "内蒙古自治区",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "439cd34f1303477e859280ee26275282",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4b566664e1f54487945c6eedb1bbb76f",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "92573c83949c46f5b7f77e0cd8d23dab",
+                        "lat": 38.44548,
+                        "lng": 116.099,
+                        "regionId": "CN130984",
+                        "location": "河间",
+                        "city": "沧州市",
+                        "province": "河北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1fd267aa9a1142d8a84e4fded9f76e21",
+                        "lat": 32.05838,
+                        "lng": 118.79647,
+                        "regionId": "CN3201",
+                        "location": "南京",
+                        "city": "南京市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "6829757690d3478d88761ede58e3ed99",
+                        "lat": 38.14618,
+                        "lng": 114.57096,
+                        "regionId": "CN130123",
+                        "location": "正定",
+                        "city": "石家庄市",
+                        "province": "河北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "684b3b6b8cd3472f9ae77a63ed267076",
+                        "lat": 30.5702,
+                        "lng": 104.06476,
+                        "regionId": "CN5101",
+                        "location": "成都",
+                        "city": "成都市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e1f11b5933ba4ff292aa048d530c5df7",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "df5beeae831e4133bf1f3b8f016daf7b",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c36cd41b614f40f7a3f91858e1391d4a",
+                        "lat": 28.68202,
+                        "lng": 115.85794,
+                        "regionId": "CN3601",
+                        "location": "南昌",
+                        "city": "南昌市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b0cacbd3caea42d1b0a9dda183cc647e",
+                        "lat": 30.33479,
+                        "lng": 112.24069,
+                        "regionId": "CN421",
+                        "location": "荆州",
+                        "city": "荆州市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 29.60638,
+                "lng": 114.48276,
+                "id": null,
+                "regionId": "CN421224",
+                "location": "通山",
+                "city": "咸宁市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1011-1037年 ，1-27岁",
+                    "1011-1016年 1017-1023年",
+                    "1024年 兄弟几复、嗣复登第。",
+                    "1025-1037年 在故乡北台山读书。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1037-1038年 ，27-28岁",
+                    "1037年 赴京应试。",
+                    "1038年 登吕溱榜进士第。",
+                    "1047年 ，37岁",
+                    "1047年 改秘书省著作佐郎。",
+                    "1053-1054年 ，43-44岁",
+                    "1053年12月25日 由孙抃荐为监察御史里行。",
+                    "1054年4月25日 上召对延和殿。",
+                    "1054年6月21日 上殿弹宰相梁适奸邪。",
+                    "1054年7月7日 命出通判虔州，蔡襄、胡宿为之辩。出京城。",
+                    "1054年8月16日 改以主客员外郎知池州，过陈留。赴任途中有组诗，寄示梅尧臣、吕景初、马遵等唱和，原唱不存。",
+                    "1055-1056年 ，45-46岁",
+                    "1055年10月12日 由赵抃荐为殿中侍御史里行。",
+                    "1056年8月4日 乞召包拯、唐介还朝，如所请。",
+                    "1056-1057年 ，46-47岁",
+                    "1056年12月5日 弹劾宰相刘沆，仁宗书“铁御史”三字赐之。",
+                    "1057年2月16日 劾知桂州张子宪，罢为秘书监。",
+                    "1057年4月23日 由中丞张昪荐，迁殿中侍御史、充言事御史。",
+                    "1057年5月17日 进言责降刘恢、刘温礼。",
+                    "1057年8月1日 劾知郢州贾黯挠朝廷法。",
+                    "1057-1062年 ，47-52岁",
+                    "1057年9月1日 言王洙官不应得谥，乃止。",
+                    "1058年 改右司谏、兼主管国子监。",
+                    "1058年5月3日 请补试监生。",
+                    "1058年5月13日 勘劾郭申锡。",
+                    "1058年6月7日 论罢枢密使贾昌朝，迁同知谏院侍御史知杂事兼都水监。",
+                    "1059年4月4日 请诸路提点刑狱朝臣、使臣并带兼提举河渠公事，从其请。",
+                    "1059年5月8日 劾安保衡。",
+                    "1059年7月17日 请置殿前马步军司检法官，从之，寻复罢之。",
+                    "1059年8月 除三司户部副使。",
+                    "1059年8月27日 与包拯等同详定均税事。",
+                    "1060年7月26日 与吴奎、王安石度牧马利害。",
+                    "1061年 任户部副使。",
+                    "1062年8月9日 劾奏知秦州张方平擅以官爵许戎狄。"
+                ]
+            },
+            {
+                "lat": 32.77699,
+                "lng": 117.98944,
+                "id": null,
+                "regionId": "CN341182",
+                "location": "明光",
+                "city": "滁州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1038-1041年 ，28-31岁",
+                    "1038-1041年 为泗州招信尉。"
+                ]
+            },
+            {
+                "lat": 31.73486,
+                "lng": 119.57808,
+                "id": null,
+                "regionId": "CN320413",
+                "location": "金坛",
+                "city": "常州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1042-1046年 ，32-36岁",
+                    "1042-1046年 知金坛县。"
+                ]
+            },
+            {
+                "lat": 29.20828,
+                "lng": 103.94931,
+                "id": null,
+                "regionId": "CN511123",
+                "location": "犍为",
+                "city": "乐山市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1048-1050年 ，38-40岁",
+                    "1048年 知犍为县，毁淫祠。",
+                    "1049年 作三戒诗勒诸石，有“莫爱荔子红，岁作嘉州孽”句，全诗已不存。",
+                    "1050年 与吴秘、张谷等唱和，有《南犍唱和诗集》一卷。廉于居官，代还，不载一物。"
+                ]
+            },
+            {
+                "lat": 28.245949,
+                "lng": 113.08093,
+                "id": null,
+                "regionId": "CN430121",
+                "location": "长沙",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1051-1053年 ，41-43岁",
+                    "1051年 通判潭州。",
+                    "1052年 通判潭州，居官清廉。",
+                    "1053年 通判潭州。",
+                    "1063-1065年 ，53-55岁",
+                    "1063-1065年 以天章阁待制知潭州。"
+                ]
+            },
+            {
+                "lat": 34.41427,
+                "lng": 115.65635,
+                "id": null,
+                "regionId": "CN4114",
+                "location": "商丘",
+                "city": "商丘市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1054年 ，44岁",
+                    "1054年 晚泊睢阳，过汴渠，渡淮河。"
+                ]
+            },
+            {
+                "lat": 32.78112,
+                "lng": 119.45558,
+                "id": null,
+                "regionId": "CN321084",
+                "location": "高邮",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1054年 ，44岁",
+                    "1054年 过高邮新开湖。"
+                ]
+            },
+            {
+                "lat": 30.68673,
+                "lng": 117.56733,
+                "id": null,
+                "regionId": "CN341702",
+                "location": "贵池",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1054-1055年 ，44-45岁",
+                    "1054年 到池州任。",
+                    "1055年1月19日 与友人游齐山，有石刻题名。",
+                    "1055年 游齐山，题诗。"
+                ]
+            },
+            {
+                "lat": 35.76189,
+                "lng": 115.02932,
+                "id": null,
+                "regionId": "CN4109",
+                "location": "濮阳",
+                "city": "濮阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1056年 ，46岁",
+                    "1056年11月 受命遣往澶州处理开河案。"
+                ]
+            },
+            {
+                "lat": 41.59426,
+                "lng": 119.34308,
+                "id": null,
+                "regionId": "CN150429",
+                "location": "宁城",
+                "city": "赤峰市",
+                "province": "内蒙古自治区",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1057年 ，47岁",
+                    "1057年8月25日 为契丹正旦使出使契丹。"
+                ]
+            },
+            {
+                "lat": 38.44548,
+                "lng": 116.099,
+                "id": null,
+                "regionId": "CN130984",
+                "location": "河间",
+                "city": "沧州市",
+                "province": "河北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1066-1067年 ，56-57岁",
+                    "1066年 徙知瀛州。",
+                    "1067年 苏颂为接伴契丹使，途径瀛州，与中复唱和。",
+                    "1067年 与友人知成都府赵抃寄诗唱和。",
+                    "1067年 年底，有改河东都转运使之命。"
+                ]
+            },
+            {
+                "lat": 32.05838,
+                "lng": 118.79647,
+                "id": null,
+                "regionId": "CN3201",
+                "location": "南京",
+                "city": "南京市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1068年 ，58岁",
+                    "1068年4月28日 以龙图阁直学士、左谏议大夫知江宁府。"
+                ]
+            },
+            {
+                "lat": 38.14618,
+                "lng": 114.57096,
+                "id": null,
+                "regionId": "CN130123",
+                "location": "正定",
+                "city": "石家庄市",
+                "province": "河北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1069-1070年 ，59-60岁",
+                    "1069年5月19日 离江宁，移知真定府。",
+                    "1070年 在知真定府任上，创修府学。",
+                    "1070年4月 曾公亮先后荐其任御史中丞、知开封府，皆因王安石反对不果。"
+                ]
+            },
+            {
+                "lat": 30.5702,
+                "lng": 104.06476,
+                "id": null,
+                "regionId": "CN5101",
+                "location": "成都",
+                "city": "成都市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1070-1072年 ，60-62岁",
+                    "1070年10月4日 移知成都府。",
+                    "1071年3月21日 游城东海云寺，与同僚雅集，作《游海云寺》诗。",
+                    "1071年3月21日 游城东海云寺，有诗续和同僚。",
+                    "1071年 又作诗《江左谓海棠为川红》，范纯仁与之唱和。",
+                    "1072年 友人赵抃、范镇等寄诗唱和。",
+                    "1072年 夏，泛舟江渎，有诗。",
+                    "1072年 在成都期间，有诗作《西园十咏》等。",
+                    "1072年 范纯仁离蜀，中复有诗送别。诗不存。",
+                    "1072年 在成都府有题浣花溪任氏碑。",
+                    "1072年7月27日 赵抃被命知成都府，中复尚未离成都。"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1072-1075年 ，62-65岁",
+                    "1072年11月17日 迁给事中，知永兴军。",
+                    "1073年7月26日 有知河阳之命，未赴，依旧任。",
+                    "1073年 游终南山，有诗与司马光唱和。",
+                    "1074年9月 改钱法之弊。",
+                    "1074年11月22日 与赵抃、皮公弼、毋沆、章楶等同游慈恩塔，在兴庆池馆题名。",
+                    "1075年2月7日 降授右谏议大夫，寻罢永兴军，请提举玉隆观。"
+                ]
+            },
+            {
+                "lat": 29.70548,
+                "lng": 116.00146,
+                "id": null,
+                "regionId": "CN3604",
+                "location": "九江",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1075年 ，65岁",
+                    "1075年12月 岁暮，还乡过浔阳，孔武仲拜见。"
+                ]
+            },
+            {
+                "lat": 28.68202,
+                "lng": 115.85794,
+                "id": null,
+                "regionId": "CN3601",
+                "location": "南昌",
+                "city": "南昌市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1075-1076年 ，65-66岁",
+                    "1075-1076年 闲居南昌。"
+                ]
+            },
+            {
+                "lat": 30.33479,
+                "lng": 112.24069,
+                "id": null,
+                "regionId": "CN421",
+                "location": "荆州",
+                "city": "荆州市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1077-1078年 ，67-68岁",
+                    "1077年10月13日 起知荆南。",
+                    "1078年8月1日 罢府事。"
+                ]
+            },
+            {
+                "lat": 30.636434,
+                "lng": 117.513671,
+                "id": null,
+                "regionId": "CN3417 齐山",
+                "location": "齐山",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            },
+            {
+                "lat": 30.655979,
+                "lng": 104.02771,
+                "id": null,
+                "regionId": "CN5101 浣花溪公园",
+                "location": "浣花溪",
+                "city": "成都市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            },
+            {
+                "lat": 33.949509,
+                "lng": 109.060387,
+                "id": null,
+                "regionId": "CN6101 终南山",
+                "location": "终南山",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

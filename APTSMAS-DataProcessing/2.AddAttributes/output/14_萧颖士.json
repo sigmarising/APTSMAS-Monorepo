@@ -1,0 +1,449 @@
+{
+    "id": 14,
+    "name": "萧颖士",
+    "dynasty": "唐",
+    "lifeDuration": [
+        717,
+        759
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 34.14048,
+            "lng": 113.48794
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《萧颖士事迹考》",
+        "《萧颖士事迹系年考辨》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                24
+            ],
+            "correspondPath": [
+                "禹州",
+                "西安",
+                "莒县",
+                "桂林",
+                "禹州"
+            ]
+        },
+        {
+            "agesDuration": [
+                25,
+                33
+            ],
+            "correspondPath": [
+                "西安",
+                "濮阳",
+                "西安",
+                "扬州"
+            ]
+        },
+        {
+            "agesDuration": [
+                34,
+                43
+            ],
+            "correspondPath": [
+                "绍兴",
+                "西安",
+                "洛阳",
+                "襄阳",
+                "南京",
+                "扬州",
+                "汝南"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "6bbdbe3b28704180bc1b9c8046dfa34e",
+                        "lat": 34.14048,
+                        "lng": 113.48794,
+                        "regionId": "CN411081",
+                        "location": "禹州",
+                        "city": "许昌市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cf6b7d9494424238b5104adb76583945",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5443102da6fa4374acf92b612204a51c",
+                        "lat": 35.579969,
+                        "lng": 118.83687,
+                        "regionId": "CN371122",
+                        "location": "莒县",
+                        "city": "日照市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8d282f6f79f2442190ec5349b92a544a",
+                        "lat": 25.27361,
+                        "lng": 110.29002,
+                        "regionId": "CN4503",
+                        "location": "桂林",
+                        "city": "桂林市",
+                        "province": "广西壮族自治区",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a8e306e6b5374b06a19633c828d01e67",
+                        "lat": 34.14048,
+                        "lng": 113.48794,
+                        "regionId": "CN411081",
+                        "location": "禹州",
+                        "city": "许昌市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "27665096844e4c9e83814ca3d0efa554",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f1f6936393314a4088a3c82b0bbe6a98",
+                        "lat": 35.76189,
+                        "lng": 115.02932,
+                        "regionId": "CN4109",
+                        "location": "濮阳",
+                        "city": "濮阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ce42d333c328412bb88a1a0e1d3c087b",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1774f26990ea4ce7b5fe45f90b3d70e6",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c9399629beb642609d54ffd26b43e405",
+                        "lat": 30.03033,
+                        "lng": 120.580199,
+                        "regionId": "CN3306",
+                        "location": "绍兴",
+                        "city": "绍兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f10f40c0119f4ebb84171fa884869308",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a35aee52ba1549de961613683c2c56a2",
+                        "lat": 34.61812,
+                        "lng": 112.45361,
+                        "regionId": "CN4103",
+                        "location": "洛阳",
+                        "city": "洛阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f9806fafb2be45bfb5e959aa2327928d",
+                        "lat": 32.009,
+                        "lng": 112.12255,
+                        "regionId": "CN4206",
+                        "location": "襄阳",
+                        "city": "襄阳市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0fd1f0b4155f44d3b295ec14b4d78098",
+                        "lat": 32.05838,
+                        "lng": 118.79647,
+                        "regionId": "CN3201",
+                        "location": "南京",
+                        "city": "南京市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "080604aa8a034f3db5e938c4bcd3c976",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2e8c1963d5a74584896bd71a5cf6f82a",
+                        "lat": 33.00685,
+                        "lng": 114.36229,
+                        "regionId": "CN411727",
+                        "location": "汝南",
+                        "city": "驻马店市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 34.14048,
+                "lng": 113.48794,
+                "id": null,
+                "regionId": "CN411081",
+                "location": "禹州",
+                "city": "许昌市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "717-729年 ，1-13岁",
+                    "717-729年 在颍川家居。",
+                    "739-740年 ，23-24岁",
+                    "739-740年 丁家艰。"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "730-735年 ，14-19岁",
+                    "730年 在长安补太学生。",
+                    "731-734年 在长安补太学，与李华、赵骅、邵轸同居兴敬里。又与颜真卿、柳芳、陆据交游。",
+                    "735年 长安及第。进士第一。得到孙逖、韦述等人的奖掖。",
+                    "741-742年 ，25-26岁",
+                    "741年 丧满服除，进长安拜谒韦述。",
+                    "741年 在长安，韦述多次造访，萧颖士作诗。",
+                    "742年 在长安，授秘书省正字。不久，被参奏罢职。",
+                    "746-748年 ，30-32岁",
+                    "746年 被诏入京。授集贤院校理。",
+                    "747-748年 在京。任集贤院校理。",
+                    "751-753年 ，35-37岁",
+                    "751年 朝廷征召进京。工部侍郎韦述修国史，荐萧颖士自代。潜心著书万卷。",
+                    "752-753年 在长安，潜心著书万卷。礼部侍郎杨浚掌贡举，问萧求人，海内以为德选。"
+                ]
+            },
+            {
+                "lat": 35.579969,
+                "lng": 118.83687,
+                "id": null,
+                "regionId": "CN371122",
+                "location": "莒县",
+                "city": "日照市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "736-737年 ，20-21岁",
+                    "736年 授金坛尉，未赴。其父莒县丞萧旻得罪，颖士四处奔走求告。",
+                    "737年 其父莒县丞萧旻得罪，颖士四处奔走求告。"
+                ]
+            },
+            {
+                "lat": 25.27361,
+                "lng": 110.29002,
+                "id": null,
+                "regionId": "CN4503",
+                "location": "桂林",
+                "city": "桂林市",
+                "province": "广西壮族自治区",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "738年 ，22岁",
+                    "738年 授桂州参军,不久丁艰离职。"
+                ]
+            },
+            {
+                "lat": 35.76189,
+                "lng": 115.02932,
+                "id": null,
+                "regionId": "CN4109",
+                "location": "濮阳",
+                "city": "濮阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "743-745年 ，27-29岁",
+                    "743-745年 客居濮阳，教书为生。尹征、王恒、卢异、卢士武、贾邕、赵匡、阎士和、柳并皆执弟子礼，号萧夫子。"
+                ]
+            },
+            {
+                "lat": 32.39358,
+                "lng": 119.41269,
+                "id": null,
+                "regionId": "CN321",
+                "location": "扬州",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "749年 ，33岁",
+                    "756-758年 ，40-42岁",
+                    "756年 接受广陵长史李成式之聘，为其幕僚。",
+                    "756年 十月，为李中丞代书。",
+                    "756年 秋冬之际，代李式上书。",
+                    "756年 秋冬之际，有与崔园书。",
+                    "757年 扬州功曹参军任，至官，信宿而去。",
+                    "758年 二月至十月为相国诸道租庸调使第五琦聘为幕僚。"
+                ]
+            },
+            {
+                "lat": 30.03033,
+                "lng": 120.580199,
+                "id": null,
+                "regionId": "CN3306",
+                "location": "绍兴",
+                "city": "绍兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "750年 ，34岁",
+                    "750年 会母丧罢职，漂泊江介。"
+                ]
+            },
+            {
+                "lat": 34.61812,
+                "lng": 112.45361,
+                "id": null,
+                "regionId": "CN4103",
+                "location": "洛阳",
+                "city": "洛阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "754-756年 ，38-40岁",
+                    "754年 调河南府军事，赴洛阳，学生贾邕、刘舟、长孙铸、房白、元晟、刘太冲、姚发、郑愕、殷少野、邬载赠诗。",
+                    "755年 调河南府军事，赴洛阳。",
+                    "755年 托疾离职。",
+                    "756年 安史之乱发，萧颖士往见河南采访使郭纳，献策，纳忽不用。又往见封常清，不宿而还。"
+                ]
+            },
+            {
+                "lat": 32.009,
+                "lng": 112.12255,
+                "id": null,
+                "regionId": "CN4206",
+                "location": "襄阳",
+                "city": "襄阳市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "756年 ，40岁",
+                    "756年 因走山南，节度使源洧辟掌书记。"
+                ]
+            },
+            {
+                "lat": 32.05838,
+                "lng": 118.79647,
+                "id": null,
+                "regionId": "CN3201",
+                "location": "南京",
+                "city": "南京市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "756年 ，40岁",
+                    "756年 源洧卒，萧颖士客游金陵，永王李璘招之，不见。"
+                ]
+            },
+            {
+                "lat": 33.00685,
+                "lng": 114.36229,
+                "id": null,
+                "regionId": "CN411727",
+                "location": "汝南",
+                "city": "驻马店市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "759年 ，43岁",
+                    "759年 卒。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

@@ -1,0 +1,722 @@
+{
+    "id": 116,
+    "name": "洪适",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1117,
+        1184
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 28.65611,
+            "lng": 121.42056
+        },
+        "scaleLevel": 6
+    },
+    "reference": [
+        "《洪文惠公年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                21
+            ],
+            "correspondPath": [
+                "台州",
+                "嘉兴",
+                "鄱阳",
+                "嘉兴"
+            ]
+        },
+        {
+            "agesDuration": [
+                21,
+                33
+            ],
+            "correspondPath": [
+                "建德",
+                "嘉兴",
+                "无锡",
+                "苏州",
+                "杭州",
+                "台州",
+                "宁海",
+                "英德"
+            ]
+        },
+        {
+            "agesDuration": [
+                34,
+                48
+            ],
+            "correspondPath": [
+                "赣州",
+                "英德",
+                "南雄",
+                "乐平",
+                "荆门",
+                "歙县",
+                "苏州",
+                "镇江",
+                "杭州"
+            ]
+        },
+        {
+            "agesDuration": [
+                48,
+                68
+            ],
+            "correspondPath": [
+                "北京",
+                "杭州",
+                "绍兴",
+                "乐平"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "b9751c67a3d342d4aa4e378255f1ccfd",
+                        "lat": 28.65611,
+                        "lng": 121.42056,
+                        "regionId": "CN331",
+                        "location": "台州",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "616a7e598d4e45628822532998577f2c",
+                        "lat": 30.74501,
+                        "lng": 120.7555,
+                        "regionId": "CN3304",
+                        "location": "嘉兴",
+                        "city": "嘉兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3450f8eed8fa4b9cb5bb84dd098a3a88",
+                        "lat": 29.00563,
+                        "lng": 116.70343,
+                        "regionId": "CN361128",
+                        "location": "鄱阳",
+                        "city": "上饶市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "12121d66e7ae453fb1874e452918199b",
+                        "lat": 30.74501,
+                        "lng": 120.7555,
+                        "regionId": "CN3304",
+                        "location": "嘉兴",
+                        "city": "嘉兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a8e52ebdce7e4589aa0ffe539ea5f91b",
+                        "lat": 29.47475,
+                        "lng": 119.28121,
+                        "regionId": "CN330182",
+                        "location": "建德",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "13f21ae7689f427a8d8db0a4b46004e8",
+                        "lat": 30.74501,
+                        "lng": 120.7555,
+                        "regionId": "CN3304",
+                        "location": "嘉兴",
+                        "city": "嘉兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "84a29a7417f64f7c8bda556c3bae8410",
+                        "lat": 31.49099,
+                        "lng": 120.31237,
+                        "regionId": "CN3202",
+                        "location": "无锡",
+                        "city": "无锡市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "13a08a1f407e406ab9d0738589b5e078",
+                        "lat": 31.29834,
+                        "lng": 120.58319,
+                        "regionId": "CN3205",
+                        "location": "苏州",
+                        "city": "苏州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0b562a86b39249e9bed05673ab5bec09",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2b31faccb89c4c21a8a646126106dc67",
+                        "lat": 28.65611,
+                        "lng": 121.42056,
+                        "regionId": "CN331",
+                        "location": "台州",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "43d34a1c47d94cdfa6d0567c66f97c62",
+                        "lat": 29.28807,
+                        "lng": 121.42961,
+                        "regionId": "CN330226",
+                        "location": "宁海",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "947cdbbdf3314e7bb4085dfb57c75cf7",
+                        "lat": 24.18572,
+                        "lng": 113.41505,
+                        "regionId": "CN441881",
+                        "location": "英德",
+                        "city": "清远市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "37b29423d05049e5ae425704dada7f33",
+                        "lat": 25.83109,
+                        "lng": 114.93476,
+                        "regionId": "CN3607",
+                        "location": "赣州",
+                        "city": "赣州市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1be6d885c9694ec8ba1344251de0efdc",
+                        "lat": 24.18572,
+                        "lng": 113.41505,
+                        "regionId": "CN441881",
+                        "location": "英德",
+                        "city": "清远市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "58c46185cb544f0e9ad3411c1b18a1cf",
+                        "lat": 25.11962,
+                        "lng": 114.31084,
+                        "regionId": "CN440282",
+                        "location": "南雄",
+                        "city": "韶关市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4416be69f0ec43a48ec0557a80acd23d",
+                        "lat": 28.96173,
+                        "lng": 117.129,
+                        "regionId": "CN360281",
+                        "location": "乐平",
+                        "city": "景德镇市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ce294aadeccd4882bcb439383bd2e87b",
+                        "lat": 31.035459,
+                        "lng": 112.19945,
+                        "regionId": "CN4208",
+                        "location": "荆门",
+                        "city": "荆门市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c6c54b9bffb143d78d06e6294ee0f347",
+                        "lat": 29.86076,
+                        "lng": 118.41359,
+                        "regionId": "CN341021",
+                        "location": "歙县",
+                        "city": "黄山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "6d185c462b9841699386a86bf835e9f6",
+                        "lat": 31.29834,
+                        "lng": 120.58319,
+                        "regionId": "CN3205",
+                        "location": "苏州",
+                        "city": "苏州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5d1c1592897149d292d9177293c6a192",
+                        "lat": 32.18959,
+                        "lng": 119.425,
+                        "regionId": "CN3211",
+                        "location": "镇江",
+                        "city": "镇江市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "66c8bf2a38364775a379d17ea4cf9efd",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "591917a646424a24bc553d1ff7b54b78",
+                        "lat": 39.90469,
+                        "lng": 116.40717,
+                        "regionId": "CN11",
+                        "location": "北京",
+                        "city": null,
+                        "province": null,
+                        "country": null,
+                        "visitYear": null
+                    },
+                    {
+                        "id": "44bd65c34dec4d2a90d28c02f5e1aaac",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c1123a4f4d204e1093989df63cebbe0c",
+                        "lat": 30.03033,
+                        "lng": 120.580199,
+                        "regionId": "CN3306",
+                        "location": "绍兴",
+                        "city": "绍兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2e9775f4d17f4c0c9de27b141e8e1deb",
+                        "lat": 28.96173,
+                        "lng": 117.129,
+                        "regionId": "CN360281",
+                        "location": "乐平",
+                        "city": "景德镇市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 28.65611,
+                "lng": 121.42056,
+                "id": null,
+                "regionId": "CN331",
+                "location": "台州",
+                "city": "台州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1117-1119年 ，1-3岁",
+                    "1117年 其秋，生于其父皓所在台州宁海主簿官廨。",
+                    "1118-1119年 随父住台州。",
+                    "1143-1144年 ，27-28岁",
+                    "1143年9月 九月，父皓出知饶州，适以奉亲自列添差通判台州军事。",
+                    "1144年 到台州任。"
+                ]
+            },
+            {
+                "lat": 30.74501,
+                "lng": 120.7555,
+                "id": null,
+                "regionId": "CN3304",
+                "location": "嘉兴",
+                "city": "嘉兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1120-1128年 ，4-12岁",
+                    "1120-1127年 随父住秀州。",
+                    "1128年 日诵书三千言。",
+                    "1129-1137年 ，13-21岁",
+                    "1129年 以父出使恩补修职郎。",
+                    "1130-1131年 或在秀州家居。",
+                    "1132年 诏下秀州，存问家属。",
+                    "1133-1134年 当在秀州家居。",
+                    "1135年 以修职郎监南岳庙。",
+                    "1136年 当在秀州家居。",
+                    "1137年7月 作戒蛇文。",
+                    "1137年 长子槻生。",
+                    "1138年 ，22岁",
+                    "1138年 母卒于秀州，还家秀州。"
+                ]
+            },
+            {
+                "lat": 29.00563,
+                "lng": 116.70343,
+                "id": null,
+                "regionId": "CN361128",
+                "location": "鄱阳",
+                "city": "上饶市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1129年 ，13岁",
+                    "1129年 能任家事，率五弟三妹奉祖母及母避兵饶州。"
+                ]
+            },
+            {
+                "lat": 29.47475,
+                "lng": 119.28121,
+                "id": null,
+                "regionId": "CN330182",
+                "location": "建德",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1137-1138年 ，21-22岁",
+                    "1137年 调严州录事参军。",
+                    "1138年11月23日 在严州。"
+                ]
+            },
+            {
+                "lat": 31.49099,
+                "lng": 120.31237,
+                "id": null,
+                "regionId": "CN3202",
+                "location": "无锡",
+                "city": "无锡市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1139-1140年 ，23-24岁",
+                    "1139年11月 葬母于无锡县开化乡。",
+                    "1140年 丁忧。"
+                ]
+            },
+            {
+                "lat": 31.29834,
+                "lng": 120.58319,
+                "id": null,
+                "regionId": "CN3205",
+                "location": "苏州",
+                "city": "苏州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1141年 ，25岁",
+                    "1161-1162年 ，45-46岁",
+                    "1161年3月 到平江。",
+                    "1162年3月 车驾亲征至建康，适上殿奏事。",
+                    "1162年4月19日 除尚书户部郎中，总领淮东军马钱粮。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1142-1143年 ，26-27岁",
+                    "1142年 与弟遵同试博学宏词科，名在第三。试题有《代枢密使谢赐玉带表》、《克敌弓铭》、《皇叔庆远军承宣使授昭化军节度使封安定郡王同知大宗正事制》、《唐勤政务本楼记》、《周成王搜岐阳颂》、《汉五家要说章句》。",
+                    "1142年 除左宣教郎敕令所删定官。",
+                    "1143年 以敕令所书成，拜秘书省正字。",
+                    "1164年 ，48岁",
+                    "1164年2月 自淮东召还，除太常少卿。",
+                    "1164年4月 以太常少卿兼权直学士院。",
+                    "1164年 兼权礼部侍郎。",
+                    "1164年11月 兼直学士院。",
+                    "1165-1166年 ，49-50岁",
+                    "1165年5月 礼成而还。除翰林学士、左中大夫、知制诰，仍兼中书舍人。",
+                    "1165年 除端明殿学士签枢密院事。",
+                    "1165年8月 除左中大夫参知政事兼权知枢密院事。",
+                    "1165年10月 充册立皇太子礼仪使。",
+                    "1165年12月 拜左通奉大夫尚书右仆射同中书门下平章事兼枢密使。",
+                    "1166年3月 以久雨引咎，三上章乞退。",
+                    "1166年3月 辛未，除观文殿学士提举江州太平兴国宫。"
+                ]
+            },
+            {
+                "lat": 29.28807,
+                "lng": 121.42961,
+                "id": null,
+                "regionId": "CN330226",
+                "location": "宁海",
+                "city": "宁波市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1144-1147年 ，28-31岁",
+                    "1144年 行县至宁海，题三瑞堂。",
+                    "1145年 在台州任。",
+                    "1146年 在台州任。为张伯寿作《万养堂记》。",
+                    "1147年 通判台州将满，与郡守不相能，十一月被殿中侍御史余尧弼论罢。"
+                ]
+            },
+            {
+                "lat": 24.18572,
+                "lng": 113.41505,
+                "id": null,
+                "regionId": "CN441881",
+                "location": "英德",
+                "city": "清远市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1148-1149年 ，32-33岁",
+                    "1148年 往来岭南侍侯父亲，凡九年。",
+                    "1149年 在英州侍父。",
+                    "1151-1154年 ，35-38岁",
+                    "1151年2月22日 作《通天岩记》。",
+                    "1152-1154年 在英州侍父。"
+                ]
+            },
+            {
+                "lat": 25.83109,
+                "lng": 114.93476,
+                "id": null,
+                "regionId": "CN3607",
+                "location": "赣州",
+                "city": "赣州市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1150年 ，34岁",
+                    "1150年12月1日 舟泊虔州，有纪梦一篇。",
+                    "1150年 作《嘉济庙碑》",
+                    "1150年 作《知政桥记》。"
+                ]
+            },
+            {
+                "lat": 25.11962,
+                "lng": 114.31084,
+                "id": null,
+                "regionId": "CN440282",
+                "location": "南雄",
+                "city": "韶关市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1155年 ，39岁",
+                    "1155年 父皓卒于南雄途次。"
+                ]
+            },
+            {
+                "lat": 28.96173,
+                "lng": 117.129,
+                "id": null,
+                "regionId": "CN360281",
+                "location": "乐平",
+                "city": "景德镇市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1156-1157年 ，40-41岁",
+                    "1156年11月 葬父于故乡。",
+                    "1157年 丁忧居家。为其父制十六尊者像作偈。",
+                    "1169-1184年 ，53-68岁",
+                    "1169-1170年 家居。",
+                    "1171年 诗有“于越归来三见春”之句。",
+                    "1172年5月 作《盘洲记》，自称盘洲老人。",
+                    "1172年 时连年水旱，流移系道，适抚恤贫困，宗族称之。",
+                    "1173年 作《楚望楼上梁文》",
+                    "1174-1175年 家居。",
+                    "1176年 作《容膝斋上梁文》。",
+                    "1176年 增改《隶释》千余字。令次子刊正之。",
+                    "1176年12月25日 落一左齿，有诗。",
+                    "1177年6月 跋《岐阳石鼓文》",
+                    "1177年7月24日 夜梦至一萧寺，有记。",
+                    "1178年 家居。",
+                    "1179年8月21日 妻莱国夫人沈氏薨。",
+                    "1179年 李秀叔知绍兴府，增刻《隶续》五卷，通判喻良能为跋。",
+                    "1180年8月 有劾管璆劄子。",
+                    "1180年 尤袤刻《隶续》二卷于江东仓台。",
+                    "1181年6月 编次《淳熙隶释》五十卷成，自题其后。",
+                    "1181年10月 葬莱国夫人。自作小传。",
+                    "1182-1183年 家居。",
+                    "1184年2月 二月辛酉，薨。自罢相后累加恩爵至鄱阳郡开国公食邑五千二百户实封二千四百户赠特进累赠太师魏国公。谥文惠。"
+                ]
+            },
+            {
+                "lat": 31.035459,
+                "lng": 112.19945,
+                "id": null,
+                "regionId": "CN4208",
+                "location": "荆门",
+                "city": "荆门市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1158-1159年 ，42-43岁",
+                    "1158年4月 服阕，四月除知荆门军。",
+                    "1158年6月 到任。",
+                    "1158年9月 应诏上宽恤四事。",
+                    "1159年 在荆门任。"
+                ]
+            },
+            {
+                "lat": 29.86076,
+                "lng": 118.41359,
+                "id": null,
+                "regionId": "CN341021",
+                "location": "歙县",
+                "city": "黄山市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1159-1161年 ，43-45岁",
+                    "1159年 其秋，以左朝奉郎借紫知徽州。",
+                    "1159年9月16日 到徽州任。",
+                    "1160年 在徽州任。转左朝请郎。",
+                    "1160年 范成大为州司户参军，适一见而知其远器，勉以吏事，与商榷古今，谓成大他日必登两府。",
+                    "1160年 刻《砚说》三种。",
+                    "1161年2月29日 除提举浙西常平茶盐。甫到任，改除提举江东路常平茶盐兼提点刑狱。"
+                ]
+            },
+            {
+                "lat": 32.18959,
+                "lng": 119.425,
+                "id": null,
+                "regionId": "CN3211",
+                "location": "镇江",
+                "city": "镇江市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1162-1163年 ，46-47岁",
+                    "1162年4月26日 到京口任。",
+                    "1163年 在淮东总领任。",
+                    "1163年 迁司农少卿。",
+                    "1163年 筑得江楼、花信亭于镇江公廨。"
+                ]
+            },
+            {
+                "lat": 39.90469,
+                "lng": 116.40717,
+                "id": null,
+                "regionId": "CN11",
+                "location": "北京",
+                "city": null,
+                "province": null,
+                "country": null,
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1164-1165年 ，48-49岁",
+                    "1164年12月 金人讲和，假礼部尚书，充贺金生辰使。",
+                    "1165年3月 到燕京馆。"
+                ]
+            },
+            {
+                "lat": 30.03033,
+                "lng": 120.580199,
+                "id": null,
+                "regionId": "CN3306",
+                "location": "绍兴",
+                "city": "绍兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1166-1168年 ，50-52岁",
+                    "1166年7月18日 以观文殿学士左通奉大夫知绍兴府浙东安抚使。",
+                    "1167年 在绍兴任。",
+                    "1167年1月8日 序《隶释》刻之。",
+                    "1167年 刻《论衡》",
+                    "1168年 在绍兴任。",
+                    "1168年 刻《元氏长庆集》六十卷于郡斋，为文序之。",
+                    "1168年 刻《隶续》十卷。",
+                    "1168年3月 再上章请祠。三月以观文殿学士提举临安府洞霄宫。自是家居者十六年。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

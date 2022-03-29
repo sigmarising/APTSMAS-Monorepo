@@ -1,0 +1,14 @@
+{
+  "embedding": {
+    "word2vec": {
+      "poi": [],
+      "normal": [],
+      "abnormal": []
+    },
+    "universalTransformer": {
+      "poi": [],
+      "normal": [],
+      "abnormal": []
+    }
+  }
+}

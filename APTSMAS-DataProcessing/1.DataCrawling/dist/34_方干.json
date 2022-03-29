@@ -1,0 +1,130 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 29.798851,
+            "CenterLongitude": 119.6981,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "c0b308cdeb964cd08a2c744ce9c65e0c",
+                            "Latitude": 29.798851,
+                            "Longitude": 119.6981,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330122",
+                            "Title": "桐庐"
+                        },
+                        {
+                            "Id": "d223e4dbe78944fe841acab1adf19638",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "6d629da0fe3a45b288b13e82140eb8cd",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "36b87b4b917947738aec017b09bff82f",
+                            "Latitude": 29.798851,
+                            "Longitude": 119.6981,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330122",
+                            "Title": "桐庐"
+                        },
+                        {
+                            "Id": "be5f6a9281bb4ab0bcc42fb3f37c5c7d",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "9e70a7a9d6a74e6fac8d7061ac9c4ffa",
+                            "Latitude": 29.798851,
+                            "Longitude": 119.6981,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330122",
+                            "Title": "桐庐"
+                        },
+                        {
+                            "Id": "e5267fddcde84c86a1f90ee3d88d07c0",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 29.798851,
+                    "Longitude": 119.6981,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330122",
+                    "Title": "桐庐 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c0b308cdeb964cd08a2c744ce9c65e0c\");'><span id='c0b308cdeb964cd08a2c744ce9c65e0c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=809&endYear=829')\">809-829年</a>，1-21岁</div><div id='c0b308cdeb964cd08a2c744ce9c65e0c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=809&endYear=809')\">809年</a>　出生，貌陋又兔缺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=814')\">810-814年</a>　在故乡桐庐家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=815&endYear=815')\">815年</a>　学诗于徐凝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=816&endYear=828')\">816-828年</a>　在故乡桐庐家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　在桐庐。徐凝一见器之，授以诗律。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"36b87b4b917947738aec017b09bff82f\");'><span id='36b87b4b917947738aec017b09bff82f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=843')\">843年</a>，35岁</div><div id='36b87b4b917947738aec017b09bff82f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=843')\">843年</a>　隐居镜湖。贾岛自长江迁普州司仓,方干自镜湖寄诗。<span class='label'>作品：</span>寄普州贾司仓岛。<div id='poem_7357' class='_poem'><div id='poem_title_7357' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7357' class='poemCommentLink' target='_blank'>寄普州贾司仓岛</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7357\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_7357_comment'></div><div class='poemContent' id='poem_content_7357'><div class='poemSentence' id='poem_sentence_0_7357'>乱山重复叠，何路<span class='inlineComment2'>（一作处）</span>访先生。</div><div id='poem_sentence_0_7357_comment'></div><div class='poemSentence' id='poem_sentence_1_7357'>岂料多才者，空垂不世<span class='inlineComment2'>（一作不第）</span>名<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_1_7357_comment'></div><div class='poemSentence' id='poem_sentence_2_7357'>闲曹犹得醉，薄俸亦胜耕。</div><div id='poem_sentence_2_7357_comment'></div><div class='poemSentence' id='poem_sentence_3_7357'>莫问吟诗石，年年芳草平。</div><div id='poem_sentence_3_7357_comment'></div><div class='poemSentence' id='poem_sentence_4_7357'></div><div id='poem_sentence_4_7357_comment'></div></div><div class='poemNote' id='poem_note_7357'><div class='inline1'><div id='poem_sentence_1_7357_1'>⑴ 一作“思归应病成，普掾我先生。冤气终不散，嘉言徒擅名”</div></div></div><div id='poem_note_7357_comment'></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9e70a7a9d6a74e6fac8d7061ac9c4ffa\");'><span id='9e70a7a9d6a74e6fac8d7061ac9c4ffa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=872')\">868-872年</a>，60-64岁</div><div id='9e70a7a9d6a74e6fac8d7061ac9c4ffa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=869')\">868-869年</a>　在故乡桐庐居住。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=870&endYear=870')\">870年</a>　在桐庐。侯温离睦州赴阙,方干作诗相赠。<span class='label'>作品：</span>送睦州侯郎中赴阙。<div id='poem_7318' class='_poem'><div id='poem_title_7318' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7318' class='poemCommentLink' target='_blank'>送睦州侯郎中赴阙</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7318\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7318_comment'></div><div class='titleComment' id='poem_allusion_7318'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(2884, \"poem_allusion_7318\")'>自致青冥上</span></div><div id='poem_allusion_7318_comment'></div><div class='poemContent' id='poem_content_7318'><div class='poemSentence' id='poem_sentence_0_7318'>昔著政声闻国外，今留儒术化江东。</div><div id='poem_sentence_0_7318_comment'></div><div class='poemSentence' id='poem_sentence_1_7318'>青云旧路归仙掖，白凤<span class='inlineComment2'>（一作雪）</span>新词入圣聪。</div><div id='poem_sentence_1_7318_comment'></div><div class='poemSentence' id='poem_sentence_2_7318'>弦管未知银烛晓，旌旗<span class='inlineComment2'>（一作旗幡）</span>已侍<span class='inlineComment2'>（一作待）</span>锦帆风。</div><div id='poem_sentence_2_7318_comment'></div><div class='poemSentence' id='poem_sentence_3_7318'>郡人难议<span class='inlineComment2'>（一作谁识）</span>酬恩德，遍在三年礼遇中。</div><div id='poem_sentence_3_7318_comment'></div><div class='poemSentence' id='poem_sentence_4_7318'></div><div id='poem_sentence_4_7318_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=871&endYear=871')\">871年</a>　在故乡桐庐居住。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=872&endYear=872')\">872年</a>　王龟转越州刺史、御史大夫、浙东团练观察使。礼邀干至,方干拜谒作诗。<span class='label'>作品：</span>献王大夫二首。<div id='poem_7380' class='_poem'><div id='poem_title_7380' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7380' class='poemCommentLink' target='_blank'>献王大夫二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7380\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7380_comment'></div><div class='titleComment' id='poem_allusion_7380'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(867, \"poem_allusion_7380\")'>钓玉</span>　<span class='link' onclick='ShowAllusionComment(3440, \"poem_allusion_7380\")'>直钩</span></div><div id='poem_allusion_7380_comment'></div><div class='poemContent' id='poem_content_7380'><div class='poemSentence' id='poem_sentence_0_7380'>都缘声价振皇州，高卧中条不自由。</div><div id='poem_sentence_0_7380_comment'></div><div class='poemSentence' id='poem_sentence_1_7380'>早副<span class='inlineComment2'>（一作赴）</span><span class='link' onclick='ShowWordComment(\"poem_sentence_1_7380\", 7380, \"Clauses/2/Comments/2\")'>急徵</span>来凤沼<span class='inlineComment2'>（一作阙）</span>，常陪内宴醉龙楼。</div><div id='poem_sentence_1_7380_comment'></div><div class='poemSentence' id='poem_sentence_2_7380'>锵金五字能援笔，<span class='link' onclick='ShowAllusionComment(867, \"poem_sentence_2_7380\")'>钓玉</span>三年信<span class='link' onclick='ShowAllusionComment(3440, \"poem_sentence_2_7380\")'>直钩</span>。</div><div id='poem_sentence_2_7380_comment'></div><div class='poemSentence' id='poem_sentence_3_7380'>必恐借留终<span class='inlineComment2'>（一作应）</span>不遂<span class='inlineComment2'>（一作得）</span>，越人相顾已先<span class='inlineComment2'>（一作生）</span>愁。</div><div id='poem_sentence_3_7380_comment'></div><div class='poemSentence' id='poem_sentence_4_7380'></div><div id='poem_sentence_4_7380_comment'></div></div></div><div id='poem_7381' class='_poem'><div id='poem_title_7381' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7381' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7381_comment'></div><div class='poemContent' id='poem_content_7381'><div class='poemSentence' id='poem_sentence_0_7381'>功成犹自更行春，塞路旌旗十里尘。</div><div id='poem_sentence_0_7381_comment'></div><div class='poemSentence' id='poem_sentence_1_7381'>只用篇章为教化，不知夷夏望陶钧。</div><div id='poem_sentence_1_7381_comment'></div><div class='poemSentence' id='poem_sentence_2_7381'>金章照耀浮光动，玉面生狞细步匀。</div><div id='poem_sentence_2_7381_comment'></div><div class='poemSentence' id='poem_sentence_3_7381'>历任圣朝清峻地，至今依<span class='inlineComment2'>（一作休）</span>是少年身。</div><div id='poem_sentence_3_7381_comment'></div><div class='poemSentence' id='poem_sentence_4_7381'></div><div id='poem_sentence_4_7381_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d223e4dbe78944fe841acab1adf19638\");'><span id='d223e4dbe78944fe841acab1adf19638_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=832&endYear=832')\">832年</a>，24岁</div><div id='d223e4dbe78944fe841acab1adf19638' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=832&endYear=832')\">832年</a>　在长安。始谒姚合,公视其貌\n陋,初甚侮之。坐定览卷,骇目变容而叹之。<span class='label'>作品：</span>送姚合员外赴金州；<div id='poem_7307' class='_poem'><div id='poem_title_7307' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7307' class='poemCommentLink' target='_blank'>送姚合员外赴金州</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7307\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_7307_comment'></div><div class='poemContent' id='poem_content_7307'><div class='poemSentence' id='poem_sentence_0_7307'>受诏从华省，开旗发帝州。</div><div id='poem_sentence_0_7307_comment'></div><div class='poemSentence' id='poem_sentence_1_7307'>野烟新驿曙，残照古山秋。</div><div id='poem_sentence_1_7307_comment'></div><div class='poemSentence' id='poem_sentence_2_7307'>树势连巴没，江声入楚流。</div><div id='poem_sentence_2_7307_comment'></div><div class='poemSentence' id='poem_sentence_3_7307'>唯应化行<span class='inlineComment2'>（一作行化）</span>后，吟句上闲楼。</div><div id='poem_sentence_3_7307_comment'></div><div class='poemSentence' id='poem_sentence_4_7307'></div><div id='poem_sentence_4_7307_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6d629da0fe3a45b288b13e82140eb8cd\");'><span id='6d629da0fe3a45b288b13e82140eb8cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年</a>，27岁</div><div id='6d629da0fe3a45b288b13e82140eb8cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年</a>　在杭州。有诗上姚合。<span class='label'>作品：</span>上杭州姚郎中。<div id='poem_7187' class='_poem'><div id='poem_title_7187' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7187' class='poemCommentLink' target='_blank'>上杭州姚郎中</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7187\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7187_comment'></div><div class='poemContent' id='poem_content_7187'><div class='poemSentence' id='poem_sentence_0_7187'>能除<span class='inlineComment2'>（一作消）</span><span class='link' onclick='ShowWordComment(\"poem_sentence_0_7187\", 7187, \"Clauses/0/Comments/1\")'>疾瘼</span>似良医，一郡乡风当日移。</div><div id='poem_sentence_0_7187_comment'></div><div class='poemSentence' id='poem_sentence_1_7187'>身贵久离行药<span class='inlineComment2'>（一作乐）</span>伴，才高独作后人师。</div><div id='poem_sentence_1_7187_comment'></div><div class='poemSentence' id='poem_sentence_2_7187'>春游下马皆成宴，吏散看山即有诗。</div><div id='poem_sentence_2_7187_comment'></div><div class='poemSentence' id='poem_sentence_3_7187'>借问公方与文道，而今中夏更传谁。</div><div id='poem_sentence_3_7187_comment'></div><div class='poemSentence' id='poem_sentence_4_7187'></div><div id='poem_sentence_4_7187_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"be5f6a9281bb4ab0bcc42fb3f37c5c7d\");'><span id='be5f6a9281bb4ab0bcc42fb3f37c5c7d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=867')\">843-867年</a>，35-59岁</div><div id='be5f6a9281bb4ab0bcc42fb3f37c5c7d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=853')\">843-853年</a>　遁于会稽，渔于鉴湖，往来桐庐芦茨之间。<span class='label'>作品：</span>寒食宿先天寺无可上人房。<div id='poem_7363' class='_poem'><div id='poem_title_7363' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7363' class='poemCommentLink' target='_blank'>寒食宿先天寺无可上人房</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7363\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_7363_comment'></div><div class='poemContent' id='poem_content_7363'><div class='poemSentence' id='poem_sentence_0_7363'>双扉桧下开，寄宿石房苔。</div><div id='poem_sentence_0_7363_comment'></div><div class='poemSentence' id='poem_sentence_1_7363'>幡北灯花动，城西雪霰来。</div><div id='poem_sentence_1_7363_comment'></div><div class='poemSentence' id='poem_sentence_2_7363'>收棋想云梦，罢茗议天台。</div><div id='poem_sentence_2_7363_comment'></div><div class='poemSentence' id='poem_sentence_3_7363'>同忆前年腊，师初白阁回。</div><div id='poem_sentence_3_7363_comment'></div><div class='poemSentence' id='poem_sentence_4_7363'></div><div id='poem_sentence_4_7363_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>　姚合去世，方干有诗悼念。<span class='label'>作品：</span>哭秘书姚少监；过姚监故居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=866')\">855-866年</a>　遁于会稽，渔于鉴湖，往来桐庐芦茨之间。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=867&endYear=867')\">867年</a>　方干年老,暂回睦州故里,作诗。<span class='label'>作品：</span>归睦州中路寄侯郎中；初归故里献侯郎中。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e5267fddcde84c86a1f90ee3d88d07c0\");'><span id='e5267fddcde84c86a1f90ee3d88d07c0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=873&endYear=886')\">873-886年</a>，65-78岁</div><div id='e5267fddcde84c86a1f90ee3d88d07c0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=873&endYear=878')\">873-878年</a>　在越州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=879&endYear=883')\">879-883年</a>　在越州，方干与刘汉宏交往深切,得其济助恐亦良多,故令方干至死感恩不尽。<span class='label'>作品：</span>狂寇后上刘尚书；尚书新创敌楼二首\n；贼退后赠刘将军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=884&endYear=884')\">884年</a>　客死会稽，归葬桐江。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=885&endYear=885')\">885年</a>　遁于会稽，渔于鉴湖，往来桐庐芦茨之间。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=886&endYear=886')\">886年</a>　王龟转越州刺史、御史大夫、浙东团练观察使。推荐方干，方干写谢表。<span class='label'>作品：</span>谢王大夫奏表。<span class='inlineComment2'>（一说卒于此，享年65岁。（见胡才甫《方干诗选》前言，杭州：浙江古籍出版社,1987））</span><div id='poem_7475' class='_poem'><div id='poem_title_7475' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=7475' class='poemCommentLink' target='_blank'>谢王大夫奏表</a><a href='javascript: ShowPoemAuthorProfile(16066, \"唐\", \"方干\", \"poem_title_7475\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>方干</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_7475_comment'></div><div class='titleComment' id='poem_allusion_7475'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(994, \"poem_allusion_7475\")'>死灰</span></div><div id='poem_allusion_7475_comment'></div><div class='poemContent' id='poem_content_7475'><div class='poemSentence' id='poem_sentence_0_7475'>非唯言下变荣衰，大海可倾山可移。</div><div id='poem_sentence_0_7475_comment'></div><div class='poemSentence' id='poem_sentence_1_7475'>如剖夜光归暗室，似驱春气入寒枝。</div><div id='poem_sentence_1_7475_comment'></div><div class='poemSentence' id='poem_sentence_2_7475'><span class='link' onclick='ShowAllusionComment(994, \"poem_sentence_2_7475\")'>死灰</span>到底翻腾焰，朽骨随头却长肥。</div><div id='poem_sentence_2_7475_comment'></div><div class='poemSentence' id='poem_sentence_3_7475'>便杀微躬复何益，生成恩重报无期。</div><div id='poem_sentence_3_7475_comment'></div><div class='poemSentence' id='poem_sentence_4_7475'></div><div id='poem_sentence_4_7475_comment'></div></div></div><br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "方干 <span class='inlineComment2'>(809-886)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：陶生魁《方干交游小考》、姜军主编 《唐诗大鉴赏》、胡才甫《方干诗选》、徐树林主编《人物春秋·方干》　录入整理：龚红林</p><p><a href=\"javascript: ViewRoute(0, 4, 114.5539995, 32.0731435, 7, 0)\">1-35岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">桐庐</a> → <a href=\"javascript: ViewPoint(1, 0)\">西安</a> → <a href=\"javascript: ViewPoint(2, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(3, 0)\">桐庐</a></p><p><a href=\"javascript: ViewRoute(4, 7, 120.1423865, 29.917685, 11, 0)\">35-78岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(5, 0)\">桐庐</a> → <a href=\"javascript: ViewPoint(6, 0)\">绍兴</a></p>"
+        }
+    ]
+}

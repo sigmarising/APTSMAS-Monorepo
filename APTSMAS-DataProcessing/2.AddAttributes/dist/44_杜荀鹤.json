@@ -1,0 +1,715 @@
+{
+    "id": 44,
+    "name": "杜荀鹤",
+    "dynasty": "唐",
+    "lifeDuration": [
+        846,
+        904
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 30.21026,
+            "lng": 117.48619
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《杜荀鹤及其〈唐风集〉研究》",
+        "《杜荀鹤生平考证三题》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                31
+            ],
+            "correspondPath": [
+                "石台",
+                "青阳",
+                "九江",
+                "临海",
+                "杭州",
+                "湖南",
+                "长沙",
+                "西安",
+                "九江",
+                "石台"
+            ]
+        },
+        {
+            "agesDuration": [
+                31,
+                37
+            ],
+            "correspondPath": [
+                "长沙",
+                "贵池",
+                "安陆",
+                "石台",
+                "贵池",
+                "三台",
+                "成都",
+                "蓬溪",
+                "扬州",
+                "宣城"
+            ]
+        },
+        {
+            "agesDuration": [
+                43,
+                56
+            ],
+            "correspondPath": [
+                "杭州",
+                "宁波",
+                "西安",
+                "青阳",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                58,
+                59
+            ],
+            "correspondPath": [
+                "宣城",
+                "开封"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "43381116f5c74c3291f66000206d02bb",
+                        "lat": 30.21026,
+                        "lng": 117.48619,
+                        "regionId": "CN341722",
+                        "location": "石台",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "6eecebc208a0476ab52f1bc7aa04b882",
+                        "lat": 30.63935,
+                        "lng": 117.84749,
+                        "regionId": "CN341723",
+                        "location": "青阳",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4e1f38cd25ee428ab3721a5034c3a9e5",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "bc25627ec7b4472c8f0bdec34acd1ae0",
+                        "lat": 28.8584,
+                        "lng": 121.14495,
+                        "regionId": "CN331082",
+                        "location": "临海",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "88a2c07ed7a44b849df5dbfdfd0e5fd3",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "78b9531688164789ac11aee052851ee5",
+                        "lat": 28.11263,
+                        "lng": 112.98338,
+                        "regionId": "CN43",
+                        "location": "湖南",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2612c3bad7cd4bce88be5bb9b933e251",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f59f5bf327e6439d91cd4468355e58d9",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2fcdeda5468e4f49989c58173ff36eed",
+                        "lat": 29.70548,
+                        "lng": 116.00146,
+                        "regionId": "CN3604",
+                        "location": "九江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "adb0cc1bbf2b4f68b30708171003e619",
+                        "lat": 30.21026,
+                        "lng": 117.48619,
+                        "regionId": "CN341722",
+                        "location": "石台",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "18b94f93fb2d4cf5ba76d854905fe4da",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2838965aa9cf432c826f8349440f6de4",
+                        "lat": 30.68673,
+                        "lng": 117.56733,
+                        "regionId": "CN341702",
+                        "location": "贵池",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "de5527a60ad24f5f867ce0f70a4fb3b3",
+                        "lat": 31.25554,
+                        "lng": 113.68913,
+                        "regionId": "CN420982",
+                        "location": "安陆",
+                        "city": "孝感市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9b035c8a42434847b95c97ad58d4f316",
+                        "lat": 30.21026,
+                        "lng": 117.48619,
+                        "regionId": "CN341722",
+                        "location": "石台",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "21aaecd07023454883817f9ce27e6772",
+                        "lat": 30.68673,
+                        "lng": 117.56733,
+                        "regionId": "CN341702",
+                        "location": "贵池",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "85a2ea11d8134d9a946cc243d928cf58",
+                        "lat": 31.09563,
+                        "lng": 105.09459,
+                        "regionId": "CN510722",
+                        "location": "三台",
+                        "city": "绵阳市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3f5e655378ec41578cfa212b59f18f04",
+                        "lat": 30.5702,
+                        "lng": 104.06476,
+                        "regionId": "CN5101",
+                        "location": "成都",
+                        "city": "成都市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2d5de995f9664d4681c66ac779ffae60",
+                        "lat": 30.75778,
+                        "lng": 105.70756,
+                        "regionId": "CN510921",
+                        "location": "蓬溪",
+                        "city": "遂宁市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cc4fdf65354b40a38e2218208d209461",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f7f907260d094dc1a73bfba9c71bd043",
+                        "lat": 30.94078,
+                        "lng": 118.75866,
+                        "regionId": "CN3418",
+                        "location": "宣城",
+                        "city": "宣城市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "13365e22cab742f19f8f4144c6d7cb86",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a534f92161b54ddfa1077791c6c80c3d",
+                        "lat": 29.87386,
+                        "lng": 121.55027,
+                        "regionId": "CN3302",
+                        "location": "宁波",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5cb306d387a74687957e57225b788478",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4db5b517ad6c443db4352470b3243841",
+                        "lat": 30.63935,
+                        "lng": 117.84749,
+                        "regionId": "CN341723",
+                        "location": "青阳",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "80e20b7736d0435aad83040cd9fabde6",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "fbdb49309f6e4248881547564f8de2e2",
+                        "lat": 30.94078,
+                        "lng": 118.75866,
+                        "regionId": "CN3418",
+                        "location": "宣城",
+                        "city": "宣城市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "994dd6dce2554eda8904326c0f004fd1",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 30.21026,
+                "lng": 117.48619,
+                "id": null,
+                "regionId": "CN341722",
+                "location": "石台",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "846-855年 ，1-10岁",
+                    "846年正十 杜荀鹤生。",
+                    "847-851年 不详。",
+                    "852年 家人令相东作，怒曰：“吾岂耕夫耶”比长，择居得香林之胜，与顾云诸贤为友。",
+                    "853-855年 不详。",
+                    "876年 ，31岁",
+                    "876年 落第返乡。",
+                    "878-879年 ，33-34岁",
+                    "878年 下第还乡。",
+                    "879年十一 居住长林山中。"
+                ]
+            },
+            {
+                "lat": 30.63935,
+                "lng": 117.84749,
+                "id": null,
+                "regionId": "CN341723",
+                "location": "青阳",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "856-860年 ，11-15岁",
+                    "856-860年 在九华山隐居，与顾云共读。",
+                    "891年 ，46岁",
+                    "891年 因世乱复还旧山。"
+                ]
+            },
+            {
+                "lat": 29.70548,
+                "lng": 116.00146,
+                "id": null,
+                "regionId": "CN3604",
+                "location": "九江",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "861-869年 ，16-24岁",
+                    "861-869年 在庐山隐居，与顾云等共读。",
+                    "875年 ，30岁",
+                    "875年 干谒江州刺史。"
+                ]
+            },
+            {
+                "lat": 28.8584,
+                "lng": 121.14495,
+                "id": null,
+                "regionId": "CN331082",
+                "location": "临海",
+                "city": "台州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "870年 ，25岁",
+                    "870年 初游越中。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "871年 ，26岁",
+                    "871年 春在钱塘。",
+                    "888年 ，43岁",
+                    "888年 再游越中。"
+                ]
+            },
+            {
+                "lat": 28.11263,
+                "lng": 112.98338,
+                "id": null,
+                "regionId": "CN43",
+                "location": "湖南",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "872年 ，27岁",
+                    "872年 初游湖湘。"
+                ]
+            },
+            {
+                "lat": 28.245949,
+                "lng": 113.08093,
+                "id": null,
+                "regionId": "CN430121",
+                "location": "长沙",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "873年 ，28岁",
+                    "873年 干谒潭州刺史王凝。",
+                    "876年 ，31岁",
+                    "876年 再游湖湘，干谒裴瓒。"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "875年 ，30岁",
+                    "875年 离家赴京应进士试。",
+                    "890-891年 ，45-46岁",
+                    "890年 离山赴举。",
+                    "890年 试前干谒。",
+                    "891年 正月十日进士登第。",
+                    "891年 与张曙等唱和。"
+                ]
+            },
+            {
+                "lat": 30.68673,
+                "lng": 117.56733,
+                "id": null,
+                "regionId": "CN341702",
+                "location": "贵池",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "877年 ，32岁",
+                    "877年 离池州赴长安。",
+                    "880年 ，35岁",
+                    "880年 出山干谒，献诗池州刺史窦潏。"
+                ]
+            },
+            {
+                "lat": 31.25554,
+                "lng": 113.68913,
+                "id": null,
+                "regionId": "CN420982",
+                "location": "安陆",
+                "city": "孝感市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "877年 ，32岁",
+                    "877年 经安陆遇战乱。"
+                ]
+            },
+            {
+                "lat": 31.09563,
+                "lng": 105.09459,
+                "id": null,
+                "regionId": "CN510722",
+                "location": "三台",
+                "city": "绵阳市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "880年 ，35岁",
+                    "880年 秋取道梓州往成都赴举。"
+                ]
+            },
+            {
+                "lat": 30.5702,
+                "lng": 104.06476,
+                "id": null,
+                "regionId": "CN5101",
+                "location": "成都",
+                "city": "成都市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "881年 ，36岁",
+                    "881年 秋取道梓州往成都赴举。"
+                ]
+            },
+            {
+                "lat": 30.75778,
+                "lng": 105.70756,
+                "id": null,
+                "regionId": "CN510921",
+                "location": "蓬溪",
+                "city": "遂宁市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "882年 ，37岁",
+                    "882年 下第出蜀，绕道遂州。"
+                ]
+            },
+            {
+                "lat": 32.39358,
+                "lng": 119.41269,
+                "id": null,
+                "regionId": "CN321",
+                "location": "扬州",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "882年 ，37岁"
+                ]
+            },
+            {
+                "lat": 30.94078,
+                "lng": 118.75866,
+                "id": null,
+                "regionId": "CN3418",
+                "location": "宣城",
+                "city": "宣城市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "882年 ，37岁",
+                    "882年十二 遇乱作诗记之。",
+                    "903年 ，58岁",
+                    "903年 在宣州节度使田頵幕。"
+                ]
+            },
+            {
+                "lat": 29.87386,
+                "lng": 121.55027,
+                "id": null,
+                "regionId": "CN3302",
+                "location": "宁波",
+                "city": "宁波市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "888年 ，43岁",
+                    "888年 再游越中。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "891-901年 ，46-56岁",
+                    "891年 过夷门曾见朱温。",
+                    "901年 为梁王朱温赋“无云雨诗”",
+                    "903-904年 ，58-59岁",
+                    "903年 奉命出使大梁朱温幕。",
+                    "904年 以主客员外郎，知制诰充翰林学士，寻卒。"
+                ]
+            },
+            {
+                "lat": 30.481027,
+                "lng": 117.804242,
+                "id": null,
+                "regionId": "CN3417 九华山",
+                "location": "九华山",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            },
+            {
+                "lat": 29.554957,
+                "lng": 115.982796,
+                "id": null,
+                "regionId": "CN3604 庐山",
+                "location": "庐山",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

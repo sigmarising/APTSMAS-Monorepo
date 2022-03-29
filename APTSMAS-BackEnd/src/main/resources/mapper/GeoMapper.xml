@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.aptsmas.dataservice.mapper.GeoMapper">
+    <select id="getLocationIdsFromCountryIds" resultType="java.lang.String">
+        SELECT locationId FROM country_location
+        WHERE countryId IN
+        <foreach collection="ids" index="index" item="item" open="(" separator="," close=")">
+            #{item}
+        </foreach>
+        ORDER BY locationId ASC
+    </select>
+
+    <select id="getLocationIdsFromProvinceIds" resultType="java.lang.String">
+        SELECT locationId FROM province_location
+        WHERE provinceId IN
+        <foreach collection="ids" index="index" item="item" open="(" separator="," close=")">
+            #{item}
+        </foreach>
+        ORDER BY locationId ASC
+    </select>
+
+    <select id="getLocationIdsFromCityIds" resultType="java.lang.String">
+        SELECT locationId FROM city_location
+        WHERE cityId IN
+        <foreach collection="ids" index="index" item="item" open="(" separator="," close=")">
+            #{item}
+        </foreach>
+        ORDER BY locationId ASC
+    </select>
+</mapper>

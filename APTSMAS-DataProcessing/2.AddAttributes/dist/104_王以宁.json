@@ -1,0 +1,618 @@
+{
+    "id": 104,
+    "name": "王以宁",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1090,
+        1146
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 27.82975,
+            "lng": 112.94411
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《两宋词从丛考》",
+        "《宋才子传笺证·词人卷》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                38
+            ],
+            "correspondPath": [
+                "湘潭",
+                "开封",
+                "常德",
+                "仪征",
+                "盱眙",
+                "开封",
+                "汾阳",
+                "长沙"
+            ]
+        },
+        {
+            "agesDuration": [
+                38,
+                41
+            ],
+            "correspondPath": [
+                "常德",
+                "襄阳",
+                "邓州",
+                "长沙"
+            ]
+        },
+        {
+            "agesDuration": [
+                41,
+                53
+            ],
+            "correspondPath": [
+                "黄冈",
+                "长沙",
+                "岳阳",
+                "台州",
+                "潮州",
+                "福州",
+                "宁乡",
+                "全州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "b5aea29ef8e641d3995a64e06aaecfa9",
+                        "lat": 27.82975,
+                        "lng": 112.94411,
+                        "regionId": "CN4303",
+                        "location": "湘潭",
+                        "city": "湘潭市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "247395e0717043aea9a2b3e63c678165",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "46817cacbbac47ddb777843343f4c980",
+                        "lat": 29.03158,
+                        "lng": 111.69854,
+                        "regionId": "CN4307",
+                        "location": "常德",
+                        "city": "常德市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e82796924383466cb02966f7d460efc8",
+                        "lat": 32.27203,
+                        "lng": 119.18444,
+                        "regionId": "CN321081",
+                        "location": "仪征",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e957a58abfac4fb5902fd2acd1d41bc1",
+                        "lat": 33.01089,
+                        "lng": 118.54499,
+                        "regionId": "CN320830",
+                        "location": "盱眙",
+                        "city": "淮安市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ea716eaa08d14b3b9e0b75337b9a9804",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "89ef3248655c40e29b7e1b879a521509",
+                        "lat": 37.26542,
+                        "lng": 111.78777,
+                        "regionId": "CN141182",
+                        "location": "汾阳",
+                        "city": "吕梁市",
+                        "province": "山西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "dc158765b89e4ec1b0f3ef993af6ba26",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e0d86977bffc4489accc77b1ba6caccf",
+                        "lat": 29.03158,
+                        "lng": 111.69854,
+                        "regionId": "CN4307",
+                        "location": "常德",
+                        "city": "常德市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "505aeb8715644bf98fa60e830cfe0c20",
+                        "lat": 32.009,
+                        "lng": 112.12255,
+                        "regionId": "CN4206",
+                        "location": "襄阳",
+                        "city": "襄阳市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d42e7949dc4a4c4aaccc22f4b03747d2",
+                        "lat": 32.68777,
+                        "lng": 112.08736,
+                        "regionId": "CN411381",
+                        "location": "邓州",
+                        "city": "南阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "fa53faf01e0e4fc49c8922a2b260dbbe",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "93e897a2c5094504a6db71d13c34478f",
+                        "lat": 30.45347,
+                        "lng": 114.87238,
+                        "regionId": "CN4211",
+                        "location": "黄冈",
+                        "city": "黄冈市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "eb1128a887414dd78dbf271cc123bb2e",
+                        "lat": 28.245949,
+                        "lng": 113.08093,
+                        "regionId": "CN430121",
+                        "location": "长沙",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c4f0c8e7bb6546dba08969affb574007",
+                        "lat": 29.35728,
+                        "lng": 113.12919,
+                        "regionId": "CN4306",
+                        "location": "岳阳",
+                        "city": "岳阳市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "eef73d3003604a0898e697362c1d02b8",
+                        "lat": 28.65611,
+                        "lng": 121.42056,
+                        "regionId": "CN331",
+                        "location": "台州",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cd0380ca960b41bb8c24a7d2b1339046",
+                        "lat": 23.6567,
+                        "lng": 116.62296,
+                        "regionId": "CN4451",
+                        "location": "潮州",
+                        "city": "潮州市",
+                        "province": "广东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7c306a901f80461593320f0bbccb779a",
+                        "lat": 26.07421,
+                        "lng": 119.29647,
+                        "regionId": "CN3501",
+                        "location": "福州",
+                        "city": "福州市",
+                        "province": "福建省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c5270aa54cf24aea85a48f8f5227a1f3",
+                        "lat": 28.27741,
+                        "lng": 112.55183,
+                        "regionId": "CN430124",
+                        "location": "宁乡",
+                        "city": "长沙市",
+                        "province": "湖南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "0c342f62c1c848088c2bbcaa4fcd6c68",
+                        "lat": 25.92861,
+                        "lng": 111.07304,
+                        "regionId": "CN450324",
+                        "location": "全州",
+                        "city": "桂林市",
+                        "province": "广西壮族自治区",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 27.82975,
+                "lng": 112.94411,
+                "id": null,
+                "regionId": "CN4303",
+                "location": "湘潭",
+                "city": "湘潭市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1090-1108年 ，1-19岁",
+                    "1090年 约本年生。本表所列年岁为虚拟数字。",
+                    "1091-1108年 居乡？"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1109-1114年 ，20-25岁",
+                    "1109年 在太学？",
+                    "1110年 在太学，时乃父因言事落职，为父抗章申冤，由是知名。",
+                    "1111-1114年 在太学？",
+                    "1126年 ，37岁",
+                    "1126年1月30日 应召进行京任京畿提刑，上书御史中丞何栗。",
+                    "1126年6月 入李纲帅幕出兵救太原。"
+                ]
+            },
+            {
+                "lat": 29.03158,
+                "lng": 111.69854,
+                "id": null,
+                "regionId": "CN4307",
+                "location": "常德",
+                "city": "常德市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1115-1122年 ，26-33岁",
+                    "1115-1118年 佐鼎澧帅幕？",
+                    "1119年 佐鼎澧帅幕，尝遇“溪蛮啸聚”，“单骑入贼巢、羁致其酋”",
+                    "1120年 佐鼎澧帅幕？",
+                    "1121年4月4日 由成忠郎换文资为从事郎。",
+                    "1122年 佐鼎澧帅幕？",
+                    "1127-1129年 ，38-40岁",
+                    "1127年6月4日 李纲拜相，命以宁为枢密院编修官知鼎州。",
+                    "1128年 知鼎州（后改名常德府）。李纲罢相贬居鄂州，过鼎州药山时以宁与之游。",
+                    "1129年 以知鼎州辟为川陕宣抚处置使张浚参议官。"
+                ]
+            },
+            {
+                "lat": 32.27203,
+                "lng": 119.18444,
+                "id": null,
+                "regionId": "CN321081",
+                "location": "仪征",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1123-1124年 ，34-35岁",
+                    "1123-1124年 为江淮发运司管勾文字。"
+                ]
+            },
+            {
+                "lat": 33.01089,
+                "lng": 118.54499,
+                "id": null,
+                "regionId": "CN320830",
+                "location": "盱眙",
+                "city": "淮安市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1125年 ，36岁",
+                    "1125年 曾赴泗州，夜宿龟山，登秋汉亭，有词。"
+                ]
+            },
+            {
+                "lat": 37.26542,
+                "lng": 111.78777,
+                "id": null,
+                "regionId": "CN141182",
+                "location": "汾阳",
+                "city": "吕梁市",
+                "province": "山西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126年 ，37岁",
+                    "1126年7月 屯兵汾州，督战过文水，兵败。"
+                ]
+            },
+            {
+                "lat": 28.245949,
+                "lng": 113.08093,
+                "id": null,
+                "regionId": "CN430121",
+                "location": "长沙",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126-1127年 ，37-38岁",
+                    "1126年9月 居长沙，有词怀古。",
+                    "1126年9月 居长沙，有词。",
+                    "1127年4月 在长沙翠蔼堂与贬谪滞留此地的李纲相遇，李纲书杜诗赠之。",
+                    "1130年 ，41岁",
+                    "1130年8月 屯兵潭州，为“游寇”孔彦舟所败，亡去。",
+                    "1130年 ，41岁",
+                    "1130年12月 在长沙，曾遣人献马四匹于朝。"
+                ]
+            },
+            {
+                "lat": 32.009,
+                "lng": 112.12255,
+                "id": null,
+                "regionId": "CN4206",
+                "location": "襄阳",
+                "city": "襄阳市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1130年 ，41岁",
+                    "1130年3月 转战两湖。"
+                ]
+            },
+            {
+                "lat": 32.68777,
+                "lng": 112.08736,
+                "id": null,
+                "regionId": "CN411381",
+                "location": "邓州",
+                "city": "南阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1130年 ，41岁",
+                    "1130年7月 转战至邓州，席上赋词。"
+                ]
+            },
+            {
+                "lat": 30.45347,
+                "lng": 114.87238,
+                "id": null,
+                "regionId": "CN4211",
+                "location": "黄冈",
+                "city": "黄冈市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1130年 ，41岁",
+                    "1130年9月 至黄州，重午登栖霞楼，作词抒怀。"
+                ]
+            },
+            {
+                "lat": 29.35728,
+                "lng": 113.12919,
+                "id": null,
+                "regionId": "CN4306",
+                "location": "岳阳",
+                "city": "岳阳市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1130年 ，41岁",
+                    "1130年 与画家任才仲交游唱和，有词。"
+                ]
+            },
+            {
+                "lat": 28.65611,
+                "lng": 121.42056,
+                "id": null,
+                "regionId": "CN331",
+                "location": "台州",
+                "city": "台州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1131-1133年 ，42-44岁",
+                    "1131年1月 因遭言者弹劾落职，责监台州酒务。",
+                    "1132年9月 再贬永州别驾、潮州安置。",
+                    "1132年12月7日 在台州皈依佛教，自号正信居士，有文纪事。",
+                    "1133年2月21日 在台州，有文。"
+                ]
+            },
+            {
+                "lat": 23.6567,
+                "lng": 116.62296,
+                "id": null,
+                "regionId": "CN4451",
+                "location": "潮州",
+                "city": "潮州市",
+                "province": "广东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1133-1135年 ，44-46岁",
+                    "1133年 谪居潮州。",
+                    "1134年3月1日 谪居潮州，三月初一撰铭文。",
+                    "1135年 特许自便，遂离潮州回鼎州省母。"
+                ]
+            },
+            {
+                "lat": 26.07421,
+                "lng": 119.29647,
+                "id": null,
+                "regionId": "CN3501",
+                "location": "福州",
+                "city": "福州市",
+                "province": "福建省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1135年 ，46岁",
+                    "1135年 秋日过福州，遇张元干、刘子翚。"
+                ]
+            },
+            {
+                "lat": 28.27741,
+                "lng": 112.55183,
+                "id": null,
+                "regionId": "CN430124",
+                "location": "宁乡",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1136-1139年 ，47-50岁",
+                    "1136-1139年 居乡。"
+                ]
+            },
+            {
+                "lat": 25.92861,
+                "lng": 111.07304,
+                "id": null,
+                "regionId": "CN450324",
+                "location": "全州",
+                "city": "桂林市",
+                "province": "广西壮族自治区",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1140-1142年 ，51-53岁",
+                    "1140年 复右朝奉郎知全州。",
+                    "1141-1142年 知全州。"
+                ]
+            },
+            {
+                "lat": 30.455982,
+                "lng": 114.892075,
+                "id": null,
+                "regionId": "CN4211 栖霞楼",
+                "location": "栖霞楼",
+                "city": "黄冈市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            },
+            {
+                "lat": 29.382537,
+                "lng": 113.092959,
+                "id": null,
+                "regionId": "CN4306 岳阳楼",
+                "location": "岳阳楼",
+                "city": "岳阳市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            },
+            {
+                "lat": 28.158559,
+                "lng": 112.19116,
+                "id": null,
+                "regionId": "CN4301 沩山",
+                "location": "沩山",
+                "city": "长沙市",
+                "province": "湖南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

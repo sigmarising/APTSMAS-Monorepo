@@ -1,0 +1,270 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.459422,
+            "CenterLongitude": 114.878872,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "f163e560d5d14bde97c520ce473bde02",
+                            "Latitude": 30.459422,
+                            "Longitude": 114.878872,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4211",
+                            "Title": "黄冈"
+                        },
+                        {
+                            "Id": "de97fa90eafc4b6eb8502ae3e92748eb",
+                            "Latitude": 29.860434,
+                            "Longitude": 117.723542,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN341024",
+                            "Title": "祁门"
+                        },
+                        {
+                            "Id": "9ed311412ba342f28f9f0cc7a07f4087",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "4b2bbe3523c44916b2c5fac9d50ce87d",
+                            "Latitude": 36.00214,
+                            "Longitude": 119.416232,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370782",
+                            "Title": "诸城"
+                        },
+                        {
+                            "Id": "f83095cd7fb64fcf890337b6b1003ef5",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "9065f379aa3047b381f8936182672415",
+                            "Latitude": 41.599902,
+                            "Longitude": 119.34969,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN150429",
+                            "Title": "宁城"
+                        },
+                        {
+                            "Id": "e06e023ddbcb4d9da7a6df183cb24527",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "f84c618b80ef46ac8db063093a0c994f",
+                            "Latitude": 33.787173,
+                            "Longitude": 119.267334,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320826",
+                            "Title": "涟水"
+                        },
+                        {
+                            "Id": "95756bee1bb946eaaa58c0ad0e4e943d",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "2aa9ef46685a461f9bb6e7fc3e61a8e7",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "fe39d927f69246a0b31f062905621ef0",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "203dafbbe1b44fc5a6407137fba7681f",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "f2c8044af0c04ce78c5d7704edff138b",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "3d4a36ec79674fc498b7c2f3db58e342",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.459422,
+                    "Longitude": 114.878872,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4211",
+                    "Title": "黄冈 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f163e560d5d14bde97c520ce473bde02\");'><span id='f163e560d5d14bde97c520ce473bde02_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年</a>，出生</div><div id='f163e560d5d14bde97c520ce473bde02' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')\">1090年12月25日</a>　腊月二十五日，生于黄州江边舟中。<br /></div>"
+                },
+                {
+                    "Latitude": 29.860434,
+                    "Longitude": 117.723542,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN341024",
+                    "Title": "祁门",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"de97fa90eafc4b6eb8502ae3e92748eb\");'><span id='de97fa90eafc4b6eb8502ae3e92748eb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>，8岁</div><div id='de97fa90eafc4b6eb8502ae3e92748eb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')\">1097年</a>　以舅父王本知祁门县，与其弟秦棣从汪伯彦读书。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9ed311412ba342f28f9f0cc7a07f4087\");'><span id='9ed311412ba342f28f9f0cc7a07f4087_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>，26岁</div><div id='9ed311412ba342f28f9f0cc7a07f4087' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　登进士第，娶王圭孙女为妻。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f83095cd7fb64fcf890337b6b1003ef5\");'><span id='f83095cd7fb64fcf890337b6b1003ef5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1127')\">1123-1127年</a>，34-38岁</div><div id='f83095cd7fb64fcf890337b6b1003ef5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')\">1123年3月</a>　以知州翟汝文、安抚使张叔夜荐，三月应制举，中词学兼茂科次等。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')\">1123年</a>　以翰林学士吴幵荐，入为太学正。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年1月4日</a>　在京，正月四日，上三封事，论不可割让三镇。<span class='label'>作品：</span>《论边机三事奏》<span class='inlineComment2'>（宋·徐梦莘《三朝北盟会编》卷二七。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　在京，除职方员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　张邦昌为河北割地使，以之为属官，三章坚辞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　在京，以御史中丞李回、翰林承旨吴幵荐，拜殿中侍御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　在京，迁左司谏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年11月7日</a>　十一月七日，诏百官议三镇存弃，其欲战。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年11月8日</a>　十一月八日，于延英殿集议是否割让三镇，其等三十六人仍以为不可。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　未久，进御史中丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年2月13日</a>　二月十三日，上书金军元帅完颜宗望、完颜宗翰。<span class='label'>作品：</span>《上斡离不黏罕状》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年2月14日</a>　金人令议立张邦昌为帝，二月十四日，上议状，乞立赵氏。<span class='label'>作品：</span>《乞立赵氏状》<span class='inlineComment2'>（《大金吊伐录》卷三。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年2月29日</a>　二月二十九日，金人以“特系违令”，下令拘之至军前。<br /></div>"
+                },
+                {
+                    "Latitude": 36.00214,
+                    "Longitude": 119.416232,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370782",
+                    "Title": "诸城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4b2bbe3523c44916b2c5fac9d50ce87d\");'><span id='4b2bbe3523c44916b2c5fac9d50ce87d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>，26岁</div><div id='4b2bbe3523c44916b2c5fac9d50ce87d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　补密州教授。<br /></div>"
+                },
+                {
+                    "Latitude": 41.599902,
+                    "Longitude": 119.34969,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN150429",
+                    "Title": "宁城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9065f379aa3047b381f8936182672415\");'><span id='9065f379aa3047b381f8936182672415_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>，39岁</div><div id='9065f379aa3047b381f8936182672415' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年6月</a>　是夏，在中京，为徽宗修改上完颜宗翰书，宗翰赐其钱万贯、绢万匹。<span class='label'>作品：</span>《代道君皇帝与金国左副元帅宗维书》<span class='inlineComment2'>（宋·李心传《建炎以来系年要录》卷一六。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　完颜宗翰荐之于金太宗，太宗以赐其弟完颜昌为“任用”<br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e06e023ddbcb4d9da7a6df183cb24527\");'><span id='e06e023ddbcb4d9da7a6df183cb24527_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='e06e023ddbcb4d9da7a6df183cb24527' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年8月</a>　八月，完颜昌攻楚州，其为参谋军事，兼随军转运使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　楚州久攻不下，其为金人作檄招降。<br /></div>"
+                },
+                {
+                    "Latitude": 33.787173,
+                    "Longitude": 119.267334,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320826",
+                    "Title": "涟水",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f84c618b80ef46ac8db063093a0c994f\");'><span id='f84c618b80ef46ac8db063093a0c994f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>，41岁</div><div id='f84c618b80ef46ac8db063093a0c994f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年10月2日</a>　十月二日，偕家人自孙村至涟水军丁祀寨。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"95756bee1bb946eaaa58c0ad0e4e943d\");'><span id='95756bee1bb946eaaa58c0ad0e4e943d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1131')\">1130-1131年</a>，41-42岁</div><div id='95756bee1bb946eaaa58c0ad0e4e943d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年11月5日</a>　十一月五日，至越州行在。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年11月7日</a>　十一月七日，高宗召见，首建“南自南，北自北”之议，并请高宗致书完颜昌求和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年11月8日</a>　十一月八日，呈所草求和国书，除礼部尚书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年11月11日</a>　十一月十一日，以新来敌中，请致仕，诏不允。<span class='label'>作品：</span>《乞依旧守本官致仕奏》<span class='inlineComment2'>（宋·李心传《建炎以来系年要录》卷三九。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年11月24日</a>　十一月二十四日，上书论海州等处军备。<span class='label'>作品：</span>《海州等处军备奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年2月11日</a>　二月十一日，上书请群议明堂之礼。<span class='label'>作品：</span>《明堂之礼乞博采群议奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年2月14日</a>　二月十四日，进为参知政事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年</a>　知临安府孙觌贺词语含讥刺，其怒之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年4月</a>　四月，上书请追赠何㮚等人官职。<span class='label'>作品：</span>《乞追赠何㮚等官职奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年5月1日</a>　五月一日，冒王铚名荐舅父王本子王鈇为枢密院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年5月22日</a>　五月二十二日，为其兄彬、其子熺乞恩补官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年6月3日</a>　六月三日，上隆祐皇太后谥册文。<span class='label'>作品：</span>《大行隆祐皇太后谥册文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年7月</a>　范宗尹建“讨论滥赏”之议，其始赞而终叛。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年8月23日</a>　八月二十三日，进尚书右仆射、同中书门下平章事兼知枢密院事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年11月</a>　十一月，荐胡安国为中书舍人兼侍讲。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年12月</a>　十二月初，荐程瑀为太常少卿。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2aa9ef46685a461f9bb6e7fc3e61a8e7\");'><span id='2aa9ef46685a461f9bb6e7fc3e61a8e7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年</a>，43岁</div><div id='2aa9ef46685a461f9bb6e7fc3e61a8e7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年3月</a>　三月，引魏良臣为枢密院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年4月</a>　四月初，荐翟汝文为参知政事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年4月18日</a>　四月十八日，高宗面谕二相“颐浩专治军旅，桧专理庶务”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年5月26日</a>　五月二十六日，以其请，置议政局，其为提举，参政翟汝文同领。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年6月13日</a>　六月十三日，与翟汝文发生龃龉，翟汝文罢参知政事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年7月9日</a>　七月九日，排起居郎王居正出朝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年8月19日</a>　八月十九日，胡安国罢。其三章请留，不报。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年8月25日</a>　八月二十五日，罢相。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年9月1日</a>　九月一日，落观文殿学士职名。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"203dafbbe1b44fc5a6407137fba7681f\");'><span id='203dafbbe1b44fc5a6407137fba7681f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年</a>，47岁</div><div id='203dafbbe1b44fc5a6407137fba7681f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年8月4日</a>　八月四日，至临安，进见高宗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年8月12日</a>　八月十二日，充醴泉观使兼侍读、行宫留守。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年8月22日</a>　八月二十二日，上书论留守行宫事宜。<span class='label'>作品：</span>《留守行宫事奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年8月28日</a>　八月二十八日，请扈从至江上，优诏不许。<span class='label'>作品：</span>《乞从銮辂以备顾问奏》<span class='inlineComment2'>（宋·李心传《建炎以来系年要录》卷一〇四。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年12月1日</a>　十二月一日，以张浚荐，诏其赴行在奏事。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3d4a36ec79674fc498b7c2f3db58e342\");'><span id='3d4a36ec79674fc498b7c2f3db58e342_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1208')\">1138-1208年</a>，49-卒后53年</div><div id='3d4a36ec79674fc498b7c2f3db58e342' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年3月7日</a>　三月七日，进右相。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年6月</a>　六月，与高宗密约，愿独主和议之事，“不许群臣干与”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年9月24日</a>　九月二十四日，赵鼎迁特进，吕本中行制辞，其深恨之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年11月22日</a>　十一月二十二日，勾龙如渊建议其择人为台官，使尽击去异议者。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年11月25日</a>　十一月二十五日，胡铨上书，请斩其与王伦、孙近以谢天下。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年11月27日</a>　十一月二十七日，与参知政事孙近同上乞赐诛责奏。<span class='label'>作品：</span>《以胡铨上书乞赐诛责奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年12月28日</a>　十二月二十八日，代行跪拜之礼，接受金国诏书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年2月9日</a>　二月九日，上书草拟徽宗陵寝名称。<span class='label'>作品：</span>《徽宗皇帝陵名奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年7月</a>　七月，王伦在汴京，密报金有渝盟动向，乞朝廷早为之备，其封锁消息，催王伦疾速过界。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年10月30日</a>　十月二十一日诏皇太后宫殿名慈宁，三十日毕功，其与群臣上表论之。<span class='label'>作品：</span>《上皇太后宫殿名表》<span class='inlineComment2'>（《全宋文》卷三九八三误作绍兴八年。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年5月25日</a>　五月二十五日，其被御史中丞王次翁出面救解，高宗然之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年6月1日</a>　六月一日，上章谓“德无常师，主善为师。善无常主，协于克一”以自解。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年6月3日</a>　六月三日，令同党冯楫试探高宗是否起用张浚意。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年6月</a>　奏请诏刘锜“择利班师”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年闰625日</a>　忌赵鼎复用，令王次翁论劾，闰六月二十五日，责授赵鼎为左中大夫秘书少监。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年闰628日</a>　再令何铸论劾，闰六月二十八日，责授赵鼎为清远军节度副使潮州安置。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　致书完颜宗弼乞和，秋日，宗弼复书谓“必杀岳飞，而后和可成”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　岳飞锐意渡河北伐，桧惧岳飞成功，请下诏班师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年11月1日</a>　十一月一日，上书请礼官讨论礼法。<span class='label'>作品：</span>《愿申命礼官讨论容典奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年11月1日</a>　十一月一日，上书请皇太后还御慈宁殿。<span class='label'>作品：</span>《乞皇太后还御慈宁殿奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年12月</a>　十二月，就宣和皇太后上尊号事上贺表。<span class='label'>作品：</span>《贺宣和皇太后上尊号表》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　接受范同建议，三大将“皆除枢府，而罢其兵权”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年5月27日</a>　五月二十七日，以“鼓唱浮言，诳惑众听”，勒令径山僧宗杲还俗，送衡州编管。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年6月8日</a>　六月八日，为尚书左仆射，封庆国公。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年9月</a>　九月，绕过川陕宣抚司，将撤军的金字牌直送吴璘军前，解除腊家城之围。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年9月7日</a>　九月七日，岳飞部将王俊秉承其意旨，诬告张宪谋据襄阳为变，以胁迫朝廷恢复岳飞兵权。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　是年科举，其私惠温州士子及宰执子弟，其子秦熺及第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年8月</a>　八月，秦熺等上《皇太后回銮本末》，颂其功德。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年9月12日</a>　九月十二日，上徽宗哀册文。<span class='label'>作品：</span>《徽宗皇帝哀册文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年9月16日</a>　九月十六日，加太师，进封魏国公。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年10月17日</a>　十月十七日，再进封其为秦魏国公，其辞不拜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年11月5日</a>　十一月五日，令殿中侍御史江邈论罢张俊。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年12月21日</a>　十二月二十一日，上徽宗加徽号册文。<span class='label'>作品：</span>《徽宗皇帝加上徽号册文》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年12月25日</a>　十二月二十五日，其生日，高宗赐宴于秦府，自是岁以为例。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年闰42日</a>　闰四月二日，以其数请正位中宫，立贵妃吴氏为皇后。其弟秦梓草诏，其押麻。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年9月</a>　九月初，洪皓因转达金人锡纳致意，误触其忌讳，出知饶州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年1月5日</a>　正月五日，黄龟年以尝论其之罪，落职名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年2月25日</a>　二月二十五日，参知政事万俟卨以与其争权罢。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年4月5日</a>　四月五日，请查禁野史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年4月1日</a>　四月一日，赐其甲第一区。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年10月3日</a>　十月三日，高宗亲书其赐第书阁曰“一德格天之阁”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年1月21日</a>　正月二十一日，高宗幸太学，其上书乞宣付史馆。<span class='label'>作品：</span>《皇上临幸太学乞宣付史馆奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年1月23日</a>　正月二十三日，高宗藉田，其上书乞宣付史馆。<span class='label'>作品：</span>《皇帝藉田乞宣付史馆奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年2月14日</a>　二月十四日，诏临安府为其盖家庙。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年5月8日</a>　五月初八，为景钟作铭。<span class='label'>作品：</span>《景钟铭》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年9月4日</a>　九月四日，上书请将高宗所写《尚书》宣示从官。<span class='label'>作品：</span>《御写尚书请宣示从官奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年11月</a>　十一月，上书请有司将郊祀天地呈瑞尽载。<span class='label'>作品：</span>《郊祀天地呈瑞有司宜尽载奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年3月22日</a>　三月二十二日，以郊恩徙封益国公。时有乞置益国公官属者，其虽不行，亦不加罪。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')\">1148年5月</a>　五月，两浙东路马步军副都总管李显忠“上恢复之策”，触怒之，落军职、节钺，奉祠。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')\">1148年7月29日</a>　七月二十九日，上书请以高宗幸秘省事宣付史馆。<span class='label'>作品：</span>《乞以临幸秘省事宣付史馆奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')\">1149年9月28日</a>　九月二十八日，高宗命绘其像，并自为赞。寻出示群臣，藏于秘阁。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')\">1150年1月10日</a>　正月十日，殿前司后军使臣施全遮道刺其不中，为擒获，后磔于市。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')\">1150年3月22日</a>　三月二十二日，高宗书其父墓碑首曰“清德启庆之碑”，命词臣王曮撰文以赐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')\">1150年5月28日</a>　五月二十八日，秘书少监汤思退乞令其详录靖康间推戴赵氏事迹。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年8月4日</a>　八月四日，上书请雕印颁行《盐法》、《茶法》各一部。<span class='label'>作品：</span>《乞雕印颁行盐法茶法奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年8月17日</a>　八月十七日，其孙女封小国夫人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年10月5日</a>　十月五日，干办其府事丁祀充江西路马步军副总管。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')\">1152年4月27日</a>　四月二十七日，为酬诬告岳飞之功，其奏除王俊为浙东马步军副都总管。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')\">1152年10月20日</a>　十月二十日，以陆升之告讦李光，骤用为大宗正丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年4月</a>　四月，上书论程昌㝢不当以所得诏书列置公厅。<span class='label'>作品：</span>《程昌㝢不当以所得诏书列置公厅奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年7月11日</a>　七月十一日，请下诏追缴其绍兴二年罢相时綦崇礼所得御笔。<span class='label'>作品：</span>《乞令台州缴进綦崇礼所受御笔札子》<span class='inlineComment2'>（宋·李心传《建炎以来系年要录》卷一六五。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年8月22日</a>　八月二十二日，诏以建康府永丰圩赐之，令江东漕司同本府葺治，限十二月末了毕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')\">1154年3月8日</a>　三月八日，殿试，高宗觉秦埙“所用皆桧、熺语”，遂进张孝祥为第一，秦埙为第三。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年8月</a>　八月，派死党张柄出知潭州，与汪召锡一起监视居住永州的张浚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月16日</a>　十月十六日，上书乞许致仕。<span class='label'>作品：</span>《乞许致仕奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月21日</a>　十月二十一日，高宗幸其第问病。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月22日</a>　十月二十二日，进封其为建康郡王，致仕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月22日</a>　十月二十二日，上遗表。是夜，卒。<span class='label'>作品：</span>《遗表》<span class='inlineComment2'>（宋·徐梦莘《三朝北盟会编》卷二二〇。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年10月30日</a>　十月三十日，其妻王氏乞赐一道号，召特封冲真先生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年11月5日</a>　十一月五日，以秦熺请，高宗亲题其神道碑额“决策元功，精忠全德”以赐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')\">1155年11月11日</a>　十一月十一日，追赠其为申王，赐谥“忠献”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')\">1206年4月</a>　四月，削夺其王爵，改谥“缪丑”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')\">1208年2月</a>　二月，复其王爵。<br /></div>"
+                },
+                {
+                    "Latitude": 28.001095,
+                    "Longitude": 120.705869,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3303",
+                    "Title": "温州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fe39d927f69246a0b31f062905621ef0\");'><span id='fe39d927f69246a0b31f062905621ef0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1136')\">1132-1136年</a>，43-47岁</div><div id='fe39d927f69246a0b31f062905621ef0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年9月</a>　退居温州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　不详。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')\">1134年12月14日</a>　十二月十四日，上书论封叙事。<span class='label'>作品：</span>《两次覃恩未审作一次封叙奏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年闰216日</a>　闰二月十六日，上书请多造神臂弓，高宗嘉之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年3月</a>　三月，朝廷诏问前宰执战守方略，其主“慰金”与“讨逆”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年5月18日</a>　五月十八日，充观文殿学士，起知温州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年6月19日</a>　六月十九日，改知绍兴府。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f2c8044af0c04ce78c5d7704edff138b\");'><span id='f2c8044af0c04ce78c5d7704edff138b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1137')\">1136-1137年</a>，47-48岁</div><div id='f2c8044af0c04ce78c5d7704edff138b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年12月13日</a>　十二月十三日，至平江，入见。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年12月15日</a>　十二月十五日，令其于行在所讲筵供职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年12月16日</a>　十二月十六日，以其故，特诏前宰相到阙，许张盖。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年1月15日</a>　正月十五日，上书论和战方略。<span class='label'>作品：</span>《答诏论和战方略疏》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年1月23日</a>　正月二十三日，以其为旧相，不可再除执政官故，改宰相兼知枢密院事为兼枢密使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年1月25日</a>　正月二十五日，除枢密使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年9月17日</a>　九月十七日，进赵鼎为左仆射兼枢密使，留其与之共政。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年9月26日</a>　九月二十六日，上书请以其获赐高宗御书《羊祜列传》付有司刊石。<span class='label'>作品：</span>《乞刊御书羊祜列传奏》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "秦桧 <span class='inlineComment2'>(1090-1155)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：韩酉山《秦桧研究》、宋·徐梦莘《三朝北盟会编》、宋·李心传《建炎以来系年要录》、宋·礼部太常寺《中兴礼书》、清·徐松《宋会要辑稿》、清·徐松《宋会要辑稿补编》　录入整理：朱光立</p><p><a href=\"javascript: ViewRoute(0, 10, 117.4502885, 35.730168, 7, 0)\">1-43岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">黄冈</a> → <a href=\"javascript: ViewPoint(1, 0)\">祁门</a> → <a href=\"javascript: ViewPoint(2, 0)\">开封</a> → <a href=\"javascript: ViewPoint(3, 0)\">诸城</a> → <a href=\"javascript: ViewPoint(4, 0)\">开封</a> → <a href=\"javascript: ViewPoint(5, 0)\">宁城</a> → <a href=\"javascript: ViewPoint(6, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(7, 0)\">涟水</a> → <a href=\"javascript: ViewPoint(8, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(9, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(10, 14, 120.433781, 29.6528305, 9, 0)\">43-卒后53年</a><br /><a href=\"javascript: ViewPoint(10, 0)\">温州</a> → <a href=\"javascript: ViewPoint(11, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(12, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(13, 0)\">杭州</a></p>"
+        }
+    ]
+}

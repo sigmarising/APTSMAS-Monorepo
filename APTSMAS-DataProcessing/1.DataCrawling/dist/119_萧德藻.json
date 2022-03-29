@@ -1,0 +1,330 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 25.969187,
+            "CenterLongitude": 119.529679,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "40d553c4e89643a3b1bd853055c2aa5f",
+                            "Latitude": 25.969187,
+                            "Longitude": 119.529679,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350182",
+                            "Title": "长乐"
+                        },
+                        {
+                            "Id": "de63497f317b46b7b9c4f8aff16911e3",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "94aa921863be4051813727692509af67",
+                            "Latitude": 28.853157,
+                            "Longitude": 120.735245,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331024",
+                            "Title": "仙居"
+                        },
+                        {
+                            "Id": "e4240d7694ef4e2e8dcf2f0e19bebbb5",
+                            "Latitude": 26.732884,
+                            "Longitude": 110.637789,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430581",
+                            "Title": "武冈"
+                        },
+                        {
+                            "Id": "dc9b3909b0944dbab40b6e03f387bba0",
+                            "Latitude": 26.22853,
+                            "Longitude": 111.637622,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN431102",
+                            "Title": "零陵"
+                        },
+                        {
+                            "Id": "fbffd3e83f99471082740cb1acf91a3a",
+                            "Latitude": 26.732884,
+                            "Longitude": 110.637789,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430581",
+                            "Title": "武冈"
+                        },
+                        {
+                            "Id": "c46e6ee8bcb9425091b37747e74372de",
+                            "Latitude": 24.105791,
+                            "Longitude": 115.266395,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN441622",
+                            "Title": "龙川"
+                        },
+                        {
+                            "Id": "df8badea3eee43b781bd9138eac812f1",
+                            "Latitude": 31.346071,
+                            "Longitude": 119.830069,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320282",
+                            "Title": "宜兴"
+                        },
+                        {
+                            "Id": "169878b8bf4b4cd89a02de19e5e07d58",
+                            "Latitude": 24.105791,
+                            "Longitude": 115.266395,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN441622",
+                            "Title": "龙川"
+                        },
+                        {
+                            "Id": "83a56bbc752a4cf6993def6b77612f16",
+                            "Latitude": 28.460864,
+                            "Longitude": 117.950028,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3611",
+                            "Title": "上饶"
+                        },
+                        {
+                            "Id": "ed443e9c541149259c9b841d5e6f50f3",
+                            "Latitude": 24.105791,
+                            "Longitude": 115.266395,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN441622",
+                            "Title": "龙川"
+                        },
+                        {
+                            "Id": "a9033689301144eba222201bcd94d2b2",
+                            "Latitude": 27.235422,
+                            "Longitude": 115.142069,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360822",
+                            "Title": "吉水"
+                        },
+                        {
+                            "Id": "4804efc63555427a96c195e7faaa175a",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        },
+                        {
+                            "Id": "ca41d2f2e00341e4994c83d8ae6fcfb2",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "c1eeba8fdca44c57ac5cc5da4cee3f0b",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        },
+                        {
+                            "Id": "34243cc3cf994ec8be5775fc3e4b1edf",
+                            "Latitude": 30.775814,
+                            "Longitude": 111.331414,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420506",
+                            "Title": "夷陵"
+                        },
+                        {
+                            "Id": "546340a8ced3485887a688d801263a0c",
+                            "Latitude": 30.548828,
+                            "Longitude": 119.984002,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330521",
+                            "Title": "德清"
+                        },
+                        {
+                            "Id": "0a630147f08d4d67a37afba275bed0d9",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 25.969187,
+                    "Longitude": 119.529679,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350182",
+                    "Title": "长乐 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"40d553c4e89643a3b1bd853055c2aa5f\");'><span id='40d553c4e89643a3b1bd853055c2aa5f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')\">1121年</a>，出生</div><div id='40d553c4e89643a3b1bd853055c2aa5f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')\">1121年</a>　在家乡长乐家居？约生于本年，本表所标年岁均为虚拟数，非实数。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"de63497f317b46b7b9c4f8aff16911e3\");'><span id='de63497f317b46b7b9c4f8aff16911e3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>，31岁</div><div id='de63497f317b46b7b9c4f8aff16911e3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>　中赵逵榜进士第，注仙居主簿。<br /></div>"
+                },
+                {
+                    "Latitude": 28.853157,
+                    "Longitude": 120.735245,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331024",
+                    "Title": "仙居",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"94aa921863be4051813727692509af67\");'><span id='94aa921863be4051813727692509af67_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>，31岁</div><div id='94aa921863be4051813727692509af67' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')\">1151年</a>　任仙居尉兼主簿。重修应瑞侯庙。<br /></div>"
+                },
+                {
+                    "Latitude": 26.732884,
+                    "Longitude": 110.637789,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430581",
+                    "Title": "武冈",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e4240d7694ef4e2e8dcf2f0e19bebbb5\");'><span id='e4240d7694ef4e2e8dcf2f0e19bebbb5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>，41岁</div><div id='e4240d7694ef4e2e8dcf2f0e19bebbb5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　在武冈使幕任判官。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"fbffd3e83f99471082740cb1acf91a3a\");'><span id='fbffd3e83f99471082740cb1acf91a3a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，43岁</div><div id='fbffd3e83f99471082740cb1acf91a3a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　在武冈使幕任判官，杨万里于零陵有诗寄之。<br /></div>"
+                },
+                {
+                    "Latitude": 26.22853,
+                    "Longitude": 111.637622,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN431102",
+                    "Title": "零陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dc9b3909b0944dbab40b6e03f387bba0\");'><span id='dc9b3909b0944dbab40b6e03f387bba0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>，42岁</div><div id='dc9b3909b0944dbab40b6e03f387bba0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　夏日，初识杨万里于零陵，有诗赠别之。<span class='label'>作品：</span>《赠别杨县丞廷秀》<span class='inlineComment2'>（《〈千岩摘稿〉序》原作已佚。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 24.105791,
+                    "Longitude": 115.266395,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN441622",
+                    "Title": "龙川",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c46e6ee8bcb9425091b37747e74372de\");'><span id='c46e6ee8bcb9425091b37747e74372de_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年</a>，56岁</div><div id='c46e6ee8bcb9425091b37747e74372de' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年</a>　在龙川任县丞。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"169878b8bf4b4cd89a02de19e5e07d58\");'><span id='169878b8bf4b4cd89a02de19e5e07d58_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>，57岁</div><div id='169878b8bf4b4cd89a02de19e5e07d58' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　在龙川任县丞。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ed443e9c541149259c9b841d5e6f50f3\");'><span id='ed443e9c541149259c9b841d5e6f50f3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1179')\">1178-1179年</a>，58-59岁</div><div id='ed443e9c541149259c9b841d5e6f50f3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1179')\">1178-1179年</a>　在龙川任县丞。<br /></div>"
+                },
+                {
+                    "Latitude": 31.346071,
+                    "Longitude": 119.830069,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320282",
+                    "Title": "宜兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"df8badea3eee43b781bd9138eac812f1\");'><span id='df8badea3eee43b781bd9138eac812f1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年</a>，56岁</div><div id='df8badea3eee43b781bd9138eac812f1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')\">1176年9月10日</a>　九月十日，过宜兴，记重修周将军庙事。<span class='label'>作品：</span>《重修周将军庙记》<span class='inlineComment2'>（《重修周将军庙记》）</span><br /></div>"
+                },
+                {
+                    "Latitude": 28.460864,
+                    "Longitude": 117.950028,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3611",
+                    "Title": "上饶",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"83a56bbc752a4cf6993def6b77612f16\");'><span id='83a56bbc752a4cf6993def6b77612f16_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>，57岁</div><div id='83a56bbc752a4cf6993def6b77612f16' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　夏日，在上饶西郊，遇之官毗陵的杨万里。<br /></div>"
+                },
+                {
+                    "Latitude": 27.235422,
+                    "Longitude": 115.142069,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360822",
+                    "Title": "吉水",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a9033689301144eba222201bcd94d2b2\");'><span id='a9033689301144eba222201bcd94d2b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')\">1179年</a>，59岁</div><div id='a9033689301144eba222201bcd94d2b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')\">1179年</a>　官满归，拜访家居之杨万里。<br /></div>"
+                },
+                {
+                    "Latitude": 30.899015,
+                    "Longitude": 120.094566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3305",
+                    "Title": "湖州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4804efc63555427a96c195e7faaa175a\");'><span id='4804efc63555427a96c195e7faaa175a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年</a>，61岁</div><div id='4804efc63555427a96c195e7faaa175a' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>在湖州任参议官，记重修永宁仓事。<span class='label'>作品：</span>《重修永宁仓记》<span class='inlineComment2'>（原作已佚。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在湖州任参议官，为苏轼祠堂作记。<span class='label'>作品：</span>《东坡先生祠堂记》<span class='inlineComment2'>（原作已佚。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c1eeba8fdca44c57ac5cc5da4cee3f0b\");'><span id='c1eeba8fdca44c57ac5cc5da4cee3f0b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年</a>，66岁</div><div id='c1eeba8fdca44c57ac5cc5da4cee3f0b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年</a>　冬日，自湖湘罢官，携姜夔同归湖州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0a630147f08d4d67a37afba275bed0d9\");'><span id='0a630147f08d4d67a37afba275bed0d9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1195')\">1190-1195年</a>，70-75岁</div><div id='0a630147f08d4d67a37afba275bed0d9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')\">1190年11月</a>　病中家居湖州，侄婿姜夔与友人徐彻欲来拜访。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>　其子为池州监酒税，上任途中，舟次湖州城，与其友人虞俦聚会。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ca41d2f2e00341e4994c83d8ae6fcfb2\");'><span id='ca41d2f2e00341e4994c83d8ae6fcfb2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>，65岁</div><div id='ca41d2f2e00341e4994c83d8ae6fcfb2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>　在湖北任参议官。<br /></div>"
+                },
+                {
+                    "Latitude": 30.775814,
+                    "Longitude": 111.331414,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420506",
+                    "Title": "夷陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"34243cc3cf994ec8be5775fc3e4b1edf\");'><span id='34243cc3cf994ec8be5775fc3e4b1edf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>，67岁</div><div id='34243cc3cf994ec8be5775fc3e4b1edf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>　在夷陵任太守。<br /></div>"
+                },
+                {
+                    "Latitude": 30.548828,
+                    "Longitude": 119.984002,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330521",
+                    "Title": "德清",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"546340a8ced3485887a688d801263a0c\");'><span id='546340a8ced3485887a688d801263a0c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')\">1188年</a>，68岁</div><div id='546340a8ced3485887a688d801263a0c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')\">1188年</a>　武康巨室闻人观国、观时作大成殿，造四斋，其为记。<span class='label'>作品：</span>《宋重建县学记》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "萧德藻 <span class='inlineComment2'>(1121-1195)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：宋·梁克家《三山志》、清·王棻等《仙居县志》、明·林材《福州府志》、宋·杨万里《诚斋集》、宋·陈骙《南宋馆阁录》、宋·虞俦《尊白堂集》、明·沈敕《荆溪外纪》、宋·谈钥《嘉泰吴兴志》、宋·姜夔《姜白石词编年笺校》、清·嵇曾筠等《浙江通志》、宋·姜夔《白石道人诗集》　录入整理：朱光立</p><p><a href=\"javascript: ViewRoute(0, 4, 115.686517, 28.124623, 7, 0)\">1-41岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">长乐</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">仙居</a> → <a href=\"javascript: ViewPoint(3, 0)\">武冈</a></p><p><a href=\"javascript: ViewRoute(4, 9, 115.233929, 27.725931, 7, 0)\">42-57岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">零陵</a> → <a href=\"javascript: ViewPoint(5, 0)\">武冈</a> → <a href=\"javascript: ViewPoint(6, 0)\">龙川</a> → <a href=\"javascript: ViewPoint(7, 0)\">宜兴</a> → <a href=\"javascript: ViewPoint(8, 0)\">龙川</a></p><p><a href=\"javascript: ViewRoute(9, 13, 117.6183175, 27.502403, 8, 0)\">57-61岁</a><br /><a href=\"javascript: ViewPoint(9, 0)\">上饶</a> → <a href=\"javascript: ViewPoint(10, 0)\">龙川</a> → <a href=\"javascript: ViewPoint(11, 0)\">吉水</a> → <a href=\"javascript: ViewPoint(12, 0)\">湖州</a></p><p><a href=\"javascript: ViewRoute(13, 18, 115.71299, 30.473547, 7, 0)\">65-75岁</a><br /><a href=\"javascript: ViewPoint(13, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(14, 0)\">湖州</a> → <a href=\"javascript: ViewPoint(15, 0)\">夷陵</a> → <a href=\"javascript: ViewPoint(16, 0)\">德清</a> → <a href=\"javascript: ViewPoint(17, 0)\">湖州</a></p>"
+        }
+    ]
+}

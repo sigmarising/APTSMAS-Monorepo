@@ -1,0 +1,120 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 25.866307,
+            "CenterLongitude": 115.01832,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "c6bd86b31113433893c5f50c86723ce9",
+                            "Latitude": 25.866307,
+                            "Longitude": 115.01832,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360721",
+                            "Title": "赣县"
+                        },
+                        {
+                            "Id": "8c700fdd80b9495b8c71632fc8aa5090",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "f344d72482fa418ebbbd1193e7415249",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "c35dcf5715724d31bbbe97b89cef3992",
+                            "Latitude": 25.866307,
+                            "Longitude": 115.01832,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360721",
+                            "Title": "赣县"
+                        },
+                        {
+                            "Id": "8250320afa50452a9435419a7d79dfcb",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "3bbe20f7328d4a6faed2bc25808b4dd1",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 25.866307,
+                    "Longitude": 115.01832,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360721",
+                    "Title": "赣县 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c6bd86b31113433893c5f50c86723ce9\");'><span id='c6bd86b31113433893c5f50c86723ce9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1103')\">1084-1103年</a>，1-20岁</div><div id='c6bd86b31113433893c5f50c86723ce9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年</a>　出生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1102')\">1085-1102年</a>　居乡赣县。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')\">1103年</a>　居乡赣县。以兄弼恩荫授将仕郎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c35dcf5715724d31bbbe97b89cef3992\");'><span id='c35dcf5715724d31bbbe97b89cef3992_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1123')\">1121-1123年</a>，38-40岁</div><div id='c35dcf5715724d31bbbe97b89cef3992' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1123')\">1121-1123年</a>　居乡赣县，丁内艰。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8c700fdd80b9495b8c71632fc8aa5090\");'><span id='8c700fdd80b9495b8c71632fc8aa5090_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1117')\">1104-1117年</a>，21-34岁</div><div id='8c700fdd80b9495b8c71632fc8aa5090' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1109')\">1104-1109年</a>　在开封。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')\">1110年</a>　在开封。大观年间铨试礼部。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1114')\">1111-1114年</a>　在开封。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')\">1115年</a>　在开封，赐上舍出身。为宣义郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')\">1116年</a>　在开封，入秘书为校书郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')\">1117年</a>　在开封，林灵素作《神霄录》，朝士争趋之，曾几与李纲、傅崧卿称疾不往视，曾几出为应天少尹。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8250320afa50452a9435419a7d79dfcb\");'><span id='8250320afa50452a9435419a7d79dfcb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1125')\">1124-1125年</a>，41-42岁</div><div id='8250320afa50452a9435419a7d79dfcb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')\">1124年</a>　在开封，丁内艰服除，主管内外宗室财用。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>　在开封，主管内外宗室财用。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f344d72482fa418ebbbd1193e7415249\");'><span id='f344d72482fa418ebbbd1193e7415249_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1120')\">1118-1120年</a>，35-37岁</div><div id='f344d72482fa418ebbbd1193e7415249' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1120')\">1118-1120年</a>　在应天少尹任。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3bbe20f7328d4a6faed2bc25808b4dd1\");'><span id='3bbe20f7328d4a6faed2bc25808b4dd1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')\">1126-1127年</a>，43-44岁</div><div id='3bbe20f7328d4a6faed2bc25808b4dd1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')\">1126-1127年</a>　在扬州。提举淮东路茶盐公事。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "曾几 <span class='inlineComment2'>(1084-1127)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：《宋才子传笺证·曾几传》　录入整理：方星移</p><p><a href=\"javascript: ViewRoute(0, 4, 116.5583975, 30.334624, 7, 0)\">1-40岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">赣县</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">南京</a> → <a href=\"javascript: ViewPoint(3, 0)\">赣县</a></p><p><a href=\"javascript: ViewRoute(4, 6, 116.8665055, 33.6014005, 8, 0)\">41-44岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">开封</a> → <a href=\"javascript: ViewPoint(5, 0)\">扬州</a></p>"
+        }
+    ]
+}

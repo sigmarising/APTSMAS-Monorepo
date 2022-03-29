@@ -1,0 +1,310 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 34.335599,
+            "CenterLongitude": 108.715712,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "e357debb2f0040b2b348256d079accf9",
+                            "Latitude": 34.335599,
+                            "Longitude": 108.715712,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6104",
+                            "Title": "咸阳"
+                        },
+                        {
+                            "Id": "5a7088a0fc734794924f60d6dff29569",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "cc694b918ceb48129287aed7edb71f36",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "e2874b949dd84fbd82248d84a94d81ae",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "bb52ae64c762493c87f42aa3c08ed247",
+                            "Latitude": 35.94278,
+                            "Longitude": 116.476836,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370923",
+                            "Title": "东平"
+                        },
+                        {
+                            "Id": "086a59f993b5461986d13ca874d05d78",
+                            "Latitude": 37.876885,
+                            "Longitude": 112.55706,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN1401",
+                            "Title": "太原"
+                        },
+                        {
+                            "Id": "535905108c5645a5bc9c09f30bf32e05",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "8964abf652e540da945faab8788c37fc",
+                            "Latitude": 33.07382,
+                            "Longitude": 107.030197,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6107",
+                            "Title": "汉中"
+                        },
+                        {
+                            "Id": "b2459b0dd02e4ea09362f282c640c061",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "0e3e122be10d49f69be353014c313d2e",
+                            "Latitude": 33.07382,
+                            "Longitude": 107.030197,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6107",
+                            "Title": "汉中"
+                        },
+                        {
+                            "Id": "94d25d7b758842d4b76c864d689c104d",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "d1b95df528a041d8beccd34166627e8b",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        },
+                        {
+                            "Id": "9c1c78c94a714b4684485f9a5b346466",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "30b7b0c716934adf9cb53246e65c24d7",
+                            "Latitude": 34.872892,
+                            "Longitude": 110.454307,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140881",
+                            "Title": "永济"
+                        },
+                        {
+                            "Id": "8e7633ecf01f499c9f8c38709cca4752",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "a6563fee141043c8bb37ad92bcce3a2b",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "04df4505bd214a5bb7bb92befde2a7d7",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "4efc068f1e1e4cba96ffdceac725d7f8",
+                            "Latitude": 34.527456,
+                            "Longitude": 107.407139,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610322",
+                            "Title": "凤翔"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 34.335599,
+                    "Longitude": 108.715712,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6104",
+                    "Title": "咸阳 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e357debb2f0040b2b348256d079accf9\");'><span id='e357debb2f0040b2b348256d079accf9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=823')\">802-823年</a>，1-22岁</div><div id='e357debb2f0040b2b348256d079accf9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　本年，令狐绹生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=823')\">803-823年</a>　本年，居乡。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5a7088a0fc734794924f60d6dff29569\");'><span id='5a7088a0fc734794924f60d6dff29569_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年</a>，23岁</div><div id='5a7088a0fc734794924f60d6dff29569' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年3月</a>　三月，父楚由太子宾客分司东都擢任河南尹，兼御史大夫，绹随侍读书。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"04df4505bd214a5bb7bb92befde2a7d7\");'><span id='04df4505bd214a5bb7bb92befde2a7d7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=869&endYear=871')\">869-871年</a>，68-70岁</div><div id='04df4505bd214a5bb7bb92befde2a7d7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=869&endYear=869')\">869年4月</a>　四月戊戌，绹迁太子太保，分司东都。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=870&endYear=871')\">870-871年</a>　本年，在太子太保分司东都任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=871&endYear=871')\">871年</a>　本年左右，顾云为令狐绹所知赏。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cc694b918ceb48129287aed7edb71f36\");'><span id='cc694b918ceb48129287aed7edb71f36_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=828')\">824-828年</a>，23-27岁</div><div id='cc694b918ceb48129287aed7edb71f36' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年9月</a>　九月，父楚迁宣武军节度使，绹随侍读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=828')\">825-828年</a>　本年，在汴州侍父读书。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8e7633ecf01f499c9f8c38709cca4752\");'><span id='8e7633ecf01f499c9f8c38709cca4752_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=862')\">861-862年</a>，60-61岁</div><div id='8e7633ecf01f499c9f8c38709cca4752' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=861')\">861年</a>　本年，绹徙宣武军节度使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=861')\">861年</a>　本年，绹辟王徽为掌书记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=861&endYear=861')\">861年</a>　本年，温庭筠在荆南幕府，上书令狐绹，冀其汲引。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=862&endYear=862')\">862年</a>　本年，在宣武军节度使任。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e2874b949dd84fbd82248d84a94d81ae\");'><span id='e2874b949dd84fbd82248d84a94d81ae_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=830')\">829-830年</a>，28-29岁</div><div id='e2874b949dd84fbd82248d84a94d81ae' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　本年，父楚在长安任户部尚书，绹或随侍。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年，令狐绹进士及第，本年稍后释褐为弘文馆校书郎。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"535905108c5645a5bc9c09f30bf32e05\");'><span id='535905108c5645a5bc9c09f30bf32e05_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=836')\">834-836年</a>，33-35岁</div><div id='535905108c5645a5bc9c09f30bf32e05' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年</a>　在长安。时李商隐屡屡下第，自大和七年后不复作应试文章，令狐绹“岁岁为写出旧文纳贡院”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年4月</a>　至迟至本年四月时，绹已迁右拾遗，兄绪已官侍御史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年</a>　今年或明年冬，绹妹偕婿裴氏自华州至京省亲，临归时，令狐绹招李商隐宴饯送行。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=836&endYear=836')\">836年</a>　本年，令狐绹迁左拾遗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=836&endYear=836')\">836年</a>　去年或本年，李商隐曾因事离京，临行前，令狐绹曾赠以葛衣，并作书慰问。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b2459b0dd02e4ea09362f282c640c061\");'><span id='b2459b0dd02e4ea09362f282c640c061_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>，36岁</div><div id='b2459b0dd02e4ea09362f282c640c061' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>　本年礼部侍郎高锴知贡举，令狐楚、绹父子雅善锴，奖誉甚力，李商隐得以进士及第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年5月</a>　五月，令狐绹任左拾遗，与其它谏官连章劾奏李德裕挟私怨以倾牛僧孺，上置不问。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"94d25d7b758842d4b76c864d689c104d\");'><span id='94d25d7b758842d4b76c864d689c104d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=847')\">837-847年</a>，36-46岁</div><div id='94d25d7b758842d4b76c864d689c104d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年12月</a>　十二月，令狐绹兄弟与李商隐等护送楚灵柩归葬京兆府万年县焦村凤栖原令狐氏祖坟。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=838')\">838年</a>　本年，绹丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=838')\">838年</a>　本年，李商隐落选，入泾源节度使王茂元幕府，茂元爱其才，以女妻之。令狐绹不满。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=838&endYear=838')\">838年</a>　本年，与赵嘏唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=839&endYear=839')\">839年</a>　本年，绹丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=840&endYear=840')\">840年</a>　本年，绹除父丧，复本官左补阙，兼史馆修撰。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')\">841年</a>　李商隐辞尉从调后，令狐绹曾为之推介，绹时在左补阙任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')\">841年</a>　本年，绹迁库部员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>　本年绹已在户部员外郎任上。子滈始应进士举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>　李商隐入秘书省为官，与令狐绹有诗歌往来。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=843')\">843年</a>　本年，绹子滈书录《毛诗音义》一书，宋初，此书先后为毕士安、王禹偁所得，毕士安曾补其残缺。清人多误此书为令狐绹所书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=844&endYear=844')\">844年</a>　本年，在朝任职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=845&endYear=845')\">845年</a>　本年秋，令狐绹已在右司郎中任上。时李商隐病居洛阳，绹寄书问讯，商隐有诗作答。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=846')\">846年</a>　在京。本年初春，李商隐曾托令狐绹致书韦舍人以求援引。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年2月</a>　旧史谓本年二月李咸讼李德裕执政时阴事，九月吴汝纳讼李绅杀吴湘事，乃白敏中、崔铉、令狐绹联手打击李德裕的阴谋。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9c1c78c94a714b4684485f9a5b346466\");'><span id='9c1c78c94a714b4684485f9a5b346466_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=859')\">848-859年</a>，47-58岁</div><div id='9c1c78c94a714b4684485f9a5b346466' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年1月</a>　正月，因宰相白敏中荐于宣宗，绹自湖州刺史擢授考功郎中、知制诰。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年2月10日</a>　二月十日，入充翰林学士，刘邺代人撰有和令狐绹充翰林学士状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　宣宗曾夜召绹与论治乱之道，深赏之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　绹入充翰林后，李商隐先后寄诗，陈情望援。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年9月</a>　九月，李德裕再贬崖州司户参军，令狐绹草制。<span class='label'>作品：</span>《再贬李德裕崖州司户参军制》<span class='inlineComment2'>（此文见《全唐文补编》卷八六。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　本年，绹兄令狐绪在隋州刺史任。后又由隋州刺史迁河南少尹。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年2月21日</a>　二月二十一日，令狐绹迁中书舍人，依前充翰林学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年</a>　本年，已进阶太中大夫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年</a>　李商隐有向令狐绹干谒求援之作。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年</a>　绹为狄兼谟作墓志铭。<span class='label'>作品：</span>《唐故银青光禄大夫检校尚书右仆射判东都尚书省事兼御史大夫□东都留守东都畿汝州都防御史上柱国汝南县开国侯食邑一千户赠司空□□狄公（兼谟）墓志铭并序》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年5月1日</a>　五月一日，绹迁御史中丞，赐紫，出院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年9月9日</a>　重阳，李商隐作《九日》诗，缅怀追赶令狐楚厚遇栽培之恩，怨恨令狐绹之冷遇，不念旧情。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年9月16日</a>　九月十六日，绹自御史中丞充翰林承旨学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=849&endYear=849')\">849年9月23日</a>　九月二十三日，权知兵部侍郎知制诰，依前充。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年2月23日</a>　二月二十三日，令狐绹与令狐缄、令狐绚同登长安慈恩寺大雁塔，睹大和九年四月一日与令狐绪、令狐纬（后改名缄）、李商隐等人题名处，续有题名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　本年，绹在翰林院。宣宗曾夜深召对禁中，临归，赐金莲花烛送之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年10月27日</a>　十月二十七日，绹以兵部侍郎同中书门下平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　绹拜相后，渭南尉赵嘏献诗颂之，后又有述怀陈情之作。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　本年，令狐绹为相后，李商隐屡启陈情，绹不之省。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　绹为相后，其子令狐滈避嫌不举进士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　本年，绹叔令狐定桂管观察使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年3月</a>　三月，白敏中以宰相身份充招讨南山、平夏党项行营兵马都统制置使，并南北路供军使兼邠宁节度使。敏中出征党项，与宰相崔铉的排摈有关。驸马郑颢及令狐绹疑亦参与其中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年</a>　本年春，卢弘止卒于徐州，李商隐罢徐幕归京，穷蹙无路，复以文章干绹，得补太学博士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年</a>　李商隐奉令狐绹之命，书绹父令狐楚元和中太清宫寄张弘靖旧诗上石。书讫后，有上令狐绹书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年4月13日</a>　四月十三，绹迁中书侍郎兼礼部尚书，仍平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年</a>　李商隐归京后，与令狐绹颇多过往。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年</a>　宣宗因党项连年侵扰，追念李德裕边功及置备边库之筹策，诏许德裕归葬。《东观奏记》、《南部新书》、《新唐书·李德裕传》载德裕还葬，乃德裕托梦见乞于令狐绹，绹奏于上，遂获归葬。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年10月</a>　十月，白敏中罢相，守司空、同中书门下平章事，兼邠宁庆等州节度使。敏中罢相，疑与崔铉、令狐绹等的谗构排挤有关。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年</a>　约本年前后，因令狐绹等人的延誉，郑浣之子郑从谠迁中书舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=851&endYear=851')\">851年11月</a>　十一月，绹上奏。<span class='label'>作品：</span>《请申禁天门街左右置私庙并按品定庙室数奏》<span class='inlineComment2'>（此文见《全唐文》卷七五九。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=852&endYear=852')\">852年1月26日</a>　正月二十六日，绹由中书侍郎兼礼部尚书平章事迁兼户部尚书，仍为中书侍郎平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=852&endYear=852')\">852年</a>　本年或稍前，叔令狐定卒，赠礼部尚书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=853&endYear=853')\">853年</a>　李德裕贬死后，其门人多遭废斥，令狐梅作为德裕亲信部属，亦落职赋闲在家六年。四月，绹以令狐梅为宗党旧人，言于宣宗，奏授棣州刺史，充本州镇遏兵马使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>　诗人李群玉得宰相裴休、令狐绹等人举荐，授弘文馆校书郎。<span class='label'>作品：</span>《荐处士李群玉状》<span class='inlineComment2'>（按，文题与内容不符，题误，当作《拟授李群玉弘文馆校书郎奏状》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>　令狐绹因子滈接受李琢（涿）贿赂，本年或稍前举荐李琢（涿）为安南都护。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年1月</a>　正月，吏部试博学宏词科举人，坐漏泄题目，为御史台所劾，主持此次诠选的吏部侍郎裴谂及相应官员和考官或贬官，或罚俸，登科十人并覆落。登科十人中赵秬为令狐绹故人之子，时同僚中有人欲以此事嫁祸于绹，故绹尽行覆落。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年2月25日</a>　二月甲戌（二十五日），绹迁门下侍郎，兼兵部尚书。陕虢观察使高少逸有贺状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年7月</a>　七月，河东节度使卢钧征为尚书左仆射。钧始被召，自谓出入中外、年高勋著，当为辅弼。召为仆射后，心颇怨望，常移病不视事，遨游林墅。令狐绹恶之，乃罢其仆射，加检校司空，守太子太师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年</a>　本年，绹迁门下侍郎兼兵部尚书后，寻又以本官监修国史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年9月7日</a>　九月七日，绹由监修国史改充太清宫使，时已阶金紫光禄大夫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年9月30日</a>　九月三十日，绹兼弘文馆大学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=855&endYear=855')\">855年</a>　绹九月七日为首相后，曾擢楚州刺史裴坦为职方郎中、知制诰，宰相裴休谓坦非才，不称是选，然力不能拒。及坦诣省视事，至政事堂谒谢丞相，遭裴休当众羞辱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年</a>　本年初，柳仲郢以兵部侍郎充诸道盐铁转运使。仲郢有感武宗朝李德裕知遇之恩，伤德裕贬死后李氏无禄仕者，遂辟德裕兄子从质为推官，知苏州院事。令狐绹闻之不悦，仲郢与绹书自明，绹感悟，寻与从质正员官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年10月8日</a>　十月八日，敕右谏议大夫豆卢籍、刑部郎中李邺以本官充第三子夔王滋以下侍读。后起居郎张云于咸通四年在弹劾令狐绹子滈不宜为左拾遗的奏疏中论及此事，以为令狐绹交连帝戚，乱长幼之序，欲立夔王为东宫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年10月18日</a>　十月戊子（十八日），绹迁尚书右仆射。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年</a>　宣宗晚年曾与令狐绹商议铲除宦官势力，绹密奏献策，后为宦者所见，南北司益相水火。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年</a>　本年，温庭筠因搅扰科场罪被贬。此前，因宣宗爱唱《菩萨蛮》词，绹曾假温庭筠新作密进之，戒令勿泄，而温庭筠遽言于人，由是绹疏之。加之温庭筠屡讥其短，绹不与荐导，故温庭筠累试不第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=856&endYear=856')\">856年</a>　绹兄令狐绪本年已在寿州刺史任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=857&endYear=857')\">857年2月</a>　宰相魏谟以言论切直，为令狐绹所忌。二月，出为剑南西川节度使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=857&endYear=857')\">857年</a>　安南都护李琢为政贪暴，致境内不宁，疑于本年夏坐罪贬官。琢贬官后，令狐绹犹加庇护，寻又起用为寿州团练使。给事中萧仿上书驳议，劾奏李琢罪状，琢遭重贬，但不久绹又用琢为宋州刺史。直至大中十三年令狐绹罢相后，琢始废居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=857&endYear=857')\">857年</a>　绹兄令狐绪本年在汝州防御使任，有佳政。八月，郡人诣阙请立碑颂德，绪以绹在辅弼，上表请停，宣宗嘉其意，从之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=857&endYear=857')\">857年9月27日</a>　令狐绹罢卢钧左仆射后，物议以钧耆硕长者，谓绹妒贤弄权，绹惧，九月辛酉（二十七日），以钧同平章事，充山南西道节度使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=857&endYear=857')\">857年12月</a>　十二月，绹作墓志铭。<span class='label'>作品：</span>《唐故银青光禄大夫检校司空兼太子少师分司东都上柱国乐安县开国侯食邑一千户赠太师孙公（简）墓志铭并序》<span class='inlineComment2'>（此文见《唐代墓志汇编续集》咸通〇九九引《洛阳出土历代墓志辑绳》作者将此文编为大中十一年十二月作。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年1月</a>　正月，宣宗欲御楼肆赦，令狐绹以为所费颇多，须有名目，宣宗不悦。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年10月</a>　十月，令狐绹奏拟李远为杭州刺史，宣宗以远诗有“青山不厌千杯酒，白日惟销一局棋”句，疑其疏放，非牧人之才，不允。绹以“诗人托此为高兴耳，未必实然”为之辩说，宣宗乃允。李远到任后，果有治声。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年11月2日</a>　十一月己未（二日），令狐绹迁尚书左仆射，仍兼门下侍郎、平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年</a>　宣宗诏令刺史任满后须进京面对，方许移任。令狐绹尝徙其故人为邻州刺史，以随、房两州地近，擅许其便道之官，为宣宗所责。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年</a>　毕諴大中中入充翰林，深得宣宗恩顾，曾许用为相，令狐绹忌之。后党项扰河西，诏拜諴刑部侍郎，出镇邠宁。为阻止毕諴入朝，令狐绹先后徙諴为昭义、河东节度使。在河东任上，毕諴欲结交令狐绹，求一绝色佳丽，遣专使献绹，绹不纳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=858&endYear=858')\">858年</a>　本年前后，绹兄令狐绪在平卢节度使任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=859')\">859年8月10日</a>　八月七日，宣宗崩。十日，宣遗诏，以门下侍郎平章事令狐绹摄冢宰。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=859')\">859年8月20日</a>　二十日，令狐绹由左仆射册拜司空，仍兼门下侍郎平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=859')\">859年8月</a>　本月，以令狐绹为宣宗山陵礼仪使，绹奏王暤为山陵使判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=859')\">859年12月16日</a>　令狐绹执政日久，忌胜己者，其子滈内倚姻家郑颢，外弄父权，招权纳贿，骄纵不法，中外侧目。宣宗既崩，屡为人所讼。加之宣宗朝令狐绹附会宣宗意，欲立夔王为东宫，十二月丁酉（十六日），罢绹相位，检校司空、同平章事，出为河中节度使。<br /></div>"
+                },
+                {
+                    "Latitude": 35.94278,
+                    "Longitude": 116.476836,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370923",
+                    "Title": "东平",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bb52ae64c762493c87f42aa3c08ed247\");'><span id='bb52ae64c762493c87f42aa3c08ed247_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=831')\">830-831年</a>，29-30岁</div><div id='bb52ae64c762493c87f42aa3c08ed247' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=831')\">830-831年</a>　父楚在天平军节度使任，绹赴天平侍父。<br /></div>"
+                },
+                {
+                    "Latitude": 37.876885,
+                    "Longitude": 112.55706,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN1401",
+                    "Title": "太原",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"086a59f993b5461986d13ca874d05d78\");'><span id='086a59f993b5461986d13ca874d05d78_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=832&endYear=833')\">832-833年</a>，31-32岁</div><div id='086a59f993b5461986d13ca874d05d78' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=832&endYear=833')\">832-833年</a>　父楚在太原河东节度使任上，绹或随侍。<br /></div>"
+                },
+                {
+                    "Latitude": 33.07382,
+                    "Longitude": 107.030197,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6107",
+                    "Title": "汉中",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8964abf652e540da945faab8788c37fc\");'><span id='8964abf652e540da945faab8788c37fc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>，36岁</div><div id='8964abf652e540da945faab8788c37fc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>　上年末或本年初，令狐绹兄弟至兴元省父。时兄绪已官国子博士。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0e3e122be10d49f69be353014c313d2e\");'><span id='0e3e122be10d49f69be353014c313d2e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>，36岁</div><div id='0e3e122be10d49f69be353014c313d2e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=837&endYear=837')\">837年</a>　夏，父楚病。入冬，病情转重。病重时，令狐绹兄弟至兴元侍父。时绹已迁左补阙，弟纶官左武卫兵曹参军。<br /></div>"
+                },
+                {
+                    "Latitude": 30.899015,
+                    "Longitude": 120.094566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3305",
+                    "Title": "湖州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d1b95df528a041d8beccd34166627e8b\");'><span id='d1b95df528a041d8beccd34166627e8b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=848')\">847-848年</a>，46-47岁</div><div id='d1b95df528a041d8beccd34166627e8b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年3月</a>　三月，绹由右司郎中出授湖州刺史。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年</a>　因李商隐入郑亚幕府，绹于湖州寄诗商隐，诮其背恩，商隐酬诗反复自陈，欲以自解。两人关系自此渐趋紧张。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=847&endYear=847')\">847年11月</a>　十一月，绹已进阶中大夫，勋官至上柱国，袭爵彭阳县开国男，食邑三百户。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=848')\">848年</a>　本年，在湖州任上，曾新修文宣王庙。<br /></div>"
+                },
+                {
+                    "Latitude": 34.872892,
+                    "Longitude": 110.454307,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140881",
+                    "Title": "永济",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"30b7b0c716934adf9cb53246e65c24d7\");'><span id='30b7b0c716934adf9cb53246e65c24d7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=860')\">859-860年</a>，58-59岁</div><div id='30b7b0c716934adf9cb53246e65c24d7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=859&endYear=859')\">859年</a>　令狐绹抵河中后，以己久处枢衡，子滈避嫌罢举已久，上表请许滈就试。懿宗诏允。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=860&endYear=860')\">860年</a>　本年，在河中节度使任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=860&endYear=860')\">860年</a>　本年，子令狐滈进士及第。谏议大夫崔瑄劾奏令狐滈在父未罢相前预拔文解，请下御史台推勘，并指斥绹居相位时，滈弄父权，势倾天下。疏留中不出。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=860&endYear=860')\">860年</a>　时罗隐落第游河中，闻令狐滈登第，以诗贺赠。离河中时，罗隐有上令狐绹启，冀其荐拔。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=860&endYear=860')\">860年10月12日</a>　十月十二日，刘邺自左拾遗入充翰林学士，并赐进士及第，有上令狐绹谢状。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a6563fee141043c8bb37ad92bcce3a2b\");'><span id='a6563fee141043c8bb37ad92bcce3a2b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=862&endYear=869')\">862-869年</a>，61-68岁</div><div id='a6563fee141043c8bb37ad92bcce3a2b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=862&endYear=862')\">862年</a>　冬，迁扬州大都督府长史、淮南节度副大使、知节度事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=862&endYear=862')\">862年</a>　在扬州大都督府。王徽复从令狐绹入淮南幕府任掌书记。其他幕府僚属可考者尚有支使班蒙。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=863&endYear=863')\">863年</a>　本年，在淮南节度任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=863&endYear=863')\">863年</a>　本年，绹在淮南节度任上，时淮南节度增领濠州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=863&endYear=863')\">863年</a>　本年春，温庭筠由荆南归江东，经广陵，怨令狐绹执政时不与荐拔，过府不谒，与新进少年狂游狭邪，又乞索于扬子院，醉而犯夜，为虞候折齿败面。庭筠诉之令狐绹，绹为劾吏，吏具道其污行，绹遂两置之。事闻京师，庭筠亲至长安，致书公卿雪冤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=863&endYear=863')\">863年10月15日</a>　十月甲戌（十五日），以令狐滈为左拾遗、史馆修撰。制出，左拾遗刘蜕、起居郎张云接连上疏，劾奏令狐绹执政之时，滈弄父权，招权黩货，因滈纳贿，用李琢为安南都护，致生蛮寇，又论滈无解及第，兼及大中朝令狐绹欲立夔王为东宫一事，谓滈不宜居谏诤之列。滈亦惧，上表请换它官，乃改詹事府司直。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=864&endYear=864')\">864年1月</a>　正月，令狐绹累表自雪，为子滈讼冤。懿宗遂贬张云兴元少尹，刘蜕华阴令。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=865&endYear=865')\">865年</a>　本年，在扬州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=866&endYear=866')\">866年</a>　冬，高骈平定安南。绹以馈运有功，进爵凉国公。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=867&endYear=867')\">867年</a>　本年，令狐绹在淮南任上已检校司徒，加平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=868')\">868年7月</a>　七月，徐泗赴桂林戍卒作乱，推粮料判官庞勋为首，擅还本镇。九月，戍卒过浙西，入淮南。令狐绹遣使慰抚，并供给粮草。都押衙李湘建言令狐绹临事制宜，于淮南境内设伏剪灭，以免纵虎归山，酿成大祸，绹素懦怯，且以无敕令诛讨，听其自过。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=868')\">868年11月</a>　十一月，令狐绹与镇海军节度使杜审权、荆南节度使崔铉奉诏出师，掎角讨贼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=868')\">868年11月</a>　庞勋陷徐州后，以泗州地处江淮要冲，即遣部将李圆围之，久不能克。十一月，乃以吴迥代之，日夜急攻。令狐绹命李湘将兵数千往救，李湘与郭厚本、袁公弁合兵屯都梁城，与泗州隔淮相望。庞勋复遣其将刘佶将精兵数千助吴迥，濠州贼将刘行及亦遣其将王弘立引兵会之，遂围都梁城。十二月，甲子（五日），李湘等引兵出战，大败，贼陷都梁城，执湘及郭厚本送徐州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=868')\">868年闰1214日</a>　泗州久被围，救兵外败后，形势益危急。闰十二月，泗州判官辛谠求救于淮南、浙西。癸卯（十四），至扬州，见令狐绹，甲辰（十五），至润州，见杜审权。令狐绹发兵三千、杜审权遣兵二千，共输米五千斛、盐五百斛以救泗州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=868&endYear=868')\">868年</a>　戴可师率官军三万渡淮，围都梁城。城中贼诈降夜遁，可师恃胜不设备，明旦大雾，濠州贼将王弘立引兵数万疾径奄至，官军大败，贼传可师及监军、将校首于彭城。庞勋自谓无敌于天下，作露布，散示诸寨及乡村，于是淮南士民震恐，纷纷避地江左。令狐绹畏其侵轶，遣使诣勋说谕，许为之奏请节钺。勋乃息兵俟命。由是淮南稍得收散卒，修守备。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=869&endYear=869')\">869年2月</a>　二月，令狐绹因兵败丧师，罢淮南节度使，以马举代之。<br /></div>"
+                },
+                {
+                    "Latitude": 34.527456,
+                    "Longitude": 107.407139,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610322",
+                    "Title": "凤翔",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4efc068f1e1e4cba96ffdceac725d7f8\");'><span id='4efc068f1e1e4cba96ffdceac725d7f8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=872&endYear=879')\">872-879年</a>，71-78岁</div><div id='4efc068f1e1e4cba96ffdceac725d7f8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=872&endYear=872')\">872年</a>　本年，授凤翔节度使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=873&endYear=873')\">873年</a>　本年，在凤翔节度使任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=874&endYear=874')\">874年1月</a>　正月，佛骨归岐阳重真寺，珍藏地宫。诏令凤翔节度使令狐绹、监军使王景恂修缮寺宇。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年4月</a>　四月，进封赵国公。此前已加同平章事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年8月</a>　八月，王仙芝进逼汝州，令狐绹奉诏与邠宁节度使李侃分兵协守陕州、潼关。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>　郑缄得令狐绹荐引，八九月间，先后迁转户部郎中、刑部郎中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=878')\">877-878年</a>　本年，在凤翔节度使任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=879&endYear=879')\">879年</a>　本年，绹卒于凤翔节度使任，赠太尉。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "令狐绹 <span class='inlineComment2'>(802-879)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：尹楚兵《令狐楚年谱 令狐绹年谱》　录入整理：王秀林</p><p><a href=\"javascript: ViewRoute(0, 4, 111.514808, 34.56927, 8, 0)\">1-29岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">咸阳</a> → <a href=\"javascript: ViewPoint(1, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(2, 0)\">开封</a> → <a href=\"javascript: ViewPoint(3, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(4, 8, 111.7535165, 35.4753525, 7, 0)\">29-36岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">东平</a> → <a href=\"javascript: ViewPoint(5, 0)\">太原</a> → <a href=\"javascript: ViewPoint(6, 0)\">西安</a> → <a href=\"javascript: ViewPoint(7, 0)\">汉中</a></p><p><a href=\"javascript: ViewRoute(8, 18, 113.5623815, 32.8859535, 7, 0)\">36-78岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">西安</a> → <a href=\"javascript: ViewPoint(9, 0)\">汉中</a> → <a href=\"javascript: ViewPoint(10, 0)\">西安</a> → <a href=\"javascript: ViewPoint(11, 0)\">湖州</a> → <a href=\"javascript: ViewPoint(12, 0)\">西安</a> → <a href=\"javascript: ViewPoint(13, 0)\">永济</a> → <a href=\"javascript: ViewPoint(14, 0)\">开封</a> → <a href=\"javascript: ViewPoint(15, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(16, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(17, 0)\">凤翔</a></p>"
+        }
+    ]
+}

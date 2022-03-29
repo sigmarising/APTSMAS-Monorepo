@@ -1,0 +1,457 @@
+{
+    "id": 83,
+    "name": "晁端礼",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1046,
+        1113
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 35.39633,
+            "lng": 116.09495
+        },
+        "scaleLevel": 8
+    },
+    "reference": [
+        "《晁端礼年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                27
+            ],
+            "correspondPath": [
+                "巨野",
+                "开封",
+                "巨野",
+                "济宁"
+            ]
+        },
+        {
+            "agesDuration": [
+                28,
+                49
+            ],
+            "correspondPath": [
+                "成武",
+                "邱县",
+                "莘县",
+                "淮安",
+                "济宁",
+                "巨野"
+            ]
+        },
+        {
+            "agesDuration": [
+                49,
+                55
+            ],
+            "correspondPath": [
+                "济南",
+                "巨野",
+                "济南",
+                "巨野"
+            ]
+        },
+        {
+            "agesDuration": [
+                56,
+                68
+            ],
+            "correspondPath": [
+                "开封",
+                "巨野",
+                "开封",
+                "巨野",
+                "开封"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "14d81d64020844268d5c0df52f3972c5",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9d4c527c6c8249ed830474c4cf72ec9d",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1ba4f4f4102c4ca9afbc0ceb16545ad7",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9fc9edd65ed74ab6b4f7f5cbb9e2feff",
+                        "lat": 35.41459,
+                        "lng": 116.58724,
+                        "regionId": "CN3708",
+                        "location": "济宁",
+                        "city": "济宁市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4fb7b348c33c4bc2a16c0b35cba7b13b",
+                        "lat": 34.95245,
+                        "lng": 115.88964,
+                        "regionId": "CN371723",
+                        "location": "成武",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1e8c59e58fd24cd2a8a8e9c509f5511c",
+                        "lat": 36.819869,
+                        "lng": 115.17641,
+                        "regionId": "CN130430",
+                        "location": "邱县",
+                        "city": "邯郸市",
+                        "province": "河北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "904b37e695a54ce19b9a473f12dba1f5",
+                        "lat": 36.23361,
+                        "lng": 115.67072,
+                        "regionId": "CN371522",
+                        "location": "莘县",
+                        "city": "聊城市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "54c3a0f9ea55475187a9901c44e801ca",
+                        "lat": 33.61016,
+                        "lng": 119.01595,
+                        "regionId": "CN3208",
+                        "location": "淮安",
+                        "city": "淮安市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "89adc08835a4441f858a89a713bdcad8",
+                        "lat": 35.41459,
+                        "lng": 116.58724,
+                        "regionId": "CN3708",
+                        "location": "济宁",
+                        "city": "济宁市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "525bab50627d438fa560f62883bdb8fe",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b29e3748b6264442a2596962aa12b1df",
+                        "lat": 36.66529,
+                        "lng": 116.99493,
+                        "regionId": "CN3701",
+                        "location": "济南",
+                        "city": "济南市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a1b26f891c2b4f6b8e1ca608876d41a9",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "384fddbc57f649fdba4bc945bdf13f77",
+                        "lat": 36.66529,
+                        "lng": 116.99493,
+                        "regionId": "CN3701",
+                        "location": "济南",
+                        "city": "济南市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b454617811c74217a6020c8c1fd8f4b3",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "32d6b5da6b1e4e27baea708f60cf6437",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e30d56a476f74e498ddece1d39caf094",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c31039fe720941169e2309f41636f16c",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4fd68de68fd04efb9448f4c856669603",
+                        "lat": 35.39633,
+                        "lng": 116.09495,
+                        "regionId": "CN371724",
+                        "location": "巨野",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d88569db622d4fb2830e926d444ad882",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 35.39633,
+                "lng": 116.09495,
+                "id": null,
+                "regionId": "CN371724",
+                "location": "巨野",
+                "city": "菏泽市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1046-1068年 ，1-23岁",
+                    "1046年 出生。",
+                    "1047-1068年 居乡，少从晁端仁等学辞赋。",
+                    "1070-1071年 ，25-26岁",
+                    "1070-1071年 居乡。",
+                    "1085-1094年 ，40-49岁",
+                    "1085年 渐以还济州。",
+                    "1086年 丁母忧。",
+                    "1087年 罢官返回济州之初，家贫甚。",
+                    "1088年 后致富，赈济穷困。",
+                    "1089年 在济州请求雪冤复官未果。",
+                    "1090-1094年 在济州。",
+                    "1095年 ，50岁",
+                    "1095年 在济州。",
+                    "1096-1100年 ，51-55岁",
+                    "1096-1098年 在济州。",
+                    "1099年 在济州，六月送晁补之赴信州。",
+                    "1100年 在济州。",
+                    "1102-1110年 ，57-65岁",
+                    "1102年 在济州。",
+                    "1103年 在济州，与罢相的韩忠彦往还。",
+                    "1103-1109年 在济州。",
+                    "1110年 与弟晁端智、从侄晁补之等议迁祖坟。",
+                    "1111-1112年 ，66-67岁",
+                    "1111-1112年 在济州。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1069年 ，24岁",
+                    "1069年 与晁端仁等入京为其父向王安石乞墓志铭。",
+                    "1101年 ，56岁",
+                    "1101年 到过汴京，与丞相韩忠彦有往来。",
+                    "1110年 ，65岁",
+                    "1110年 入京护奉祖父晁宗简灵柩归葬任城鱼山。",
+                    "1113年 ，68岁",
+                    "1113年 六月入京应诏入大晟府，七月病卒。"
+                ]
+            },
+            {
+                "lat": 35.41459,
+                "lng": 116.58724,
+                "id": null,
+                "regionId": "CN3708",
+                "location": "济宁",
+                "city": "济宁市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1072年 ，27岁",
+                    "1072年 参加乡试。",
+                    "1085年 ，40岁",
+                    "1085年 遇大赦，居兖州。"
+                ]
+            },
+            {
+                "lat": 34.95245,
+                "lng": 115.88964,
+                "id": null,
+                "regionId": "CN371723",
+                "location": "成武",
+                "city": "菏泽市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1073-1079年 ，28-34岁",
+                    "1073年 中进士第，授单州武成县主簿。",
+                    "1074-1078年 在单州武成县主簿任。",
+                    "1079年 左迁酒官，与黄庭坚有诗作唱和。"
+                ]
+            },
+            {
+                "lat": 36.819869,
+                "lng": 115.17641,
+                "id": null,
+                "regionId": "CN130430",
+                "location": "邱县",
+                "city": "邯郸市",
+                "province": "河北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1080-1082年 ，35-37岁",
+                    "1080年 以瀛洲防御推官知洺州平恩县。",
+                    "1081-1082年 在平恩知县任。"
+                ]
+            },
+            {
+                "lat": 36.23361,
+                "lng": 115.67072,
+                "id": null,
+                "regionId": "CN371522",
+                "location": "莘县",
+                "city": "聊城市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1083-1084年 ，38-39岁",
+                    "1083年 官满授泰宁军节度推官，知大名府莘县事。",
+                    "1084年 在知莘县任上。"
+                ]
+            },
+            {
+                "lat": 33.61016,
+                "lng": 119.01595,
+                "id": null,
+                "regionId": "CN3208",
+                "location": "淮安",
+                "city": "淮安市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1084年 ，39岁",
+                    "1084年 坐预支公钱夺官，编管楚州。"
+                ]
+            },
+            {
+                "lat": 36.66529,
+                "lng": 116.99493,
+                "id": null,
+                "regionId": "CN3701",
+                "location": "济南",
+                "city": "济南市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1094年 ，49岁",
+                    "1094年 到过济南。",
+                    "1095年 ，50岁",
+                    "1095年 到过济南。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

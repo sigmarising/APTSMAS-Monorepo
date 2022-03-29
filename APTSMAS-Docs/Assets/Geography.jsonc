@@ -1,0 +1,48 @@
+{
+  "中国": {
+    "id": 123,
+    "defaultProvince": "陕西",
+    "provincesList": [
+      // for all provinces
+    ],
+    "provinces": {
+      // one more keys will be included
+      "陕西": {
+        "id": 333,
+        "defaultCity": "",
+        "citiesList": [
+          // for all cities
+        ],
+        "cities": {
+          "西安": {
+            "id": 123332,
+            "defaultLocation": "咸阳",
+            "locationsList": [
+              // for all locations
+            ],
+            "locations": {
+              // one more keys will be included
+              "西安": {
+                "id": 23334,
+                "visitPoets": [
+                  // one more objects will be included
+                  {
+                    "name": "魏征",
+                    "visitYears": [618, 621, 622, 626, 638]
+                  }
+                ],
+                "locationEmbedding": {
+                  // define by the numbers of embedding kernel
+                  "word2vec": {
+                    "embedding": [],
+                    "poi": 100
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+	"info": {
+		"_postman_id": "c6f19899-ce6f-4540-8db5-ddc8467ee9b0",
+		"name": "APTSMAS Backend",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetPoetInfo-ById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/poet/poetInfo/123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"poet",
+						"poetInfo",
+						"123"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPoetInfoList-ByLocationId Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/poet/poetInfoList?locationId=00102200060007",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"poet",
+						"poetInfoList"
+					],
+					"query": [
+						{
+							"key": "locationId",
+							"value": "00102200060007"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "OLAM",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"poet\": {\r\n        \"selectLevel\": \"dynasty\",\r\n        \"selected\": [\r\n            1,\r\n            2\r\n        ]\r\n    },\r\n    \"time\": {\r\n        \"selectLevel\": \"century\",\r\n        \"selected\": [\r\n            {\r\n                \"from\": 600,\r\n                \"to\": 699\r\n            },\r\n            {\r\n                \"from\": 800,\r\n                \"to\": 899\r\n            },\r\n            {\r\n                \"from\": 900,\r\n                \"to\": 999\r\n            },\r\n            {\r\n                \"from\": 1000,\r\n                \"to\": 1099\r\n            },\r\n            {\r\n                \"from\": 1200,\r\n                \"to\": 1299\r\n            },\r\n            {\r\n                \"from\": 1300,\r\n                \"to\": 1399\r\n            }\r\n        ]\r\n    },\r\n    \"location\": {\r\n        \"selectLevel\": \"province\",\r\n        \"selected\": [\r\n            \"001001\",\r\n            \"001002\",\r\n            \"001004\",\r\n            \"001005\",\r\n            \"001006\"\r\n        ]\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8090/api/v1/olam/search",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"olam",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "OLAM-Body Not Order",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"poet\": {\r\n        \"selectLevel\": \"dynasty\",\r\n        \"selected\": [\r\n            1,\r\n            2\r\n        ]\r\n    },\r\n    \"time\": {\r\n        \"selectLevel\": \"century\",\r\n        \"selected\": [\r\n            {\r\n                \"from\": 800,\r\n                \"to\": 899\r\n            },\r\n            {\r\n                \"from\": 600,\r\n                \"to\": 699\r\n            },\r\n            {\r\n                \"from\": 1300,\r\n                \"to\": 1399\r\n            },\r\n            {\r\n                \"from\": 900,\r\n                \"to\": 999\r\n            },\r\n            {\r\n                \"from\": 1200,\r\n                \"to\": 1299\r\n            },\r\n            {\r\n                \"from\": 1000,\r\n                \"to\": 1099\r\n            }\r\n        ]\r\n    },\r\n    \"location\": {\r\n        \"selectLevel\": \"province\",\r\n        \"selected\": [\r\n            \"001001\",\r\n            \"001002\",\r\n            \"001004\",\r\n            \"001005\",\r\n            \"001006\"\r\n        ]\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8090/api/v1/olam/search",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"olam",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetTimeVariantInfo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/timeVariant/search?searchType=routeProvinceTravel",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"timeVariant",
+						"search"
+					],
+					"query": [
+						{
+							"key": "searchType",
+							"value": "routeProvinceTravel"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetEmbeddingResult",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/emb/result?kernelId=1&algorithmId=4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"emb",
+						"result"
+					],
+					"query": [
+						{
+							"key": "kernelId",
+							"value": "1"
+						},
+						{
+							"key": "algorithmId",
+							"value": "4"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetSpaceScaleInfo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/api/v1/spaceScale/search?searchType=edges",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"v1",
+						"spaceScale",
+						"search"
+					],
+					"query": [
+						{
+							"key": "searchType",
+							"value": "edges"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

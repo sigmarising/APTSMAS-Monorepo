@@ -1,0 +1,130 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.399685,
+            "CenterLongitude": 114.810205,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "3108abff6c75490283007c598c8c933f",
+                            "Latitude": 28.399685,
+                            "Longitude": 114.810205,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360924",
+                            "Title": "宜丰"
+                        },
+                        {
+                            "Id": "213776bc2c3044adb91893618ef14b02",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "000d74781a934461b72571ee1a17baea",
+                            "Latitude": 28.399685,
+                            "Longitude": 114.810205,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360924",
+                            "Title": "宜丰"
+                        },
+                        {
+                            "Id": "7180e974703f453ca0f432f8f9eb5579",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "747f3d77bff546d4b4619754fd14befe",
+                            "Latitude": 28.460864,
+                            "Longitude": 117.950028,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3611",
+                            "Title": "上饶"
+                        },
+                        {
+                            "Id": "0436abb0f87d4e52bf0bca20ef5f8ccf",
+                            "Latitude": 28.399685,
+                            "Longitude": 114.810205,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360924",
+                            "Title": "宜丰"
+                        },
+                        {
+                            "Id": "85348a203d344a728295ee569a8531bb",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "004978207d5949d59978a12094ba5926",
+                            "Latitude": 28.399685,
+                            "Longitude": 114.810205,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360924",
+                            "Title": "宜丰"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.399685,
+                    "Longitude": 114.810205,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360924",
+                    "Title": "宜丰 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3108abff6c75490283007c598c8c933f\");'><span id='3108abff6c75490283007c598c8c933f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1252')\">1216-1252年</a>，1-37岁</div><div id='3108abff6c75490283007c598c8c933f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')\">1216年</a>　生于本年。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1229')\">1217-1229年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')\">1230年</a>　少年时，曾流寓丰城龙雾渡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1234')\">1231-1234年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')\">1235年</a>　约是时，曾寓居感山海慧寺，与诗僧雪樵唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')\">1235年</a>　尝从范子坚、乐雷发学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1247')\">1236-1247年</a>　居乡？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1248')\">1248年</a>　娶夫人竹堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1249')\">1249年5月</a>　五月，生女荣。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1249')\">1249年6月20日</a>　六月二十日，夫人竹堂卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1250&endYear=1252')\">1250-1252年</a>　居乡？<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"000d74781a934461b72571ee1a17baea\");'><span id='000d74781a934461b72571ee1a17baea_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1256')\">1253-1256年</a>，38-41岁</div><div id='000d74781a934461b72571ee1a17baea' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1253')\">1253年10月</a>　十月，归里，旋丁父忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1255')\">1254-1255年</a>　居乡丁忧。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年2月</a>　二月，娶夫人梅庄。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0436abb0f87d4e52bf0bca20ef5f8ccf\");'><span id='0436abb0f87d4e52bf0bca20ef5f8ccf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1258')\">1257-1258年</a>，42-43岁</div><div id='0436abb0f87d4e52bf0bca20ef5f8ccf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')\">1257年</a>　春，以劾丁大全事，西归。<span class='label'>作品：</span>丁巳春言事西归和朱子云赐诗韵。<div id='poem_177436' class='_poem'><div id='poem_title_177436' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=177436' class='poemCommentLink' target='_blank'>丁巳春言事西归和朱子云赐诗韵</a><a href='javascript: ShowPoemAuthorProfile(25302, \"宋\", \"姚勉\", \"poem_title_177436\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>姚勉</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_177436_comment'></div><div class='poemContent' id='poem_content_177436'><div class='poemSentence' id='poem_sentence_0_177436'>鲤鱼书来上谁字，斗牛光中湖海士。</div><div id='poem_sentence_0_177436_comment'></div><div class='poemSentence' id='poem_sentence_1_177436'>梅花腊雪曾会面，桃李春风一弹指。</div><div id='poem_sentence_1_177436_comment'></div><div class='poemSentence' id='poem_sentence_2_177436'>剥书得诗意雄杰，钟吕惊闻筝笛耳。</div><div id='poem_sentence_2_177436_comment'></div><div class='poemSentence' id='poem_sentence_3_177436'>懦夫有闻气可作，奸谀未诛神已死。</div><div id='poem_sentence_3_177436_comment'></div><div class='poemSentence' id='poem_sentence_4_177436'>奴<span class='inlineComment2'>（豫章本作努）</span>唇争笑乃独否，我心有同固如此。</div><div id='poem_sentence_4_177436_comment'></div><div class='poemSentence' id='poem_sentence_5_177436'>君家请剑攀折槛，远胜衣绣誇归里。</div><div id='poem_sentence_5_177436_comment'></div><div class='poemSentence' id='poem_sentence_6_177436'>立朝日少谏多藁，况有竹林老夫子。</div><div id='poem_sentence_6_177436_comment'></div><div class='poemSentence' id='poem_sentence_7_177436'>百年易了富与贵，万古不磨天此理。</div><div id='poem_sentence_7_177436_comment'></div><div class='poemSentence' id='poem_sentence_8_177436'>笑骂从渠官欲好，妻妾羞人身不耻。</div><div id='poem_sentence_8_177436_comment'></div><div class='poemSentence' id='poem_sentence_9_177436'>获禽一朝固可十，天下良工安肯诡。</div><div id='poem_sentence_9_177436_comment'></div><div class='poemSentence' id='poem_sentence_10_177436'>古人寥寥今不见，举世滔滔此皆是。</div><div id='poem_sentence_10_177436_comment'></div><div class='poemSentence' id='poem_sentence_11_177436'>蛾眉方遭众女嫉，足音忽动空谷喜。</div><div id='poem_sentence_11_177436_comment'></div><div class='poemSentence' id='poem_sentence_12_177436'>我欲净洗后土泥，子为快挽天河水。</div><div id='poem_sentence_12_177436_comment'></div><div class='poemSentence' id='poem_sentence_13_177436'></div><div id='poem_sentence_13_177436_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')\">1257年6月20日</a>　夫人梅庄卒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1258')\">1258年3月</a>　三月，葬梅庄夫人，作《梅庄夫人墓志铭》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"004978207d5949d59978a12094ba5926\");'><span id='004978207d5949d59978a12094ba5926_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1261&endYear=1262')\">1261-1262年</a>，46-47岁</div><div id='004978207d5949d59978a12094ba5926' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1261&endYear=1261')\">1261年</a>　师事蔡杭，笃守程朱之学，著有《雪坡集》五十卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')\">1262年</a>　病卒。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"213776bc2c3044adb91893618ef14b02\");'><span id='213776bc2c3044adb91893618ef14b02_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1253')\">1253年</a>，38岁</div><div id='213776bc2c3044adb91893618ef14b02' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1253')\">1253年5月</a>　状元及第。五月，登第。有司原置第四，理宗亲擢第一，授平江节度判官。曾上疏以科名让乐雷发。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7180e974703f453ca0f432f8f9eb5579\");'><span id='7180e974703f453ca0f432f8f9eb5579_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年</a>，41岁</div><div id='7180e974703f453ca0f432f8f9eb5579' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年9月</a>　九月，服阙。召赴行在，除秘书省正字。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"85348a203d344a728295ee569a8531bb\");'><span id='85348a203d344a728295ee569a8531bb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1260')\">1259-1260年</a>，44-45岁</div><div id='85348a203d344a728295ee569a8531bb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1259')\">1259年10月</a>　十月，及吴潜拜相，召入。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1259')\">1259年10月</a>　十月，除处州通判，辞不就。后除校书郎，亦辞不就。<span class='label'>作品：</span>己未十月辞添差处州通判申本州状。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')\">1260年1月</a>　正月，除秘书省正字，旋兼沂靖惠王府教授。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')\">1260年6月</a>　六月，除校书郎，兼太子舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')\">1260年</a>　因指斥权奸，无所顾避，忤贾似道，罢归。<br /></div>"
+                },
+                {
+                    "Latitude": 28.460864,
+                    "Longitude": 117.950028,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3611",
+                    "Title": "上饶",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"747f3d77bff546d4b4619754fd14befe\");'><span id='747f3d77bff546d4b4619754fd14befe_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年</a>，41岁</div><div id='747f3d77bff546d4b4619754fd14befe' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年12月</a>　十二月，至上饶，闻太学生论丁大全被逐之事，上《丙辰封事》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "姚勉 <span class='inlineComment2'>(1216-1262)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：唐元、张静《南宋状元姚勉年谱》　录入整理：唐元</p><p><a href=\"javascript: ViewRoute(0, 4, 117.485949, 29.339872, 8, 0)\">1-41岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">宜丰</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">宜丰</a> → <a href=\"javascript: ViewPoint(3, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(4, 8, 117.485949, 29.339872, 8, 0)\">41-47岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">上饶</a> → <a href=\"javascript: ViewPoint(5, 0)\">宜丰</a> → <a href=\"javascript: ViewPoint(6, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(7, 0)\">宜丰</a></p>"
+        }
+    ]
+}

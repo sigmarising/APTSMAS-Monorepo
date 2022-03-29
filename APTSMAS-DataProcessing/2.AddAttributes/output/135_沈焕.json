@@ -1,0 +1,311 @@
+{
+    "id": 135,
+    "name": "沈焕",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1139,
+        1227
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 29.87386,
+            "lng": 121.55027
+        },
+        "scaleLevel": 8
+    },
+    "reference": [
+        "《定川言行汇考》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                42
+            ],
+            "correspondPath": [
+                "宁波",
+                "杭州",
+                "上虞",
+                "宁波"
+            ]
+        },
+        {
+            "agesDuration": [
+                43,
+                53
+            ],
+            "correspondPath": [
+                "杭州",
+                "高邮",
+                "宁波",
+                "绍兴",
+                "婺源",
+                "潜山",
+                "宁波"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "72892dedd9a74ce996e3afad84d37229",
+                        "lat": 29.87386,
+                        "lng": 121.55027,
+                        "regionId": "CN3302",
+                        "location": "宁波",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "dcbbdab9f42d4c378a11942f7ff20500",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f8836531379c4449b8a3331605478a0f",
+                        "lat": 30.035154,
+                        "lng": 120.862908,
+                        "regionId": "CN330604",
+                        "location": "上虞",
+                        "city": "绍兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "dd3d297ea54d47f3bddad9c5fe45b369",
+                        "lat": 29.87386,
+                        "lng": 121.55027,
+                        "regionId": "CN3302",
+                        "location": "宁波",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "81e4140ee5a946bd9a7f419963d76fd3",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3e7ef9e098b049aeac9d909db76a2ae2",
+                        "lat": 32.78112,
+                        "lng": 119.45558,
+                        "regionId": "CN321084",
+                        "location": "高邮",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "aab3fd6deb574afbb6a1e74a65377f2e",
+                        "lat": 29.87386,
+                        "lng": 121.55027,
+                        "regionId": "CN3302",
+                        "location": "宁波",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "78d5493c961d467bb440d364a264b9ef",
+                        "lat": 30.03033,
+                        "lng": 120.580199,
+                        "regionId": "CN3306",
+                        "location": "绍兴",
+                        "city": "绍兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "afbbf98bbbe844f4b8000b422787e9f7",
+                        "lat": 29.24791,
+                        "lng": 117.86192,
+                        "regionId": "CN361130",
+                        "location": "婺源",
+                        "city": "上饶市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1d6138451d584655addd8d6c3a61bc0b",
+                        "lat": 30.63107,
+                        "lng": 116.58133,
+                        "regionId": "CN340824",
+                        "location": "潜山",
+                        "city": "安庆市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a4e4b97e09de4abb8e38434e4756f931",
+                        "lat": 29.87386,
+                        "lng": 121.55027,
+                        "regionId": "CN3302",
+                        "location": "宁波",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 29.87386,
+                "lng": 121.55027,
+                "id": null,
+                "regionId": "CN3302",
+                "location": "宁波",
+                "city": "宁波市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1139-1162年 ，1-24岁",
+                    "1139-1161年 居乡。",
+                    "1162年 乡举第二。",
+                    "1171-1180年 ，33-42岁",
+                    "1171-1176年 闲居家乡。",
+                    "1177年 调扬州教授，未赴；游明招山。",
+                    "1178-1180年 闲居家乡。",
+                    "1182-1185年 ，44-47岁",
+                    "1182年 父沈铢卒，丁忧。",
+                    "1182年 丁父忧。",
+                    "1183年 吕祖俭官明州仓监，讲学竹洲。",
+                    "1184年 朱熹《答沈叔晦书》，讲学竹洲。",
+                    "1185年 讲学竹洲。",
+                    "1191年 ，53岁",
+                    "1191年12月23日 葬于家乡。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1163-1168年 ，25-30岁",
+                    "1163年 监补第一。",
+                    "1164-1168年 求学太学。",
+                    "1181年 ，43岁",
+                    "1181年 除太学录。"
+                ]
+            },
+            {
+                "lat": 30.035154,
+                "lng": 120.862908,
+                "id": null,
+                "regionId": "CN330604",
+                "location": "上虞",
+                "city": "绍兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1169-1170年 ，31-32岁",
+                    "1169年 进士第二，任上虞县尉。",
+                    "1169-1170年 任上虞尉。"
+                ]
+            },
+            {
+                "lat": 32.78112,
+                "lng": 119.45558,
+                "id": null,
+                "regionId": "CN321084",
+                "location": "高邮",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1181年 ，43岁",
+                    "1181年 高邮州教授。"
+                ]
+            },
+            {
+                "lat": 30.03033,
+                "lng": 120.580199,
+                "id": null,
+                "regionId": "CN3306",
+                "location": "绍兴",
+                "city": "绍兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1186-1187年 ，48-49岁",
+                    "1186-1187年 除从政郎、浙东安抚司干办公事。"
+                ]
+            },
+            {
+                "lat": 29.24791,
+                "lng": 117.86192,
+                "id": null,
+                "regionId": "CN361130",
+                "location": "婺源",
+                "city": "上饶市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1188年 ，50岁",
+                    "1188年 除宣教郎、知婺源县。"
+                ]
+            },
+            {
+                "lat": 30.63107,
+                "lng": 116.58133,
+                "id": null,
+                "regionId": "CN340824",
+                "location": "潜山",
+                "city": "安庆市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1188-1191年 ，50-53岁",
+                    "1188-1189年 迁通判舒州。",
+                    "1190年 举行义田；作诗箴其友。",
+                    "1191年4月1日 卒于寓舍。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

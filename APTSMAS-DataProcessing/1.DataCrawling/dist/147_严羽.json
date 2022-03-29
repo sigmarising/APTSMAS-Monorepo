@@ -1,0 +1,180 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 27.346635,
+            "CenterLongitude": 117.498948,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "7442643951db4307af05bc1a1066a902",
+                            "Latitude": 27.346635,
+                            "Longitude": 117.498948,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350781",
+                            "Title": "邵武"
+                        },
+                        {
+                            "Id": "b88ab943f2804341adda082a0b8ec856",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "86f766b7ba5241d2a21becf76db28c9c",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "21c83f213b114d91b766e285e1213039",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "4fcc32ba349b409fab8cfd5b167571fe",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "0df643a5c61a48a3842eae2c2a623046",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "c99d4e3175be46e290d0b513d25b6e8b",
+                            "Latitude": 28.941661,
+                            "Longitude": 118.880768,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3308",
+                            "Title": "衢州"
+                        },
+                        {
+                            "Id": "5f9d4ee6fc8f4dec90816f9a439061b1",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "90210abf90a14da394f10a3f96161297",
+                            "Latitude": 27.346635,
+                            "Longitude": 117.498948,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350781",
+                            "Title": "邵武"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 27.346635,
+                    "Longitude": 117.498948,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350781",
+                    "Title": "邵武 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7442643951db4307af05bc1a1066a902\");'><span id='7442643951db4307af05bc1a1066a902_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1228')\">1192-1228年</a>，1-37岁</div><div id='7442643951db4307af05bc1a1066a902' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1210')\">1192-1210年</a>　居乡?<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')\">1211年</a>　隐居故里?尝问学于象山学派包扬（包恢之父），时间不详，姑系于此。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1228')\">1212-1228年</a>　隐居故里?<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"90210abf90a14da394f10a3f96161297\");'><span id='90210abf90a14da394f10a3f96161297_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1238')\">1231-1238年</a>，40-47岁</div><div id='90210abf90a14da394f10a3f96161297' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　汀州农民起义失败,福建时局得以暂时稳定。秋尽岁暮，严羽远游返乡,有诗纪乱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　远游返乡，感于人生蹭蹬，有诗纪之。<span class='label'>作品：</span>促刺行。<div id='poem_556555' class='_poem'><div id='poem_title_556555' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556555' class='poemCommentLink' target='_blank'>促刺行</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556555\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_556555_comment'></div><div class='poemContent' id='poem_content_556555'><div class='poemSentence' id='poem_sentence_0_556555'>促刺复促刺，男儿蹭蹬真可惜。</div><div id='poem_sentence_0_556555_comment'></div><div class='poemSentence' id='poem_sentence_1_556555'>三年走南复走北，岁暮归来空四壁，邻翁为我长太<sup class='reference inlineComment2'>⑴</sup>息。</div><div id='poem_sentence_1_556555_comment'></div><div class='poemSentence' id='poem_sentence_2_556555'>人生四十未为老，我已白头色枯槁。</div><div id='poem_sentence_2_556555_comment'></div><div class='poemSentence' id='poem_sentence_3_556555'>海内伶俜独一身，裘马摧藏愁欲倒。</div><div id='poem_sentence_3_556555_comment'></div><div class='poemSentence' id='poem_sentence_4_556555'>今日饮君数杯酒，座閒颇觉颜色好。</div><div id='poem_sentence_4_556555_comment'></div><div class='poemSentence' id='poem_sentence_5_556555'>忽忆当年快意时，与君笑傲长相期。</div><div id='poem_sentence_5_556555_comment'></div><div class='poemSentence' id='poem_sentence_6_556555'>大杯倒瓮作牛饮，脱巾袒跣唯嫌迟。</div><div id='poem_sentence_6_556555_comment'></div><div class='poemSentence' id='poem_sentence_7_556555'>即今多病筋力弱，壮心虽<span class='inlineComment2'>（夏校本作犹）</span>存兴寂寞。</div><div id='poem_sentence_7_556555_comment'></div><div class='poemSentence' id='poem_sentence_8_556555'>君不见昨夜谁为烈士歌，听罢仰空泪零落。</div><div id='poem_sentence_8_556555_comment'></div></div><div class='poemNote' id='poem_note_556555'><div class='inline1'><div id='poem_sentence_1_556555_0'>⑴ 胡本、夏校本作叹</div></div></div><div id='poem_note_556555_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　结识戴复古，相交甚笃，时有唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　与严仁（字次山）往来甚密，时有唱和。岁末，严仁离乡西去，严羽有诗送行。<span class='label'>作品：</span>送严次山。<div id='poem_556515' class='_poem'><div id='poem_title_556515' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556515' class='poemCommentLink' target='_blank'>送严次山</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556515\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_556515_comment'></div><div class='poemContent' id='poem_content_556515'><div class='poemSentence' id='poem_sentence_0_556515'>四年栖岭表，三岁客海东。</div><div id='poem_sentence_0_556515_comment'></div><div class='poemSentence' id='poem_sentence_1_556515'>人生贵安适，奔走成何功。</div><div id='poem_sentence_1_556515_comment'></div><div class='poemSentence' id='poem_sentence_2_556515'>去年喜归来，山花春<sup class='reference inlineComment2'>⑴</sup>蒙茸。</div><div id='poem_sentence_2_556515_comment'></div><div class='poemSentence' id='poem_sentence_3_556515'>弟侄各捧觞，一笑生华风。</div><div id='poem_sentence_3_556515_comment'></div><div class='poemSentence' id='poem_sentence_4_556515'>南山多紫芝，北山多白薇。</div><div id='poem_sentence_4_556515_comment'></div><div class='poemSentence' id='poem_sentence_5_556515'>云空汗漫台，月午生凉辉。</div><div id='poem_sentence_5_556515_comment'></div><div class='poemSentence' id='poem_sentence_6_556515'>俯仰仅一载<span class='inlineComment2'>（夏校本作岁）</span>，脂车复征西。</div><div id='poem_sentence_6_556515_comment'></div><div class='poemSentence' id='poem_sentence_7_556515'>岂以丈夫志，万里犹庭闱。</div><div id='poem_sentence_7_556515_comment'></div><div class='poemSentence' id='poem_sentence_8_556515'>岂以名山川，待公亲品题。</div><div id='poem_sentence_8_556515_comment'></div><div class='poemSentence' id='poem_sentence_9_556515'>故园松桂林，一一含贞姿。</div><div id='poem_sentence_9_556515_comment'></div><div class='poemSentence' id='poem_sentence_10_556515'>何时赋归来，毋令久凝思。</div><div id='poem_sentence_10_556515_comment'></div><div class='poemSentence' id='poem_sentence_11_556515'></div><div id='poem_sentence_11_556515_comment'></div></div><div class='poemNote' id='poem_note_556515'><div class='inline1'><div id='poem_sentence_2_556515_0'>⑴ 原作卷，据林序本、尹本、夏校本改</div></div></div><div id='poem_note_556515_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　与李贾（字友山）往来甚密，时有唱和。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')\">1232年</a>　与王野（字子文）往来甚密，时有唱和。或于此年作《早春寄潜斋王使君》<div id='poem_556502' class='_poem'><div id='poem_title_556502' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556502' class='poemCommentLink' target='_blank'>早春寄潜斋王史君</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556502\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_556502_comment'></div><div class='poemContent' id='poem_content_556502'><div class='poemSentence' id='poem_sentence_0_556502'>昏昏醉睡慵朝起，日日柴门待暖开。</div><div id='poem_sentence_0_556502_comment'></div><div class='poemSentence' id='poem_sentence_1_556502'>春至任从花鸟笑，客来还<sup class='reference inlineComment2'>⑴</sup>仗酒樽陪。</div><div id='poem_sentence_1_556502_comment'></div><div class='poemSentence' id='poem_sentence_2_556502'>移舟动觅依江柳，策杖时能访早梅。</div><div id='poem_sentence_2_556502_comment'></div><div class='poemSentence' id='poem_sentence_3_556502'>忽忆使君联骑出<span class='inlineComment2'>（林序本、夏校本作去）</span>，此时乘兴几衔杯。</div><div id='poem_sentence_3_556502_comment'></div><div class='poemSentence' id='poem_sentence_4_556502'></div><div id='poem_sentence_4_556502_comment'></div></div><div class='poemNote' id='poem_note_556502'><div class='inline1'><div id='poem_sentence_1_556502_0'>⑴ 胡本、夏校本作须</div></div></div><div id='poem_note_556502_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')\">1233年</a>　大概至绍定末，《沧浪诗话》体系方备，基本写成。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　秋冬，悲痛于国家危局，有诗抒怀。<span class='label'>作品：</span>有感（其一）有感（其二）有感（其三）有感（其四）有感（其五）有感（其六）<div id='poem_98773' class='_poem'><div id='poem_title_98773' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=98773' class='poemCommentLink' target='_blank'>有感六首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_98773\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_98773_comment'></div><div class='poemContent' id='poem_content_98773'><div class='poemSentence' id='poem_sentence_0_98773'>误喜残胡灭，那知患更长。</div><div id='poem_sentence_0_98773_comment'></div><div class='poemSentence' id='poem_sentence_1_98773'>黄云新战路，白骨旧沙场。</div><div id='poem_sentence_1_98773_comment'></div><div class='poemSentence' id='poem_sentence_2_98773'>巴蜀连年哭，江淮几郡疮。</div><div id='poem_sentence_2_98773_comment'></div><div class='poemSentence' id='poem_sentence_3_98773'>襄阳根本地，回首一悲伤。</div><div id='poem_sentence_3_98773_comment'></div><div class='poemSentence' id='poem_sentence_4_98773'></div><div id='poem_sentence_4_98773_comment'></div></div></div><div id='poem_556489' class='_poem'><div id='poem_title_556489' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556489' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_556489_comment'></div><div class='poemContent' id='poem_content_556489'><div class='poemSentence' id='poem_sentence_0_556489'>哀痛天灾日，丝纶罪己深。</div><div id='poem_sentence_0_556489_comment'></div><div class='poemSentence' id='poem_sentence_1_556489'>王师曾北伐，胡马尚南侵。</div><div id='poem_sentence_1_556489_comment'></div><div class='poemSentence' id='poem_sentence_2_556489'>谋国知谁计，和亲岂圣心。</div><div id='poem_sentence_2_556489_comment'></div><div class='poemSentence' id='poem_sentence_3_556489'>愿闻修实德，听纳谏臣箴。</div><div id='poem_sentence_3_556489_comment'></div><div class='poemSentence' id='poem_sentence_4_556489'></div><div id='poem_sentence_4_556489_comment'></div></div></div><div id='poem_98772' class='_poem'><div id='poem_title_98772' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=98772' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_98772_comment'></div><div class='poemContent' id='poem_content_98772'><div class='poemSentence' id='poem_sentence_0_98772'>闻道单于使，年来入国频。</div><div id='poem_sentence_0_98772_comment'></div><div class='poemSentence' id='poem_sentence_1_98772'>圣朝思息战，异域请和亲。</div><div id='poem_sentence_1_98772_comment'></div><div class='poemSentence' id='poem_sentence_2_98772'>今日唐虞际，群公社稷臣。</div><div id='poem_sentence_2_98772_comment'></div><div class='poemSentence' id='poem_sentence_3_98772'>不妨盟墨诈，须戒覆车新。</div><div id='poem_sentence_3_98772_comment'></div><div class='poemSentence' id='poem_sentence_4_98772'></div><div id='poem_sentence_4_98772_comment'></div></div></div><div id='poem_556490' class='_poem'><div id='poem_title_556490' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556490' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_556490_comment'></div><div class='poemContent' id='poem_content_556490'><div class='poemSentence' id='poem_sentence_0_556490'>灾异时时见，群情恐惧中。</div><div id='poem_sentence_0_556490_comment'></div><div class='poemSentence' id='poem_sentence_1_556490'>修攘今日急，反侧向来同。</div><div id='poem_sentence_1_556490_comment'></div><div class='poemSentence' id='poem_sentence_2_556490'>社稷堪多难，安危系数公。</div><div id='poem_sentence_2_556490_comment'></div><div class='poemSentence' id='poem_sentence_3_556490'>残生江海去，老作一渔翁。</div><div id='poem_sentence_3_556490_comment'></div><div class='poemSentence' id='poem_sentence_4_556490'></div><div id='poem_sentence_4_556490_comment'></div></div></div><div id='poem_556491' class='_poem'><div id='poem_title_556491' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556491' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_556491_comment'></div><div class='poemContent' id='poem_content_556491'><div class='poemSentence' id='poem_sentence_0_556491'>陛下春秋盛，谦卑每责躬。</div><div id='poem_sentence_0_556491_comment'></div><div class='poemSentence' id='poem_sentence_1_556491'>得无劳圣虑，犹未定储宫。</div><div id='poem_sentence_1_556491_comment'></div><div class='poemSentence' id='poem_sentence_2_556491'>付托关神器，乾坤在至公。</div><div id='poem_sentence_2_556491_comment'></div><div class='poemSentence' id='poem_sentence_3_556491'>早闻宣诏册，欢喜万方同。</div><div id='poem_sentence_3_556491_comment'></div><div class='poemSentence' id='poem_sentence_4_556491'></div><div id='poem_sentence_4_556491_comment'></div></div></div><div id='poem_556492' class='_poem'><div id='poem_title_556492' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556492' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其六 </span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_556492_comment'></div><div class='poemContent' id='poem_content_556492'><div class='poemSentence' id='poem_sentence_0_556492'>传闻降北将，犹未悔狂图。</div><div id='poem_sentence_0_556492_comment'></div><div class='poemSentence' id='poem_sentence_1_556492'>忍召豺狼入，甘先矢石驱。</div><div id='poem_sentence_1_556492_comment'></div><div class='poemSentence' id='poem_sentence_2_556492'>圣朝何负汝，天意属<sup class='reference inlineComment2'>⑴</sup>亡胡。</div><div id='poem_sentence_2_556492_comment'></div><div class='poemSentence' id='poem_sentence_3_556492'>试看山东寇，如今更有无。</div><div id='poem_sentence_3_556492_comment'></div><div class='poemSentence' id='poem_sentence_4_556492'></div><div id='poem_sentence_4_556492_comment'></div></div><div class='poemNote' id='poem_note_556492'><div class='inline1'><div id='poem_sentence_2_556492_0'>⑴ 林序本、胡本、夏校本作必</div></div></div><div id='poem_note_556492_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　本年末或下年初，严羽卒。<br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b88ab943f2804341adda082a0b8ec856\");'><span id='b88ab943f2804341adda082a0b8ec856_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>，37岁</div><div id='b88ab943f2804341adda082a0b8ec856' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　深秋，因汀州农民起义爆发，福建时局激烈动荡，严羽离乡避乱，到达豫章城（今南昌市）<span class='label'>作品：</span>将至浔阳途中寄诸从昆弟。<span class='inlineComment2'>（陈伯海《严羽身世考略》（《上海师大学报》1984年第3期）认为严羽避乱出走的时间当为绍定三年（1230）春天。）</span><div id='poem_556497' class='_poem'><div id='poem_title_556497' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556497' class='poemCommentLink' target='_blank'>将之<sup class='reference inlineComment2'>①</sup>浔阳途中寄诸从昆弟</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556497\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_556497_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_556497_0'>① 林序本、胡本、夏校本作至</div></div></div><div class='poemContent' id='poem_content_556497'><div class='poemSentence' id='poem_sentence_0_556497'>渺渺孤帆去几程，悠悠天际望湓城。</div><div id='poem_sentence_0_556497_comment'></div><div class='poemSentence' id='poem_sentence_1_556497'>一身避乱辞乡国，千里相思隔弟兄。</div><div id='poem_sentence_1_556497_comment'></div><div class='poemSentence' id='poem_sentence_2_556497'>猿叫匡庐寒暮色，雁过彭蠡带秋声。</div><div id='poem_sentence_2_556497_comment'></div><div class='poemSentence' id='poem_sentence_3_556497'>江湖此去方<sup class='reference inlineComment2'>⑴</sup>漂泊，肠断风尘远别情。</div><div id='poem_sentence_3_556497_comment'></div><div class='poemSentence' id='poem_sentence_4_556497'></div><div id='poem_sentence_4_556497_comment'></div></div><div class='poemNote' id='poem_note_556497'><div class='inline1'><div id='poem_sentence_3_556497_0'>⑴ 林序本、胡本、夏校本作多</div></div></div><div id='poem_note_556497_comment'></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5f9d4ee6fc8f4dec90816f9a439061b1\");'><span id='5f9d4ee6fc8f4dec90816f9a439061b1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>，40岁</div><div id='5f9d4ee6fc8f4dec90816f9a439061b1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>　由衢州取陆返赣。夏秋二季客居豫章城，有诗留别。<span class='label'>作品：</span>豫章留别诸公。<div id='poem_556516' class='_poem'><div id='poem_title_556516' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556516' class='poemCommentLink' target='_blank'>豫章留别诸公</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556516\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_556516_comment'></div><div class='poemContent' id='poem_content_556516'><div class='poemSentence' id='poem_sentence_0_556516'>登舻<sup class='reference inlineComment2'>⑴</sup>眺海日，涉岛听江猿。</div><div id='poem_sentence_0_556516_comment'></div><div class='poemSentence' id='poem_sentence_1_556516'>何意豫章国，还著孤蓬根。</div><div id='poem_sentence_1_556516_comment'></div><div class='poemSentence' id='poem_sentence_2_556516'>经过徐孺宅，出入洪乔门。</div><div id='poem_sentence_2_556516_comment'></div><div class='poemSentence' id='poem_sentence_3_556516'>昔看秋叶落，今见荷花繁。</div><div id='poem_sentence_3_556516_comment'></div><div class='poemSentence' id='poem_sentence_4_556516'>颇耽山水趣，正惬朋从温。</div><div id='poem_sentence_4_556516_comment'></div><div class='poemSentence' id='poem_sentence_5_556516'>穷秋催客去，独<sup class='reference inlineComment2'>⑵</sup>帆若云奔。</div><div id='poem_sentence_5_556516_comment'></div><div class='poemSentence' id='poem_sentence_6_556516'>追攀感数子，酒襟馀泪痕。</div><div id='poem_sentence_6_556516_comment'></div><div class='poemSentence' id='poem_sentence_7_556516'>既伤岁月晚，复恋烟霞樽。</div><div id='poem_sentence_7_556516_comment'></div><div class='poemSentence' id='poem_sentence_8_556516'>欢乐无定序，聚散同朝昏。</div><div id='poem_sentence_8_556516_comment'></div><div class='poemSentence' id='poem_sentence_9_556516'>丈夫志四海，别离何足论。</div><div id='poem_sentence_9_556516_comment'></div><div class='poemSentence' id='poem_sentence_10_556516'></div><div id='poem_sentence_10_556516_comment'></div></div><div class='poemNote' id='poem_note_556516'><div class='inline1'><div id='poem_sentence_0_556516_0'>⑴ 林序本、胡本、夏校本作楼</div></div><div class='inline1'><div id='poem_sentence_5_556516_0'>⑵ 胡本、夏校本作孤</div></div></div><div id='poem_note_556516_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"86f766b7ba5241d2a21becf76db28c9c\");'><span id='86f766b7ba5241d2a21becf76db28c9c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>，37岁</div><div id='86f766b7ba5241d2a21becf76db28c9c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　抵达浔阳（今九江市）<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"21c83f213b114d91b766e285e1213039\");'><span id='21c83f213b114d91b766e285e1213039_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>，37岁</div><div id='21c83f213b114d91b766e285e1213039' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　溯江北上，至建康。<span class='label'>作品：</span>舟中寄汉阳故人。<div id='poem_556504' class='_poem'><div id='poem_title_556504' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556504' class='poemCommentLink' target='_blank'>舟中寄汉阳故人</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556504\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_556504_comment'></div><div class='poemContent' id='poem_content_556504'><div class='poemSentence' id='poem_sentence_0_556504'>浦口停留待信风，城边<sup class='reference inlineComment2'>⑴</sup>落日乱流通。</div><div id='poem_sentence_0_556504_comment'></div><div class='poemSentence' id='poem_sentence_1_556504'>梧桐院落秋声里，橘柚人家晚照中。</div><div id='poem_sentence_1_556504_comment'></div><div class='poemSentence' id='poem_sentence_2_556504'>棹歌几处惊寒切，砧响千村入耳同。</div><div id='poem_sentence_2_556504_comment'></div><div class='poemSentence' id='poem_sentence_3_556504'>日日愁心西北望，汉阳枫叶<sup class='reference inlineComment2'>⑵</sup>落无穷。</div><div id='poem_sentence_3_556504_comment'></div><div class='poemSentence' id='poem_sentence_4_556504'></div><div id='poem_sentence_4_556504_comment'></div></div><div class='poemNote' id='poem_note_556504'><div class='inline1'><div id='poem_sentence_0_556504_0'>⑴ 林序本、夏校本作边城</div></div><div class='inline1'><div id='poem_sentence_3_556504_0'>⑵ 林序本、夏校本作树</div></div></div><div id='poem_note_556504_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4fcc32ba349b409fab8cfd5b167571fe\");'><span id='4fcc32ba349b409fab8cfd5b167571fe_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>，37岁</div><div id='4fcc32ba349b409fab8cfd5b167571fe' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')\">1228年</a>　岁暮，南下吴中（今苏州）<span class='label'>作品：</span>避乱途中。<div id='poem_556471' class='_poem'><div id='poem_title_556471' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556471' class='poemCommentLink' target='_blank'>避乱途中</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556471\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_556471_comment'></div><div class='poemContent' id='poem_content_556471'><div class='poemSentence' id='poem_sentence_0_556471'>回首兵戈地，遗黎见几人。</div><div id='poem_sentence_0_556471_comment'></div><div class='poemSentence' id='poem_sentence_1_556471'>他乡空白发，故国又青春。</div><div id='poem_sentence_1_556471_comment'></div><div class='poemSentence' id='poem_sentence_2_556471'>多难堪长客，偷生愧此身。</div><div id='poem_sentence_2_556471_comment'></div><div class='poemSentence' id='poem_sentence_3_556471'>本无匡济略，叹息谩伤神。</div><div id='poem_sentence_3_556471_comment'></div><div class='poemSentence' id='poem_sentence_4_556471'></div><div id='poem_sentence_4_556471_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0df643a5c61a48a3842eae2c2a623046\");'><span id='0df643a5c61a48a3842eae2c2a623046_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1230')\">1229-1230年</a>，38-39岁</div><div id='0df643a5c61a48a3842eae2c2a623046' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1229')\">1229年</a>　冬末，到达临安。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')\">1230年</a>　客居临安，有诗送赖成之。<span class='label'>作品：</span>再送赖成之出都。<div id='poem_556496' class='_poem'><div id='poem_title_556496' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556496' class='poemCommentLink' target='_blank'>再送赖成之出都</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556496\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_556496_comment'></div><div class='poemContent' id='poem_content_556496'><div class='poemSentence' id='poem_sentence_0_556496'>天际晴霞欲变春，高楼分手泪沾巾。</div><div id='poem_sentence_0_556496_comment'></div><div class='poemSentence' id='poem_sentence_1_556496'>荆吴渺渺孤舟远，江海悠悠白发新。</div><div id='poem_sentence_1_556496_comment'></div><div class='poemSentence' id='poem_sentence_2_556496'>万事蹉跎堪更问，十年离别亦何频。</div><div id='poem_sentence_2_556496_comment'></div><div class='poemSentence' id='poem_sentence_3_556496'>江村几处梅花发，明日相思是旅人。</div><div id='poem_sentence_3_556496_comment'></div><div class='poemSentence' id='poem_sentence_4_556496'></div><div id='poem_sentence_4_556496_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')\">1230年</a>　客居临安，有诗送吴子才。<span class='label'>作品：</span>钱塘潮歌送吴子才赴礼部。<div id='poem_556546' class='_poem'><div id='poem_title_556546' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=556546' class='poemCommentLink' target='_blank'>钱塘潮歌送吴子才赴礼部</a><a href='javascript: ShowPoemAuthorProfile(25262, \"宋\", \"严羽\", \"poem_title_556546\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>严羽</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_556546_comment'></div><div class='poemContent' id='poem_content_556546'><div class='poemSentence' id='poem_sentence_0_556546'>海潮之来自古昔，天下诡观称钱塘。</div><div id='poem_sentence_0_556546_comment'></div><div class='poemSentence' id='poem_sentence_1_556546'>东南王气实在此，势与造化为低昂。</div><div id='poem_sentence_1_556546_comment'></div><div class='poemSentence' id='poem_sentence_2_556546'>观其映日始一线，何处群鹭纷然翔。</div><div id='poem_sentence_2_556546_comment'></div><div class='poemSentence' id='poem_sentence_3_556546'>渐闻鼓声震原野，疑是三军嚣阵行。</div><div id='poem_sentence_3_556546_comment'></div><div class='poemSentence' id='poem_sentence_4_556546'>银城天际忽过眼，卷蹴厚地何仓皇。</div><div id='poem_sentence_4_556546_comment'></div><div class='poemSentence' id='poem_sentence_5_556546'>馀波已去洒月窟，怒气犹自吹扶桑。</div><div id='poem_sentence_5_556546_comment'></div><div class='poemSentence' id='poem_sentence_6_556546'>百川倒流号<sup class='reference inlineComment2'>⑴</sup>呼汹，天吴河伯神皆竦。</div><div id='poem_sentence_6_556546_comment'></div><div class='poemSentence' id='poem_sentence_7_556546'>海上长人出水惊，巨鳌辟易三山动。</div><div id='poem_sentence_7_556546_comment'></div><div class='poemSentence' id='poem_sentence_8_556546'>广陵之涛安可比，吴客雄誇徒为尔。</div><div id='poem_sentence_8_556546_comment'></div><div class='poemSentence' id='poem_sentence_9_556546'>请君看此凭江楼，载酒无劳棹小舟。</div><div id='poem_sentence_9_556546_comment'></div><div class='poemSentence' id='poem_sentence_10_556546'>湖上百花春荡目，笙箫<span class='inlineComment2'>（林序本作歌）</span>聒我非清游。</div><div id='poem_sentence_10_556546_comment'></div><div class='poemSentence' id='poem_sentence_11_556546'>洪涛万里壮可吞，笔底飒飒洪涛奔。</div><div id='poem_sentence_11_556546_comment'></div><div class='poemSentence' id='poem_sentence_12_556546'>愿持忠愤愬明主，一第于君何足论。</div><div id='poem_sentence_12_556546_comment'></div><div class='poemSentence' id='poem_sentence_13_556546'>钱塘日边云气多，君之行兮莫蹉跎。</div><div id='poem_sentence_13_556546_comment'></div><div class='poemSentence' id='poem_sentence_14_556546'>教人临期<sup class='reference inlineComment2'>⑵</sup>奈别何，赠君钱塘海潮歌。</div><div id='poem_sentence_14_556546_comment'></div><div class='poemSentence' id='poem_sentence_15_556546'></div><div id='poem_sentence_15_556546_comment'></div></div><div class='poemNote' id='poem_note_556546'><div class='inline1'><div id='poem_sentence_6_556546_0'>⑴ 林序本、尹本、夏校本作浩</div></div><div class='inline1'><div id='poem_sentence_14_556546_0'>⑵ 林序本、夏校本作岐</div></div></div><div id='poem_note_556546_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.941661,
+                    "Longitude": 118.880768,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3308",
+                    "Title": "衢州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c99d4e3175be46e290d0b513d25b6e8b\");'><span id='c99d4e3175be46e290d0b513d25b6e8b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')\">1231年</a>，40岁</div><div id='c99d4e3175be46e290d0b513d25b6e8b' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>赴衢州稍作逗留。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年春留开临安不久，有书答吴陵（景仙）<span class='label'>作品：</span>答出继叔临安吴景仙书。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "严羽 <span class='inlineComment2'>(1192-1238)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：陈一琴《严羽生平思想初探》　录入整理：邓建</p><p><a href=\"javascript: ViewRoute(0, 9, 118.2270705, 29.705685, 8, 0)\">1-47岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">邵武</a> → <a href=\"javascript: ViewPoint(1, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(2, 0)\">九江</a> → <a href=\"javascript: ViewPoint(3, 0)\">南京</a> → <a href=\"javascript: ViewPoint(4, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(5, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(6, 0)\">衢州</a> → <a href=\"javascript: ViewPoint(7, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(8, 0)\">邵武</a></p>"
+        }
+    ]
+}

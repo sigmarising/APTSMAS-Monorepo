@@ -1,0 +1,196 @@
+{
+    "id": 99,
+    "name": "曾几",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1084,
+        1127
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 25.86062,
+            "lng": 115.01175
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《宋才子传笺证·曾几传》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                40
+            ],
+            "correspondPath": [
+                "赣县",
+                "开封",
+                "南京",
+                "赣县"
+            ]
+        },
+        {
+            "agesDuration": [
+                41,
+                44
+            ],
+            "correspondPath": [
+                "开封",
+                "扬州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "c6bd86b31113433893c5f50c86723ce9",
+                        "lat": 25.86062,
+                        "lng": 115.01175,
+                        "regionId": "CN360721",
+                        "location": "赣县",
+                        "city": "赣州市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8c700fdd80b9495b8c71632fc8aa5090",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f344d72482fa418ebbbd1193e7415249",
+                        "lat": 32.05838,
+                        "lng": 118.79647,
+                        "regionId": "CN3201",
+                        "location": "南京",
+                        "city": "南京市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c35dcf5715724d31bbbe97b89cef3992",
+                        "lat": 25.86062,
+                        "lng": 115.01175,
+                        "regionId": "CN360721",
+                        "location": "赣县",
+                        "city": "赣州市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8250320afa50452a9435419a7d79dfcb",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3bbe20f7328d4a6faed2bc25808b4dd1",
+                        "lat": 32.39358,
+                        "lng": 119.41269,
+                        "regionId": "CN321",
+                        "location": "扬州",
+                        "city": "扬州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 25.86062,
+                "lng": 115.01175,
+                "id": null,
+                "regionId": "CN360721",
+                "location": "赣县",
+                "city": "赣州市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1084-1103年 ，1-20岁",
+                    "1084年 出生。",
+                    "1085-1102年 居乡赣县。",
+                    "1103年 居乡赣县。以兄弼恩荫授将仕郎。",
+                    "1121-1123年 ，38-40岁",
+                    "1121-1123年 居乡赣县，丁内艰。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1104-1117年 ，21-34岁",
+                    "1104-1109年 在开封。",
+                    "1110年 在开封。大观年间铨试礼部。",
+                    "1111-1114年 在开封。",
+                    "1115年 在开封，赐上舍出身。为宣义郎。",
+                    "1116年 在开封，入秘书为校书郎。",
+                    "1117年 在开封，林灵素作《神霄录》，朝士争趋之，曾几与李纲、傅崧卿称疾不往视，曾几出为应天少尹。",
+                    "1124-1125年 ，41-42岁",
+                    "1124年 在开封，丁内艰服除，主管内外宗室财用。",
+                    "1125年 在开封，主管内外宗室财用。"
+                ]
+            },
+            {
+                "lat": 32.05838,
+                "lng": 118.79647,
+                "id": null,
+                "regionId": "CN3201",
+                "location": "南京",
+                "city": "南京市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1118-1120年 ，35-37岁",
+                    "1118-1120年 在应天少尹任。"
+                ]
+            },
+            {
+                "lat": 32.39358,
+                "lng": 119.41269,
+                "id": null,
+                "regionId": "CN321",
+                "location": "扬州",
+                "city": "扬州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1126-1127年 ，43-44岁",
+                    "1126-1127年 在扬州。提举淮东路茶盐公事。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

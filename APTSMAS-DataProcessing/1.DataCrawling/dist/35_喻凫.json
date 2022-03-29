@@ -1,0 +1,140 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.816791,
+            "CenterLongitude": 119.980142,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "104019f7a1ae4c69b1156c5d90d7c696",
+                            "Latitude": 31.816791,
+                            "Longitude": 119.980142,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3204",
+                            "Title": "常州"
+                        },
+                        {
+                            "Id": "693db81e698045f196837b1463e01329",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "ce85c5d36f844e5f954b1644f4344bf8",
+                            "Latitude": 31.816791,
+                            "Longitude": 119.980142,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3204",
+                            "Title": "常州"
+                        },
+                        {
+                            "Id": "5e7459abd77e43dca5a31934d95f945b",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "f1208d6ecf0e4a388fc7770d252ee882",
+                            "Latitude": 31.032626,
+                            "Longitude": 119.916604,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330522",
+                            "Title": "长兴"
+                        },
+                        {
+                            "Id": "f3b4d5638c2d4f9593515b80e7d18ce1",
+                            "Latitude": 30.548828,
+                            "Longitude": 119.984002,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330521",
+                            "Title": "德清"
+                        },
+                        {
+                            "Id": "ef96e76bed014dc3ae5c2c71e78a84eb",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.816791,
+                    "Longitude": 119.980142,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3204",
+                    "Title": "常州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"104019f7a1ae4c69b1156c5d90d7c696\");'><span id='104019f7a1ae4c69b1156c5d90d7c696_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=829')\">810-829年</a>，1-20岁</div><div id='104019f7a1ae4c69b1156c5d90d7c696' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=829')\">810-829年</a>　在故乡晋陵家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ce85c5d36f844e5f954b1644f4344bf8\");'><span id='ce85c5d36f844e5f954b1644f4344bf8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')\">841年</a>，32岁</div><div id='ce85c5d36f844e5f954b1644f4344bf8' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>及第次年春，归乡省亲，姚合赠诗《送喻凫校书归毗陵》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>及第次年春，归乡省亲，顾非熊赠诗《送喻凫春归江南》<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"693db81e698045f196837b1463e01329\");'><span id='693db81e698045f196837b1463e01329_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=840')\">830-840年</a>，21-31岁</div><div id='693db81e698045f196837b1463e01329' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　到长安，求取功名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=831&endYear=837')\">831-837年</a>　在长安，求取功名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=839&endYear=839')\">839年</a>　在长安，第九年，感叹功名不遂，作诗呈薛博士。<div id='poem_47827' class='_poem'><div id='poem_title_47827' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=47827' class='poemCommentLink' target='_blank'>呈薛博士</a><a href='javascript: ShowPoemAuthorProfile(14036, \"唐\", \"喻凫\", \"poem_title_47827\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>喻凫</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_47827_comment'></div><div class='poemContent' id='poem_content_47827'><div class='poemSentence' id='poem_sentence_0_47827'>辛勤长在学，一室少曾开。</div><div id='poem_sentence_0_47827_comment'></div><div class='poemSentence' id='poem_sentence_1_47827'>时忆暮山寺，独登衰草台。</div><div id='poem_sentence_1_47827_comment'></div><div class='poemSentence' id='poem_sentence_2_47827'>名期五字立，迹愧九年来。</div><div id='poem_sentence_2_47827_comment'></div><div class='poemSentence' id='poem_sentence_3_47827'>此意今聊写，还希君子哀。</div><div id='poem_sentence_3_47827_comment'></div><div class='poemSentence' id='poem_sentence_4_47827'></div><div id='poem_sentence_4_47827_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=840&endYear=840')\">840年</a>　进士及第。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"5e7459abd77e43dca5a31934d95f945b\");'><span id='5e7459abd77e43dca5a31934d95f945b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>，33岁</div><div id='5e7459abd77e43dca5a31934d95f945b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')\">842年</a>　回长安，校书郎任上。<br /></div>"
+                },
+                {
+                    "Latitude": 31.032626,
+                    "Longitude": 119.916604,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330522",
+                    "Title": "长兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f1208d6ecf0e4a388fc7770d252ee882\");'><span id='f1208d6ecf0e4a388fc7770d252ee882_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=845')\">843-845年</a>，34-36岁</div><div id='f1208d6ecf0e4a388fc7770d252ee882' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=843&endYear=845')\">843-845年</a>　长城县令。<br /></div>"
+                },
+                {
+                    "Latitude": 30.548828,
+                    "Longitude": 119.984002,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330521",
+                    "Title": "德清",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f3b4d5638c2d4f9593515b80e7d18ce1\");'><span id='f3b4d5638c2d4f9593515b80e7d18ce1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=847')\">846-847年</a>，37-38岁</div><div id='f3b4d5638c2d4f9593515b80e7d18ce1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=846&endYear=847')\">846-847年</a>　德清县令。<br /></div>"
+                },
+                {
+                    "Latitude": 30.899015,
+                    "Longitude": 120.094566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3305",
+                    "Title": "湖州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"ef96e76bed014dc3ae5c2c71e78a84eb\");'><span id='ef96e76bed014dc3ae5c2c71e78a84eb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=850')\">848-850年</a>，39-41岁</div><div id='ef96e76bed014dc3ae5c2c71e78a84eb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=848&endYear=849')\">848-849年</a>　乌程县令。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')\">850年</a>　乌程县令，卒于任，方干有《哭喻凫先辈》<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "喻凫 <span class='inlineComment2'>(810-850)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：梁超然著《三书斋文存 第二卷 古代文学研究（二）》　录入整理：龚红林</p><p><a href=\"javascript: ViewRoute(0, 7, 114.520436, 32.448132, 7, 0)\">1-41岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">常州</a> → <a href=\"javascript: ViewPoint(1, 0)\">西安</a> → <a href=\"javascript: ViewPoint(2, 0)\">常州</a> → <a href=\"javascript: ViewPoint(3, 0)\">西安</a> → <a href=\"javascript: ViewPoint(4, 0)\">长兴</a> → <a href=\"javascript: ViewPoint(5, 0)\">德清</a> → <a href=\"javascript: ViewPoint(6, 0)\">湖州</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 29.084455,
+            "CenterLongitude": 119.654027,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "8ba619d300b849309b5c3ab3a01dfe7e",
+                            "Latitude": 29.084455,
+                            "Longitude": 119.654027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3307",
+                            "Title": "金华"
+                        },
+                        {
+                            "Id": "93f68b750cf246f4adb674a796f52249",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "fe8117529995467c8b7620e240a56257",
+                            "Latitude": 31.032626,
+                            "Longitude": 119.916604,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330522",
+                            "Title": "长兴"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 29.084455,
+                    "Longitude": 119.654027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3307",
+                    "Title": "金华 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8ba619d300b849309b5c3ab3a01dfe7e\");'><span id='8ba619d300b849309b5c3ab3a01dfe7e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')\">980年</a>，出生</div><div id='8ba619d300b849309b5c3ab3a01dfe7e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')\">980年</a>　约于本年，出生于金华。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"93f68b750cf246f4adb674a796f52249\");'><span id='93f68b750cf246f4adb674a796f52249_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1004')\">1002-1004年</a>，23-25岁</div><div id='93f68b750cf246f4adb674a796f52249' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')\">1002年</a>　约于本年，至京师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1004')\">1003-1004年</a>　本年，居京师。<br /></div>"
+                },
+                {
+                    "Latitude": 31.032626,
+                    "Longitude": 119.916604,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330522",
+                    "Title": "长兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fe8117529995467c8b7620e240a56257\");'><span id='fe8117529995467c8b7620e240a56257_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1049')\">1034-1049年</a>，55-70岁</div><div id='fe8117529995467c8b7620e240a56257' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')\">1034年</a>　本年，居吴山解空院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')\">1035年</a>　本年，居吴山解空院，收净端为徒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1049')\">1036-1049年</a>　本年，居吴山解空院。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "释保暹 <span class='inlineComment2'>(980-1070)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：吉广舆《宋初九僧诗研究》、张艮《宋初九僧宗派考》、王传龙《“九僧”生卒年限及群体形成考》　录入整理：金传道</p><p><a href=\"javascript: ViewRoute(0, 3, 117.115254, 31.943698, 8, 0)\">1-70岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">金华</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">长兴</a></p>"
+        }
+    ]
+}

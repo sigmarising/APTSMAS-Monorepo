@@ -1,0 +1,104 @@
+<template>
+  <n-card style="margin-bottom: 7px" :content-style="contentStyle">
+    <n-p style="margin-bottom: 7px; font-weight: bold">
+      {{ t("vOLAM.chartTitleOutlierProvince") }}
+    </n-p>
+    <div ref="chartRef" style="width: 100%; height: 400px"></div>
+  </n-card>
+</template>
+
+<script lang="ts">
+import {
+  defineComponent,
+  onBeforeUnmount,
+  onMounted,
+  PropType,
+  ref,
+  toRefs,
+  watch,
+} from "vue";
+import * as echarts from "echarts/core";
+import { GraphChart } from "echarts/charts";
+import { TooltipComponent, GridComponent } from "echarts/components";
+import { LabelLayout } from "echarts/features";
+import { CanvasRenderer } from "echarts/renderers";
+import type { IOutlierProvinces } from "@/composables/VTrajectoryOLAM/IApiData";
+import { NCard, NP } from "naive-ui";
+import { useI18n } from "vue-i18n";
+import { useStore } from "@/store";
+import { useOutlierProvince } from "@/composables/VTrajectoryOLAM/Charts/useOutlierProvinceOption";
+
+export default defineComponent({
+  name: "OLAMChartsOutProvince",
+  components: { NCard, NP },
+  props: {
+    isLoading: {
+      type: Boolean,
+      required: true,
+      default: false,
+    },
+    updateTime: {
+      type: String,
+      required: true,
+      default: Date(),
+    },
+    chartData: {
+      type: Object as PropType<IOutlierProvinces>,
+      required: false,
+      default: () => null,
+      validator: (thing: IOutlierProvinces) => thing !== undefined,
+    },
+  },
+
+  setup(props) {
+    const chartRef = ref<HTMLDivElement>();
+    let chart: echarts.ECharts | null = null;
+    echarts.use([
+      GraphChart,
+      TooltipComponent,
+      GridComponent,
+      LabelLayout,
+      CanvasRenderer,
+    ]);
+
+    const { isLoading, updateTime, chartData } = toRefs(props);
+    const store = useStore();
+    const { t } = useI18n();
+    const { handleOption, initOption } = useOutlierProvince(store);
+
+    const resizeHandler = () => {
+      chart?.resize();
+    };
+
+    watch(isLoading, (val) => {
+      if (val) {
+        chart?.showLoading();
+      } else {
+        chart?.hideLoading();
+      }
+    });
+    watch(updateTime, () => {
+      const option = handleOption(chartData.value);
+      chart?.setOption(option, { replaceMerge: ["series"] });
+    });
+
+    onMounted(() => {
+      chart = echarts.init(chartRef.value as HTMLDivElement);
+      chart.setOption(initOption);
+
+      window.addEventListener("resize", resizeHandler);
+    });
+
+    onBeforeUnmount(() => {
+      window.removeEventListener("resize", resizeHandler);
+      chart?.dispose();
+    });
+
+    return {
+      t,
+      chartRef,
+      contentStyle: "padding: 7px",
+    };
+  },
+});
+</script>

@@ -1,0 +1,150 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 26.647662,
+            "CenterLongitude": 118.1843,
+            "ZoomLevel": 9,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "fe83d2742fc54fc997442e80414b07aa",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "b0302d096f514f0cbd2bb7bf43d2b124",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        },
+                        {
+                            "Id": "66f829039b69405a8b7fd966e2c92bba",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "0c148b60951a47078b7e737a99236009",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        },
+                        {
+                            "Id": "3023fa41d66b4fc5a2639c12dabf2723",
+                            "Latitude": 28.321649,
+                            "Longitude": 117.715843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361124",
+                            "Title": "铅山"
+                        },
+                        {
+                            "Id": "a6f03d6487d440b28459007611ea3435",
+                            "Latitude": 27.346635,
+                            "Longitude": 117.498948,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350781",
+                            "Title": "邵武"
+                        },
+                        {
+                            "Id": "9785428b37784dedbe567d3a6dee6972",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "58ea6f2ccf834bb8b20c4cde6614ee0e",
+                            "Latitude": 26.080447,
+                            "Longitude": 119.302938,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3501",
+                            "Title": "福州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 26.647662,
+                    "Longitude": 118.1843,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3507",
+                    "Title": "南平 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fe83d2742fc54fc997442e80414b07aa\");'><span id='fe83d2742fc54fc997442e80414b07aa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1161')\">1093-1161年</a>，1-69岁</div><div id='fe83d2742fc54fc997442e80414b07aa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1115')\">1093-1115年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')\">1116年</a>　受学于罗从彦，由是退而屏居山田，结茅水竹之间。谢绝事故，于是不事科举。<span class='label'>作品：</span>初见罗豫章先生书。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1134')\">1117-1134年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　朱熹随父朱松拜会李侗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1152')\">1136-1152年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年</a>　朱熹来受业。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1156')\">1154-1156年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年</a>　子信甫及友直同登王十朋榜进士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')\">1157年6月26日</a>　答朱熹书，言涵养存养之事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　朱熹来见。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年7月17日</a>　与朱熹书。<span class='label'>作品：</span>春秋论语答问七条。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年</a>　冬至前二日，与朱熹书。<span class='label'>作品：</span>春秋论语答问十一条。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')\">1158年11月13日</a>　与朱熹书，答孟子放心夜气之说。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')\">1159年6月22日</a>　与朱熹两书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　七月后，与朱熹书八则。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年5月8日</a>　与朱熹书三则。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')\">1160年</a>　冬，朱熹来见，正式受学于李侗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')\">1161年</a>　与朱熹书。<span class='label'>作品：</span>北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》）答问五条。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span>答问二条。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span>北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》）答问五条。<span class='inlineComment2'>（北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》））</span>北京图书馆出版社1999（《北京图书馆藏珍本年谱丛刊》）<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"66f829039b69405a8b7fd966e2c92bba\");'><span id='66f829039b69405a8b7fd966e2c92bba_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>，70岁</div><div id='66f829039b69405a8b7fd966e2c92bba' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　春，朱熹迎谒先生于建安，遂与俱归延平。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　与朱熹书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　孝宗即位，朱熹以封事质正。答之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9785428b37784dedbe567d3a6dee6972\");'><span id='9785428b37784dedbe567d3a6dee6972_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，71岁</div><div id='9785428b37784dedbe567d3a6dee6972' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　与朱熹书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年7月17日</a>　与朱熹书。朱熹首用其说以对。<br /></div>"
+                },
+                {
+                    "Latitude": 27.028915,
+                    "Longitude": 118.311441,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350783",
+                    "Title": "建瓯",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b0302d096f514f0cbd2bb7bf43d2b124\");'><span id='b0302d096f514f0cbd2bb7bf43d2b124_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>，70岁</div><div id='b0302d096f514f0cbd2bb7bf43d2b124' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')\">1162年</a>　春，朱熹迎谒先生于建安，遂与俱归延平。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0c148b60951a47078b7e737a99236009\");'><span id='0c148b60951a47078b7e737a99236009_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，71岁</div><div id='0c148b60951a47078b7e737a99236009' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　二子更请迎养，自建安如铅山，访外家于昭武。<br /></div>"
+                },
+                {
+                    "Latitude": 28.321649,
+                    "Longitude": 117.715843,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361124",
+                    "Title": "铅山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3023fa41d66b4fc5a2639c12dabf2723\");'><span id='3023fa41d66b4fc5a2639c12dabf2723_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，71岁</div><div id='3023fa41d66b4fc5a2639c12dabf2723' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　二子更请迎养，自建安如铅山，访外家于昭武。<br /></div>"
+                },
+                {
+                    "Latitude": 27.346635,
+                    "Longitude": 117.498948,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350781",
+                    "Title": "邵武",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a6f03d6487d440b28459007611ea3435\");'><span id='a6f03d6487d440b28459007611ea3435_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，71岁</div><div id='a6f03d6487d440b28459007611ea3435' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>　二子更请迎养，自建安如铅山，访外家于昭武。<br /></div>"
+                },
+                {
+                    "Latitude": 26.080447,
+                    "Longitude": 119.302938,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3501",
+                    "Title": "福州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"58ea6f2ccf834bb8b20c4cde6614ee0e\");'><span id='58ea6f2ccf834bb8b20c4cde6614ee0e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年</a>，71岁</div><div id='58ea6f2ccf834bb8b20c4cde6614ee0e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')\">1163年10月15日</a>　游武夷而归。福唐守敷文阁学士汪应辰以书礼来迎，求质所疑。十月，公应聘至福唐，方三日，卒于府治之馆舍。其孙护丧以归。门人朱紫阳为状，福守汪应辰墓志。至理宗淳祐六年，提刑杨栋为请谥于朝。七年，赐谥文靖。去先生殁时二十有五年矣。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "李侗 <span class='inlineComment2'>(1093-1163)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：毛念恃《延平李先生年谱》、陈利华《朱熹和李侗在南平九峰山的行踪考辩》　录入整理：彭洁明</p><p><a href=\"javascript: ViewRoute(0, 8, 118.400943, 27.201048, 9, 0)\">1-71岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">南平</a> → <a href=\"javascript: ViewPoint(1, 0)\">建瓯</a> → <a href=\"javascript: ViewPoint(2, 0)\">南平</a> → <a href=\"javascript: ViewPoint(3, 0)\">建瓯</a> → <a href=\"javascript: ViewPoint(4, 0)\">铅山</a> → <a href=\"javascript: ViewPoint(5, 0)\">邵武</a> → <a href=\"javascript: ViewPoint(6, 0)\">南平</a> → <a href=\"javascript: ViewPoint(7, 0)\">福州</a></p>"
+        }
+    ]
+}

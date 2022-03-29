@@ -1,0 +1,360 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 32.895879,
+            "CenterLongitude": 115.821389,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "83bd890fe02d4ea0b6ddd439c1293229",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "19bd2cec88e44926bc986dd3dc4d96c7",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "23779f275f854c22bc87c4d4301a715c",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "ca6a95adc0424356942200ac68b6ba72",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "0ce15314ed2d4d4bb88ac5e9438c3668",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "600d03cc257a4becb31f0908d721b4b2",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "3d74c037505c4f378dda0dc43e6c97e2",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "1e01cd9ebf7c45fb8b02d767d84b3076",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "750d4ac52a2540f9a897ae870d328c91",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "63575a9e2cf14ea9aae4afe3f2febc50",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "a7aa1868fbe14ed3a80f18d7128ca80f",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "a88cfb2e6d844e87a2413134a4512c15",
+                            "Latitude": 32.996701,
+                            "Longitude": 112.535009,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4113",
+                            "Title": "南阳"
+                        },
+                        {
+                            "Id": "24282316ad9f4bf2b5e122a4f48c6b4d",
+                            "Latitude": 32.895879,
+                            "Longitude": 115.821389,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3412",
+                            "Title": "阜阳"
+                        },
+                        {
+                            "Id": "4aaeb3b8960c46e0808d9a81964aa8ed",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "b502a310c3f043e79e386369dadcb162",
+                            "Latitude": 32.4612,
+                            "Longitude": 119.932115,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3212",
+                            "Title": "泰州"
+                        },
+                        {
+                            "Id": "e84b00235e964ee38bdec3258e2c14b6",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "4471936a446e4082b4282c06d3285876",
+                            "Latitude": 31.014847,
+                            "Longitude": 120.639402,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320509",
+                            "Title": "吴江"
+                        },
+                        {
+                            "Id": "aca26af20da44789911fae4963998fc4",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "e2d89d4b413e4b08a25558459f7fc8a9",
+                            "Latitude": 29.594696,
+                            "Longitude": 120.828141,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330683",
+                            "Title": "嵊州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 32.895879,
+                    "Longitude": 115.821389,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3412",
+                    "Title": "阜阳 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"83bd890fe02d4ea0b6ddd439c1293229\");'><span id='83bd890fe02d4ea0b6ddd439c1293229_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1106')\">1092-1106年</a>，1-15岁</div><div id='83bd890fe02d4ea0b6ddd439c1293229' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')\">1092年</a>　疑本年生于家乡颍州汝阴，本表所标年岁均为虚拟数，非实数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1106')\">1093-1106年</a>　疑在家乡汝阴家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0ce15314ed2d4d4bb88ac5e9438c3668\");'><span id='0ce15314ed2d4d4bb88ac5e9438c3668_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')\">1110年</a>，19岁</div><div id='0ce15314ed2d4d4bb88ac5e9438c3668' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')\">1110年</a>　与颍上知县洪炎游，著《侍女小名录》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3d74c037505c4f378dda0dc43e6c97e2\");'><span id='3d74c037505c4f378dda0dc43e6c97e2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>，23岁</div><div id='3d74c037505c4f378dda0dc43e6c97e2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>　在故乡汝阴家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"750d4ac52a2540f9a897ae870d328c91\");'><span id='750d4ac52a2540f9a897ae870d328c91_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1123')\">1115-1123年</a>，24-32岁</div><div id='750d4ac52a2540f9a897ae870d328c91' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1119')\">1115-1119年</a>　疑在故乡汝阴家居。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')\">1120年</a>　在故乡汝阴家居，与知府周邦彦相知。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')\">1121年</a>　在故乡汝阴家居，收到周邦彦所寄《瑞鹤仙》词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')\">1122年7月</a>　疑在故乡汝阴家居。七月，著《四六话》成，自为序。<span class='label'>作品：</span>四六话。<span class='inlineComment2'>（《四六话》为二卷。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')\">1123年</a>　疑在故乡汝阴家居。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"24282316ad9f4bf2b5e122a4f48c6b4d\");'><span id='24282316ad9f4bf2b5e122a4f48c6b4d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>，35岁</div><div id='24282316ad9f4bf2b5e122a4f48c6b4d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　回到家乡颍州，与郭寿翁相见，遇金人之骑兵占领颍州。<br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"19bd2cec88e44926bc986dd3dc4d96c7\");'><span id='19bd2cec88e44926bc986dd3dc4d96c7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>，16岁</div><div id='19bd2cec88e44926bc986dd3dc4d96c7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>　其父王莘知江州，同往。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ca6a95adc0424356942200ac68b6ba72\");'><span id='ca6a95adc0424356942200ac68b6ba72_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1110')\">1107-1110年</a>，16-19岁</div><div id='ca6a95adc0424356942200ac68b6ba72' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>　秋，于庐山僧祖可、善权以及李彭等结诗社。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1110')\">1108-1110年</a>　与父王莘生活在江州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"23779f275f854c22bc87c4d4301a715c\");'><span id='23779f275f854c22bc87c4d4301a715c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>，16岁</div><div id='23779f275f854c22bc87c4d4301a715c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')\">1107年</a>　受父命，从九江前往京口拜访曾布。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"600d03cc257a4becb31f0908d721b4b2\");'><span id='600d03cc257a4becb31f0908d721b4b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1113')\">1111-1113年</a>，20-22岁</div><div id='600d03cc257a4becb31f0908d721b4b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1111')\">1111年</a>　与张元干、娄寅亮相识于太学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1112')\">1112年</a>　在太学读书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1113')\">1113年</a>　在太学读书，与表兄高荷相见，有诗。<span class='label'>作品：</span>次韵国香诗。<div id='poem_75621' class='_poem'><div id='poem_title_75621' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=75621' class='poemCommentLink' target='_blank'>次韵国香诗</a><a href='javascript: ShowPoemAuthorProfile(30396, \"宋\", \"王铚\", \"poem_title_75621\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王铚</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_75621_comment'></div><div class='poemContent' id='poem_content_75621'><div class='poemSentence' id='poem_sentence_0_75621'>百花零落悲春晚，不复林园门可款。</div><div id='poem_sentence_0_75621_comment'></div><div class='poemSentence' id='poem_sentence_1_75621'>待花结实春已归，到头只有东家<sup class='reference inlineComment2'>⑴</sup>管。</div><div id='poem_sentence_1_75621_comment'></div><div class='poemSentence' id='poem_sentence_2_75621'>楚宫女子春华敷，为云为雨<sup class='reference inlineComment2'>⑵</sup>皆有馀。</div><div id='poem_sentence_2_75621_comment'></div><div class='poemSentence' id='poem_sentence_3_75621'>亲逢一顾倾国色，不解迎人<span class='inlineComment2'>（小集本作入）</span>专城居。</div><div id='poem_sentence_3_75621_comment'></div><div class='poemSentence' id='poem_sentence_4_75621'>目成未到投梭处，后会<span class='inlineComment2'>（小集本作会后）</span>难凭人已去。</div><div id='poem_sentence_4_75621_comment'></div><div class='poemSentence' id='poem_sentence_5_75621'>可怜天壤擅诗声，不如崔护桃花句。</div><div id='poem_sentence_5_75621_comment'></div><div class='poemSentence' id='poem_sentence_6_75621'>坐令永抱埋玉悲，游手<span class='inlineComment2'>（小集本作子）</span>那知京兆眉。</div><div id='poem_sentence_6_75621_comment'></div><div class='poemSentence' id='poem_sentence_7_75621'>难堪别<sup class='reference inlineComment2'>⑶</sup>鹤分飞后，犹是惊鸿初见时。</div><div id='poem_sentence_7_75621_comment'></div><div class='poemSentence' id='poem_sentence_8_75621'>新欢密爱应长久，暂向华筵赏宾友。</div><div id='poem_sentence_8_75621_comment'></div><div class='poemSentence' id='poem_sentence_9_75621'>舞尽春风力不禁，困里腰肢一涡<span class='inlineComment2'>（小集本作树）</span>柳。</div><div id='poem_sentence_9_75621_comment'></div><div class='poemSentence' id='poem_sentence_10_75621'>座上何人赠翠翘，蜀中<span class='inlineComment2'>（小集本作州）</span>风调尤情饶。</div><div id='poem_sentence_10_75621_comment'></div><div class='poemSentence' id='poem_sentence_11_75621'>欢浓酒晕上玉颊，香暖红酥疑欲销。</div><div id='poem_sentence_11_75621_comment'></div><div class='poemSentence' id='poem_sentence_12_75621'>佳人薄命古相似，先后乃逢天下士。</div><div id='poem_sentence_12_75621_comment'></div><div class='poemSentence' id='poem_sentence_13_75621'>但惜盈盈一水时，当年不寄相思字。</div><div id='poem_sentence_13_75621_comment'></div><div class='poemSentence' id='poem_sentence_14_75621'>宜州遗恨君能详，瘴云万里空悲凉。</div><div id='poem_sentence_14_75621_comment'></div><div class='poemSentence' id='poem_sentence_15_75621'>无限风流等閒别，几人赏鉴<span class='inlineComment2'>（小集本作鉴赏）</span>得黄香。</div><div id='poem_sentence_15_75621_comment'></div><div class='poemSentence' id='poem_sentence_16_75621'></div><div id='poem_sentence_16_75621_comment'></div></div><div class='poemNote' id='poem_note_75621'><div class='inline1'><div id='poem_sentence_1_75621_0'>⑴ 小集本、李本作风</div></div><div class='inline1'><div id='poem_sentence_2_75621_0'>⑵ 小集本作为雨为云</div></div><div class='inline1'><div id='poem_sentence_7_75621_0'>⑶ 原作白，据小集本改</div></div></div><div id='poem_note_75621_comment'></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a7aa1868fbe14ed3a80f18d7128ca80f\");'><span id='a7aa1868fbe14ed3a80f18d7128ca80f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>，34岁</div><div id='a7aa1868fbe14ed3a80f18d7128ca80f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年2月</a>　居京城。二月，为张元干所辑先祖手泽作跋。<span class='label'>作品：</span>跋张元干辑先祖手泽。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>　春，与江端友至相蓝算命。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')\">1125年</a>　与王伦交往，离开京城。<br /></div>"
+                },
+                {
+                    "Latitude": 31.575549,
+                    "Longitude": 118.504404,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340521",
+                    "Title": "当涂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1e01cd9ebf7c45fb8b02d767d84b3076\");'><span id='1e01cd9ebf7c45fb8b02d767d84b3076_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>，23岁</div><div id='1e01cd9ebf7c45fb8b02d767d84b3076' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>　从汝阴前往宣城，途径当涂，以《欧阳修别集》示李之仪。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"63575a9e2cf14ea9aae4afe3f2febc50\");'><span id='63575a9e2cf14ea9aae4afe3f2febc50_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')\">1124年</a>，33岁</div><div id='63575a9e2cf14ea9aae4afe3f2febc50' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')\">1124年</a>　秋，在睢阳结识晁说之。<br /></div>"
+                },
+                {
+                    "Latitude": 32.996701,
+                    "Longitude": 112.535009,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4113",
+                    "Title": "南阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a88cfb2e6d844e87a2413134a4512c15\");'><span id='a88cfb2e6d844e87a2413134a4512c15_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>，35岁</div><div id='a88cfb2e6d844e87a2413134a4512c15' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')\">1126年</a>　入西道总管王襄幕府，为草檄文。<span class='label'>作品：</span>靖康讨虏檄文。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4aaeb3b8960c46e0808d9a81964aa8ed\");'><span id='4aaeb3b8960c46e0808d9a81964aa8ed_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年</a>，36岁</div><div id='4aaeb3b8960c46e0808d9a81964aa8ed' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')\">1127年</a>　举家迁至扬州。秋，曾往真州访晁说之。<br /></div>"
+                },
+                {
+                    "Latitude": 32.4612,
+                    "Longitude": 119.932115,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3212",
+                    "Title": "泰州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b502a310c3f043e79e386369dadcb162\");'><span id='b502a310c3f043e79e386369dadcb162_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>，37岁</div><div id='b502a310c3f043e79e386369dadcb162' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')\">1128年</a>　南迁途中，在海陵拜访晁说之。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e84b00235e964ee38bdec3258e2c14b6\");'><span id='e84b00235e964ee38bdec3258e2c14b6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1131')\">1129-1131年</a>，38-40岁</div><div id='e84b00235e964ee38bdec3258e2c14b6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年</a>　入浙西康允之幕府，有文。<span class='label'>作品：</span>与浙西帅康允之书。<span class='inlineComment2'>（建炎三年升杭州为临安府。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')\">1129年11月</a>　十一月，跋范宗尹丞相家藏《兰亭贴》<span class='label'>作品：</span>跋范丞相家藏兰亭贴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年7月</a>　七月，始著《祖宗兵制》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年10月</a>　十月，楚州镇抚使守城战死，高宗命王铚著《赵立传》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')\">1130年</a>　作《嵊县修学碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')\">1131年11月</a>　得娄寅亮赠《上高宗皇帝书》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"aca26af20da44789911fae4963998fc4\");'><span id='aca26af20da44789911fae4963998fc4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1136')\">1133-1136年</a>，42-45岁</div><div id='aca26af20da44789911fae4963998fc4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　在临安为官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')\">1134年3月</a>　三月，朝廷欲用为太府寺丞，被言者谏止。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')\">1135年</a>　主管庐山太平观，作隐居浙东之计。有诗。<span class='label'>作品：</span>送郭寿翁还庐陵。<div id='poem_75574' class='_poem'><div id='poem_title_75574' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=75574' class='poemCommentLink' target='_blank'>送郭寿翁还庐陵</a><a href='javascript: ShowPoemAuthorProfile(30396, \"宋\", \"王铚\", \"poem_title_75574\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>王铚</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_75574_comment'></div><div class='poemContent' id='poem_content_75574'><div class='poemSentence' id='poem_sentence_0_75574'>共遭胡<sup class='reference inlineComment2'>⑴</sup>骑汝阴城，十载相逢尚甲兵。</div><div id='poem_sentence_0_75574_comment'></div><div class='poemSentence' id='poem_sentence_1_75574'>万里鹓鸿自鶱举，九关虎豹任纵横。</div><div id='poem_sentence_1_75574_comment'></div><div class='poemSentence' id='poem_sentence_2_75574'>雨昏山远行人恨，日暮草长幽鸟声。</div><div id='poem_sentence_2_75574_comment'></div><div class='poemSentence' id='poem_sentence_3_75574'>只有别离心似旧，乱来难得是交情。</div><div id='poem_sentence_3_75574_comment'></div><div class='poemSentence' id='poem_sentence_4_75574'></div><div id='poem_sentence_4_75574_comment'></div></div><div class='poemNote' id='poem_note_75574'><div class='inline1'><div id='poem_sentence_0_75574_0'>⑴ 原作敌，据初本改</div></div></div><div id='poem_note_75574_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年</a>　朱敦儒、徐度来访，命次子王明清出拜二公。<br /></div>"
+                },
+                {
+                    "Latitude": 31.014847,
+                    "Longitude": 120.639402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320509",
+                    "Title": "吴江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4471936a446e4082b4282c06d3285876\");'><span id='4471936a446e4082b4282c06d3285876_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年</a>，41岁</div><div id='4471936a446e4082b4282c06d3285876' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')\">1132年1月</a>　正月，游平江包山禅寺，有文。<span class='label'>作品：</span>包山禅院记。<span class='inlineComment2'>（政和三年升苏州为平江府。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 29.594696,
+                    "Longitude": 120.828141,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330683",
+                    "Title": "嵊州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e2d89d4b413e4b08a25558459f7fc8a9\");'><span id='e2d89d4b413e4b08a25558459f7fc8a9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1144')\">1137-1144年</a>，46-53岁</div><div id='e2d89d4b413e4b08a25558459f7fc8a9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')\">1137年</a>　避居剡溪，有文。<span class='label'>作品：</span>游东山记。<span class='inlineComment2'>（绍兴元年升越州为绍兴府。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>　因修《国朝史述》，被诏奉祠，主管台州崇道观。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年1月</a>　正月，因上《七朝国史》，特迁一官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年2月</a>　二月，言秦桧所拟徽宗陵名“永固”为后周皇后陵名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　闲居山阴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　曾为陆游讲王安石欲与司马光卜邻事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年2月</a>　二月，跋谢文靖《东山图》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年6月</a>　六月，为浙东所刻《两汉记》作后序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年8月</a>　七八月间，因献《太玄经讲义》，被赐白金三百两。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　冬，作《题五老图》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年3月</a>　三月，因献《祖宗八朝圣学通纪论》，诏迁一官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年</a>　春，为判绍兴府孟忠厚筹作不伤时忌对札。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年</a>　夏，卒于绍兴家中。<br /></div>"
+                },
+                {
+                    "Latitude": 29.560618,
+                    "Longitude": 115.989402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604 庐山",
+                    "Title": "庐山",
+                    "RequestUri": "scope=当代/九江市庐山&author=王铚&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 31.659391,
+                    "Longitude": 118.468363,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3405 采石矶",
+                    "Title": "采石矶",
+                    "RequestUri": "scope=当代/当涂县采石矶&author=王铚&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 29.605607,
+                    "Longitude": 120.842762,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306 剡溪",
+                    "Title": "剡溪",
+                    "RequestUri": "scope=当代/嵊州市剡溪&author=王铚&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "王铚 <span class='inlineComment2'>(1092-1144)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：张明华、房厚信《王铚王明清家族研究》　录入整理：张明华</p><p><a href=\"javascript: ViewRoute(0, 5, 117.6264415, 31.3036035, 9, 0)\">1-19岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">阜阳</a> → <a href=\"javascript: ViewPoint(1, 0)\">九江</a> → <a href=\"javascript: ViewPoint(2, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(3, 0)\">九江</a> → <a href=\"javascript: ViewPoint(4, 0)\">阜阳</a></p><p><a href=\"javascript: ViewRoute(5, 11, 116.409154, 33.189245, 9, 0)\">20-34岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">开封</a> → <a href=\"javascript: ViewPoint(6, 0)\">阜阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(8, 0)\">阜阳</a> → <a href=\"javascript: ViewPoint(9, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(10, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(11, 16, 116.348351, 31.63838, 8, 0)\">35-40岁</a><br /><a href=\"javascript: ViewPoint(11, 0)\">南阳</a> → <a href=\"javascript: ViewPoint(12, 0)\">阜阳</a> → <a href=\"javascript: ViewPoint(13, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(14, 0)\">泰州</a> → <a href=\"javascript: ViewPoint(15, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(16, 19, 120.494917, 30.3047715, 10, 0)\">41-53岁</a><br /><a href=\"javascript: ViewPoint(16, 0)\">吴江</a> → <a href=\"javascript: ViewPoint(17, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(18, 0)\">嵊州</a></p>"
+        }
+    ]
+}

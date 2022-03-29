@@ -1,0 +1,84 @@
+{
+	"info": {
+		"_postman_id": "674e56cd-f8ed-4473-8418-2d85e6d67667",
+		"name": "AMap APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Coordinate Convert",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://restapi.amap.com/v3/assistant/coordinate/convert?locations=104.535462,32.414862&coordsys=baidu&key=350da9ed6b67377c548de3a6b1419cf8",
+					"protocol": "https",
+					"host": [
+						"restapi",
+						"amap",
+						"com"
+					],
+					"path": [
+						"v3",
+						"assistant",
+						"coordinate",
+						"convert"
+					],
+					"query": [
+						{
+							"key": "locations",
+							"value": "104.535462,32.414862",
+							"description": "经度和纬度用\",\"分割，经度在前，纬度在后，经纬度小数点后不得超过6位"
+						},
+						{
+							"key": "coordsys",
+							"value": "baidu"
+						},
+						{
+							"key": "key",
+							"value": "350da9ed6b67377c548de3a6b1419cf8"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Re-GeoEncode",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://restapi.amap.com/v3/geocode/regeo?location=104.529040240033,32.408580318247&extensions=base&key=350da9ed6b67377c548de3a6b1419cf8",
+					"protocol": "https",
+					"host": [
+						"restapi",
+						"amap",
+						"com"
+					],
+					"path": [
+						"v3",
+						"geocode",
+						"regeo"
+					],
+					"query": [
+						{
+							"key": "location",
+							"value": "104.529040240033,32.408580318247",
+							"description": "经度在前，纬度在后，经纬度间以“,”分割，经纬度小数点后不要超过 6 位"
+						},
+						{
+							"key": "extensions",
+							"value": "base"
+						},
+						{
+							"key": "key",
+							"value": "350da9ed6b67377c548de3a6b1419cf8"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

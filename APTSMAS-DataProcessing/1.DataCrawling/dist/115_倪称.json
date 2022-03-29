@@ -1,0 +1,90 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.899015,
+            "CenterLongitude": 120.094566,
+            "ZoomLevel": 10,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "f28846d46275466dbe77161583b6a098",
+                            "Latitude": 30.899015,
+                            "Longitude": 120.094566,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3305",
+                            "Title": "湖州"
+                        },
+                        {
+                            "Id": "108bbd4578e5437fab353de3a5ec22e8",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "934213a406e547698a909438ad59ceb0",
+                            "Latitude": 31.816791,
+                            "Longitude": 119.980142,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3204",
+                            "Title": "常州"
+                        },
+                        {
+                            "Id": "e11d36bbaa474f84910064783ec6147a",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.899015,
+                    "Longitude": 120.094566,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3305",
+                    "Title": "湖州 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f28846d46275466dbe77161583b6a098\");'><span id='f28846d46275466dbe77161583b6a098_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1137')\">1114-1137年</a>，1-24岁</div><div id='f28846d46275466dbe77161583b6a098' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>　或生于本年。倪称生卒年难确考。其年岁为虚拟数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1137')\">1115-1137年</a>　居乡？<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"108bbd4578e5437fab353de3a5ec22e8\");'><span id='108bbd4578e5437fab353de3a5ec22e8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>，25岁</div><div id='108bbd4578e5437fab353de3a5ec22e8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>　中进士。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"e11d36bbaa474f84910064783ec6147a\");'><span id='e11d36bbaa474f84910064783ec6147a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1166')\">1143-1166年</a>，30-53岁</div><div id='e11d36bbaa474f84910064783ec6147a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1146')\">1143-1146年</a>　曾任太常寺主簿？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　子倪思生？<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年</a>　子倪思中进士，其后事迹不详。<br /></div>"
+                },
+                {
+                    "Latitude": 31.816791,
+                    "Longitude": 119.980142,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3204",
+                    "Title": "常州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"934213a406e547698a909438ad59ceb0\");'><span id='934213a406e547698a909438ad59ceb0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1142')\">1139-1142年</a>，26-29岁</div><div id='934213a406e547698a909438ad59ceb0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1142')\">1139-1142年</a>　曾任常州教授？<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "倪称 <span class='inlineComment2'>(1114-1166)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：《全宋词》　录入整理：唐元</p><p><a href=\"javascript: ViewRoute(0, 4, 120.0709175, 31.048425, 10, 0)\">1-53岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">湖州</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">常州</a> → <a href=\"javascript: ViewPoint(3, 0)\">杭州</a></p>"
+        }
+    ]
+}

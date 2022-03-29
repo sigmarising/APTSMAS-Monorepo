@@ -1,0 +1,12 @@
+{
+  "唐": {
+    "id": 233,
+    "defaultPoet": "李白",
+    "poets": [
+      // for all poets
+      "杜甫",
+      "白居易"
+    ]
+  }
+  // for all dynasties
+}

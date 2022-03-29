@@ -1,0 +1,131 @@
+{
+    "id": 37,
+    "name": "郑巢",
+    "dynasty": "唐",
+    "lifeDuration": [
+        815,
+        855
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 30.27415,
+            "lng": 120.15515
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《 三书斋文存 第2卷 古代文学研究（2）》",
+        "《姚合年谱（摘要）》",
+        "《唐诗之路唐代诗人行迹考》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                41
+            ],
+            "correspondPath": [
+                "杭州",
+                "临海",
+                "西安"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "8e58a5fe034c4023805db4412d15ced5",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "76ddca8994f3454fa36acc0086fb5b54",
+                        "lat": 28.8584,
+                        "lng": 121.14495,
+                        "regionId": "CN331082",
+                        "location": "临海",
+                        "city": "台州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "56f6a0be640b48dd96fa0255dee709e1",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "815-836年 ，1-22岁",
+                    "815年 约生于本年。本表所列年岁为虚拟数，非实数。",
+                    "816-834年 在故乡钱塘家居。",
+                    "835年 在杭州。秋,郑巢拜谒姚合，与之游宴，郑巢有诗。",
+                    "836年 在杭州。秋,郑巢拜谒姚合，与之游宴，郑巢有诗《》、《》",
+                    "836年 冬,姚合罢郡游越,郑巢有《》。\n游历天台山、剡溪等地,作诗。"
+                ]
+            },
+            {
+                "lat": 28.8584,
+                "lng": 121.14495,
+                "id": null,
+                "regionId": "CN331082",
+                "location": "临海",
+                "city": "台州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "853年 ，39岁",
+                    "853年 在台州，刺史李肇幕府。"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "854-855年 ，40-41岁",
+                    "854年 滞留京师，李肇出塞，有诗送。",
+                    "855年 滞留京师，有诗送边使。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

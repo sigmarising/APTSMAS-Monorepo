@@ -1,0 +1,210 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 27.589226,
+            "CenterLongitude": 115.322833,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "62b365f2604247deaf9ee44f51f1bc2f",
+                            "Latitude": 27.589226,
+                            "Longitude": 115.322833,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360823",
+                            "Title": "峡江"
+                        },
+                        {
+                            "Id": "90327329361740738c8c147bb81b764d",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "bf42f780b8964701ad04ff8434210af9",
+                            "Latitude": 29.454549,
+                            "Longitude": 116.051546,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360427",
+                            "Title": "星子"
+                        },
+                        {
+                            "Id": "b7fc15e20b9b4bfb9909de12406cd353",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "2b6bf0cd545a4501a88f0f680092c664",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "153eb4a216d445f0808de3aaf18b34af",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "6d0c2c37e2034262b9097e6a0bdc6206",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "88e9ef383b5b4acc97fe6e7caa644fc7",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "40b8b574931d4735b4a97529806250d0",
+                            "Latitude": 39.028591,
+                            "Longitude": 111.09279,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140931",
+                            "Title": "保德"
+                        },
+                        {
+                            "Id": "9968d98193524a4786eca0823798e612",
+                            "Latitude": 39.390757,
+                            "Longitude": 111.14482,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN140930",
+                            "Title": "河曲"
+                        },
+                        {
+                            "Id": "f56660c1af384f16ae9cbdf887fac750",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 27.589226,
+                    "Longitude": 115.322833,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360823",
+                    "Title": "峡江 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"62b365f2604247deaf9ee44f51f1bc2f\");'><span id='62b365f2604247deaf9ee44f51f1bc2f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1060')\">1038-1060年</a>，1-23岁</div><div id='62b365f2604247deaf9ee44f51f1bc2f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')\">1038年7月28日</a>　文仲生，居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1041')\">1039-1041年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年</a>　居乡。父延之登榜进士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')\">1042年7月15日</a>　居乡。七月十五日，弟武仲生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')\">1043年</a>　居乡。文仲已能作诗。<span class='label'>作品：</span>莲实诗。<span class='inlineComment2'>（《独醒杂志》卷三：“孔经甫六七岁能作诗，其父司封君尝对客召经甫侍立。客命经甫为莲实诗，经甫立成。记其一联云：‘一茎青竹初出水，数个黄蜂占作巢。’语虽未工而比类亲切，客大奇之，经甫自此知名。”）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')\">1044年6月9日</a>　居乡。六月九日，弟孔平仲生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')\">1045年</a>　居乡。父延之作《宋桂州瘗宜贼首级记》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1055')\">1046-1055年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')\">1056年</a>　居乡。应乡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')\">1057年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　居乡。再应乡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　居乡。弟武仲应乡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年</a>　居乡。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"90327329361740738c8c147bb81b764d\");'><span id='90327329361740738c8c147bb81b764d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1063')\">1061-1063年</a>，24-26岁</div><div id='90327329361740738c8c147bb81b764d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　文仲登进士第。调余杭尉。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>　任余杭尉。是年，弟武仲为国子解魁，弟平仲中乡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　任余杭尉。弟武仲登进士第，有《谢及第启》，授穀城主簿。<br /></div>"
+                },
+                {
+                    "Latitude": 29.454549,
+                    "Longitude": 116.051546,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360427",
+                    "Title": "星子",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"bf42f780b8964701ad04ff8434210af9\");'><span id='bf42f780b8964701ad04ff8434210af9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1068')\">1064-1068年</a>，27-31岁</div><div id='bf42f780b8964701ad04ff8434210af9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>　改南康军司户，以正议使湖北，请解官侍养。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年11月18日</a>　任南康军司户。父延之与余藻、姚彦圣等游于朝阳洞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年11月27日</a>　任南康军司户。父延之与前安抚使勾当公事姚彦圣、新知龚州丁錞、提点刑狱余藻自寿宁院抵庆林观，游龙隐崖。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年12月</a>　任南康军司户。父延之与通判范子明、机宜姚原道、知龚州丁錞、提刑余藻饮饯于雉山。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>　任南康军司户。是年平仲为国学解魁，有《国学解元谢启》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　任南康军司户。弟平仲登进士第，授洪州分宁县主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')\">1065年</a>　任南康军司户。三月，父延之与知桂州、兼经略安抚陆铣，提点刑狱公事余藻，兵马钤辖白均、徐印，新知郁林州姚原道，经略司勾当公事刘恕，会于广西伏波山还珠洞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1067')\">1066-1067年</a>　任南康军司户。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　任南康军司户。父延之作《邵州新迁州学记》。<br /></div>"
+                },
+                {
+                    "Latitude": 28.662297,
+                    "Longitude": 121.426996,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331",
+                    "Title": "台州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b7fc15e20b9b4bfb9909de12406cd353\");'><span id='b7fc15e20b9b4bfb9909de12406cd353_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1070')\">1069-1070年</a>，32-33岁</div><div id='b7fc15e20b9b4bfb9909de12406cd353' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　请解官侍养，满岁，用荐举台州军事推官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年</a>　任军事推官。七月庚子（十二日），荆湖北路转运使孔延之与判官吴太元不和，诏令江淮发运司及湖北提刑司礼量。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年9月</a>　范镇荐文仲应贤良方正，文仲对策九千言，极言王安石新法之不当。王安石上《答诏问黜孔文仲事奏》，乞罢文仲归还本任。孙固为《论制科之士不可以直言弃黜状》力争。上御批罢黜还故官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年9月</a>　父延之权开封府推官，前为湖北转运副使。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"153eb4a216d445f0808de3aaf18b34af\");'><span id='153eb4a216d445f0808de3aaf18b34af_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1074')\">1072-1074年</a>，35-37岁</div><div id='153eb4a216d445f0808de3aaf18b34af' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　文仲因制策罢归本任，为台州军事推官。五月一日，父孔延之《会稽掇英总集》成。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　秋，文仲赴台州军事推官任，过杭，与苏轼唱酬。苏轼诗《次韵孔文仲推官见赠》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年11月</a>　任台州军事推官。十一月，父孔延之以“沮坏盐法”之名罢任越州，过杭赴京师，饮有美堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年6月</a>　任台州军事推官。周敦颐卒，孔氏兄弟皆作文。<span class='label'>作品：</span>墓祭文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年</a>　任台州军事推官。岁末，弟平仲除衢州军事推官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>　任台州军事推官。任职期间曾手植桧树，卒后其甥曾几名其堂为“遗直堂”，并作《遗直堂诗》纪念。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>　任台州军事推官。二月，父延之卒，丁父忧。未几，母杨氏及祖母相继卒。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2b6bf0cd545a4501a88f0f680092c664\");'><span id='2b6bf0cd545a4501a88f0f680092c664_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1071')\">1070-1071年</a>，33-34岁</div><div id='2b6bf0cd545a4501a88f0f680092c664' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年10月</a>　范镇因文仲被黜，五上疏乞致仕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年</a>　是年，平仲有《喜经父制策第一》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年</a>　是年，陈舜俞作《赠孔经父贤良并简许少张状元》诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　文仲以应制科策在京。二月，司马光知许州，上《论王安石疏》赞文仲敢言。四月，父延之以度支郎官知越州。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年5月</a>　因文仲制科策罢制科，同时应制举者牵连被罢。有诗。五月一日，父孔延之《会稽掇英总集》成。<span class='label'>作品：</span>秋月。<div id='poem_57881' class='_poem'><div id='poem_title_57881' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=57881' class='poemCommentLink' target='_blank'>秋月<sup class='reference inlineComment2'>①</sup>二首<span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(24353, \"宋\", \"孔文仲\", \"poem_title_57881\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孔文仲</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_57881_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_57881_0'>① 《豫章丛书·舍人集》作夜</div></div></div><div class='poemContent' id='poem_content_57881'><div class='poemSentence' id='poem_sentence_0_57881'>孤枕夜何永，破窗秋已寒。</div><div id='poem_sentence_0_57881_comment'></div><div class='poemSentence' id='poem_sentence_1_57881'>雨声冲梦断，霜气袭衣单。</div><div id='poem_sentence_1_57881_comment'></div><div class='poemSentence' id='poem_sentence_2_57881'>利剑摧锋锷，苍鹯缩羽翰。</div><div id='poem_sentence_2_57881_comment'></div><div class='poemSentence' id='poem_sentence_3_57881'>平生冲斗气，变作泪汍澜。</div><div id='poem_sentence_3_57881_comment'></div><div class='poemSentence' id='poem_sentence_4_57881'></div><div id='poem_sentence_4_57881_comment'></div></div></div><div id='poem_57880' class='_poem'><div id='poem_title_57880' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=57880' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'></div></div><div id='poem_title_57880_comment'></div><div class='poemContent' id='poem_content_57880'><div class='poemSentence' id='poem_sentence_0_57880'>秋夜不可晨，悲歌聊自永。</div><div id='poem_sentence_0_57880_comment'></div><div class='poemSentence' id='poem_sentence_1_57880'>頫听一掀帘，星河光烱烱。</div><div id='poem_sentence_1_57880_comment'></div><div class='poemSentence' id='poem_sentence_2_57880'>霜浮万瓦寂，月满四山静。</div><div id='poem_sentence_2_57880_comment'></div><div class='poemSentence' id='poem_sentence_3_57880'>壮心随北风，吹入单于境。</div><div id='poem_sentence_3_57880_comment'></div><div class='poemSentence' id='poem_sentence_4_57880'></div><div id='poem_sentence_4_57880_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"88e9ef383b5b4acc97fe6e7caa644fc7\");'><span id='88e9ef383b5b4acc97fe6e7caa644fc7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1080')\">1077-1080年</a>，40-43岁</div><div id='88e9ef383b5b4acc97fe6e7caa644fc7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　陈襄居经筵，奏荐文仲等三十三人。文仲除充国子监直讲。弟平仲守秘书省著作郎充都水监勾当公事。<span class='label'>作品：</span>陈襄。<span class='inlineComment2'>（陈襄奏文为《熙宁经筵论荐司马光等三十三人章稿》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　充国子监直讲。七月，弟平仲以奉议郎通判虔州。是年，弟武仲罢江州推官任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')\">1078年</a>　文仲充国子监直讲，因反王安石经义之学，授三班院主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')\">1079年</a>　任三班院主簿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　任三班院主簿。弟武仲改信州军事推官。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f56660c1af384f16ae9cbdf887fac750\");'><span id='f56660c1af384f16ae9cbdf887fac750_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1088')\">1085-1088年</a>，48-51岁</div><div id='f56660c1af384f16ae9cbdf887fac750' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　夏，文仲覃恩转承议郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年10月己卯</a>　自承议郎选校书郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年12月</a>　任校书郎。十二月，弟武仲自奉议郎除秘书省正字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年2月</a>　由校书郎迁为礼部员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年3月20日</a>　任礼部员外郎。与司马光交往，司马光有《与孔文仲司户书》。三月，弟平仲除知赣州军州事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年5月2日</a>　任礼部员外郎。弟武仲自秘书省正字迁校书郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任礼部员外郎。是年有言皇族称谓，唯杨、荆二王得称皇叔，余各系其祖，若唐人称诸王孙之比。文仲有言：“上新即位，宜广敦睦之义，不应疏间骨肉。”议遂寝。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年6月20日</a>　任礼部员外郎。文仲同苏轼、孙文等二十七人议以富弼配享神宗庙庭，诏从之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年7月</a>　任礼部员外郎。苏颂除刑部尚书，举文仲自代。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年11月</a>　文仲经文彦博荐由礼部员外郎迁起居舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任起居舍人。苏轼有《孔文仲起居舍人制》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　任起居舍人。与吕陶唱和。吕陶有《和礼部孔经父斋宫三首》、《致斋北园因记旧游书呈经甫》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>　任起居舍人。二月，弟平仲为集贤校理。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年4月30日</a>　任起居舍人。顾临赴河北路都转运使，文仲、武仲等为其饯行并有诗。同时送行的还有苏轼、黄庭坚等。<span class='label'>作品：</span>四月三十日慈孝寺山亭席上口占送子敦都运待制赴河北。<span class='inlineComment2'>（武仲有《送顾子敦使河北序》，黄庭坚有《次韵子瞻送顾子敦河北都运二首》、《饯子敦席上奉同孔经父八韵》，苏轼有《送顾子敦奉使河朔》、《诸公饯子敦轼以病不往复次前韵》，范祖禹有《四月三十日慈孝寺山亭席上次韵经父舍人送子敦都运待制赴河北》，刘攽有《慈孝寺送顾待制次韵和孔舍人》平仲《孔氏谈苑》卷二《顾将军》条：“元祐二年，辛雍自光禄丞移太常博士，顾子敦自给事中除河朔漕，付以治河，京师语曰：‘治礼已差辛博士，修河仍用顾将军。’子敦好谈兵，人谓之顾将军也。”）</span><div id='poem_57883' class='_poem'><div id='poem_title_57883' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=57883' class='poemCommentLink' target='_blank'>四月三十日慈孝寺山亭席上口占送子敦都运待制赴河北</a><a href='javascript: ShowPoemAuthorProfile(24353, \"宋\", \"孔文仲\", \"poem_title_57883\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>孔文仲</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_57883_comment'></div><div class='poemContent' id='poem_content_57883'><div class='poemSentence' id='poem_sentence_0_57883'>送客城南寺，萧然云水秋。</div><div id='poem_sentence_0_57883_comment'></div><div class='poemSentence' id='poem_sentence_1_57883'>客意在万里，聊作须臾游。</div><div id='poem_sentence_1_57883_comment'></div><div class='poemSentence' id='poem_sentence_2_57883'>昨夜过新雨，清风满梁州。</div><div id='poem_sentence_2_57883_comment'></div><div class='poemSentence' id='poem_sentence_3_57883'>簪裳合俊彦，河图并天球。</div><div id='poem_sentence_3_57883_comment'></div><div class='poemSentence' id='poem_sentence_4_57883'>古来功名人，未就不肯休。</div><div id='poem_sentence_4_57883_comment'></div><div class='poemSentence' id='poem_sentence_5_57883'>譬如凿空使，尚致安石榴。</div><div id='poem_sentence_5_57883_comment'></div><div class='poemSentence' id='poem_sentence_6_57883'>矧今南亩氓，往往东西流。</div><div id='poem_sentence_6_57883_comment'></div><div class='poemSentence' id='poem_sentence_7_57883'>君能安辑之，千仓与万辀。</div><div id='poem_sentence_7_57883_comment'></div><div class='poemSentence' id='poem_sentence_8_57883'></div><div id='poem_sentence_8_57883_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年5月</a>　文仲自朝奉郎、起居舍人拜左谏议大夫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年5月</a>　任左谏议大夫。刘攽西省种竹，作诗。文仲、平仲亦作诗。苏轼兄弟、邓润甫、曾肇等赓和。<span class='label'>作品：</span>次韵刘贡父西省种竹。<span class='inlineComment2'>（诗见清查慎行《补注东坡编年诗》卷二八，此诗不见四库本、豫章丛书本《三孔集》，《全宋诗》亦未收。刘攽有《西省种竹偶书呈同省诸公并寄邓苏二翰林》、《种竹重寄子瞻》，文仲有《次韵刘贡父西省种竹》，平仲有《和子瞻西掖种竹二首》，苏轼有次韵刘贡父西省种竹》，苏辙有《次韵刘贡父西省种竹》，无虞有《题刘贡父苏子瞻兄弟邓润甫曾子开孔文仲兄弟赓和竹诗墨迹》。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年6月28日</a>　任左谏议大夫。有奏文。<span class='label'>作品：</span>劾朱服奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年6月28日</a>　任左谏议大夫。朝散郎、太常博士丁骘为右正言，文仲尝与苏辙、刘邠荐骘。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年7月</a>　任左谏议大夫。七月朔，日食，文仲上疏五事，曰邪说乱正道，小人乘君子，远服侮中国，斜封夺公论，人臣轻国命，宜察此以消厌兆祥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年7月8日</a>　任左谏议大夫。朝奉郎沈季长为少府少监，文仲奏劾之，罢知秀州。<span class='label'>作品：</span>乞罢沈季长少府少监奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年7月</a>　任左谏议大夫。吕陶上《论杜纯等朋党奏》，文仲弹劾程頣，已有先兆。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年8月2日</a>　任左谏议大夫。文仲上疏弹劾程頣。<span class='label'>作品：</span>劾程頣疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年8月8日</a>　任左谏议大夫。孔文仲、左正言丁骘进对，太皇太后宣谕曰：“一心为国，勿为朋比。”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年8月22日</a>　任左谏议大夫。弟平仲除太常博士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年9月2日</a>　任左谏议大夫。熙河路经略总管司擒西蕃大酋领鬼章以献，诏差左谏议大夫孔文仲奏告永裕陵。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年9月12日</a>　任左谏议大夫。吕惠卿许泰州居住，文仲与胡宗愈、王觌、韩川上疏言其不当。<span class='label'>作品：</span>乞朝廷依旧令吕惠卿建州居住奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年11月7日</a>　任左谏议大夫。文仲上奏弹劾朱光庭，吕公著、吕大防、刘挚、王存同上《朱光庭除太常少卿事奏》，反驳文仲。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年11月26日</a>　十一月甲戌，左谏议大夫孔文仲任中书舍人。苏辙撰《孔文仲中书舍人制》。十一月，弟平仲为秘书丞。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年1月17日</a>　任中书舍人。朝廷命苏轼权知贡举，文仲、孙觉同知贡举。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年2月29日</a>　任中书舍人。与苏轼、孙觉同上特奏名札子。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年3月21日</a>　文仲卒。苏轼前往抚棺吊唁。刘攽有《挽经父二首》<br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6d0c2c37e2034262b9097e6a0bdc6206\");'><span id='6d0c2c37e2034262b9097e6a0bdc6206_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1076')\">1075-1076年</a>，38-39岁</div><div id='6d0c2c37e2034262b9097e6a0bdc6206' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年9月26日</a>　在江州居父丧。九月乙酉葬父延之于江州之德化县仁贵龙泉原，以母杨氏祔。曾巩为延之作《中书舍人孔公墓志铭》。苏轼有《孔长源挽诗二首》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年</a>　丁忧居家，是年服满。<br /></div>"
+                },
+                {
+                    "Latitude": 39.028591,
+                    "Longitude": 111.09279,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140931",
+                    "Title": "保德",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"40b8b574931d4735b4a97529806250d0\");'><span id='40b8b574931d4735b4a97529806250d0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1082')\">1080-1082年</a>，43-45岁</div><div id='40b8b574931d4735b4a97529806250d0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')\">1080年</a>　文仲迁著作郎，通判保德军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　通判保德军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　通判保德军。上疏论出兵西夏不便三事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　通判保德军。<br /></div>"
+                },
+                {
+                    "Latitude": 39.390757,
+                    "Longitude": 111.14482,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN140930",
+                    "Title": "河曲",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9968d98193524a4786eca0823798e612\");'><span id='9968d98193524a4786eca0823798e612_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1085')\">1082-1085年</a>，45-48岁</div><div id='9968d98193524a4786eca0823798e612' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　迁奉议郎，通判火山军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年</a>　通判火山军。四月，弟武仲以信州从事得罢，入京师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年</a>　通判火山军。六月,弟武仲除宣德郎、差知潭州湘潭县事。六月，弟平仲覃恩转朝奉郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　通判火山军。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "孔文仲 <span class='inlineComment2'>(1038-1088)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：吴洪泽等《宋人年谱丛刊》、曾枣庄等主编《全宋文》、王文玉《王文仲及其诗歌研究》　录入整理：柯贞金</p><p><a href=\"javascript: ViewRoute(0, 4, 118.3749145, 28.9346425, 8, 0)\">1-33岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">峡江</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">星子</a> → <a href=\"javascript: ViewPoint(3, 0)\">台州</a></p><p><a href=\"javascript: ViewRoute(4, 8, 117.87045, 31.732619, 8, 0)\">33-43岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">开封</a> → <a href=\"javascript: ViewPoint(5, 0)\">台州</a> → <a href=\"javascript: ViewPoint(6, 0)\">九江</a> → <a href=\"javascript: ViewPoint(7, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(8, 11, 112.703347, 37.096849, 8, 0)\">43-51岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">保德</a> → <a href=\"javascript: ViewPoint(9, 0)\">河曲</a> → <a href=\"javascript: ViewPoint(10, 0)\">开封</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+{
+    "0": {
+        "name": "魏征",
+        "isNormal": 1
+    },
+    "1": {
+        "name": "王绩",
+        "isNormal": 1
+    },
+    "2": {
+        "name": "卢照邻",
+        "isNormal": 0
+    },
+    "3": {
+        "name": "骆宾王",
+        "isNormal": 0
+    },
+    "4": {
+        "name": "杨炯",
+        "isNormal": 0
+    },
+    "5": {
+        "name": "王勃",
+        "isNormal": 0
+    },
+    "6": {
+        "name": "宋之问",
+        "isNormal": 1
+    },
+    "7": {
+        "name": "沈佺期",
+        "isNormal": 0
+    },
+    "8": {
+        "name": "孟浩然",
+        "isNormal": 1
+    },
+    "9": {
+        "name": "王昌龄",
+        "isNormal": 1
+    },
+    "10": {
+        "name": "高适",
+        "isNormal": 0
+    },
+    "11": {
+        "name": "王维",
+        "isNormal": 1
+    },
+    "12": {
+        "name": "李白",
+        "isNormal": 0
+    },
+    "13": {
+        "name": "杜甫",
+        "isNormal": 1
+    },
+    "14": {
+        "name": "萧颖士",
+        "isNormal": 1
+    },
+    "15": {
+        "name": "岑参",
+        "isNormal": 0
+    },
+    "16": {
+        "name": "刘长卿",
+        "isNormal": 1
+    },
+    "17": {
+        "name": "钱起",
+        "isNormal": 1
+    },
+    "18": {
+        "name": "韦应物",
+        "isNormal": 1
+    },
+    "19": {
+        "name": "孟郊",
+        "isNormal": 1
+    },
+    "20": {
+        "name": "权德舆",
+        "isNormal": 1
+    },
+    "21": {
+        "name": "令狐楚",
+        "isNormal": 1
+    },
+    "22": {
+        "name": "韩愈",
+        "isNormal": 1
+    },
+    "23": {
+        "name": "柳宗元",
+        "isNormal": 1
+    },
+    "24": {
+        "name": "周贺",
+        "isNormal": 1
+    },
+    "25": {
+        "name": "姚合",
+        "isNormal": 1
+    },
+    "26": {
+        "name": "张彻",
+        "isNormal": 1
+    },
+    "27": {
+        "name": "贾岛",
+        "isNormal": 1
+    },
+    "28": {
+        "name": "牛僧孺",
+        "isNormal": 1
+    },
+    "29": {
+        "name": "李德裕",
+        "isNormal": 0
+    },
+    "30": {
+        "name": "皇甫湜",
+        "isNormal": 1
+    },
+    "31": {
+        "name": "李贺",
+        "isNormal": 1
+    },
+    "32": {
+        "name": "令狐绹",
+        "isNormal": 1
+    },
+    "33": {
+        "name": "段成式",
+        "isNormal": 1
+    },
+    "34": {
+        "name": "方干",
+        "isNormal": 1
+    },
+    "35": {
+        "name": "喻凫",
+        "isNormal": 1
+    },
+    "36": {
+        "name": "李频",
+        "isNormal": 0
+    },
+    "37": {
+        "name": "郑巢",
+        "isNormal": 1
+    },
+    "38": {
+        "name": "陆龟蒙",
+        "isNormal": 1
+    },
+    "39": {
+        "name": "贯休",
+        "isNormal": 0
+    },
+    "40": {
+        "name": "罗隐",
+        "isNormal": 1
+    },
+    "41": {
+        "name": "皮日休",
+        "isNormal": 1
+    },
+    "42": {
+        "name": "司空图",
+        "isNormal": 1
+    },
+    "43": {
+        "name": "鱼玄机",
+        "isNormal": 1
+    },
+    "44": {
+        "name": "杜荀鹤",
+        "isNormal": 0
+    },
+    "45": {
+        "name": "郑谷",
+        "isNormal": 1
+    },
+    "46": {
+        "name": "崔涂",
+        "isNormal": 1
+    },
+    "47": {
+        "name": "徐铉",
+        "isNormal": 1
+    },
+    "48": {
+        "name": "晁迥",
+        "isNormal": 1
+    },
+    "49": {
+        "name": "王禹偁",
+        "isNormal": 1
+    },
+    "50": {
+        "name": "寇准",
+        "isNormal": 1
+    },
+    "51": {
+        "name": "丁谓",
+        "isNormal": 0
+    },
+    "52": {
+        "name": "林逋",
+        "isNormal": 1
+    },
+    "53": {
+        "name": "杨亿",
+        "isNormal": 1
+    },
+    "54": {
+        "name": "释保暹",
+        "isNormal": 1
+    },
+    "55": {
+        "name": "张先",
+        "isNormal": 1
+    },
+    "56": {
+        "name": "宋庠",
+        "isNormal": 1
+    },
+    "57": {
+        "name": "包拯",
+        "isNormal": 1
+    },
+    "58": {
+        "name": "曾公亮",
+        "isNormal": 1
+    },
+    "59": {
+        "name": "富弼",
+        "isNormal": 1
+    },
+    "60": {
+        "name": "文彦博",
+        "isNormal": 0
+    },
+    "61": {
+        "name": "张方平",
+        "isNormal": 1
+    },
+    "62": {
+        "name": "欧阳修",
+        "isNormal": 1
+    },
+    "63": {
+        "name": "赵抃",
+        "isNormal": 1
+    },
+    "64": {
+        "name": "苏洵",
+        "isNormal": 1
+    },
+    "65": {
+        "name": "吴中复",
+        "isNormal": 1
+    },
+    "66": {
+        "name": "苏颂",
+        "isNormal": 1
+    },
+    "67": {
+        "name": "冯京",
+        "isNormal": 1
+    },
+    "68": {
+        "name": "郑獬",
+        "isNormal": 1
+    },
+    "69": {
+        "name": "章楶",
+        "isNormal": 1
+    },
+    "70": {
+        "name": "杨绘",
+        "isNormal": 1
+    },
+    "71": {
+        "name": "徐积",
+        "isNormal": 1
+    },
+    "72": {
+        "name": "吕陶",
+        "isNormal": 1
+    },
+    "73": {
+        "name": "孙觉",
+        "isNormal": 1
+    },
+    "74": {
+        "name": "王令",
+        "isNormal": 1
+    },
+    "75": {
+        "name": "程颢",
+        "isNormal": 1
+    },
+    "76": {
+        "name": "程颐",
+        "isNormal": 1
+    },
+    "77": {
+        "name": "苏轼",
+        "isNormal": 1
+    },
+    "78": {
+        "name": "孔文仲",
+        "isNormal": 1
+    },
+    "79": {
+        "name": "苏辙",
+        "isNormal": 1
+    },
+    "80": {
+        "name": "孔武仲",
+        "isNormal": 1
+    },
+    "81": {
+        "name": "孔平仲",
+        "isNormal": 1
+    },
+    "82": {
+        "name": "黄庭坚",
+        "isNormal": 1
+    },
+    "83": {
+        "name": "晁端礼",
+        "isNormal": 1
+    },
+    "84": {
+        "name": "曾肇",
+        "isNormal": 1
+    },
+    "85": {
+        "name": "秦观",
+        "isNormal": 1
+    },
+    "86": {
+        "name": "陈师道",
+        "isNormal": 1
+    },
+    "87": {
+        "name": "贺铸",
+        "isNormal": 1
+    },
+    "88": {
+        "name": "晁补之",
+        "isNormal": 1
+    },
+    "89": {
+        "name": "陈瓘",
+        "isNormal": 0
+    },
+    "90": {
+        "name": "晁说之",
+        "isNormal": 1
+    },
+    "91": {
+        "name": "范寥",
+        "isNormal": 1
+    },
+    "92": {
+        "name": "惠洪",
+        "isNormal": 0
+    },
+    "93": {
+        "name": "晁冲之",
+        "isNormal": 1
+    },
+    "94": {
+        "name": "程俱",
+        "isNormal": 1
+    },
+    "95": {
+        "name": "宇文虚中",
+        "isNormal": 1
+    },
+    "96": {
+        "name": "王灼",
+        "isNormal": 1
+    },
+    "97": {
+        "name": "胡舜陟",
+        "isNormal": 1
+    },
+    "98": {
+        "name": "李清照",
+        "isNormal": 1
+    },
+    "99": {
+        "name": "曾几",
+        "isNormal": 1
+    },
+    "100": {
+        "name": "胡宪",
+        "isNormal": 1
+    },
+    "101": {
+        "name": "蔡伸",
+        "isNormal": 1
+    },
+    "102": {
+        "name": "洪皓",
+        "isNormal": 0
+    },
+    "103": {
+        "name": "释宗杲",
+        "isNormal": 1
+    },
+    "104": {
+        "name": "王以宁",
+        "isNormal": 1
+    },
+    "105": {
+        "name": "秦桧",
+        "isNormal": 1
+    },
+    "106": {
+        "name": "陈与义",
+        "isNormal": 1
+    },
+    "107": {
+        "name": "刘勉之",
+        "isNormal": 1
+    },
+    "108": {
+        "name": "张元干",
+        "isNormal": 1
+    },
+    "109": {
+        "name": "邓肃",
+        "isNormal": 1
+    },
+    "110": {
+        "name": "王铚",
+        "isNormal": 1
+    },
+    "111": {
+        "name": "李侗",
+        "isNormal": 1
+    },
+    "112": {
+        "name": "陈康伯",
+        "isNormal": 1
+    },
+    "113": {
+        "name": "施元之",
+        "isNormal": 1
+    },
+    "114": {
+        "name": "黄公度",
+        "isNormal": 0
+    },
+    "115": {
+        "name": "倪称",
+        "isNormal": 1
+    },
+    "116": {
+        "name": "洪适",
+        "isNormal": 1
+    },
+    "117": {
+        "name": "曾协",
+        "isNormal": 1
+    },
+    "118": {
+        "name": "洪遵",
+        "isNormal": 1
+    },
+    "119": {
+        "name": "萧德藻",
+        "isNormal": 1
+    },
+    "120": {
+        "name": "郑伯熊",
+        "isNormal": 1
+    },
+    "121": {
+        "name": "尤袤",
+        "isNormal": 1
+    },
+    "122": {
+        "name": "陆游",
+        "isNormal": 1
+    },
+    "123": {
+        "name": "徐梦莘",
+        "isNormal": 1
+    },
+    "124": {
+        "name": "王明清",
+        "isNormal": 1
+    },
+    "125": {
+        "name": "杨万里",
+        "isNormal": 1
+    },
+    "126": {
+        "name": "袁枢",
+        "isNormal": 1
+    },
+    "127": {
+        "name": "张孝祥",
+        "isNormal": 1
+    },
+    "128": {
+        "name": "张栻",
+        "isNormal": 1
+    },
+    "129": {
+        "name": "管鉴",
+        "isNormal": 1
+    },
+    "130": {
+        "name": "薛季宣",
+        "isNormal": 1
+    },
+    "131": {
+        "name": "丘崇",
+        "isNormal": 1
+    },
+    "132": {
+        "name": "王质",
+        "isNormal": 1
+    },
+    "133": {
+        "name": "唐仲友",
+        "isNormal": 1
+    },
+    "134": {
+        "name": "吕祖谦",
+        "isNormal": 1
+    },
+    "135": {
+        "name": "陈傅良",
+        "isNormal": 1
+    },
+    "136": {
+        "name": "沈焕",
+        "isNormal": 1
+    },
+    "137": {
+        "name": "辛弃疾",
+        "isNormal": 1
+    },
+    "138": {
+        "name": "叶适",
+        "isNormal": 1
+    },
+    "139": {
+        "name": "刘过",
+        "isNormal": 1
+    },
+    "140": {
+        "name": "李壁",
+        "isNormal": 1
+    },
+    "141": {
+        "name": "李埴",
+        "isNormal": 1
+    },
+    "142": {
+        "name": "施宿",
+        "isNormal": 1
+    },
+    "143": {
+        "name": "戴复古",
+        "isNormal": 1
+    },
+    "144": {
+        "name": "卢祖皋",
+        "isNormal": 1
+    },
+    "145": {
+        "name": "王遂",
+        "isNormal": 1
+    },
+    "146": {
+        "name": "岳珂",
+        "isNormal": 1
+    },
+    "147": {
+        "name": "许棐",
+        "isNormal": 0
+    },
+    "148": {
+        "name": "严羽",
+        "isNormal": 1
+    },
+    "149": {
+        "name": "吴潜",
+        "isNormal": 1
+    },
+    "150": {
+        "name": "吴文英",
+        "isNormal": 1
+    },
+    "151": {
+        "name": "姚勉",
+        "isNormal": 1
+    },
+    "152": {
+        "name": "舒岳祥",
+        "isNormal": 1
+    },
+    "153": {
+        "name": "谢枋得",
+        "isNormal": 1
+    },
+    "154": {
+        "name": "刘辰翁",
+        "isNormal": 1
+    },
+    "155": {
+        "name": "文天祥",
+        "isNormal": 1
+    },
+    "156": {
+        "name": "张炎",
+        "isNormal": 1
+    },
+    "157": {
+        "name": "谢翱",
+        "isNormal": 1
+    }
+}

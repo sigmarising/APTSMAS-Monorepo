@@ -1,0 +1,534 @@
+{
+    "id": 68,
+    "name": "郑獬",
+    "dynasty": "宋",
+    "lifeDuration": [
+        1022,
+        1072
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 31.25554,
+            "lng": 113.68913
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《郑獬年谱简编》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                25
+            ],
+            "correspondPath": [
+                "安陆",
+                "应城",
+                "绍兴",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                25,
+                32
+            ],
+            "correspondPath": [
+                "达州",
+                "开封",
+                "丰城",
+                "南昌",
+                "开封"
+            ]
+        },
+        {
+            "agesDuration": [
+                32,
+                51
+            ],
+            "correspondPath": [
+                "淮阳",
+                "开封",
+                "江陵",
+                "黄冈",
+                "江陵",
+                "开封",
+                "杭州",
+                "益都",
+                "淮安"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "cf26fce195aa4049b97d7651523c5222",
+                        "lat": 31.25554,
+                        "lng": 113.68913,
+                        "regionId": "CN420982",
+                        "location": "安陆",
+                        "city": "孝感市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "91d7a846d0e24198a164ee4635ed7e5f",
+                        "lat": 30.92838,
+                        "lng": 113.57292,
+                        "regionId": "CN420981",
+                        "location": "应城",
+                        "city": "孝感市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a1fc369c6c794141826dc19d2a57eac8",
+                        "lat": 30.03033,
+                        "lng": 120.580199,
+                        "regionId": "CN3306",
+                        "location": "绍兴",
+                        "city": "绍兴市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b11c7573d5eb427980b6f7305a5ada7e",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "815e742aaad34aeeb482a5597430638a",
+                        "lat": 31.20864,
+                        "lng": 107.46791,
+                        "regionId": "CN5117",
+                        "location": "达州",
+                        "city": "达州市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "23963658a4c64da7b6315c688cf5ee6f",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "1fa3f541cd3c496abe4a53a0f4f208cc",
+                        "lat": 28.1592,
+                        "lng": 115.77121,
+                        "regionId": "CN360981",
+                        "location": "丰城",
+                        "city": "宜春市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "65b056f026c84b8b99471db154fbe1f2",
+                        "lat": 28.68202,
+                        "lng": 115.85794,
+                        "regionId": "CN3601",
+                        "location": "南昌",
+                        "city": "南昌市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a4791f92cc224d2680cbe0c9743c1d02",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "9763b742d66f416eaaaced3d2b944db9",
+                        "lat": 33.7315,
+                        "lng": 114.88614,
+                        "regionId": "CN411626",
+                        "location": "淮阳",
+                        "city": "周口市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cfbbc8ecdb78458f8b7474c003950094",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5f537814009e44618517296ab2ea5153",
+                        "lat": 30.04184,
+                        "lng": 112.4247,
+                        "regionId": "CN421024",
+                        "location": "江陵",
+                        "city": "荆州市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e2f28691a23d41b2be4f3d41d35e37bd",
+                        "lat": 30.45347,
+                        "lng": 114.87238,
+                        "regionId": "CN4211",
+                        "location": "黄冈",
+                        "city": "黄冈市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "43e5c889ca90428dba7b09448cdfd408",
+                        "lat": 30.04184,
+                        "lng": 112.4247,
+                        "regionId": "CN421024",
+                        "location": "江陵",
+                        "city": "荆州市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3ade114d13b54cfda7216da9ee17a8f9",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "bd129a4761bf4380ac3ce27525329539",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "c4c5835570ea47368c4daf49c9290308",
+                        "lat": 36.77188,
+                        "lng": 118.43456,
+                        "regionId": "CN370781002",
+                        "location": "益都",
+                        "city": "潍坊市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "05485f0b72664d069294f25339e603a3",
+                        "lat": 33.61016,
+                        "lng": 119.01595,
+                        "regionId": "CN3208",
+                        "location": "淮安",
+                        "city": "淮安市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 31.25554,
+                "lng": 113.68913,
+                "id": null,
+                "regionId": "CN420982",
+                "location": "安陆",
+                "city": "孝感市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1022-1029年 ，1-8岁",
+                    "1022-1029年 居乡。"
+                ]
+            },
+            {
+                "lat": 30.92838,
+                "lng": 113.57292,
+                "id": null,
+                "regionId": "CN420981",
+                "location": "应城",
+                "city": "孝感市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1030-1035年 ，9-14岁",
+                    "1030年 父郑纾登进士第，任应城县主簿。",
+                    "1031年 随父旅居。",
+                    "1031年8月 随父旅居，母李氏卒。",
+                    "1032-1035年 随父旅居。"
+                ]
+            },
+            {
+                "lat": 30.03033,
+                "lng": 120.580199,
+                "id": null,
+                "regionId": "CN3306",
+                "location": "绍兴",
+                "city": "绍兴市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1036-1040年 ，15-19岁",
+                    "1036年 父任越州司法参军，随父旅居。",
+                    "1037-1040年 随父旅居。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1045-1046年 ，24-25岁",
+                    "1045年 赴京应试。",
+                    "1046年3月 初试落地。",
+                    "1048-1049年 ，27-28岁",
+                    "1048年 赴京应试。",
+                    "1049年3月 不第赋诗。",
+                    "1052-1053年 ，31-32岁",
+                    "1052年 住京师景德寺白土院，秋赋举国学进士。",
+                    "1053年3月13日 中状元登第。",
+                    "1055-1063年 ，34-42岁",
+                    "1055年1月21日 为著作郎直集贤院。",
+                    "1056年5月 父卒。有诗。",
+                    "1057年2月 为著作郎直集贤院，有诗。",
+                    "1058-1059年 为著作郎直集贤院。",
+                    "1060年8月6日 与王安石同为集贤校理。",
+                    "1061年3月 参加赏花钓鱼宴会。",
+                    "1062年1月8日 以同修起居注集贤校理。",
+                    "1063年 与钱公辅同除知制诰。",
+                    "1063年4月 仁宗登遐，獬赋诗悼挽。",
+                    "1063年4月 仁宗登遐，英宗即位，獬进言山陵制度应行俭。",
+                    "1063年7月 獬上言反对推恩制度。",
+                    "1067-1069年 ，46-48岁",
+                    "1067年9月25日 上面授以翰林学士。",
+                    "1068年 任翰林学士。",
+                    "1069年 权发遣开封府。"
+                ]
+            },
+            {
+                "lat": 31.20864,
+                "lng": 107.46791,
+                "id": null,
+                "regionId": "CN5117",
+                "location": "达州",
+                "city": "达州市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1046-1048年 ，25-27岁",
+                    "1046年 寓通州城南文殊院读书。",
+                    "1047年 寓通州城南文殊院读书，娶张氏。",
+                    "1048年 寓通州城南文殊院读书。"
+                ]
+            },
+            {
+                "lat": 28.1592,
+                "lng": 115.77121,
+                "id": null,
+                "regionId": "CN360981",
+                "location": "丰城",
+                "city": "宜春市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1049年 ，28岁",
+                    "1049年9月 游剑池。"
+                ]
+            },
+            {
+                "lat": 28.68202,
+                "lng": 115.85794,
+                "id": null,
+                "regionId": "CN3601",
+                "location": "南昌",
+                "city": "南昌市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1050-1051年 ，29-30岁",
+                    "1050年 见张存，料其科名当为天下第一。",
+                    "1051年 求学江西。"
+                ]
+            },
+            {
+                "lat": 33.7315,
+                "lng": 114.88614,
+                "id": null,
+                "regionId": "CN411626",
+                "location": "淮阳",
+                "city": "周口市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1053-1054年 ，32-33岁",
+                    "1053-1054年 为将作监丞通判陈州。"
+                ]
+            },
+            {
+                "lat": 30.04184,
+                "lng": 112.4247,
+                "id": null,
+                "regionId": "CN421024",
+                "location": "江陵",
+                "city": "荆州市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1063-1065年 ，42-44岁",
+                    "1063-1064年 以右司谏知荆南。",
+                    "1065年8月 上疏言事。",
+                    "1066-1067年 ，45-46岁",
+                    "1066年 还判三班院。",
+                    "1066年11月17日 为黄州重建门作记。",
+                    "1067年 以右司谏知荆南。"
+                ]
+            },
+            {
+                "lat": 30.45347,
+                "lng": 114.87238,
+                "id": null,
+                "regionId": "CN4211",
+                "location": "黄冈",
+                "city": "黄冈市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1065年 ，44岁",
+                    "1065年 浮舟跨长江而南，道出黄州，往见刺史陈侯。"
+                ]
+            },
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1069年 ，48岁",
+                    "1069年5月 断狱不依新法，安石恶之，出为侍读学士、知杭州。",
+                    "1069年 以侍读学士知杭州。",
+                    "1069年 祖无择下秀州狱，獬上章救解。"
+                ]
+            },
+            {
+                "lat": 36.77188,
+                "lng": 118.43456,
+                "id": null,
+                "regionId": "CN370781002",
+                "location": "益都",
+                "city": "潍坊市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1070-1071年 ，49-50岁",
+                    "1070年4月 徙知青州，张先作词送别。",
+                    "1070年 乞罢青苗法。",
+                    "1070年12月 卧病，乞别选近臣代之。",
+                    "1071年 带病在任上。"
+                ]
+            },
+            {
+                "lat": 33.61016,
+                "lng": 119.01595,
+                "id": null,
+                "regionId": "CN3208",
+                "location": "淮安",
+                "city": "淮安市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1071-1072年 ，50-51岁",
+                    "1071年9月 闲居楚州。",
+                    "1072年9月 卒于楚州，家贫子弱，十余年后由滕甫助安葬安州故里。"
+                ]
+            },
+            {
+                "lat": 30.245486,
+                "lng": 120.132624,
+                "id": null,
+                "regionId": "CN3301 西湖",
+                "location": "西湖",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": []
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

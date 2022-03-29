@@ -1,0 +1,510 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 30.001094,
+            "CenterLongitude": 119.846692,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "d09764676b1a40b580790a77695f15c8",
+                            "Latitude": 30.001094,
+                            "Longitude": 119.846692,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330111",
+                            "Title": "富阳"
+                        },
+                        {
+                            "Id": "41c110bcaf984440889dcb584f824306",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "421a64ece6914a44a1262840d64f8bcc",
+                            "Latitude": 32.153186,
+                            "Longitude": 114.099264,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4115",
+                            "Title": "信阳"
+                        },
+                        {
+                            "Id": "6cf10755060a413383b11a3a359fe6a4",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "48b9e1d2fcd34f46b2e5e7c218e052eb",
+                            "Latitude": 30.946576,
+                            "Longitude": 118.765196,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3418",
+                            "Title": "宣城"
+                        },
+                        {
+                            "Id": "fbde682ca93a432d92ec213b644991e2",
+                            "Latitude": 29.711328,
+                            "Longitude": 116.007993,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3604",
+                            "Title": "九江"
+                        },
+                        {
+                            "Id": "23e7e46e6f4940d5bf8686d20e818425",
+                            "Latitude": 30.598428,
+                            "Longitude": 114.311831,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4201",
+                            "Title": "武汉"
+                        },
+                        {
+                            "Id": "9115d85f4d3c42119b3c9ba04b81386b",
+                            "Latitude": 30.697602,
+                            "Longitude": 111.292971,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4205",
+                            "Title": "宜昌"
+                        },
+                        {
+                            "Id": "e400d25bc52948de81004db3af914422",
+                            "Latitude": 31.024561,
+                            "Longitude": 109.470533,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN500236",
+                            "Title": "奉节"
+                        },
+                        {
+                            "Id": "95896c4dc28e4bc993dc8bd52f46ae77",
+                            "Latitude": 31.354396,
+                            "Longitude": 110.753635,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420526",
+                            "Title": "兴山"
+                        },
+                        {
+                            "Id": "3647214250114fc0b7557ae22c5d37c4",
+                            "Latitude": 28.812473,
+                            "Longitude": 113.073603,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430681",
+                            "Title": "汨罗"
+                        },
+                        {
+                            "Id": "da69a5efaa1e43b090670cf545e81e9b",
+                            "Latitude": 28.118301,
+                            "Longitude": 112.989982,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN43",
+                            "Title": "湖南"
+                        },
+                        {
+                            "Id": "e1db3d1b4d524a9b8099c80ec844736b",
+                            "Latitude": 34.755491,
+                            "Longitude": 106.143964,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN620521",
+                            "Title": "清水"
+                        },
+                        {
+                            "Id": "d07624bbcdac4934977b67f9e83d7e11",
+                            "Latitude": 29.978671,
+                            "Longitude": 106.283328,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN500117",
+                            "Title": "合川"
+                        },
+                        {
+                            "Id": "c3862d640d054ebfb65e7b2eeef9e034",
+                            "Latitude": 30.764037,
+                            "Longitude": 105.714004,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510921",
+                            "Title": "蓬溪"
+                        },
+                        {
+                            "Id": "52426f62898243d0a3843044c6211ce1",
+                            "Latitude": 31.101709,
+                            "Longitude": 105.101082,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510722",
+                            "Title": "三台"
+                        },
+                        {
+                            "Id": "b559eb22bc1146d8abe869e7b4c3e7d3",
+                            "Latitude": 30.576279,
+                            "Longitude": 104.071216,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5101",
+                            "Title": "成都"
+                        },
+                        {
+                            "Id": "3a86865280d046f78398c8022b22a995",
+                            "Latitude": 30.996057,
+                            "Longitude": 103.964667,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN510182",
+                            "Title": "彭州"
+                        },
+                        {
+                            "Id": "a806407156a54fb9a98b90831a096027",
+                            "Latitude": 29.558141,
+                            "Longitude": 103.77193,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5111",
+                            "Title": "乐山"
+                        },
+                        {
+                            "Id": "536e4b7d12df441c94cee9280c27ec6e",
+                            "Latitude": 29.214294,
+                            "Longitude": 103.955818,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN511123",
+                            "Title": "犍为"
+                        },
+                        {
+                            "Id": "b3319e695c034141a351efd476bcf21f",
+                            "Latitude": 31.080436,
+                            "Longitude": 109.885346,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN500237",
+                            "Title": "巫山"
+                        },
+                        {
+                            "Id": "4c9b91dbf56c4c2db98ce096cd33ea0e",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4154238a010949cba34b5a0612015f64",
+                            "Latitude": 26.899517,
+                            "Longitude": 112.578397,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4304",
+                            "Title": "衡阳"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 30.001094,
+                    "Longitude": 119.846692,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330111",
+                    "Title": "富阳 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d09764676b1a40b580790a77695f15c8\");'><span id='d09764676b1a40b580790a77695f15c8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>，出生</div><div id='d09764676b1a40b580790a77695f15c8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=854&endYear=854')\">854年</a>　崔涂出生。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"41c110bcaf984440889dcb584f824306\");'><span id='41c110bcaf984440889dcb584f824306_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=874&endYear=874')\">874年</a>，21岁</div><div id='41c110bcaf984440889dcb584f824306' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=874&endYear=874')\">874年</a>　第一次赴举长安，经苏州。<span class='label'>作品：</span>《春日登吴门》<span class='inlineComment2'>（依据谭说，此诗是崔涂“第一次赴长安应试，过苏州时作。”没有指明写作时间。姑且系于本年。）</span><div id='poem_46119' class='_poem'><div id='poem_title_46119' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46119' class='poemCommentLink' target='_blank'>春日登吴门</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46119\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46119_comment'></div><div class='titleComment' id='poem_allusion_46119'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(1289, \"poem_allusion_46119\")'>长安远于日</span></div><div id='poem_allusion_46119_comment'></div><div class='poemContent' id='poem_content_46119'><div class='poemSentence' id='poem_sentence_0_46119'>故国望不见，愁襟难暂开。</div><div id='poem_sentence_0_46119_comment'></div><div class='poemSentence' id='poem_sentence_1_46119'>春潮映杨柳，细雨入楼台。</div><div id='poem_sentence_1_46119_comment'></div><div class='poemSentence' id='poem_sentence_2_46119'>静少人同到，晴逢雁正来。</div><div id='poem_sentence_2_46119_comment'></div><div class='poemSentence' id='poem_sentence_3_46119'><span class='link' onclick='ShowAllusionComment(1289, \"poem_sentence_3_46119\")'>长安远于日</span>，搔首独徘徊。</div><div id='poem_sentence_3_46119_comment'></div><div class='poemSentence' id='poem_sentence_4_46119'></div><div id='poem_sentence_4_46119_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 32.153186,
+                    "Longitude": 114.099264,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4115",
+                    "Title": "信阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"421a64ece6914a44a1262840d64f8bcc\");'><span id='421a64ece6914a44a1262840d64f8bcc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>，22岁</div><div id='421a64ece6914a44a1262840d64f8bcc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=875&endYear=875')\">875年</a>　过申州。<span class='label'>作品：</span>《申州道中》<span class='inlineComment2'>（依据谭说，此诗是崔涂“为了赴举，从吴门而来。”没有指明写作时间。姑且系于本年。）</span><div id='poem_46097' class='_poem'><div id='poem_title_46097' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46097' class='poemCommentLink' target='_blank'>申州道中</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46097\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46097_comment'></div><div class='poemContent' id='poem_content_46097'><div class='poemSentence' id='poem_sentence_0_46097'>风紧日凄凄，乡心向此迷。</div><div id='poem_sentence_0_46097_comment'></div><div class='poemSentence' id='poem_sentence_1_46097'>水分平楚阔，山接故关低。</div><div id='poem_sentence_1_46097_comment'></div><div class='poemSentence' id='poem_sentence_2_46097'>客路缘烽火，人家厌鼓鼙。</div><div id='poem_sentence_2_46097_comment'></div><div class='poemSentence' id='poem_sentence_3_46097'>那堪独驰马，江树穆陵西。</div><div id='poem_sentence_3_46097_comment'></div><div class='poemSentence' id='poem_sentence_4_46097'></div><div id='poem_sentence_4_46097_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6cf10755060a413383b11a3a359fe6a4\");'><span id='6cf10755060a413383b11a3a359fe6a4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>，23岁</div><div id='6cf10755060a413383b11a3a359fe6a4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=876&endYear=876')\">876年</a>　经过河南府。<span class='label'>作品：</span>《过洛阳故城》《夕次洛阳道中》<span class='inlineComment2'>（谭没有指明崔涂写此诗的时间，姑且系于本年。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.946576,
+                    "Longitude": 118.765196,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3418",
+                    "Title": "宣城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"48b9e1d2fcd34f46b2e5e7c218e052eb\");'><span id='48b9e1d2fcd34f46b2e5e7c218e052eb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>，24岁</div><div id='48b9e1d2fcd34f46b2e5e7c218e052eb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=877&endYear=877')\">877年</a>　经过宣州。<span class='label'>作品：</span>《夜泊牛渚》<span class='inlineComment2'>（依据谭说，崔涂“沿长江一线”“怀古伤己”，没有指明崔涂写此诗的时间。姑且系于本年。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 29.711328,
+                    "Longitude": 116.007993,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3604",
+                    "Title": "九江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fbde682ca93a432d92ec213b644991e2\");'><span id='fbde682ca93a432d92ec213b644991e2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=878&endYear=878')\">878年</a>，25岁</div><div id='fbde682ca93a432d92ec213b644991e2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=878&endYear=878')\">878年</a>　经过江州。<span class='label'>作品：</span>《过陶征君隐居》<span class='inlineComment2'>（谭没有指明崔涂写此诗的时间，姑且系于本年。《宿庐山绝顶山舍》或为此同时作，有诗句云“自嫌心不达，向此梦长安”。）</span><div id='poem_46105' class='_poem'><div id='poem_title_46105' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46105' class='poemCommentLink' target='_blank'>过陶徵君隐居</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46105\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46105_comment'></div><div class='titleComment' id='poem_allusion_46105'><span class='label'>引用典故：</span><span class='link' onclick='ShowAllusionComment(3276, \"poem_allusion_46105\")'>陵谷变</span></div><div id='poem_allusion_46105_comment'></div><div class='poemContent' id='poem_content_46105'><div class='poemSentence' id='poem_sentence_0_46105'>陶令昔居此，弄琴遗世荣<span class='inlineComment2'>（一作情）</span>。</div><div id='poem_sentence_0_46105_comment'></div><div class='poemSentence' id='poem_sentence_1_46105'>田园三亩绿，<span class='link' onclick='ShowWordComment(\"poem_sentence_1_46105\", 46105, \"Clauses/3/Comments/0\")'>轩冕</span>一铢轻。</div><div id='poem_sentence_1_46105_comment'></div><div class='poemSentence' id='poem_sentence_2_46105'>衰柳自无主，白云犹可耕。</div><div id='poem_sentence_2_46105_comment'></div><div class='poemSentence' id='poem_sentence_3_46105'>不随<span class='link' onclick='ShowAllusionComment(3276, \"poem_sentence_3_46105\")'>陵谷变</span>，应只有<span class='inlineComment2'>（一作是）</span>高名。</div><div id='poem_sentence_3_46105_comment'></div><div class='poemSentence' id='poem_sentence_4_46105'></div><div id='poem_sentence_4_46105_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.598428,
+                    "Longitude": 114.311831,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201",
+                    "Title": "武汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"23e7e46e6f4940d5bf8686d20e818425\");'><span id='23e7e46e6f4940d5bf8686d20e818425_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=879&endYear=879')\">879年</a>，26岁</div><div id='23e7e46e6f4940d5bf8686d20e818425' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=879&endYear=879')\">879年</a>　经过鄂州;感叹战乱局面。<span class='label'>作品：</span>《鹦鹉洲即事》《己亥岁感事》<span class='inlineComment2'>（依据谭说，崔涂“到了江夏，面对鹦鹉洲发感慨”间。但据《唐才子传校笺》所考，《鹦鹉洲即事》写于中和元年（881）逗留湖湘期间，是。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.697602,
+                    "Longitude": 111.292971,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4205",
+                    "Title": "宜昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9115d85f4d3c42119b3c9ba04b81386b\");'><span id='9115d85f4d3c42119b3c9ba04b81386b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>，27岁</div><div id='9115d85f4d3c42119b3c9ba04b81386b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=880&endYear=880')\">880年</a>　经过峡州。<span class='label'>作品：</span>《夷陵夜泊》<span class='inlineComment2'>（依据谭说，崔涂“过宜昌”，“再上到巫山”，没有指明写作时间。姑且系于本年。）</span><div id='poem_46067' class='_poem'><div id='poem_title_46067' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46067' class='poemCommentLink' target='_blank'>夷<span class='inlineComment2'>（一作巴）</span>陵夜泊</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46067\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_46067_comment'></div><div class='poemContent' id='poem_content_46067'><div class='poemSentence' id='poem_sentence_0_46067'>家依楚塞穷秋别，身逐孤舟万里行。</div><div id='poem_sentence_0_46067_comment'></div><div class='poemSentence' id='poem_sentence_1_46067'>一曲巴歌半江月，便应消得二毛生。</div><div id='poem_sentence_1_46067_comment'></div><div class='poemSentence' id='poem_sentence_2_46067'></div><div id='poem_sentence_2_46067_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.024561,
+                    "Longitude": 109.470533,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN500236",
+                    "Title": "奉节",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e400d25bc52948de81004db3af914422\");'><span id='e400d25bc52948de81004db3af914422_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，28岁</div><div id='e400d25bc52948de81004db3af914422' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　经过夔州。<span class='label'>作品：</span>《巫山庙》<span class='inlineComment2'>（依据谭说，崔涂“过宜昌”，“再上到巫山”，没有指明写作时间。姑且系于本年。）</span><div id='poem_46158' class='_poem'><div id='poem_title_46158' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46158' class='poemCommentLink' target='_blank'>巫山庙</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46158\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46158_comment'></div><div class='poemContent' id='poem_content_46158'><div class='poemSentence' id='poem_sentence_0_46158'>双黛俨如嚬，应伤故国春。</div><div id='poem_sentence_0_46158_comment'></div><div class='poemSentence' id='poem_sentence_1_46158'>江山非旧主，云雨是前身。</div><div id='poem_sentence_1_46158_comment'></div><div class='poemSentence' id='poem_sentence_2_46158'>梦觉传词客，灵犹福楚人。</div><div id='poem_sentence_2_46158_comment'></div><div class='poemSentence' id='poem_sentence_3_46158'>不知千载后，何处又为神。</div><div id='poem_sentence_3_46158_comment'></div><div class='poemSentence' id='poem_sentence_4_46158'></div><div id='poem_sentence_4_46158_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.354396,
+                    "Longitude": 110.753635,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420526",
+                    "Title": "兴山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"95896c4dc28e4bc993dc8bd52f46ae77\");'><span id='95896c4dc28e4bc993dc8bd52f46ae77_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，28岁</div><div id='95896c4dc28e4bc993dc8bd52f46ae77' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　经过峡州。<span class='label'>作品：</span>《过昭君村故宅》<span class='inlineComment2'>（谭没有指明崔涂写此诗的时间，姑且系于本年。）</span><div id='poem_46102' class='_poem'><div id='poem_title_46102' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46102' class='poemCommentLink' target='_blank'>过昭君故宅</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46102\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46102_comment'></div><div class='poemContent' id='poem_content_46102'><div class='poemSentence' id='poem_sentence_0_46102'>以色静胡尘，名还异众嫔。</div><div id='poem_sentence_0_46102_comment'></div><div class='poemSentence' id='poem_sentence_1_46102'>免劳征战力，无愧绮罗身。</div><div id='poem_sentence_1_46102_comment'></div><div class='poemSentence' id='poem_sentence_2_46102'>骨竟埋青冢，魂应怨画人。</div><div id='poem_sentence_2_46102_comment'></div><div class='poemSentence' id='poem_sentence_3_46102'>不堪逢旧宅，寥落对江滨。</div><div id='poem_sentence_3_46102_comment'></div><div class='poemSentence' id='poem_sentence_4_46102'></div><div id='poem_sentence_4_46102_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.812473,
+                    "Longitude": 113.073603,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430681",
+                    "Title": "汨罗",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3647214250114fc0b7557ae22c5d37c4\");'><span id='3647214250114fc0b7557ae22c5d37c4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，28岁</div><div id='3647214250114fc0b7557ae22c5d37c4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　经过岳州。<span class='label'>作品：</span>《屈原庙》《过二妃庙》<span class='inlineComment2'>（谭没有指明崔涂写此诗的时间，姑且系于本年。）</span><div id='poem_46069' class='_poem'><div id='poem_title_46069' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46069' class='poemCommentLink' target='_blank'>过二妃庙</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46069\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言绝句</div></div><div id='poem_title_46069_comment'></div><div class='poemContent' id='poem_content_46069'><div class='poemSentence' id='poem_sentence_0_46069'>残阳楚水畔，独吊舜时人。</div><div id='poem_sentence_0_46069_comment'></div><div class='poemSentence' id='poem_sentence_1_46069'>不及庙前草，至今江上春。</div><div id='poem_sentence_1_46069_comment'></div><div class='poemSentence' id='poem_sentence_2_46069'></div><div id='poem_sentence_2_46069_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.118301,
+                    "Longitude": 112.989982,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN43",
+                    "Title": "湖南",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"da69a5efaa1e43b090670cf545e81e9b\");'><span id='da69a5efaa1e43b090670cf545e81e9b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，28岁</div><div id='da69a5efaa1e43b090670cf545e81e9b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　不详。<span class='label'>作品：</span>《孤雁二首》《湖外送友人游边》<span class='inlineComment2'>（谭没有指明崔涂写此诗的时间，姑且系于本年。）</span><div id='poem_46147' class='_poem'><div id='poem_title_46147' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46147' class='poemCommentLink' target='_blank'>湖外送友人游边</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46147\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46147_comment'></div><div class='poemContent' id='poem_content_46147'><div class='poemSentence' id='poem_sentence_0_46147'>我泛潇湘浦，君行指塞云。</div><div id='poem_sentence_0_46147_comment'></div><div class='poemSentence' id='poem_sentence_1_46147'>两乡天外隔，一径渡头分。</div><div id='poem_sentence_1_46147_comment'></div><div class='poemSentence' id='poem_sentence_2_46147'>雨暗江花老，<span class='link' onclick='ShowWordComment(\"poem_sentence_2_46147\", 46147, \"Clauses/5/Comments/0\")'>笳愁</span>陇月曛。</div><div id='poem_sentence_2_46147_comment'></div><div class='poemSentence' id='poem_sentence_3_46147'>不堪来去雁，迢递思离群。</div><div id='poem_sentence_3_46147_comment'></div><div class='poemSentence' id='poem_sentence_4_46147'></div><div id='poem_sentence_4_46147_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.755491,
+                    "Longitude": 106.143964,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN620521",
+                    "Title": "清水",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e1db3d1b4d524a9b8099c80ec844736b\");'><span id='e1db3d1b4d524a9b8099c80ec844736b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>，28岁</div><div id='e1db3d1b4d524a9b8099c80ec844736b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=881&endYear=881')\">881年</a>　不详。<span class='label'>作品：</span>《陇上别故人》<span class='inlineComment2'>（依据谭说，“作者曾登陇首”，没有指出崔涂写此诗的时间，姑且系于本年。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 29.978671,
+                    "Longitude": 106.283328,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN500117",
+                    "Title": "合川",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d07624bbcdac4934977b67f9e83d7e11\");'><span id='d07624bbcdac4934977b67f9e83d7e11_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='d07624bbcdac4934977b67f9e83d7e11' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>　经过川东。<span class='label'>作品：</span>《巴山道中除夜书怀》<span class='inlineComment2'>（依据谭说，崔涂“作此诗的地点在三巴，时间为中和二年或三年”。若崔涂中和二年由富阳入蜀，此诗作于中和三年可能性较大。姑且系于中和三年。）</span><div id='poem_46092' class='_poem'><div id='poem_title_46092' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46092' class='poemCommentLink' target='_blank'>巴山道中除夜书怀<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46092\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46092_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_46092_0'>① （一作岁除夜有怀）。（一作孟浩然诗）</div></div></div><div class='poemContent' id='poem_content_46092'><div class='poemSentence' id='poem_sentence_0_46092'>迢遰三巴路，羁危万里身。</div><div id='poem_sentence_0_46092_comment'></div><div class='poemSentence' id='poem_sentence_1_46092'>乱山残雪夜，孤烛异乡春。</div><div id='poem_sentence_1_46092_comment'></div><div class='poemSentence' id='poem_sentence_2_46092'>渐与骨肉远，转于僮仆亲。</div><div id='poem_sentence_2_46092_comment'></div><div class='poemSentence' id='poem_sentence_3_46092'>那堪正漂泊，明日岁华新。</div><div id='poem_sentence_3_46092_comment'></div><div class='poemSentence' id='poem_sentence_4_46092'></div><div id='poem_sentence_4_46092_comment'></div></div><div class='poemComment' id='poem_comment_46092'><a href='javascript: ShowPoemComment(46092)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.764037,
+                    "Longitude": 105.714004,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510921",
+                    "Title": "蓬溪",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c3862d640d054ebfb65e7b2eeef9e034\");'><span id='c3862d640d054ebfb65e7b2eeef9e034_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='c3862d640d054ebfb65e7b2eeef9e034' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>　经过长江县。<span class='label'>作品：</span>《过长江贾岛主簿旧厅》<span class='inlineComment2'>（依据谭说，崔涂“去成都经过这里”，未指明写作时间。姑且系于中和三年。）</span><div id='poem_46101' class='_poem'><div id='poem_title_46101' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46101' class='poemCommentLink' target='_blank'>过长江贾岛主簿旧厅</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46101\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_46101_comment'></div><div class='poemContent' id='poem_content_46101'><div class='poemSentence' id='poem_sentence_0_46101'><span class='link' onclick='ShowWordComment(\"poem_sentence_0_46101\", 46101, \"Clauses/0/Comments/0\")'>雕琢</span>文章字字精，我经此处倍伤情。</div><div id='poem_sentence_0_46101_comment'></div><div class='poemSentence' id='poem_sentence_1_46101'>身从谪宦方沾禄，才被槌埋更有声。</div><div id='poem_sentence_1_46101_comment'></div><div class='poemSentence' id='poem_sentence_2_46101'>过县已无曾识吏，到厅空见旧题名。</div><div id='poem_sentence_2_46101_comment'></div><div class='poemSentence' id='poem_sentence_3_46101'>长江一曲年年水，应为先生万古清。</div><div id='poem_sentence_3_46101_comment'></div><div class='poemSentence' id='poem_sentence_4_46101'></div><div id='poem_sentence_4_46101_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.101709,
+                    "Longitude": 105.101082,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510722",
+                    "Title": "三台",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"52426f62898243d0a3843044c6211ce1\");'><span id='52426f62898243d0a3843044c6211ce1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='52426f62898243d0a3843044c6211ce1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>　经过梓州。<span class='label'>作品：</span>《秋宿鹤林寺》<span class='inlineComment2'>（依据谭说，崔涂“去成都，过长江，途径这里”，未指明写作时间。姑且系于中和三年。）</span><div id='poem_46129' class='_poem'><div id='poem_title_46129' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46129' class='poemCommentLink' target='_blank'>秋宿鹤林寺</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46129\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46129_comment'></div><div class='poemContent' id='poem_content_46129'><div class='poemSentence' id='poem_sentence_0_46129'>步步入林中，山穷意未穷。</div><div id='poem_sentence_0_46129_comment'></div><div class='poemSentence' id='poem_sentence_1_46129'>偏逢僧话久，转与<span class='link' onclick='ShowWordComment(\"poem_sentence_1_46129\", 46129, \"Clauses/3/Comments/0\")'>鹤栖</span>同。</div><div id='poem_sentence_1_46129_comment'></div><div class='poemSentence' id='poem_sentence_2_46129'>烛焰风销尽，兰条露湿空。</div><div id='poem_sentence_2_46129_comment'></div><div class='poemSentence' id='poem_sentence_3_46129'>又须从此别，江上正秋鸿。</div><div id='poem_sentence_3_46129_comment'></div><div class='poemSentence' id='poem_sentence_4_46129'></div><div id='poem_sentence_4_46129_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.576279,
+                    "Longitude": 104.071216,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5101",
+                    "Title": "成都",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b559eb22bc1146d8abe869e7b4c3e7d3\");'><span id='b559eb22bc1146d8abe869e7b4c3e7d3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='b559eb22bc1146d8abe869e7b4c3e7d3' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>落第后。<span class='label'>作品：</span>《蜀城春》《寄青城山颢禅师》《江行晚望》<span class='inlineComment2'>（谭认为，《江行晚望》中“十年来复去”大约指乾符元年（874年）至中和三年（883年）。《夏日书怀寄道友》或作于同时，诗句“十年惟悟吟诗句”或同指从第一次赴举长安的874年至第二次落第的此时883年。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>不详。<span class='label'>作品：</span>《和进士张曙闻雁见寄》<span class='inlineComment2'>（谭认为，“这篇和诗应是在蜀中作”。姑且系于本年。不从。大概作于张曙大顺二年（891年）进士及第后。）</span><div id='poem_46110' class='_poem'><div id='poem_title_46110' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46110' class='poemCommentLink' target='_blank'>和进士张曙闻雁见寄</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46110\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_46110_comment'></div><div class='poemContent' id='poem_content_46110'><div class='poemSentence' id='poem_sentence_0_46110'>断行哀响递相催，争趁高秋作恨媒。</div><div id='poem_sentence_0_46110_comment'></div><div class='poemSentence' id='poem_sentence_1_46110'>云外关山闻独去，渡头风雨见初来。</div><div id='poem_sentence_1_46110_comment'></div><div class='poemSentence' id='poem_sentence_2_46110'>也知榆塞寒须别，莫恋蘋汀暖不回。</div><div id='poem_sentence_2_46110_comment'></div><div class='poemSentence' id='poem_sentence_3_46110'>试向富春江畔过，故园犹合有池台。</div><div id='poem_sentence_3_46110_comment'></div><div class='poemSentence' id='poem_sentence_4_46110'></div><div id='poem_sentence_4_46110_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 30.996057,
+                    "Longitude": 103.964667,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN510182",
+                    "Title": "彭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3a86865280d046f78398c8022b22a995\");'><span id='3a86865280d046f78398c8022b22a995_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='3a86865280d046f78398c8022b22a995' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>　决心继续奋斗。<span class='label'>作品：</span>《秋宿天彭僧舍》<span class='inlineComment2'>（依据谭说，此诗是崔涂落第后表明“决心要继续奋斗”，姑且系于本年。）</span><div id='poem_46128' class='_poem'><div id='poem_title_46128' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46128' class='poemCommentLink' target='_blank'>秋宿天彭僧舍</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46128\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46128_comment'></div><div class='poemContent' id='poem_content_46128'><div class='poemSentence' id='poem_sentence_0_46128'>身世两相惜，秋云每独兴。</div><div id='poem_sentence_0_46128_comment'></div><div class='poemSentence' id='poem_sentence_1_46128'>难将尘界事，话向雪山僧。</div><div id='poem_sentence_1_46128_comment'></div><div class='poemSentence' id='poem_sentence_2_46128'>力善知谁许，归耕又未能。</div><div id='poem_sentence_2_46128_comment'></div><div class='poemSentence' id='poem_sentence_3_46128'>此怀平不得，挑尽草堂灯。</div><div id='poem_sentence_3_46128_comment'></div><div class='poemSentence' id='poem_sentence_4_46128'></div><div id='poem_sentence_4_46128_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.558141,
+                    "Longitude": 103.77193,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5111",
+                    "Title": "乐山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a806407156a54fb9a98b90831a096027\");'><span id='a806407156a54fb9a98b90831a096027_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>，30岁</div><div id='a806407156a54fb9a98b90831a096027' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=883&endYear=883')\">883年</a>　不详。<span class='label'>作品：</span>《题净众寺古松》<span class='inlineComment2'>（谭没有指出崔涂写此诗的准确时间，姑且系于本年。）</span><div id='poem_46151' class='_poem'><div id='poem_title_46151' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46151' class='poemCommentLink' target='_blank'>题净众寺古松</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46151\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_46151_comment'></div><div class='poemContent' id='poem_content_46151'><div class='poemSentence' id='poem_sentence_0_46151'>百尺森疏倚梵台，昔人谁见此初栽。</div><div id='poem_sentence_0_46151_comment'></div><div class='poemSentence' id='poem_sentence_1_46151'>故园未有偏堪恋，浮世如闲即合来。</div><div id='poem_sentence_1_46151_comment'></div><div class='poemSentence' id='poem_sentence_2_46151'>天暝岂分苍翠色，岁寒应识栋梁材。</div><div id='poem_sentence_2_46151_comment'></div><div class='poemSentence' id='poem_sentence_3_46151'>清阴可惜不驻<span class='inlineComment2'>（一作嗟住不）</span>得，归去暮城空首回。</div><div id='poem_sentence_3_46151_comment'></div><div class='poemSentence' id='poem_sentence_4_46151'></div><div id='poem_sentence_4_46151_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.214294,
+                    "Longitude": 103.955818,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN511123",
+                    "Title": "犍为",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"536e4b7d12df441c94cee9280c27ec6e\");'><span id='536e4b7d12df441c94cee9280c27ec6e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=884&endYear=884')\">884年</a>，31岁</div><div id='536e4b7d12df441c94cee9280c27ec6e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=884&endYear=884')\">884年</a>　离开蜀中，过戎州沿大江东区。<span class='label'>作品：</span>《秋日犍为道中》<span class='inlineComment2'>（依据谭说，崔涂“由净众寺而南，经犍为”，“满怀落第凄苦”，姑且系于本年。）</span><div id='poem_46125' class='_poem'><div id='poem_title_46125' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46125' class='poemCommentLink' target='_blank'>秋日犍为<span class='inlineComment2'>（一作巴南）</span>道中<span class='inlineComment2'>（一作途中感怀）</span></a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46125\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46125_comment'></div><div class='poemContent' id='poem_content_46125'><div class='poemSentence' id='poem_sentence_0_46125'>久客厌岐路，出门吟且悲。</div><div id='poem_sentence_0_46125_comment'></div><div class='poemSentence' id='poem_sentence_1_46125'>平生未到处，落日独行时。</div><div id='poem_sentence_1_46125_comment'></div><div class='poemSentence' id='poem_sentence_2_46125'>芳草不长绿，故人无<span class='inlineComment2'>（一作难）</span>重期。</div><div id='poem_sentence_2_46125_comment'></div><div class='poemSentence' id='poem_sentence_3_46125'>那堪更南渡，乡国已<span class='inlineComment2'>（一作是）</span>天涯。</div><div id='poem_sentence_3_46125_comment'></div><div class='poemSentence' id='poem_sentence_4_46125'></div><div id='poem_sentence_4_46125_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.080436,
+                    "Longitude": 109.885346,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN500237",
+                    "Title": "巫山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b3319e695c034141a351efd476bcf21f\");'><span id='b3319e695c034141a351efd476bcf21f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=886&endYear=886')\">886年</a>，33岁</div><div id='b3319e695c034141a351efd476bcf21f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=886&endYear=886')\">886年</a>　经巫山。<span class='label'>作品：</span>《巫山旅别》<span class='inlineComment2'>（谭认为，此诗是崔涂“出峡后经巫山”所作。没有说明崔涂写此诗的时间。姑且系于本年。）</span><div id='poem_46072' class='_poem'><div id='poem_title_46072' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46072' class='poemCommentLink' target='_blank'>巫山旅别</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46072\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_46072_comment'></div><div class='poemContent' id='poem_content_46072'><div class='poemSentence' id='poem_sentence_0_46072'>五千里外三年客，十二峰前一望秋。</div><div id='poem_sentence_0_46072_comment'></div><div class='poemSentence' id='poem_sentence_1_46072'>无限<span class='link' onclick='ShowWordComment(\"poem_sentence_1_46072\", 46072, \"Clauses/2/Comments/0\")'>别魂</span>招不得，夕阳西下水东流。</div><div id='poem_sentence_1_46072_comment'></div><div class='poemSentence' id='poem_sentence_2_46072'></div><div id='poem_sentence_2_46072_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4c9b91dbf56c4c2db98ce096cd33ea0e\");'><span id='4c9b91dbf56c4c2db98ce096cd33ea0e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>，35岁</div><div id='4c9b91dbf56c4c2db98ce096cd33ea0e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=888&endYear=888')\">888年</a>　进士及第。<span class='label'>作品：</span>《秋夕与王处士话别》<span class='inlineComment2'>（此诗有句云“故山归尚遥”，或暗示崔涂进士及第之后有返回家乡的想法。）</span><div id='poem_46123' class='_poem'><div id='poem_title_46123' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=46123' class='poemCommentLink' target='_blank'>秋夕与王处士话别</a><a href='javascript: ShowPoemAuthorProfile(14668, \"唐\", \"崔涂\", \"poem_title_46123\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>崔涂</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_46123_comment'></div><div class='poemContent' id='poem_content_46123'><div class='poemSentence' id='poem_sentence_0_46123'>微灯照寂寥，此夕正迢迢。</div><div id='poem_sentence_0_46123_comment'></div><div class='poemSentence' id='poem_sentence_1_46123'>丹桂得已晚，故山归尚遥。</div><div id='poem_sentence_1_46123_comment'></div><div class='poemSentence' id='poem_sentence_2_46123'>虫声移暗壁，月色动寒条。</div><div id='poem_sentence_2_46123_comment'></div><div class='poemSentence' id='poem_sentence_3_46123'>此去如真隐，期君试一瓢。</div><div id='poem_sentence_3_46123_comment'></div><div class='poemSentence' id='poem_sentence_4_46123'></div><div id='poem_sentence_4_46123_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 26.899517,
+                    "Longitude": 112.578397,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4304",
+                    "Title": "衡阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4154238a010949cba34b5a0612015f64\");'><span id='4154238a010949cba34b5a0612015f64_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=896&endYear=896')\">896年</a>，43岁</div><div id='4154238a010949cba34b5a0612015f64' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=896&endYear=896')\">896年</a>　曾过衡州。<br /></div>"
+                },
+                {
+                    "Latitude": 30.540124,
+                    "Longitude": 114.278932,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201 鹦鹉洲",
+                    "Title": "鹦鹉洲",
+                    "RequestUri": "scope=当代/武汉市鹦鹉洲&author=崔涂&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 31.267,
+                    "Longitude": 110.735304,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4205 昭君村",
+                    "Title": "昭君村",
+                    "RequestUri": "scope=当代/兴山县昭君村&author=崔涂&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 28.886435,
+                    "Longitude": 113.050378,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4306 屈子祠",
+                    "Title": "屈原庙",
+                    "RequestUri": "scope=当代/汨罗市屈原庙&author=崔涂&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "崔涂 <span class='inlineComment2'>(854-896)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：谭优学《唐诗人行年考续编·崔涂行止考实》　录入整理：李定广</p><p><a href=\"javascript: ViewRoute(0, 23, 112.1807715, 30.827504, 7, 0)\">1-43岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">富阳</a> → <a href=\"javascript: ViewPoint(1, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(2, 0)\">信阳</a> → <a href=\"javascript: ViewPoint(3, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(4, 0)\">宣城</a> → <a href=\"javascript: ViewPoint(5, 0)\">九江</a> → <a href=\"javascript: ViewPoint(6, 0)\">武汉</a> → <a href=\"javascript: ViewPoint(7, 0)\">宜昌</a> → <a href=\"javascript: ViewPoint(8, 0)\">奉节</a> → <a href=\"javascript: ViewPoint(9, 0)\">兴山</a> → <a href=\"javascript: ViewPoint(10, 0)\">汨罗</a> → <a href=\"javascript: ViewPoint(11, 0)\">湖南</a> → <a href=\"javascript: ViewPoint(12, 0)\">清水</a> → <a href=\"javascript: ViewPoint(13, 0)\">合川</a> → <a href=\"javascript: ViewPoint(14, 0)\">蓬溪</a> → <a href=\"javascript: ViewPoint(15, 0)\">三台</a> → <a href=\"javascript: ViewPoint(16, 0)\">成都</a> → <a href=\"javascript: ViewPoint(17, 0)\">彭州</a> → <a href=\"javascript: ViewPoint(18, 0)\">乐山</a> → <a href=\"javascript: ViewPoint(19, 0)\">犍为</a> → <a href=\"javascript: ViewPoint(20, 0)\">巫山</a> → <a href=\"javascript: ViewPoint(21, 0)\">西安</a> → <a href=\"javascript: ViewPoint(22, 0)\">衡阳</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.032626,
+            "CenterLongitude": 119.916604,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "21961593af5f4a31816b47980ad6ca64",
+                            "Latitude": 31.032626,
+                            "Longitude": 119.916604,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330522",
+                            "Title": "长兴"
+                        },
+                        {
+                            "Id": "843af7c6bf984ba184c3d394127c892a",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "3abf3140eb0244b49bf391fdf738c0b5",
+                            "Latitude": 28.941661,
+                            "Longitude": 118.880768,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3308",
+                            "Title": "衢州"
+                        },
+                        {
+                            "Id": "74e4665ae6c341a6b22ec1eb39c50cc5",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "c4cc5840fcc3408c84428a3daf318d04",
+                            "Latitude": 25.837179,
+                            "Longitude": 114.94126,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3607",
+                            "Title": "赣州"
+                        },
+                        {
+                            "Id": "d8aecad60c744aa787f4d94de6865f74",
+                            "Latitude": 31.032626,
+                            "Longitude": 119.916604,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330522",
+                            "Title": "长兴"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.032626,
+                    "Longitude": 119.916604,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330522",
+                    "Title": "长兴 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"21961593af5f4a31816b47980ad6ca64\");'><span id='21961593af5f4a31816b47980ad6ca64_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1164')\">1102-1164年</a>，1-63岁</div><div id='21961593af5f4a31816b47980ad6ca64' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')\">1102年</a>　施元之约生于此时。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')\">1164年6月17日</a>　施元之子施宿生。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"d8aecad60c744aa787f4d94de6865f74\");'><span id='d8aecad60c744aa787f4d94de6865f74_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>，73岁</div><div id='d8aecad60c744aa787f4d94de6865f74' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>施元之被辛弃疾弹劾，遂予奉祠归长兴。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>施元之因病去世，卒年七十有余。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"843af7c6bf984ba184c3d394127c892a\");'><span id='843af7c6bf984ba184c3d394127c892a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1170')\">1165-1170年</a>，64-69岁</div><div id='843af7c6bf984ba184c3d394127c892a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>　施元之任命为左文林郎，主管尚书户部架阁文字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>　洪适除翰林学士，举施元之代之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年2月</a>　施元之任命为秘书省正字。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年3月</a>　施元之罢免秘书省正字，任枢密院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')\">1167年</a>　朱熹代替施元之任枢密院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')\">1168年</a>　施元之赠洪适《岩訢碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年5月</a>　施元之因磨勘改官，别行注受。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年</a>　任秘书省著作左郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年</a>　撰《北蜡》七曲。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年10月</a>　施元之任起居舍人。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年11月</a>　兼国史院编修官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')\">1169年11月</a>　施元之任左司谏官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　施元之罢左司谏官，未几，复任。<br /></div>"
+                },
+                {
+                    "Latitude": 28.941661,
+                    "Longitude": 118.880768,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3308",
+                    "Title": "衢州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"3abf3140eb0244b49bf391fdf738c0b5\");'><span id='3abf3140eb0244b49bf391fdf738c0b5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1172')\">1170-1172年</a>，69-71岁</div><div id='3abf3140eb0244b49bf391fdf738c0b5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年9月</a>　以左宣教郎权发遣衢州军州，主管学事并管内劝农事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　在衢州建超览室，又为亭命名月坡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　在城西边立屋两柱，命名为风亭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')\">1170年</a>　施元之刻《学易集》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　施元之在衢州校刻王浦《五代会要》，范质《五代通》于郡斋。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　施元之作伫舟亭于西溪上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年</a>　龙游张祖顺来谒，尝其刚果，特荐之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')\">1171年7月</a>　江西饥荒，玉山大旱，输衢粮以济之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年9月</a>　施元之在衢州校刻苏颂《新义向法要三卷》<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"74e4665ae6c341a6b22ec1eb39c50cc5\");'><span id='74e4665ae6c341a6b22ec1eb39c50cc5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1173')\">1172-1173年</a>，71-72岁</div><div id='74e4665ae6c341a6b22ec1eb39c50cc5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')\">1172年</a>　施元之受命为浙西提刑官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　施元之任浙西为提刑官。<br /></div>"
+                },
+                {
+                    "Latitude": 25.837179,
+                    "Longitude": 114.94126,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3607",
+                    "Title": "赣州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c4cc5840fcc3408c84428a3daf318d04\");'><span id='c4cc5840fcc3408c84428a3daf318d04_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>，73岁</div><div id='c4cc5840fcc3408c84428a3daf318d04' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年</a>　施元之以浙西提刑除赣州军州事。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "施元之 <span class='inlineComment2'>(1102-1174)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：《宋人年谱丛刊》　录入整理：方蔚</p><p><a href=\"javascript: ViewRoute(0, 6, 117.7654365, 28.5708725, 8, 0)\">1-73岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">长兴</a> → <a href=\"javascript: ViewPoint(1, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(2, 0)\">衢州</a> → <a href=\"javascript: ViewPoint(3, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(4, 0)\">赣州</a> → <a href=\"javascript: ViewPoint(5, 0)\">长兴</a></p>"
+        }
+    ]
+}

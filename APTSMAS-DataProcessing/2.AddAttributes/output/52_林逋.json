@@ -1,0 +1,792 @@
+{
+    "id": 52,
+    "name": "林逋",
+    "dynasty": "宋",
+    "lifeDuration": [
+        968,
+        1028
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 30.27415,
+            "lng": 120.15515
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《林逋研究》",
+        "《林逋早年行踪及生卒考异》",
+        "《宋登科记考》",
+        "《林逋与李建中交游考》",
+        "《丁谓研究》",
+        "《续资治通鉴长编》",
+        "《李建中年谱》",
+        "《林和靖集》",
+        "《钱塘县志》",
+        "《宋两江郡守易替考》",
+        "《中国书法全集·北宋名家卷》",
+        "《宋代路分长官通考》",
+        "《范仲淹评传》",
+        "《梅尧臣早期事迹考》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                35
+            ],
+            "correspondPath": [
+                "杭州",
+                "奉化",
+                "曹县",
+                "洛阳",
+                "曹县"
+            ]
+        },
+        {
+            "agesDuration": [
+                35,
+                36
+            ],
+            "correspondPath": [
+                "济南",
+                "曹县",
+                "开封",
+                "盱眙",
+                "南京",
+                "和县"
+            ]
+        },
+        {
+            "agesDuration": [
+                36,
+                37
+            ],
+            "correspondPath": [
+                "含山",
+                "当涂",
+                "和县",
+                "芜湖",
+                "无为",
+                "舒城",
+                "贵池",
+                "潜山",
+                "寿县",
+                "清江"
+            ]
+        },
+        {
+            "agesDuration": [
+                38,
+                49
+            ],
+            "correspondPath": [
+                "新干",
+                "清江",
+                "安福",
+                "清江",
+                "杭州"
+            ]
+        },
+        {
+            "agesDuration": [
+                50,
+                61
+            ],
+            "correspondPath": [
+                "苏州",
+                "杭州"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "1c816a5544134fb788aabfb1c324ccbb",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b5824129b1be43bbb3c68074450dab05",
+                        "lat": 29.65503,
+                        "lng": 121.40686,
+                        "regionId": "CN330283",
+                        "location": "奉化",
+                        "city": "宁波市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "bb953fbb29064132bb7eb73bddfbb32d",
+                        "lat": 34.82553,
+                        "lng": 115.54214,
+                        "regionId": "CN371721",
+                        "location": "曹县",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8e01b299cfb14e51a4fda5bf7890e2db",
+                        "lat": 34.61812,
+                        "lng": 112.45361,
+                        "regionId": "CN4103",
+                        "location": "洛阳",
+                        "city": "洛阳市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f26aaf4b31324dc5ab93b81ec208e8e8",
+                        "lat": 34.82553,
+                        "lng": 115.54214,
+                        "regionId": "CN371721",
+                        "location": "曹县",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "acdc57e2697f4ca19011898cfa5c877f",
+                        "lat": 36.66529,
+                        "lng": 116.99493,
+                        "regionId": "CN3701",
+                        "location": "济南",
+                        "city": "济南市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b1ea6914c7ad48ddaf2e1243e6160d77",
+                        "lat": 34.82553,
+                        "lng": 115.54214,
+                        "regionId": "CN371721",
+                        "location": "曹县",
+                        "city": "菏泽市",
+                        "province": "山东省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "81dbdf95cdf64049ac74a203c7f8cba2",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "CN4102",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8fdd2b09f8cd4baebc717cc35c990923",
+                        "lat": 33.01089,
+                        "lng": 118.54499,
+                        "regionId": "CN320830",
+                        "location": "盱眙",
+                        "city": "淮安市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "15d36ebf456c476db5e45754e93e1ed2",
+                        "lat": 32.05838,
+                        "lng": 118.79647,
+                        "regionId": "CN3201",
+                        "location": "南京",
+                        "city": "南京市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b935417f991842f187efe97d5a1fbc3b",
+                        "lat": 31.710516,
+                        "lng": 118.28735,
+                        "regionId": "CN340523",
+                        "location": "和县",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "6624e04acbe64b0cab2da0033b3acf73",
+                        "lat": 31.656168,
+                        "lng": 118.045566,
+                        "regionId": "CN340522",
+                        "location": "含山",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "dff9053eb1aa4208bed3008624fd1d1c",
+                        "lat": 31.5699,
+                        "lng": 118.4978,
+                        "regionId": "CN340521",
+                        "location": "当涂",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d8827c99b3834439b245c7a41209a6c5",
+                        "lat": 31.710516,
+                        "lng": 118.28735,
+                        "regionId": "CN340523",
+                        "location": "和县",
+                        "city": "马鞍山市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "5cae02af396443af9ea1113a32dc15ac",
+                        "lat": 31.35246,
+                        "lng": 118.43313,
+                        "regionId": "CN3402",
+                        "location": "芜湖",
+                        "city": "芜湖市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "986938508a8b49188e49932dc25bd7ac",
+                        "lat": 31.250779,
+                        "lng": 117.858368,
+                        "regionId": "CN340225",
+                        "location": "无为",
+                        "city": "芜湖市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f2ecdb242dfd435e8dd91cd1ccf19aa8",
+                        "lat": 31.46209,
+                        "lng": 116.9487,
+                        "regionId": "CN341523",
+                        "location": "舒城",
+                        "city": "六安市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "38e7589b5c754fea80039663fca622cc",
+                        "lat": 30.68673,
+                        "lng": 117.56733,
+                        "regionId": "CN341702",
+                        "location": "贵池",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4dbed48bc566446da8e27d20f81a6a96",
+                        "lat": 30.63107,
+                        "lng": 116.58133,
+                        "regionId": "CN340824",
+                        "location": "潜山",
+                        "city": "安庆市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e95b2aaf7b94465fb9e26dbae7cc14a4",
+                        "lat": 32.57332,
+                        "lng": 116.78708,
+                        "regionId": "CN341521",
+                        "location": "寿县",
+                        "city": "淮南市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4b3543ae0d014787839aab322b939b27",
+                        "lat": 29.187863,
+                        "lng": 114.791405,
+                        "regionId": "CN360423207",
+                        "location": "清江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ac3201800af14690b1d4196fe0ad87fa",
+                        "lat": 27.74016,
+                        "lng": 115.38692,
+                        "regionId": "CN360824",
+                        "location": "新干",
+                        "city": "吉安市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "a21ded3442434a4eb487bb0481ae6240",
+                        "lat": 29.187863,
+                        "lng": 114.791405,
+                        "regionId": "CN360423207",
+                        "location": "清江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "24cca0b618fa4ac8bbfa4bfa2b7aff93",
+                        "lat": 27.3928,
+                        "lng": 114.6196,
+                        "regionId": "CN360829",
+                        "location": "安福",
+                        "city": "吉安市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "2e33504086544247b2f82dfe562747b2",
+                        "lat": 29.187863,
+                        "lng": 114.791405,
+                        "regionId": "CN360423207",
+                        "location": "清江",
+                        "city": "九江市",
+                        "province": "江西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "123d86ce915f45a6b61d1ac00023aaf8",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "cb3095352c7b401a98d274a115004898",
+                        "lat": 31.29834,
+                        "lng": 120.58319,
+                        "regionId": "CN3205",
+                        "location": "苏州",
+                        "city": "苏州市",
+                        "province": "江苏省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f1d202c58c0e4e08b9f28613a7146ba7",
+                        "lat": 30.27415,
+                        "lng": 120.15515,
+                        "regionId": "CN3301",
+                        "location": "杭州",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 30.27415,
+                "lng": 120.15515,
+                "id": null,
+                "regionId": "CN3301",
+                "location": "杭州",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "968-978年 ，1-11岁",
+                    "968年 本年，出生于杭州钱塘县。",
+                    "969-977年 本年，居乡。",
+                    "978年 约于本年，随祖父林克己迁居明州奉化县黄贤村。",
+                    "1008-1016年 ，41-49岁",
+                    "1008年 约于本年，隐居杭州，有诗和周启明。",
+                    "1008年 约于本年，隐居杭州，读种放、丁谓诗，感而作诗。",
+                    "1008年 约于本年，隐居杭州，投启王济。",
+                    "1009-1011年 本年，隐居杭州。",
+                    "1012年 约于本年，隐居杭州，有诗和陈尧佐。",
+                    "1013年 本年，隐居杭州，有诗感怀李建中。",
+                    "1014年9月 九月，隐居杭州，闻侄宥及第，喜而作诗。",
+                    "1015-1016年 本年，隐居杭州。",
+                    "1018-1028年 ，51-61岁",
+                    "1018-1020年 本年，隐居杭州。",
+                    "1021年 本年，隐居杭州，问叶曙钱塘江浮石事。",
+                    "1021年 约于本年，隐居杭州，有诗和王随。",
+                    "1021年 约于本年，隐居杭州，有启谢王随送留题唱和石。",
+                    "1021年 约于本年，隐居杭州，有诗和黄亢。",
+                    "1021年 约于本年，隐居杭州，有诗赠高若虚。",
+                    "1022年 春，隐居杭州，有诗寄马亮。",
+                    "1022年5月 五月，隐居杭州，病中书诗赠李咨。",
+                    "1023年 春，隐居杭州，有诗送释遵式赴金陵。",
+                    "1023年 约于本年，隐居杭州，有诗送王仕文归阙。",
+                    "1024年 本年，隐居杭州。",
+                    "1025年 冬，隐居杭州，有诗寄钱易。",
+                    "1026年 春，隐居杭州，有诗送范仲淹。",
+                    "1027年 春，隐居杭州，有诗和梅尧臣。",
+                    "1027年 本年，隐居杭州，有诗寄梅尧臣。",
+                    "1028年 冬，隐居杭州，自作寿堂，有诗。",
+                    "1028年 冬，卒于杭州。"
+                ]
+            },
+            {
+                "lat": 29.65503,
+                "lng": 121.40686,
+                "id": null,
+                "regionId": "CN330283",
+                "location": "奉化",
+                "city": "宁波市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "979-992年 ，12-25岁",
+                    "979-992年 约于本年，居奉化。"
+                ]
+            },
+            {
+                "lat": 34.82553,
+                "lng": 115.54214,
+                "id": null,
+                "regionId": "CN371721",
+                "location": "曹县",
+                "city": "菏泽市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "993-1001年 ，26-34岁",
+                    "993年 约于本年，始客居曹州。",
+                    "994-999年 约于本年，客居曹州。",
+                    "1000年 约于本年，客居曹州，有诗寄孙冲。",
+                    "1001年 约于本年，客居曹州。",
+                    "1002年 ，35岁",
+                    "1002年 约于本年，客居曹州，有诗寄任独复。",
+                    "1003年 ，36岁",
+                    "1003年 约于本年，离曹州，开始漫游江淮，有诗。"
+                ]
+            },
+            {
+                "lat": 34.61812,
+                "lng": 112.45361,
+                "id": null,
+                "regionId": "CN4103",
+                "location": "洛阳",
+                "city": "洛阳市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1002年 ，35岁",
+                    "1002年 约于本年，至洛阳，与李建中交游。"
+                ]
+            },
+            {
+                "lat": 36.66529,
+                "lng": 116.99493,
+                "id": null,
+                "regionId": "CN3701",
+                "location": "济南",
+                "city": "济南市",
+                "province": "山东省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1002年 ，35岁",
+                    "1002年 约于本年，至耿济口，有诗。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": null,
+                "regionId": "CN4102",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 约于本年，游汴水，有诗。"
+                ]
+            },
+            {
+                "lat": 33.01089,
+                "lng": 118.54499,
+                "id": null,
+                "regionId": "CN320830",
+                "location": "盱眙",
+                "city": "淮安市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁"
+                ]
+            },
+            {
+                "lat": 32.05838,
+                "lng": 118.79647,
+                "id": null,
+                "regionId": "CN3201",
+                "location": "南京",
+                "city": "南京市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁"
+                ]
+            },
+            {
+                "lat": 31.710516,
+                "lng": 118.28735,
+                "id": null,
+                "regionId": "CN340523",
+                "location": "和县",
+                "city": "马鞍山市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 ，36岁"
+                ]
+            },
+            {
+                "lat": 31.656168,
+                "lng": 118.045566,
+                "id": null,
+                "regionId": "CN340522",
+                "location": "含山",
+                "city": "马鞍山市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 约于本年，过含山，有诗寄人。"
+                ]
+            },
+            {
+                "lat": 31.5699,
+                "lng": 118.4978,
+                "id": null,
+                "regionId": "CN340521",
+                "location": "当涂",
+                "city": "马鞍山市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 约于本年，过采石矶，有诗。"
+                ]
+            },
+            {
+                "lat": 31.35246,
+                "lng": 118.43313,
+                "id": null,
+                "regionId": "CN3402",
+                "location": "芜湖",
+                "city": "芜湖市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 约于本年，过芜湖，有诗。"
+                ]
+            },
+            {
+                "lat": 31.250779,
+                "lng": 117.858368,
+                "id": null,
+                "regionId": "CN340225",
+                "location": "无为",
+                "city": "芜湖市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁"
+                ]
+            },
+            {
+                "lat": 31.46209,
+                "lng": 116.9487,
+                "id": null,
+                "regionId": "CN341523",
+                "location": "舒城",
+                "city": "六安市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1003年 ，36岁",
+                    "1003年 约于本年，在舒城，有诗赠李仲宣。"
+                ]
+            },
+            {
+                "lat": 30.68673,
+                "lng": 117.56733,
+                "id": null,
+                "regionId": "CN341702",
+                "location": "贵池",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1004年 ，37岁",
+                    "1004年 约于本年，过池州，有诗。"
+                ]
+            },
+            {
+                "lat": 30.63107,
+                "lng": 116.58133,
+                "id": null,
+                "regionId": "CN340824",
+                "location": "潜山",
+                "city": "安庆市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1004年 ，37岁",
+                    "1004年 约于本年，游舒州山谷寺，有诗。"
+                ]
+            },
+            {
+                "lat": 32.57332,
+                "lng": 116.78708,
+                "id": null,
+                "regionId": "CN341521",
+                "location": "寿县",
+                "city": "淮南市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1004年 ，37岁"
+                ]
+            },
+            {
+                "lat": 29.187863,
+                "lng": 114.791405,
+                "id": null,
+                "regionId": "CN360423207",
+                "location": "清江",
+                "city": "九江市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1004年 ，37岁",
+                    "1006年 ，39岁",
+                    "1006年 约于本年，客居临江军。",
+                    "1007年 ，40岁",
+                    "1007年 约于本年，自临江军归隐杭州西湖孤山。"
+                ]
+            },
+            {
+                "lat": 27.74016,
+                "lng": 115.38692,
+                "id": null,
+                "regionId": "CN360824",
+                "location": "新干",
+                "city": "吉安市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1005年 ，38岁",
+                    "1005年 约于本年，客居临江军，游阁皂山。"
+                ]
+            },
+            {
+                "lat": 27.3928,
+                "lng": 114.6196,
+                "id": null,
+                "regionId": "CN360829",
+                "location": "安福",
+                "city": "吉安市",
+                "province": "江西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1007年 ，40岁",
+                    "1007年 约于本年，游安福，有诗。"
+                ]
+            },
+            {
+                "lat": 31.29834,
+                "lng": 120.58319,
+                "id": null,
+                "regionId": "CN3205",
+                "location": "苏州",
+                "city": "苏州市",
+                "province": "江苏省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1017年 ，50岁",
+                    "1017年 约于本年，至苏州，有诗。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

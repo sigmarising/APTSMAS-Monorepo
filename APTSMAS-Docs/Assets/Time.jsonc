@@ -1,0 +1,49 @@
+{
+  "years": {
+    // all years
+    "618": {
+      "poets": [
+        // one more objects will be included
+        {
+          "label": "李白",
+          "number": 125
+        }
+      ],
+      "locations": [
+        // one more objects will be included
+        {
+          "label": "西安",
+          "number": 12
+        }
+      ],
+      "provinces": [
+        // one more objects will be included
+        {
+          "label": "陕西",
+          "number": 35
+        }
+      ],
+      "decade": [
+        // one more objects will be included
+        {
+          "label": "618-628",
+          "number": 76
+        }
+      ],
+      "century": [
+        // one more objects will be included
+        {
+          "label": "618-718",
+          "number": 76
+        }
+      ],
+      "frequentRoute": [
+        // one more objects will be included
+        {
+          "label": "西安-咸阳",
+          "number": 1
+        }
+      ]
+    }
+  }
+}

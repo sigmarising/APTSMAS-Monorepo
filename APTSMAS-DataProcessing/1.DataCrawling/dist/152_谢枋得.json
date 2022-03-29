@@ -1,0 +1,400 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.383508,
+            "CenterLongitude": 117.45472,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "90fe9071c4e949ba842d4ef52e4dcca3",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "1a0dcd763c4d4642913258085f98b24a",
+                            "Latitude": 27.119751,
+                            "Longitude": 115.00027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3608",
+                            "Title": "吉安"
+                        },
+                        {
+                            "Id": "b7ca7a4da20242d3abda93209a80d888",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "519fd802ea4849e88bd4030151cdc46d",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "671da1537bc24ff4b34bda0f7125c273",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "6a38339895184798942c86bfbe6183e0",
+                            "Latitude": 29.836628,
+                            "Longitude": 115.221728,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420222",
+                            "Title": "阳新"
+                        },
+                        {
+                            "Id": "0b1c0e0a821c49788ca5af042998a2df",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "994eceb0ef7541a7b4a618f9f99cc0d3",
+                            "Latitude": 28.321649,
+                            "Longitude": 117.715843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361124",
+                            "Title": "铅山"
+                        },
+                        {
+                            "Id": "ba24cddd6ef249f0bf476d7580567987",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "1388bb781546484a90fe76bf31ac1893",
+                            "Latitude": 27.337561,
+                            "Longitude": 118.126953,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350703",
+                            "Title": "建阳"
+                        },
+                        {
+                            "Id": "6c35eb69d81a49bc9b7a3cf05f7fad1b",
+                            "Latitude": 29.25405,
+                            "Longitude": 117.868365,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361130",
+                            "Title": "婺源"
+                        },
+                        {
+                            "Id": "17b7451867a148ef99bf5b312ed433cf",
+                            "Latitude": 27.337561,
+                            "Longitude": 118.126953,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350703",
+                            "Title": "建阳"
+                        },
+                        {
+                            "Id": "698f664c74404a77b5485bde2592b63d",
+                            "Latitude": 27.756765,
+                            "Longitude": 118.037551,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350782001",
+                            "Title": "崇安街道"
+                        },
+                        {
+                            "Id": "ec50446aa10145db9524c04d3c33f832",
+                            "Latitude": 28.383508,
+                            "Longitude": 117.45472,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361126",
+                            "Title": "弋阳"
+                        },
+                        {
+                            "Id": "cea474158cf940afa9ea0b4e2b3d88b2",
+                            "Latitude": 27.337561,
+                            "Longitude": 118.126953,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350703",
+                            "Title": "建阳"
+                        },
+                        {
+                            "Id": "120d2a6f80c94940b7836a4c54fa48fa",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "694590d563564d04b900e8ed165b101a",
+                            "Latitude": 30.15962,
+                            "Longitude": 116.135723,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340826",
+                            "Title": "宿松"
+                        },
+                        {
+                            "Id": "1e90113699074efaa11c69f361581da8",
+                            "Latitude": 31.358798,
+                            "Longitude": 118.439561,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3402",
+                            "Title": "芜湖"
+                        },
+                        {
+                            "Id": "843fada641b841d68ded8070c2b41a3f",
+                            "Latitude": 31.575549,
+                            "Longitude": 118.504404,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN340521",
+                            "Title": "当涂"
+                        },
+                        {
+                            "Id": "a063162cb5c94b57a8dd59147296c99e",
+                            "Latitude": 33.616272,
+                            "Longitude": 119.022429,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3208",
+                            "Title": "淮安"
+                        },
+                        {
+                            "Id": "62b4f0bf090b4c418c9c1f1f0cf4bcda",
+                            "Latitude": 35.94278,
+                            "Longitude": 116.476836,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN370923",
+                            "Title": "东平"
+                        },
+                        {
+                            "Id": "14c8672d351a4f0c93712fe8ba027efd",
+                            "Latitude": 39.911013,
+                            "Longitude": 116.413554,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN11",
+                            "Title": "北京"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.383508,
+                    "Longitude": 117.45472,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361126",
+                    "Title": "弋阳 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"90fe9071c4e949ba842d4ef52e4dcca3\");'><span id='90fe9071c4e949ba842d4ef52e4dcca3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1250')\">1226-1250年</a>，1-25岁</div><div id='90fe9071c4e949ba842d4ef52e4dcca3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')\">1226年2月24日</a>　本年生。居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1228')\">1227-1228年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')\">1230年</a>　居乡，闻辛弃疾事慕之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1237')\">1233-1237年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')\">1238年</a>　居乡，枋得领乡荐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1240')\">1239-1240年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')\">1241年</a>　居乡,先人（父谢应琇）教稼轩书，知其人，慕辛稼轩之节概。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1250')\">1242-1250年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b7ca7a4da20242d3abda93209a80d888\");'><span id='b7ca7a4da20242d3abda93209a80d888_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1252&endYear=1255')\">1252-1255年</a>，27-30岁</div><div id='b7ca7a4da20242d3abda93209a80d888' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1252&endYear=1254')\">1252-1254年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1255')\">1255年</a>　举于乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"671da1537bc24ff4b34bda0f7125c273\");'><span id='671da1537bc24ff4b34bda0f7125c273_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1263')\">1259-1263年</a>，34-38岁</div><div id='671da1537bc24ff4b34bda0f7125c273' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1259')\">1259年10月</a>　元兵渡淮，受枢密使赵葵复用，率民兵起义，后擢为兵部架阁。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')\">1260年5月</a>　贾似道实行“打算法”审核在外诸军的财政收支，枋得毁家出万楮钱替赵葵支付民兵费用。<span class='label'>作品：</span>代干丞相免追算功赏钱粮启。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1261&endYear=1261')\">1261年</a>　星变，有预言文运将晦。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')\">1262年</a>　从本年起，与座师留梦炎断绝交往二十七年。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')\">1262年</a>　初交厉元吉。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1263&endYear=1263')\">1263年</a>　（这几年活动地点是江西，但活动内容是否在江西，不明确。宜明确交代是在家乡举兵抗元。如果是在临安，则活动地点需改动）<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0b1c0e0a821c49788ca5af042998a2df\");'><span id='0b1c0e0a821c49788ca5af042998a2df_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1271')\">1267-1271年</a>，42-46岁</div><div id='0b1c0e0a821c49788ca5af042998a2df' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')\">1267年</a>　遇大赦，归乡，贾似道赏其才，使余安裕以史馆招之，不赴，闭门讲道。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1268')\">1268年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1269')\">1269年</a>　始学辟縠养气之术。<span class='label'>作品：</span>唐司空威显庙碑。<span class='inlineComment2'>（系年作品一栏据俞兆鹏《谢叠山大传·谢枋得年谱简编》350页。）</span>蚕妇吟。<span class='inlineComment2'>（系年作品一栏据俞兆鹏《谢叠山大传·谢枋得年谱简编》350页。）</span><div id='poem_225674' class='_poem'><div id='poem_title_225674' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225674' class='poemCommentLink' target='_blank'>蚕妇吟<span class='inlineComment2'>（己巳时年四十四岁作。）</span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225674\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225674_comment'></div><div class='poemContent' id='poem_content_225674'><div class='poemSentence' id='poem_sentence_0_225674'>子规啼彻四更时，起视蚕稠怕叶稀。</div><div id='poem_sentence_0_225674_comment'></div><div class='poemSentence' id='poem_sentence_1_225674'>不信楼头杨柳月，玉人歌舞未曾归。</div><div id='poem_sentence_1_225674_comment'></div><div class='poemSentence' id='poem_sentence_2_225674'></div><div id='poem_sentence_2_225674_comment'></div></div><div class='poemComment' id='poem_comment_225674'><a href='javascript: ShowPoemComment(225674)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1270&endYear=1270')\">1270年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年</a>　枋得与毋制机仲子相知，代作墓铭。<span class='label'>作品：</span>平山先生毋制机墓铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年</a>　居乡。<span class='label'>作品：</span>与刘（季）[秀]岩论诗书。与杨石溪书。<span class='inlineComment2'>（据(近)崔骥《谢枋得年谱》：是文可与论诗（《与刘（季）[秀]岩论诗书》）相发明，因附录于此。）</span><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ba24cddd6ef249f0bf476d7580567987\");'><span id='ba24cddd6ef249f0bf476d7580567987_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1275')\">1271-1275年</a>，46-50岁</div><div id='ba24cddd6ef249f0bf476d7580567987' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年冬</a>　送友人厉元吉出任乌程尉，作诗。<span class='label'>作品：</span>送半村厉元吉出尉乌程。<div id='poem_225731' class='_poem'><div id='poem_title_225731' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225731' class='poemCommentLink' target='_blank'>送半村厉元吉<sup class='reference inlineComment2'>①</sup>出尉乌程<sup class='reference inlineComment2'>②</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225731\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_225731_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225731_0'>① 厉元吉，字无咎，号半村，馀姚人，咸淳辛未进士。仕为乌桯尉，后归隐丛山。以后遁迹湖海，白首始归。有《半村集》。《宋诗纪事》黄宗羲云：「叠山诗文，零落无几，余从厉氏子孙见其墨迹如新。」</div></div><div class='inline1'><div id='poem_title_225731_1'>② 此诗四库本、康熙本俱缺，今据道光本补。辛未时年四十六岁作。</div></div></div><div class='poemContent' id='poem_content_225731'><div class='poemSentence' id='poem_sentence_0_225731'>十二街头三尺雪，骏马健行如跛鳖。</div><div id='poem_sentence_0_225731_comment'></div><div class='poemSentence' id='poem_sentence_1_225731'>生怀故人厉半村，拂袖前行何勇决。</div><div id='poem_sentence_1_225731_comment'></div><div class='poemSentence' id='poem_sentence_2_225731'>叠山居士强欲吟，冻笔如椎砚欲裂。</div><div id='poem_sentence_2_225731_comment'></div><div class='poemSentence' id='poem_sentence_3_225731'>京国青衫十载交，欲言不言情哽咽。</div><div id='poem_sentence_3_225731_comment'></div><div class='poemSentence' id='poem_sentence_4_225731'>愿君勿作绕指柔<sup class='reference inlineComment2'>⑴</sup>，愿君勿作在矿铁。</div><div id='poem_sentence_4_225731_comment'></div><div class='poemSentence' id='poem_sentence_5_225731'>甘雨幽遐冤草苏，清风宇宙贪泉竭。</div><div id='poem_sentence_5_225731_comment'></div><div class='poemSentence' id='poem_sentence_6_225731'>循良讵困圣明时，玉烛光华待调燮。</div><div id='poem_sentence_6_225731_comment'></div><div class='poemSentence' id='poem_sentence_7_225731'></div><div id='poem_sentence_7_225731_comment'></div></div><div class='poemNote' id='poem_note_225731'><div class='inline1'><div id='poem_sentence_4_225731_0'>⑴ 绕指柔：原意自喻英雄失志，仰俯由人。后亦借以形容柔软。《文选》刘琨《重赠庐谌》诗有：「何意百炼钢，化为绕指柔」句。</div></div></div><div id='poem_note_225731_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1272&endYear=1274')\">1272-1274年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')\">1275年2月</a>　连诏枋得为史馆校勘、秘书省著作郎，皆辞。二月，元兵下饶州，枋得募兵勤王。<span class='label'>作品：</span>诗。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')\">1275年</a>　奏请于朝，加封辛弃疾少师，谥“忠敏”<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')\">1275年</a>　选拔友人陈羍入抗元军幕。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')\">1275年</a>　起兵复安仁，命陈学心守之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')\">1275年</a>　张孝忠召集抗元义军投奔谢枋得麾下。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ec50446aa10145db9524c04d3c33f832\");'><span id='ec50446aa10145db9524c04d3c33f832_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1287')\">1286-1287年</a>，61-62岁</div><div id='ec50446aa10145db9524c04d3c33f832' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年2月26日</a>　母桂氏逝世。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年10月1日</a>　丁母忧，元集贤学士程文海荐以枋得为首二十二人于朝，枋得不赴。<span class='label'>作品：</span>上程雪楼御史书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年11月</a>　对黄六有隐居表示赞许。<span class='label'>作品：</span>送黄六有归三山序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　丙戌年第十五会，供食科仪，随人喜舍。<span class='label'>作品：</span>洪山庙照华严第十五会疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')\">1287年</a>　元行省丞相忙兀台召枋得，依然不赴。<br /></div>"
+                },
+                {
+                    "Latitude": 27.119751,
+                    "Longitude": 115.00027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3608",
+                    "Title": "吉安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1a0dcd763c4d4642913258085f98b24a\");'><span id='1a0dcd763c4d4642913258085f98b24a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1251')\">1251年</a>，26岁</div><div id='1a0dcd763c4d4642913258085f98b24a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1251')\">1251年</a>　游学，泰和鹭州书院成，作跋。<span class='label'>作品：</span>鹭州书院记跋。<span class='inlineComment2'>（白鹭洲书院？）</span><br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"519fd802ea4849e88bd4030151cdc46d\");'><span id='519fd802ea4849e88bd4030151cdc46d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1258')\">1256-1258年</a>，31-33岁</div><div id='519fd802ea4849e88bd4030151cdc46d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')\">1256年</a>　登文天祥榜进士，因极攻宰相董槐等，被抑为第二甲第一名，授抚州司户参军，不赴。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')\">1257年</a>　试教官，中兼经科，调建宁府教授，未上。<span class='label'>作品：</span>回主簿交代劄。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1258')\">1258年</a>　在临安。<br /></div>"
+                },
+                {
+                    "Latitude": 29.836628,
+                    "Longitude": 115.221728,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420222",
+                    "Title": "阳新",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6a38339895184798942c86bfbe6183e0\");'><span id='6a38339895184798942c86bfbe6183e0_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1264&endYear=1266')\">1264-1266年</a>，39-41岁</div><div id='6a38339895184798942c86bfbe6183e0' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1264&endYear=1264')\">1264年9月</a>　彗星现，枋得发策十问，指斥贾似道专权误国，赵宋必亡，被诬以叛国谪居兴国军叠山，因此以叠山为号。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1265')\">1265年</a>　在兴国军，游九宫山，作诗。<span class='label'>作品：</span>九宫仙。<span class='inlineComment2'>（活动内容及创造缘起一栏据俞兆鹏《谢叠山大传·谢枋得年谱简编》349页。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1266&endYear=1266')\">1266年</a>　在兴国军。<br /></div>"
+                },
+                {
+                    "Latitude": 28.321649,
+                    "Longitude": 117.715843,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361124",
+                    "Title": "铅山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"994eceb0ef7541a7b4a618f9f99cc0d3\");'><span id='994eceb0ef7541a7b4a618f9f99cc0d3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年</a>，46岁</div><div id='994eceb0ef7541a7b4a618f9f99cc0d3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年10月23日</a>　与同志者会于铅山金相寺，夜宿辛弃疾祠堂前，作记。<span class='label'>作品：</span>辛稼轩先生祠记。<span class='inlineComment2'>（作品名《全宋文》作《谒辛弃疾祠堂记》；《谢叠山大传》作《辛稼轩先生祠堂记》）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')\">1271年10月24日</a>　祭辛弃疾墓，作记。<span class='label'>作品：</span>辛稼轩先生墓记。<span class='inlineComment2'>（作品名《全宋文》作《宋辛稼轩先生墓记》；《谢叠山大传》作《祭辛稼轩先生墓记》。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 27.337561,
+                    "Longitude": 118.126953,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350703",
+                    "Title": "建阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1388bb781546484a90fe76bf31ac1893\");'><span id='1388bb781546484a90fe76bf31ac1893_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1283')\">1276-1283年</a>，51-58岁</div><div id='1388bb781546484a90fe76bf31ac1893' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')\">1276年</a>　宋亡，枋得接连在安仁、信州兵败，变更姓名一路逃到建阳，以教书为生，后定居福建。<span class='label'>作品：</span>书林笔峰。仙亭暖翠。龙湖春水。南山修竹。岱嶂寒泉。龟岭暮霞。云衢夜月。仰寺疏钟。宝应朝阳。华峰霁雪。题龟峰。<div id='poem_225745' class='_poem'><div id='poem_title_225745' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225745' class='poemCommentLink' target='_blank'>题龟峰<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225745\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_225745_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225745_0'>① 康熙本作「题圭峰」。枋得流亡建阳时作。龟峰寺在玉亭乡，唐乾宁间僧茂蟾开山，宋释慧光化后塔于本山。乾隆《弋阳县志》：「信之戈阳，南去二十有五里，有山如龟。」戈阳县南二十里玉亭乡有三十二峰，中峰之顶，有三巨石，皆如龟形，号三叠龟，总名龟峰。</div></div></div><div class='poemContent' id='poem_content_225745'><div class='poemSentence' id='poem_sentence_0_225745'>三十二峰<sup class='reference inlineComment2'>⑴</sup>峰最高，脚踏高处真人豪。</div><div id='poem_sentence_0_225745_comment'></div><div class='poemSentence' id='poem_sentence_1_225745'>远观灵山一培嵝<sup class='reference inlineComment2'>⑵</sup>，俯视彭蠡无波涛。</div><div id='poem_sentence_1_225745_comment'></div><div class='poemSentence' id='poem_sentence_2_225745'>眼明始见沧海阔，心閒却怜人世劳。</div><div id='poem_sentence_2_225745_comment'></div><div class='poemSentence' id='poem_sentence_3_225745'>后百千年谁独立，万古一览皆秋毫。</div><div id='poem_sentence_3_225745_comment'></div><div class='poemSentence' id='poem_sentence_4_225745'></div><div id='poem_sentence_4_225745_comment'></div></div><div class='poemNote' id='poem_note_225745'><div class='inline1'><div id='poem_sentence_0_225745_0'>⑴ 三十二峰　康熙本作「三十六峰」。</div></div><div class='inline1'><div id='poem_sentence_1_225745_0'>⑵ 培嵝　咸丰、光绪本均作「培塿」。</div></div></div><div id='poem_note_225745_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')\">1276年</a>　程楚翁离闽潜回家乡，作诗。<span class='label'>作品：</span>送程楚翁远游。<div id='poem_225671' class='_poem'><div id='poem_title_225671' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225671' class='poemCommentLink' target='_blank'>送程楚翁远游<span class='inlineComment2'>（丙子时年五十一岁作。）</span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225671\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225671_comment'></div><div class='poemContent' id='poem_content_225671'><div class='poemSentence' id='poem_sentence_0_225671'>近日人传庾岭梅，南枝落尽北枝开。</div><div id='poem_sentence_0_225671_comment'></div><div class='poemSentence' id='poem_sentence_1_225671'>长安旧日元无此，尽是江南人送来。</div><div id='poem_sentence_1_225671_comment'></div><div class='poemSentence' id='poem_sentence_2_225671'></div><div id='poem_sentence_2_225671_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年10月</a>　为逃元兵，一妇人因罪躲避深山，后悔过，还愿，枋得代巫祝作文。<span class='label'>作品：</span>代昭懿庙巫祝为妇人还愿放罪文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年冬</a>　妻李氏在贵溪被俘。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　妻李氏、一女、弟君烈、君泽、三侄、二婢皆死于狱中。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　元旦因雨，无法与朋友相见，作诗。<span class='label'>作品：</span>元旦阻雨二首。<div id='poem_225654' class='_poem'><div id='poem_title_225654' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225654' class='poemCommentLink' target='_blank'>元旦阻雨二首<span class='inlineComment2'>（戊寅时年五十三岁作。）</span><span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225654\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225654_comment'></div><div class='poemContent' id='poem_content_225654'><div class='poemSentence' id='poem_sentence_0_225654'>洪钧一转岁开端，草木群生亦喜欢。</div><div id='poem_sentence_0_225654_comment'></div><div class='poemSentence' id='poem_sentence_1_225654'>安得明年此时节，江南<sup class='reference inlineComment2'>⑴</sup>重睹旧衣冠。</div><div id='poem_sentence_1_225654_comment'></div><div class='poemSentence' id='poem_sentence_2_225654'></div><div id='poem_sentence_2_225654_comment'></div></div><div class='poemNote' id='poem_note_225654'><div class='inline1'><div id='poem_sentence_1_225654_0'>⑴ 丛刊本「江南」作「江东」。</div></div></div><div id='poem_note_225654_comment'></div></div><div id='poem_225653' class='_poem'><div id='poem_title_225653' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225653' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225653_comment'></div><div class='poemContent' id='poem_content_225653'><div class='poemSentence' id='poem_sentence_0_225653'>莫道新年贺客迟，晴天暖日却相期。</div><div id='poem_sentence_0_225653_comment'></div><div class='poemSentence' id='poem_sentence_1_225653'>春风只被多情苦，红嫩青新总要诗。</div><div id='poem_sentence_1_225653_comment'></div><div class='poemSentence' id='poem_sentence_2_225653'></div><div id='poem_sentence_2_225653_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　闻杜鹃啼，盼归期，作诗。<span class='label'>作品：</span>春日闻杜宇。<div id='poem_225668' class='_poem'><div id='poem_title_225668' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225668' class='poemCommentLink' target='_blank'>春日闻杜鹃<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225668\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225668_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225668_0'>① 《春日闻杜鹃》　丛刊本「鹃」作「宇」。戊寅时年五十三岁作。</div></div></div><div class='poemContent' id='poem_content_225668'><div class='poemSentence' id='poem_sentence_0_225668'>杜鹃日日劝人归，一片归心谁得知。</div><div id='poem_sentence_0_225668_comment'></div><div class='poemSentence' id='poem_sentence_1_225668'>望帝有神如可问，谓余何日是归期。</div><div id='poem_sentence_1_225668_comment'></div><div class='poemSentence' id='poem_sentence_2_225668'></div><div id='poem_sentence_2_225668_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　对医生何古梅的赞赏。<span class='label'>作品：</span>赠何谷梅学医。<div id='poem_225746' class='_poem'><div id='poem_title_225746' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225746' class='poemCommentLink' target='_blank'>赠何古梅学医<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225746\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_225746_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225746_0'>① 戊寅时年五十三岁作。据此诗中有「东西干戈二十秋」句。</div></div></div><div class='poemContent' id='poem_content_225746'><div class='poemSentence' id='poem_sentence_0_225746'>永州<sup class='reference inlineComment2'>⑴</sup>何仙药最灵，神丸能溃邕州<sup class='reference inlineComment2'>⑵</sup>城。</div><div id='poem_sentence_0_225746_comment'></div><div class='poemSentence' id='poem_sentence_1_225746'>广西两道载<sup class='reference inlineComment2'>⑶</sup>清平，百万赤子荷更生。</div><div id='poem_sentence_1_225746_comment'></div><div class='poemSentence' id='poem_sentence_2_225746'>笙鹤一去二百年<sup class='reference inlineComment2'>⑷</sup>，东南忽变为腥膻。</div><div id='poem_sentence_2_225746_comment'></div><div class='poemSentence' id='poem_sentence_3_225746'>为血为肉生灵苦，在者疮痍何日痊。</div><div id='poem_sentence_3_225746_comment'></div><div class='poemSentence' id='poem_sentence_4_225746'>上界真人有同性，不学神仙学孔孟。</div><div id='poem_sentence_4_225746_comment'></div><div class='poemSentence' id='poem_sentence_5_225746'>有术医国无人知，要为吾民救微命。</div><div id='poem_sentence_5_225746_comment'></div><div class='poemSentence' id='poem_sentence_6_225746'>察脉肥瘦韩子<sup class='reference inlineComment2'>⑸</sup>精，论疾阴阳子产<sup class='reference inlineComment2'>⑹</sup>明。</div><div id='poem_sentence_6_225746_comment'></div><div class='poemSentence' id='poem_sentence_7_225746'>神功端不让思邈，古道依然如宋清。</div><div id='poem_sentence_7_225746_comment'></div><div class='poemSentence' id='poem_sentence_8_225746'>得钱卖药少取利，无钱乞药喜舍施。</div><div id='poem_sentence_8_225746_comment'></div><div class='poemSentence' id='poem_sentence_9_225746'>好客来时入酒垆，无朋终日阅书市。</div><div id='poem_sentence_9_225746_comment'></div><div class='poemSentence' id='poem_sentence_10_225746'>忆昔民生三皇前，下寿无疾享百年。</div><div id='poem_sentence_10_225746_comment'></div><div class='poemSentence' id='poem_sentence_11_225746'>神人妙用不可见，《本草》、《灵》、《素》犹有传。</div><div id='poem_sentence_11_225746_comment'></div><div class='poemSentence' id='poem_sentence_12_225746'>古云医不通三书，世上断不服其药。</div><div id='poem_sentence_12_225746_comment'></div><div class='poemSentence' id='poem_sentence_13_225746'>如君胸中有炎、黄，冷笑三书尽糟粕。</div><div id='poem_sentence_13_225746_comment'></div><div class='poemSentence' id='poem_sentence_14_225746'>我闻上帝最好生，活人功多朝玉京。</div><div id='poem_sentence_14_225746_comment'></div><div class='poemSentence' id='poem_sentence_15_225746'>请看耆叟至陶葛，神仙多是良医成。</div><div id='poem_sentence_15_225746_comment'></div><div class='poemSentence' id='poem_sentence_16_225746'>东西干戈二十秋，人无贫富眉长愁。</div><div id='poem_sentence_16_225746_comment'></div><div class='poemSentence' id='poem_sentence_17_225746'>千人幸有一人在，到处呻吟无歌讴。</div><div id='poem_sentence_17_225746_comment'></div><div class='poemSentence' id='poem_sentence_18_225746'>遗黎若要家平康，但愿良医自天降。</div><div id='poem_sentence_18_225746_comment'></div><div class='poemSentence' id='poem_sentence_19_225746'>不龟手药有灵时，好看良医作良相。</div><div id='poem_sentence_19_225746_comment'></div><div class='poemSentence' id='poem_sentence_20_225746'></div><div id='poem_sentence_20_225746_comment'></div></div><div class='poemNote' id='poem_note_225746'><div class='inline1'><div id='poem_sentence_0_225746_0'>⑴ 永州：州、路、府名。隋开皇九年〖五八九〗置州，治所在零陵〖今零陵县〗，唐辖境相当今湖南零陵、东安、祁阳和广西全州、灌县。</div></div><div class='inline1'><div id='poem_sentence_0_225746_0'>⑵ 邕州：州、路名。唐贞观六年〖六三二〗改南晋州置，因邕溪水而得名，治所在宣传〖今南宁市南〗，辖境相当于今广西南宁市及邕宁、武鸣、隆安、大新、崇左、上思、扶绥等县地。</div></div><div class='inline1'><div id='poem_sentence_1_225746_0'>⑶ 「载」，嘉靖本、丛刊本均作「再」。</div></div><div class='inline1'><div id='poem_sentence_2_225746_0'>⑷ 笙鹤一去二百年　丛刊本「二」作「三」。四库本「笙鹤」作「笛鹤」。</div></div><div class='inline1'><div id='poem_sentence_6_225746_0'>⑸ 韩子：即韩非子〖前二八０——前二三三〗，战国时韩人，与李斯共同师事荀况。曾建议韩王变法，不用。后使秦，李斯忌其才，入狱自杀。今传韩非子二十卷，是先秦法家思想集大成者，后为秦始皇所采用，对于巩固当时封建生产关系，建立统一国家，起了巨大作用。其文博辨明析而自成一家，为集战国时法家学说大成的代表作。</div></div><div class='inline1'><div id='poem_sentence_6_225746_0'>⑹ 子产：即公孙侨、公孙成子，春秋时政治家，郑国人。郑简公二十三年〖五四三〗执政，实行改革，给郑国带来了新气象。他还提出：「天道远，人道迩，非所及也」的命题，反对当时的某些迷信举动。</div></div></div><div id='poem_note_225746_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　蔡沈之后人，宋亡后为元民户，有蔡希暨、希塾、希仁，遭酷吏破家，并连累到堂兄弟，被罚在驿站养马，枋得不忍，作书尚书省府，得赐出站。<span class='label'>作品：</span>为蔡文节公子孙免差科书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年11月15日</a>　在庐峰书院遇蔡元定之五世孙，为其宗谱作序。<span class='label'>作品：</span>蔡氏宗谱序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')\">1279年2月6日</a>　宋亡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')\">1279年</a>　盛赞李荣庭有志于道。<span class='label'>作品：</span>东山书院记。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1280')\">1280年</a>　在闽。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1281&endYear=1281')\">1281年3月</a>　隐居武夷山区，以桃花源为喻，表达自己隐居的愿望。<span class='label'>作品：</span>庆全庵桃花。<span class='inlineComment2'>（活动内容及创造缘起、系年作品两栏据俞兆鹏《谢叠山大传·谢枋得年谱简编》356页。）</span><div id='poem_225658' class='_poem'><div id='poem_title_225658' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225658' class='poemCommentLink' target='_blank'>庆全庵桃花<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225658\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225658_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225658_0'>① 四库本无此篇，丛刊本仅作《桃》字。辛巳三月时年五十六岁作。</div></div></div><div class='poemContent' id='poem_content_225658'><div class='poemSentence' id='poem_sentence_0_225658'>寻得桃源好避秦，桃红又见一年春。</div><div id='poem_sentence_0_225658_comment'></div><div class='poemSentence' id='poem_sentence_1_225658'>花飞莫遣随流水，怕有渔郎来问津。</div><div id='poem_sentence_1_225658_comment'></div><div class='poemSentence' id='poem_sentence_2_225658'></div><div id='poem_sentence_2_225658_comment'></div></div><div class='poemComment' id='poem_comment_225658'><a href='javascript: ShowPoemComment(225658)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1282&endYear=1282')\">1282年9月</a>　作诗五首寄老母。<span class='label'>作品：</span>思亲诗五首。<div id='poem_225667' class='_poem'><div id='poem_title_225667' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225667' class='poemCommentLink' target='_blank'>思亲<sup class='reference inlineComment2'>①</sup><span style='margin: 0 0.5em'> 其一 </span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225667\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225667_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225667_0'>① 壬午时年五十七岁作。丛刊本《思亲》五首下有「壬午九月寄书老母」小字一行。</div></div></div><div class='poemContent' id='poem_content_225667'><div class='poemSentence' id='poem_sentence_0_225667'>九十萱亲天下稀，十年甘旨误庭闱。</div><div id='poem_sentence_0_225667_comment'></div><div class='poemSentence' id='poem_sentence_1_225667'>临行有恳慈心喜，再睹衣冠儿便归。</div><div id='poem_sentence_1_225667_comment'></div><div class='poemSentence' id='poem_sentence_2_225667'></div><div id='poem_sentence_2_225667_comment'></div></div></div><div id='poem_225666' class='_poem'><div id='poem_title_225666' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225666' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225666_comment'></div><div class='poemContent' id='poem_content_225666'><div class='poemSentence' id='poem_sentence_0_225666'>九十萱亲天下稀，吾王何在子何之？</div><div id='poem_sentence_0_225666_comment'></div><div class='poemSentence' id='poem_sentence_1_225666'>倚闾日暮<sup class='reference inlineComment2'>⑴</sup>无他念，一片好心天得知。</div><div id='poem_sentence_1_225666_comment'></div><div class='poemSentence' id='poem_sentence_2_225666'></div><div id='poem_sentence_2_225666_comment'></div></div><div class='poemNote' id='poem_note_225666'><div class='inline1'><div id='poem_sentence_1_225666_0'>⑴ 倚闾日暮　丛刊本作「倚闾旦暮」。</div></div></div><div id='poem_note_225666_comment'></div></div><div id='poem_225665' class='_poem'><div id='poem_title_225665' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225665' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其三 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225665_comment'></div><div class='poemContent' id='poem_content_225665'><div class='poemSentence' id='poem_sentence_0_225665'>九十萱亲天下稀，人无容力荷天慈。</div><div id='poem_sentence_0_225665_comment'></div><div class='poemSentence' id='poem_sentence_1_225665'>衣冠礼乐江东聚，此是痴儿奉母时。</div><div id='poem_sentence_1_225665_comment'></div><div class='poemSentence' id='poem_sentence_2_225665'></div><div id='poem_sentence_2_225665_comment'></div></div></div><div id='poem_225664' class='_poem'><div id='poem_title_225664' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225664' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其四 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225664_comment'></div><div class='poemContent' id='poem_content_225664'><div class='poemSentence' id='poem_sentence_0_225664'>九十萱亲天下稀，平生教子欲何为。</div><div id='poem_sentence_0_225664_comment'></div><div class='poemSentence' id='poem_sentence_1_225664'>楚王肯立韩公子，良也归韩亦有辞。</div><div id='poem_sentence_1_225664_comment'></div><div class='poemSentence' id='poem_sentence_2_225664'></div><div id='poem_sentence_2_225664_comment'></div></div></div><div id='poem_225663' class='_poem'><div id='poem_title_225663' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225663' class='poemCommentLink' target='_blank'><span style='margin: 0 0.5em'> 其五 </span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225663_comment'></div><div class='poemContent' id='poem_content_225663'><div class='poemSentence' id='poem_sentence_0_225663'>九十萱亲天下稀，教儿只诵白华诗<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_0_225663_comment'></div><div class='poemSentence' id='poem_sentence_1_225663'>溪冰山玉人无愧，百拜慈帏喜可知。</div><div id='poem_sentence_1_225663_comment'></div><div class='poemSentence' id='poem_sentence_2_225663'></div><div id='poem_sentence_2_225663_comment'></div></div><div class='poemNote' id='poem_note_225663'><div class='inline1'><div id='poem_sentence_0_225663_0'>⑴ 白华诗：逸笙诗名。〖按〗其诗早佚，《小雅·诗序》：「白华，孝子之洁白也，……有其义而亡其辞。」</div></div></div><div id='poem_note_225663_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>　与朱熹曾孙朱沂志趣相投，遂为莫逆之交。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年清明</a>　赞冰崖诗，为罗涧谷刊行《萧冰崖诗卷》作跋于龙虎山。<span class='label'>作品：</span>萧冰崖诗卷跋。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>　谈菊花以明志。<span class='label'>作品：</span>与菊圃陈尚书书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年秋</a>　感慨一生仕途坎坷，表归隐愿望。<span class='label'>作品：</span>仙隐观。<div id='poem_472906' class='_poem'><div id='poem_title_472906' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=472906' class='poemCommentLink' target='_blank'>仙隐观<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_472906\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_472906_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_472906_0'>① 仙隐观在龙虎山，癸未时年五十八岁作。</div></div></div><div class='poemContent' id='poem_content_472906'><div class='poemSentence' id='poem_sentence_0_472906'>秋日閒十日，面怀秋山空。</div><div id='poem_sentence_0_472906_comment'></div><div class='poemSentence' id='poem_sentence_1_472906'>烟霞固常态，败叶铺山红。</div><div id='poem_sentence_1_472906_comment'></div><div class='poemSentence' id='poem_sentence_2_472906'>平生五大夫<sup class='reference inlineComment2'>⑴</sup>，投老一秃翁。</div><div id='poem_sentence_2_472906_comment'></div><div class='poemSentence' id='poem_sentence_3_472906'>相看各萧索，事付不语中。</div><div id='poem_sentence_3_472906_comment'></div><div class='poemSentence' id='poem_sentence_4_472906'>二轮固代谢，四季弭初终。</div><div id='poem_sentence_4_472906_comment'></div><div class='poemSentence' id='poem_sentence_5_472906'>义霜素悽惨，温律复冲融。</div><div id='poem_sentence_5_472906_comment'></div><div class='poemSentence' id='poem_sentence_6_472906'>相期保岁寒，木末回春风。</div><div id='poem_sentence_6_472906_comment'></div><div class='poemSentence' id='poem_sentence_7_472906'></div><div id='poem_sentence_7_472906_comment'></div></div><div class='poemNote' id='poem_note_472906'><div class='inline1'><div id='poem_sentence_2_472906_0'>⑴ 五大夫：据崔骃案「五大夫臆是：一、兵部架阁，二、校试建康，三、史馆，四、沿江察访使，五、江东提刑、江西招谕使也。」</div></div></div><div id='poem_note_472906_comment'></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"17b7451867a148ef99bf5b312ed433cf\");'><span id='17b7451867a148ef99bf5b312ed433cf_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1285')\">1284-1285年</a>，59-60岁</div><div id='17b7451867a148ef99bf5b312ed433cf' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1284')\">1284年</a>　遇大赦，得还，寓居茶坂，设卜肆。不取钱，惟取米履，后去当家教。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1284')\">1284年</a>　送友人入京，赴宴不载酒崇肉，故自罚作此序。<span class='label'>作品：</span>送史县尹朝京序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　生活窘迫，向友人借香醋。<span class='label'>作品：</span>乞醯。<span class='inlineComment2'>（据《年谱》：此处附《谢惠酢启》一文，并列出《求纸衾》诗、《觅茶》诗、及《谢亦山惠米启》、《谢人惠米线》、《谢面》、《谢惠椒酱》、《谢人冬至送凫酒》诸诗，《谢人惠纸衾启》、《谢张四居士惠纸衾》、《谢惠楮衾》、《谢刘纯父惠布》、《谢送夏衣》、《谢惠药》诸诗。）</span><div id='poem_225712' class='_poem'><div id='poem_title_225712' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225712' class='poemCommentLink' target='_blank'>乞醯<span class='inlineComment2'>（乙酉时年六十岁作。）</span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225712\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_225712_comment'></div><div class='poemContent' id='poem_content_225712'><div class='poemSentence' id='poem_sentence_0_225712'>平生忍酸寒，鼻吸醋三斗。</div><div id='poem_sentence_0_225712_comment'></div><div class='poemSentence' id='poem_sentence_1_225712'>先民耻乞字，乞醯良可丑。</div><div id='poem_sentence_1_225712_comment'></div><div class='poemSentence' id='poem_sentence_2_225712'>卖鸡买鱼烹，鸡鱼谁舍取？</div><div id='poem_sentence_2_225712_comment'></div><div class='poemSentence' id='poem_sentence_3_225712'>将为水晶鲙，聊悦苦吟口。</div><div id='poem_sentence_3_225712_comment'></div><div class='poemSentence' id='poem_sentence_4_225712'>主人曰无醯，调和只宜酒。</div><div id='poem_sentence_4_225712_comment'></div><div class='poemSentence' id='poem_sentence_5_225712'>一夜严霜寒，池冰坚可扣。</div><div id='poem_sentence_5_225712_comment'></div><div class='poemSentence' id='poem_sentence_6_225712'>虽知酒不冰，流澌鱼可走。</div><div id='poem_sentence_6_225712_comment'></div><div class='poemSentence' id='poem_sentence_7_225712'>旁观粲然笑，易牙知此否？</div><div id='poem_sentence_7_225712_comment'></div><div class='poemSentence' id='poem_sentence_8_225712'>始知五味和，咸酸必相有。</div><div id='poem_sentence_8_225712_comment'></div><div class='poemSentence' id='poem_sentence_9_225712'>提壶我有求，君瓮肯发瓿。</div><div id='poem_sentence_9_225712_comment'></div><div class='poemSentence' id='poem_sentence_10_225712'>宿诺惠未来，望梅渴已久。</div><div id='poem_sentence_10_225712_comment'></div><div class='poemSentence' id='poem_sentence_11_225712'>似闻君酿醯，巧心出杨柳。</div><div id='poem_sentence_11_225712_comment'></div><div class='poemSentence' id='poem_sentence_12_225712'>杨柳属他人，肠断香山叟。</div><div id='poem_sentence_12_225712_comment'></div><div class='poemSentence' id='poem_sentence_13_225712'>举瓢酌醯时，又意玉纤手<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_13_225712_comment'></div><div class='poemSentence' id='poem_sentence_14_225712'>一顾一心酸，泪珠满翠袖。</div><div id='poem_sentence_14_225712_comment'></div><div class='poemSentence' id='poem_sentence_15_225712'>此亦人至情，可不告朋友<sup class='reference inlineComment2'>⑵</sup>。</div><div id='poem_sentence_15_225712_comment'></div><div class='poemSentence' id='poem_sentence_16_225712'>古人有乞浆，得酒意愈厚。</div><div id='poem_sentence_16_225712_comment'></div><div class='poemSentence' id='poem_sentence_17_225712'>又恐酒俱来，太岁正在酉<span class='inlineComment2'>（时年乙酉岁。）</span>。</div><div id='poem_sentence_17_225712_comment'></div><div class='poemSentence' id='poem_sentence_18_225712'></div><div id='poem_sentence_18_225712_comment'></div></div><div class='poemNote' id='poem_note_225712'><div class='inline1'><div id='poem_sentence_13_225712_0'>⑴ 又意玉纤手　「意」，丛刊本、康熙本均作「忆」。</div></div><div class='inline1'><div id='poem_sentence_15_225712_0'>⑵ 可不告朋友　「可不」，丛刊本作「何不」。</div></div></div><div id='poem_note_225712_comment'></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　对谢亦山赠米十硕表示感谢。<span class='label'>作品：</span>谢宋亦山惠米启。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　对刘纯父赠布表示感谢。<span class='label'>作品：</span>谢刘纯父惠布。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　访刘治中。<span class='label'>作品：</span>送刘治中之信州。<div id='poem_225704' class='_poem'><div id='poem_title_225704' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225704' class='poemCommentLink' target='_blank'>送刘治中之信州<span class='inlineComment2'>（乙酉时年六十岁作。）</span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225704\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_225704_comment'></div><div class='poemContent' id='poem_content_225704'><div class='poemSentence' id='poem_sentence_0_225704'>冰玉古溪山，治中今仕元。</div><div id='poem_sentence_0_225704_comment'></div><div class='poemSentence' id='poem_sentence_1_225704'>邦人敬文简，道化望曾孙。</div><div id='poem_sentence_1_225704_comment'></div><div class='poemSentence' id='poem_sentence_2_225704'>朱子书堂在，东莱讲席存。</div><div id='poem_sentence_2_225704_comment'></div><div class='poemSentence' id='poem_sentence_3_225704'>十年儒道晦，此日喜登门。</div><div id='poem_sentence_3_225704_comment'></div><div class='poemSentence' id='poem_sentence_4_225704'></div><div id='poem_sentence_4_225704_comment'></div></div></div><br /></div><div class='label1'><a href='javascript: DetailSwitch(\"cea474158cf940afa9ea0b4e2b3d88b2\");'><span id='cea474158cf940afa9ea0b4e2b3d88b2_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>，63岁</div><div id='cea474158cf940afa9ea0b4e2b3d88b2' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年7月</a>　多人多次举荐出仕，均辞谢不赴。<span class='label'>作品：</span>上丞相留中齐书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　向建宁路毋府判推荐朱熹之曾孙朱泳道为武夷书院山长。<span class='label'>作品：</span>与建宁路毋府判荐朱山长书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　向吴履斋推荐穷画家黄鉴堂。<span class='label'>作品：</span>荐写神黄鉴堂书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年4月</a>　鼓励方伯载学道归隐。<span class='label'>作品：</span>送方伯载归三山序。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年9月11日</a>　被逼随魏天祐去大都，暂囚于崇真道院。<span class='label'>作品：</span>与参政魏容斋书。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　长子谢熙之探望，为坚定殉国决心，拒而不见，并作诗辞谢刘洞斋、刘华甫赠寒衣。<span class='label'>作品：</span>辞洞斋、华甫二刘兄惠寒衣。<div id='poem_225707' class='_poem'><div id='poem_title_225707' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225707' class='poemCommentLink' target='_blank'>辞洞斋、华甫二刘兄惠寒衣<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225707\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_225707_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225707_0'>① 有序，戊子时年六十三岁作。《昭忠录》有：「门人惠寒衣，弗受。」</div></div></div><div class='titleComment' id='poem_preface_225707'>离罗内阱，何损麒麟；反君事仇，忍为狗彘。凡劝吾入燕吐胸中不平而后死者，皆非忠于谋人者也。南八男儿死尔，不可为不义屈。岂敢曰：「将以有为乎！」平生学问，到此时要见分明。辱惠寒衣，义不当受。大颠(大颠：本姓陈〖七三一——八二四〗，或说姓杨，原名宝通，唐潮阳人，为佛教禅宗南派慧能三传弟子。韩愈贬潮州时，闻大颠名，召至，留十馀日，谓其能外形骸，以理自胜，因与往来。)果聪明，识道理，胸中无滞碍，何必受昌黎先生衣服为别耶！小诗写心，谩发一笑。</div><div id='poem_preface_225707_comment'></div><div class='poemContent' id='poem_content_225707'><div class='poemSentence' id='poem_sentence_0_225707'>平生爱读龚胜传，进退存亡断得明。</div><div id='poem_sentence_0_225707_comment'></div><div class='poemSentence' id='poem_sentence_1_225707'>范叔绨袍虽见意，大颠衣服莫留行。</div><div id='poem_sentence_1_225707_comment'></div><div class='poemSentence' id='poem_sentence_2_225707'>此时要看英雄样，好汉应无儿女情。</div><div id='poem_sentence_2_225707_comment'></div><div class='poemSentence' id='poem_sentence_3_225707'>只愿诸贤扶世教，饿夫含笑死犹生。</div><div id='poem_sentence_3_225707_comment'></div><div class='poemSentence' id='poem_sentence_4_225707'></div><div id='poem_sentence_4_225707_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　作诗，表其殉国决心。<span class='label'>作品：</span>崇真院绝粒偶书，付儿熙之、定之，并呈张苍峰、刘洞斋、刘华甫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年10月18日</a>　从建宁启程，被强制押往大都，临行赋诗别二子、良友。<span class='label'>作品：</span>魏参政执拘投北，行有期，死有日，诗别二子及良友。<div id='poem_225693' class='_poem'><div id='poem_title_225693' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225693' class='poemCommentLink' target='_blank'>魏参政执拘投北，行有期，死有日，诗别二子及良友<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225693\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_225693_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225693_0'>① 丛刊本作「诗别妻子、良友、良朋」。枋得遁迹建宁，从之游者，有：詹苍崖、游古意、王济渊、曹东谷、叶爱梅、魏天应、陈达翁、张子惠及毛〖靖可〗、蔡〖正孙〗诸君，又有道士陈天隐。盖先生方修养辟谷之术也。戊子十月十八日时年六十三岁作。</div></div></div><div class='poemContent' id='poem_content_225693'><div class='poemSentence' id='poem_sentence_0_225693'>雪中松柏愈青青，扶植纲常在此行。</div><div id='poem_sentence_0_225693_comment'></div><div class='poemSentence' id='poem_sentence_1_225693'>天下久无龚胜洁，人间何独伯夷清。</div><div id='poem_sentence_1_225693_comment'></div><div class='poemSentence' id='poem_sentence_2_225693'>义高便觉生堪舍，礼重方知死甚轻。</div><div id='poem_sentence_2_225693_comment'></div><div class='poemSentence' id='poem_sentence_3_225693'><span class='link' onclick='ShowWordComment(\"poem_sentence_3_225693\", 225693, \"Clauses/6/Comments/1\")'>南八</span>男儿<sup class='reference inlineComment2'>⑴</sup>终不屈，皇天上帝眼分明。</div><div id='poem_sentence_3_225693_comment'></div><div class='poemSentence' id='poem_sentence_4_225693'></div><div id='poem_sentence_4_225693_comment'></div></div><div class='poemNote' id='poem_note_225693'><div class='inline1'><div id='poem_sentence_3_225693_0'>⑴ 南八男儿：「南八」，即唐时南霁云，因在兄弟中排行第八，故称南八。南八男儿终不屈，谓唐南霁云与张巡共守睢阳，城陷，就义不屈的故事。《唐书·张巡传》：「巡守睢阳，城陷，俱被执，子琦以刃胁降，巡不屈，又降霁云，未应。」巡呼曰：「南八男儿死尔，不可为不义屈。」霁云笑曰：「欲将有为也，公知我者，敢不死。」亦不肯降。</div></div></div><div id='poem_note_225693_comment'></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 29.25405,
+                    "Longitude": 117.868365,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361130",
+                    "Title": "婺源",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6c35eb69d81a49bc9b7a3cf05f7fad1b\");'><span id='6c35eb69d81a49bc9b7a3cf05f7fad1b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>，58岁</div><div id='6c35eb69d81a49bc9b7a3cf05f7fad1b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>　访爱国志士许月卿，书其门曰：“要知今日谢枋得，便是当年许月卿。”<br /></div>"
+                },
+                {
+                    "Latitude": 27.756765,
+                    "Longitude": 118.037551,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350782001",
+                    "Title": "崇安街道",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"698f664c74404a77b5485bde2592b63d\");'><span id='698f664c74404a77b5485bde2592b63d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>，60岁</div><div id='698f664c74404a77b5485bde2592b63d' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>访爱国学者熊禾，论讲朱熹理学。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>追求梅花的品格成就自己高洁的人格。<span class='label'>作品：</span>武夷山中。<div id='poem_225662' class='_poem'><div id='poem_title_225662' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225662' class='poemCommentLink' target='_blank'>武夷山中<span class='inlineComment2'>（壬午时年五十七岁作。）</span></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225662\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_225662_comment'></div><div class='poemContent' id='poem_content_225662'><div class='poemSentence' id='poem_sentence_0_225662'>十年无梦得还家，独立青峰野水涯。</div><div id='poem_sentence_0_225662_comment'></div><div class='poemSentence' id='poem_sentence_1_225662'>天地寂寥山雨歇，几生修得到梅花。</div><div id='poem_sentence_1_225662_comment'></div><div class='poemSentence' id='poem_sentence_2_225662'></div><div id='poem_sentence_2_225662_comment'></div></div><div class='poemComment' id='poem_comment_225662'><a href='javascript: ShowPoemComment(225662)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"120d2a6f80c94940b7836a4c54fa48fa\");'><span id='120d2a6f80c94940b7836a4c54fa48fa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>，63岁</div><div id='120d2a6f80c94940b7836a4c54fa48fa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年12月</a>　风大路阻，逗留隆兴过年，作诗。<span class='label'>作品：</span>隆兴阻风。<br /></div>"
+                },
+                {
+                    "Latitude": 30.15962,
+                    "Longitude": 116.135723,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340826",
+                    "Title": "宿松",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"694590d563564d04b900e8ed165b101a\");'><span id='694590d563564d04b900e8ed165b101a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='694590d563564d04b900e8ed165b101a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>　经小孤山，以小孤山坚定不移自励。<span class='label'>作品：</span>小孤山。小姑庙。<span class='inlineComment2'>（《全宋诗》未收录此诗。）</span><div id='poem_225691' class='_poem'><div id='poem_title_225691' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225691' class='poemCommentLink' target='_blank'>小孤山<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225691\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_225691_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225691_0'>① 己丑时年六十四岁。枋得从建宁出发，北去大都途中，途经江西湖口小孤山作。</div></div></div><div class='poemContent' id='poem_content_225691'><div class='poemSentence' id='poem_sentence_0_225691'>人言此是海门关，海眼无涯骇众观。</div><div id='poem_sentence_0_225691_comment'></div><div class='poemSentence' id='poem_sentence_1_225691'>天地偶然留砥柱，江山有此障狂澜。</div><div id='poem_sentence_1_225691_comment'></div><div class='poemSentence' id='poem_sentence_2_225691'>坚如勇士专场立，危比孤臣末世难。</div><div id='poem_sentence_2_225691_comment'></div><div class='poemSentence' id='poem_sentence_3_225691'>明日登峰须造极，渺观宇宙我心宽。</div><div id='poem_sentence_3_225691_comment'></div><div class='poemSentence' id='poem_sentence_4_225691'></div><div id='poem_sentence_4_225691_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 31.358798,
+                    "Longitude": 118.439561,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3402",
+                    "Title": "芜湖",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1e90113699074efaa11c69f361581da8\");'><span id='1e90113699074efaa11c69f361581da8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='1e90113699074efaa11c69f361581da8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>　经鲁港等地。<span class='label'>作品：</span>舟过鲁港。<br /></div>"
+                },
+                {
+                    "Latitude": 31.575549,
+                    "Longitude": 118.504404,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN340521",
+                    "Title": "当涂",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"843fada641b841d68ded8070c2b41a3f\");'><span id='843fada641b841d68ded8070c2b41a3f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='843fada641b841d68ded8070c2b41a3f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年2月14日</a>　至采石，赋诗，从此每日仅食枣五颗。<span class='label'>作品：</span>绝粒。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>　在采石，有诗。<span class='label'>作品：</span>拜李白墓。<span class='inlineComment2'>（《全宋诗》未收录此诗。）</span>拜虞雍公庙。<span class='inlineComment2'>（《全宋诗》未收录此诗。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 33.616272,
+                    "Longitude": 119.022429,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3208",
+                    "Title": "淮安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a063162cb5c94b57a8dd59147296c99e\");'><span id='a063162cb5c94b57a8dd59147296c99e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='a063162cb5c94b57a8dd59147296c99e' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>经淮安，淮安路教授谢西溪设宴招待。<span class='label'>作品：</span>到山阳郡。送淮安士友。<br /></div>"
+                },
+                {
+                    "Latitude": 35.94278,
+                    "Longitude": 116.476836,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN370923",
+                    "Title": "东平",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"62b4f0bf090b4c418c9c1f1f0cf4bcda\");'><span id='62b4f0bf090b4c418c9c1f1f0cf4bcda_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='62b4f0bf090b4c418c9c1f1f0cf4bcda' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年寒食节</a>　寒食节，途径郓州，作诗。<span class='label'>作品：</span>寒食郓州道中。<div id='poem_225750' class='_poem'><div id='poem_title_225750' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=225750' class='poemCommentLink' target='_blank'>沁园春 寒食郓州道中<sup class='reference inlineComment2'>①</sup></a><a href='javascript: ShowPoemAuthorProfile(32247, \"宋\", \"谢枋得\", \"poem_title_225750\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢枋得</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_225750_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_225750_0'>① 己丑枋得途经郓州，时年六十四岁作。</div></div></div><div class='poemContent' id='poem_content_225750'><div class='poemSentence' id='poem_sentence_0_225750'>十五年来，逢寒食节，皆在天涯。</div><div id='poem_sentence_0_225750_comment'></div><div class='poemSentence' id='poem_sentence_1_225750'>叹雨濡露润，还思宰柏；</div><div id='poem_sentence_1_225750_comment'></div><div class='poemSentence' id='poem_sentence_2_225750'>风柔日媚，羞看飞花。</div><div id='poem_sentence_2_225750_comment'></div><div class='poemSentence' id='poem_sentence_3_225750'>麦饭纸钱，只鸡斗酒，几误林閒噪喜鸦。</div><div id='poem_sentence_3_225750_comment'></div><div class='poemSentence' id='poem_sentence_4_225750'>天笑道，此不由乎我，也不由他。</div><div id='poem_sentence_4_225750_comment'></div><br /><div class='poemSentence' id='poem_sentence_5_225750'>鼎中炼熟丹砂，把紫府青都作一家<sup class='reference inlineComment2'>⑴</sup>。</div><div id='poem_sentence_5_225750_comment'></div><div class='poemSentence' id='poem_sentence_6_225750'>想前人鹤驭，常游绛阙；</div><div id='poem_sentence_6_225750_comment'></div><div class='poemSentence' id='poem_sentence_7_225750'>浮生蝉蜕，岂恋黄沙。</div><div id='poem_sentence_7_225750_comment'></div><div class='poemSentence' id='poem_sentence_8_225750'>帝命守坟，王令脩墓，男子正当如是耶！</div><div id='poem_sentence_8_225750_comment'></div><div class='poemSentence' id='poem_sentence_9_225750'>又何必，待过家上冢，昼锦荣华。</div><div id='poem_sentence_9_225750_comment'></div></div><div class='poemNote' id='poem_note_225750'><div class='inline1'><div id='poem_sentence_5_225750_0'>⑴ 把紫府青都作一家　丛刊本、康熙本「青都」均作「清都」。</div></div></div><div id='poem_note_225750_comment'></div><div class='poemComment' id='poem_comment_225750'><a href='javascript: ShowPoemComment(225750)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 39.911013,
+                    "Longitude": 116.413554,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN11",
+                    "Title": "北京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"14c8672d351a4f0c93712fe8ba027efd\");'><span id='14c8672d351a4f0c93712fe8ba027efd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>，64岁</div><div id='14c8672d351a4f0c93712fe8ba027efd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年4月1日</a>　到达大都，安置于馆驿。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年4月5日</a>　病体垂危，迁置于悯忠寺，见寺壁间《曹娥碑》，感孝女事迹，以死自誓，是夜，卒。<br /></div>"
+                },
+                {
+                    "Latitude": 29.932218,
+                    "Longitude": 116.559144,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3408 小孤山",
+                    "Title": "小孤山",
+                    "RequestUri": "scope=当代/宿松县小孤山&author=谢枋得&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "谢枋得 <span class='inlineComment2'>(1226-1289)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：(近)崔骥《谢枋得年谱》、俞兆鹏《谢叠山大传·谢枋得年谱简编》　录入整理：宋娟</p><p><a href=\"javascript: ViewRoute(0, 5, 117.5809815, 28.699905, 8, 0)\">1-38岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">弋阳</a> → <a href=\"javascript: ViewPoint(1, 0)\">吉安</a> → <a href=\"javascript: ViewPoint(2, 0)\">弋阳</a> → <a href=\"javascript: ViewPoint(3, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(4, 0)\">弋阳</a></p><p><a href=\"javascript: ViewRoute(5, 10, 116.6743405, 28.5870945, 9, 0)\">39-58岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">阳新</a> → <a href=\"javascript: ViewPoint(6, 0)\">弋阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">铅山</a> → <a href=\"javascript: ViewPoint(8, 0)\">弋阳</a> → <a href=\"javascript: ViewPoint(9, 0)\">建阳</a></p><p><a href=\"javascript: ViewRoute(10, 22, 117.4434785, 33.624287, 7, 0)\">58-64岁</a><br /><a href=\"javascript: ViewPoint(10, 0)\">婺源</a> → <a href=\"javascript: ViewPoint(11, 0)\">建阳</a> → <a href=\"javascript: ViewPoint(12, 0)\">崇安街道</a> → <a href=\"javascript: ViewPoint(13, 0)\">弋阳</a> → <a href=\"javascript: ViewPoint(14, 0)\">建阳</a> → <a href=\"javascript: ViewPoint(15, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(16, 0)\">宿松</a> → <a href=\"javascript: ViewPoint(17, 0)\">芜湖</a> → <a href=\"javascript: ViewPoint(18, 0)\">当涂</a> → <a href=\"javascript: ViewPoint(19, 0)\">淮安</a> → <a href=\"javascript: ViewPoint(20, 0)\">东平</a> → <a href=\"javascript: ViewPoint(21, 0)\">北京</a></p>"
+        }
+    ]
+}

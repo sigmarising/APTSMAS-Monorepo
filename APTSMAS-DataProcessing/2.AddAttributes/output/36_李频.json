@@ -1,0 +1,545 @@
+{
+    "id": 36,
+    "name": "李频",
+    "dynasty": "唐",
+    "lifeDuration": [
+        815,
+        876
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 29.359118,
+            "lng": 119.222229
+        },
+        "scaleLevel": 7
+    },
+    "reference": [
+        "《唐才子传校笺》",
+        "《唐诗人行年稿（续编）》",
+        "《罗隐年谱》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                35
+            ],
+            "correspondPath": [
+                "寿昌",
+                "西安",
+                "三门峡",
+                "西安"
+            ]
+        },
+        {
+            "agesDuration": [
+                38,
+                48
+            ],
+            "correspondPath": [
+                "四川",
+                "西安",
+                "寿昌",
+                "彭水",
+                "宜昌",
+                "鄂州",
+                "南陵",
+                "池州"
+            ]
+        },
+        {
+            "agesDuration": [
+                50,
+                62
+            ],
+            "correspondPath": [
+                "武功",
+                "池州",
+                "西安",
+                "富县",
+                "泾川",
+                "西安",
+                "武汉",
+                "建瓯"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "df14273c59de4a03a23614044dd39cd9",
+                        "lat": 29.359118,
+                        "lng": 119.222229,
+                        "regionId": "CN330182109",
+                        "location": "寿昌",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "6bb9e15df84545f1904f6088c6e0660e",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "277aaf2bd5344a77ab64315d7ac472ef",
+                        "lat": 34.77261,
+                        "lng": 111.2003,
+                        "regionId": "CN4112",
+                        "location": "三门峡",
+                        "city": "三门峡市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "434f86117768408c9f667190de0b4d6c",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "3c088d1020fd4c7993e6171f1e469de0",
+                        "lat": 30.65088,
+                        "lng": 104.07572,
+                        "regionId": "CN51",
+                        "location": "四川",
+                        "city": "成都市",
+                        "province": "四川省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "ffedf6ba33c642e1a91a54d2dfef9f29",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "f76b9006bc0049e59e51972cd05ae2b3",
+                        "lat": 29.359118,
+                        "lng": 119.222229,
+                        "regionId": "CN330182109",
+                        "location": "寿昌",
+                        "city": "杭州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "4741bd13f75c4057ba4d208b1cbfe709",
+                        "lat": 29.293763,
+                        "lng": 108.165555,
+                        "regionId": "CN500243",
+                        "location": "彭水",
+                        "city": "彭水苗族土家族自治县",
+                        "province": "重庆市",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "eee58c59af3a47e5b4afe964eaec2c5d",
+                        "lat": 30.69186,
+                        "lng": 111.28642,
+                        "regionId": "CN4205",
+                        "location": "宜昌",
+                        "city": "宜昌市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "da7468ae665d4c4c8bb342289679e852",
+                        "lat": 30.39085,
+                        "lng": 114.89495,
+                        "regionId": "CN42070",
+                        "location": "鄂州",
+                        "city": "鄂州市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d4c1c2b58eed40b18de5cb063e596ebb",
+                        "lat": 30.914649,
+                        "lng": 118.33405,
+                        "regionId": "CN340223",
+                        "location": "南陵",
+                        "city": "芜湖市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "e393a8b9d45a4538b17a0a09b4a569f7",
+                        "lat": 30.66469,
+                        "lng": 117.49142,
+                        "regionId": "CN3417",
+                        "location": "池州",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "310288f5ad61439183f2a36c45779b7a",
+                        "lat": 34.26036,
+                        "lng": 108.20018,
+                        "regionId": "CN610431",
+                        "location": "武功",
+                        "city": "咸阳市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "34d76067122e45899bf8e0bde8dbc4bd",
+                        "lat": 30.66469,
+                        "lng": 117.49142,
+                        "regionId": "CN3417",
+                        "location": "池州",
+                        "city": "池州市",
+                        "province": "安徽省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "8ca949424bd345f2a514a33af4ce113b",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "d95e507e9c944b7282ba201f4b42b75c",
+                        "lat": 35.98779,
+                        "lng": 109.37976,
+                        "regionId": "CN610628",
+                        "location": "富县",
+                        "city": "延安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "faa9a8a31f8842f29138c1f0e5f5feea",
+                        "lat": 35.332619,
+                        "lng": 107.36775,
+                        "regionId": "CN620821",
+                        "location": "泾川",
+                        "city": "平凉市",
+                        "province": "甘肃省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "b58835c0ab084a50ae2b9f38db180cb1",
+                        "lat": 34.34127,
+                        "lng": 108.93984,
+                        "regionId": "CN6101",
+                        "location": "西安",
+                        "city": "西安市",
+                        "province": "陕西省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "7099ce8c54a142eeaece8efe43eadc0a",
+                        "lat": 30.59276,
+                        "lng": 114.30525,
+                        "regionId": "CN4201",
+                        "location": "武汉",
+                        "city": "武汉市",
+                        "province": "湖北省",
+                        "country": "中国",
+                        "visitYear": null
+                    },
+                    {
+                        "id": "efb57eca58ff484e8f21b6e448966560",
+                        "lat": 27.02266,
+                        "lng": 118.30498,
+                        "regionId": "CN350783",
+                        "location": "建瓯",
+                        "city": "南平市",
+                        "province": "福建省",
+                        "country": "中国",
+                        "visitYear": null
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 29.359118,
+                "lng": 119.222229,
+                "id": null,
+                "regionId": "CN330182109",
+                "location": "寿昌",
+                "city": "杭州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "815-838年 ，1-24岁",
+                    "815年 频当生于本年。",
+                    "816-819年 居乡。",
+                    "820-838年 居乡读书，未预世事。",
+                    "854年 ，40岁"
+                ]
+            },
+            {
+                "lat": 34.34127,
+                "lng": 108.93984,
+                "id": null,
+                "regionId": "CN6101",
+                "location": "西安",
+                "city": "西安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "839年 ，25岁",
+                    "839年 是年秋冬，偕友人喻坦之游长安，“行卷”于姚合，合大为激赏，招为东床。",
+                    "840-849年 ，26-35岁",
+                    "840年 春夏间，频随姚合回到长安，馆于合家中，有诗。",
+                    "840年 是年春秋，馆于姚合家中，有诗。",
+                    "843年 疑频是年仍在长安，有诗。",
+                    "843年 闻贾岛卒于蜀中，有诗哭之。",
+                    "844年 按李频约以开成四年来京，迄大中三年犹在京中，其间十年或可能他适。意其主要活动，则系为营求第进士。考其诗则频至少曾四次预京兆府试取解。亦曾四次预省试进士，亦至少落第三次。",
+                    "845-848年 849年",
+                    "853-854年 ，39-40岁",
+                    "853年 频自蜀返回长安，为科第做准备。",
+                    "854年 频登进士第，有诗。",
+                    "854年 送友薛能尉周至，有诗。",
+                    "854年 频第进士后，即预吏部之糊名“释褐”试，拔萃中式，授秘书省校书郎，未就而入幕黔中。",
+                    "871年 ，57岁",
+                    "873-875年 ，59-61岁",
+                    "873年 频迁尚书兵部都官员外郎，本年或稍后求出为建州，有诗。",
+                    "873年 是年，薛能出镇徐方，频作诗送之。",
+                    "874年 韦蟾出为鄂岳观察使，频作诗饯送。",
+                    "875年1月 本年正月出为建州刺史。",
+                    "875年1月5日 本年正月出为建州刺史，有诗。"
+                ]
+            },
+            {
+                "lat": 34.77261,
+                "lng": 111.2003,
+                "id": null,
+                "regionId": "CN4112",
+                "location": "三门峡",
+                "city": "三门峡市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "839年 ，25岁"
+                ]
+            },
+            {
+                "lat": 30.65088,
+                "lng": 104.07572,
+                "id": null,
+                "regionId": "CN51",
+                "location": "四川",
+                "city": "成都市",
+                "province": "四川省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "852年 ，38岁"
+                ]
+            },
+            {
+                "lat": 29.293763,
+                "lng": 108.165555,
+                "id": null,
+                "regionId": "CN500243",
+                "location": "彭水",
+                "city": "彭水苗族土家族自治县",
+                "province": "重庆市",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "854-855年 ，40-41岁",
+                    "854年 频在黔州任上，有诗。",
+                    "855年 频在黔州任上仅数月，是年东归，有诗。"
+                ]
+            },
+            {
+                "lat": 30.69186,
+                "lng": 111.28642,
+                "id": null,
+                "regionId": "CN4205",
+                "location": "宜昌",
+                "city": "宜昌市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "855年 ，41岁",
+                    "855年 频在黔州任上仅数月，是年东归，过陕州，有诗。"
+                ]
+            },
+            {
+                "lat": 30.39085,
+                "lng": 114.89495,
+                "id": null,
+                "regionId": "CN42070",
+                "location": "鄂州",
+                "city": "鄂州市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "855年 ，41岁",
+                    "855年6-7 频自黔中东归，留滞江汉，会李群玉东归，送之，有诗。"
+                ]
+            },
+            {
+                "lat": 30.914649,
+                "lng": 118.33405,
+                "id": null,
+                "regionId": "CN340223",
+                "location": "南陵",
+                "city": "芜湖市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "859年 ，45岁",
+                    "859年 疑频为南陵主簿当在本年前后。"
+                ]
+            },
+            {
+                "lat": 30.66469,
+                "lng": 117.49142,
+                "id": null,
+                "regionId": "CN3417",
+                "location": "池州",
+                "city": "池州市",
+                "province": "安徽省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "862年 ，48岁",
+                    "862年 疑咸通初数年间，频由南陵主簿转为池州参军。",
+                    "867年 ，53岁",
+                    "867年 频在宣州，有诗献李当。"
+                ]
+            },
+            {
+                "lat": 34.26036,
+                "lng": 108.20018,
+                "id": null,
+                "regionId": "CN610431",
+                "location": "武功",
+                "city": "咸阳市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "864年 ，50岁",
+                    "864年 频平判入等，迁为武功令，频在武功政绩甚嘉，惩恶除弊，为民兴利，懿宗嘉之，赐绯衣银鱼。"
+                ]
+            },
+            {
+                "lat": 35.98779,
+                "lng": 109.37976,
+                "id": null,
+                "regionId": "CN610628",
+                "location": "富县",
+                "city": "延安市",
+                "province": "陕西省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "871年 ，57岁"
+                ]
+            },
+            {
+                "lat": 35.332619,
+                "lng": 107.36775,
+                "id": null,
+                "regionId": "CN620821",
+                "location": "泾川",
+                "city": "平凉市",
+                "province": "甘肃省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "871年 ，57岁",
+                    "871年 疑频在官侍御史时去往鄜州公干，经泾州，有诗。"
+                ]
+            },
+            {
+                "lat": 30.59276,
+                "lng": 114.30525,
+                "id": null,
+                "regionId": "CN4201",
+                "location": "武汉",
+                "city": "武汉市",
+                "province": "湖北省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "875年 ，61岁",
+                    "875年 本年春在夏口与罗隐同游。"
+                ]
+            },
+            {
+                "lat": 27.02266,
+                "lng": 118.30498,
+                "id": null,
+                "regionId": "CN350783",
+                "location": "建瓯",
+                "city": "南平市",
+                "province": "福建省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "875-876年 ，61-62岁",
+                    "875年3月 频初抵建州刺史任上，有诗。",
+                    "876年 频卒于建州任上，父老相与扶柩葬于永乐洲，为其立庙于梨山。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

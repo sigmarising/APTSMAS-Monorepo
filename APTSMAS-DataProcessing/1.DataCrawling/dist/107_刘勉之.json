@@ -1,0 +1,190 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 26.647662,
+            "CenterLongitude": 118.1843,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "f079c559f2e9445a8ca45a64d40192ef",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "9fe65d6f028a4993b3469cce72f8ddea",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "1d65fd86231c498aafbbca391b096b9e",
+                            "Latitude": 32.064735,
+                            "Longitude": 118.802891,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3201",
+                            "Title": "南京"
+                        },
+                        {
+                            "Id": "8095691edfa5435fa110222897191e12",
+                            "Latitude": 31.816791,
+                            "Longitude": 119.980142,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3204",
+                            "Title": "常州"
+                        },
+                        {
+                            "Id": "7bb8210a8ff4491986107b9e3ade8c10",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "17b7a82faf2f4a469ad3eb047533f732",
+                            "Latitude": 27.756765,
+                            "Longitude": 118.037551,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350782001",
+                            "Title": "崇安街道"
+                        },
+                        {
+                            "Id": "a0e26e7eaac54345889e8366f64f8cfa",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "cee162256b47471fb844d1b64dd96200",
+                            "Latitude": 27.337561,
+                            "Longitude": 118.126953,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350703",
+                            "Title": "建阳"
+                        },
+                        {
+                            "Id": "6125e8d0c2fc4a4ba339ddb60e8b1726",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "0520abddb9204b6cb611e1d86f602e6d",
+                            "Latitude": 27.337561,
+                            "Longitude": 118.126953,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350703",
+                            "Title": "建阳"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 26.647662,
+                    "Longitude": 118.1843,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3507",
+                    "Title": "南平 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f079c559f2e9445a8ca45a64d40192ef\");'><span id='f079c559f2e9445a8ca45a64d40192ef_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1113')\">1091-1113年</a>，1-23岁</div><div id='f079c559f2e9445a8ca45a64d40192ef' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')\">1091年</a>　生于白水村。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1095')\">1092-1095年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')\">1096年</a>　自幼强学，日诵数千言，耳目所接，一过不复忘。其为文肆笔而成，滂沛闳阔，凌厉顿挫，侪辈少能及之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1107')\">1097-1107年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')\">1108年</a>　入州学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1113')\">1109-1113年</a>　就读州学。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"7bb8210a8ff4491986107b9e3ade8c10\");'><span id='7bb8210a8ff4491986107b9e3ade8c10_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1126')\">1118-1126年</a>，28-36岁</div><div id='7bb8210a8ff4491986107b9e3ade8c10' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')\">1118年</a>　太学之行，始阴习伊洛之学，继受易于谯定，归而请业于刘安世、杨时，融数家之学，以为己用，乃谢去场屋，归隐山田。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1119')\">1119年</a>　居乡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1121')\">1120-1121年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')\">1122年</a>　娶连氏。妇家富，无子，谋尽以赀归于女，勉之不受，以畀族之贤者，命之奉祀。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1126')\">1123-1126年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"a0e26e7eaac54345889e8366f64f8cfa\");'><span id='a0e26e7eaac54345889e8366f64f8cfa_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1132')\">1131-1132年</a>，41-42岁</div><div id='a0e26e7eaac54345889e8366f64f8cfa' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1132')\">1131-1132年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"9fe65d6f028a4993b3469cce72f8ddea\");'><span id='9fe65d6f028a4993b3469cce72f8ddea_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1118')\">1113-1118年</a>，23-28岁</div><div id='9fe65d6f028a4993b3469cce72f8ddea' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1113')\">1113年</a>　以州学贡入太学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')\">1114年</a>　时蔡京用事，方禁士毋得挟元祐书，制师生收司连坐法，犯者罪至流徙。勉之心知其非是，阴访伊洛程氏之传，得其书，藏去。深夜，同舍生皆熟寐，乃始探箧解帙，下帷然膏，潜抄而默诵之。与胡宪交，相与问易于谯定。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1118')\">1115-1118年</a>　置严诏于不顾，阴习伊洛之学，复与胡宪问易于谯定。<br /></div>"
+                },
+                {
+                    "Latitude": 32.064735,
+                    "Longitude": 118.802891,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3201",
+                    "Title": "南京",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"1d65fd86231c498aafbbca391b096b9e\");'><span id='1d65fd86231c498aafbbca391b096b9e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')\">1118年</a>，28岁</div><div id='1d65fd86231c498aafbbca391b096b9e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')\">1118年</a>　弃录牒，揖诸生而归，道南都，问学于刘安世。<br /></div>"
+                },
+                {
+                    "Latitude": 31.816791,
+                    "Longitude": 119.980142,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3204",
+                    "Title": "常州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8095691edfa5435fa110222897191e12\");'><span id='8095691edfa5435fa110222897191e12_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')\">1118年</a>，28岁</div><div id='8095691edfa5435fa110222897191e12' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')\">1118年</a>　过毗陵，请业于杨时。<br /></div>"
+                },
+                {
+                    "Latitude": 27.756765,
+                    "Longitude": 118.037551,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350782001",
+                    "Title": "崇安街道",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"17b7a82faf2f4a469ad3eb047533f732\");'><span id='17b7a82faf2f4a469ad3eb047533f732_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1130')\">1127-1130年</a>，37-40岁</div><div id='17b7a82faf2f4a469ad3eb047533f732' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1130')\">1127-1130年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div>"
+                },
+                {
+                    "Latitude": 27.337561,
+                    "Longitude": 118.126953,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350703",
+                    "Title": "建阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"cee162256b47471fb844d1b64dd96200\");'><span id='cee162256b47471fb844d1b64dd96200_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1138')\">1133-1138年</a>，43-48岁</div><div id='cee162256b47471fb844d1b64dd96200' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　乱后故山室庐荒颓，乃即建阳近郊萧屯别墅结草为堂，读书其中，力耕稼以自给，澹然若无求于世。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1135')\">1134-1135年</a>　读书草堂，力耕稼以自给，澹然若无求于世。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')\">1136年4月</a>　有书寄胡寅，责其不尽孝于生身父母，由是胡寅之事，朝野尽知，历十余年，群议不息。<span class='label'>作品：</span>与胡寅书。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1138')\">1137-1138年</a>　读书草堂。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0520abddb9204b6cb611e1d86f602e6d\");'><span id='0520abddb9204b6cb611e1d86f602e6d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1149')\">1138-1149年</a>，48-59岁</div><div id='0520abddb9204b6cb611e1d86f602e6d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>　谢病归乡。以向之受召不阿权贵，士人美之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')\">1139年</a>　赵鼎出知泉州，谒而叹重之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')\">1140年</a>　与朱松交。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')\">1141年</a>　有文。<span class='label'>作品：</span>翁彦深行状。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')\">1142年</a>　居草堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')\">1143年</a>　春，友人朱松死，遗命其子朱熹禀学于刘勉之等人之门。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')\">1144年</a>　有文。<span class='label'>作品：</span>祭刘子翼文。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')\">1145年</a>　居草堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年</a>　有文。<span class='label'>作品：</span>祭刘子羽文。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')\">1146年</a>　有诗。<span class='label'>作品：</span>挽刘子羽诗二首。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　春，有诗。<span class='label'>作品：</span>与林之奇书数首。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　冬，友人刘子翚死，病中为诗并序以挽之。<span class='label'>作品：</span>挽刘子翚诗。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')\">1147年</a>　以女妻朱熹。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')\">1148年</a>　居草堂。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')\">1149年2月20日</a>　终于建阳之里第。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"6125e8d0c2fc4a4ba339ddb60e8b1726\");'><span id='6125e8d0c2fc4a4ba339ddb60e8b1726_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>，48岁</div><div id='6125e8d0c2fc4a4ba339ddb60e8b1726' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')\">1138年</a>　四月，户部侍郎李弥逊、权刑部侍郎曾开、给事中吴表臣、张致远、中书舍人句涛、吕本中奏勉之可用，诏召赴行在。十月至临安，不得面上，乃谢病归。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "刘勉之 <span class='inlineComment2'>(1091-1149)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：郭齐《朱熹岳父刘勉之事迹考》　录入整理：彭洁明</p><p><a href=\"javascript: ViewRoute(0, 5, 117.147023, 30.7253015, 7, 0)\">1-36岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">南平</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">南京</a> → <a href=\"javascript: ViewPoint(3, 0)\">常州</a> → <a href=\"javascript: ViewPoint(4, 0)\">南平</a></p><p><a href=\"javascript: ViewRoute(5, 10, 119.099622, 28.4638605, 9, 0)\">37-59岁</a><br /><a href=\"javascript: ViewPoint(5, 0)\">崇安街道</a> → <a href=\"javascript: ViewPoint(6, 0)\">南平</a> → <a href=\"javascript: ViewPoint(7, 0)\">建阳</a> → <a href=\"javascript: ViewPoint(8, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(9, 0)\">建阳</a></p>"
+        }
+    ]
+}

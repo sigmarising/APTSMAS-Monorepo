@@ -1,0 +1,540 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 26.891516,
+            "CenterLongitude": 120.011988,
+            "ZoomLevel": 8,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "dcae847355d945169ad7955147034a66",
+                            "Latitude": 26.891516,
+                            "Longitude": 120.011988,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350921",
+                            "Title": "霞浦"
+                        },
+                        {
+                            "Id": "19ac54d57ffa495daa4ff576c4334e81",
+                            "Latitude": 30.239732,
+                            "Longitude": 119.731318,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330185",
+                            "Title": "临安"
+                        },
+                        {
+                            "Id": "08575d41e7d24686b67ed7647086df3f",
+                            "Latitude": 24.519197,
+                            "Longitude": 117.653827,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3506",
+                            "Title": "漳州"
+                        },
+                        {
+                            "Id": "be2e09e57d5644abaafe5c728af802fd",
+                            "Latitude": 26.647662,
+                            "Longitude": 118.1843,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3507",
+                            "Title": "南平"
+                        },
+                        {
+                            "Id": "9bd2dcdebbef4e0baa87dea58f5efd32",
+                            "Latitude": 24.519197,
+                            "Longitude": 117.653827,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3506",
+                            "Title": "漳州"
+                        },
+                        {
+                            "Id": "4ff25a9c61a3497e8dd1385e495828af",
+                            "Latitude": 24.294311,
+                            "Longitude": 116.129179,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4414",
+                            "Title": "梅州"
+                        },
+                        {
+                            "Id": "4274de120bb6458480614e1fd4859a25",
+                            "Latitude": 25.606652,
+                            "Longitude": 115.79246,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN360733",
+                            "Title": "会昌"
+                        },
+                        {
+                            "Id": "e91023d30d02489686425a97431a6990",
+                            "Latitude": 27.119751,
+                            "Longitude": 115.00027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3608",
+                            "Title": "吉安"
+                        },
+                        {
+                            "Id": "c349564b36934441aedf17f00ccc733a",
+                            "Latitude": 25.837179,
+                            "Longitude": 114.94126,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3607",
+                            "Title": "赣州"
+                        },
+                        {
+                            "Id": "d9c84fb5daf3430ca5f2d48607a59e50",
+                            "Latitude": 27.923406,
+                            "Longitude": 118.547818,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350722",
+                            "Title": "浦城"
+                        },
+                        {
+                            "Id": "79f990446716408a8ca6872bff291e9b",
+                            "Latitude": 28.001095,
+                            "Longitude": 120.705869,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3303",
+                            "Title": "温州"
+                        },
+                        {
+                            "Id": "4fb23708b01c4d96bba62ba1310c60ef",
+                            "Latitude": 28.861854,
+                            "Longitude": 120.995266,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331082107",
+                            "Title": "括苍"
+                        },
+                        {
+                            "Id": "2c9bec0e2c4a48b3834fe9e066450eae",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        },
+                        {
+                            "Id": "296c32a5f6b84577b2f25a785199d258",
+                            "Latitude": 28.662297,
+                            "Longitude": 121.426996,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331",
+                            "Title": "台州"
+                        },
+                        {
+                            "Id": "fc8faacf12914886a9d480f534961995",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "41767f16ef6141ceaef1381367187397",
+                            "Latitude": 29.880177,
+                            "Longitude": 121.556686,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3302",
+                            "Title": "宁波"
+                        },
+                        {
+                            "Id": "2406810b127e4f13a1be034b82500904",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "5b487281a2744f1986a003ef017a30bd",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "63500403fdd942d18e241ab72c797155",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "9e2031916a2847309cf8dd1b7ec0877b",
+                            "Latitude": 29.880177,
+                            "Longitude": 121.556686,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3302",
+                            "Title": "宁波"
+                        },
+                        {
+                            "Id": "dc81069adaa746a2aa5eb8babe20084a",
+                            "Latitude": 29.505471,
+                            "Longitude": 120.91042,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330624",
+                            "Title": "新昌"
+                        },
+                        {
+                            "Id": "0c7a0b65cb3a41ab92aa4f7fd2a94961",
+                            "Latitude": 29.458802,
+                            "Longitude": 119.898496,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330726",
+                            "Title": "浦江"
+                        },
+                        {
+                            "Id": "c813424c472846888fb41416a0c4b7d4",
+                            "Latitude": 29.481104,
+                            "Longitude": 119.287608,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330182",
+                            "Title": "建德"
+                        },
+                        {
+                            "Id": "f7d014f1d7274db2b824bf5799bdc5ff",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "b0140e4cc0e346c4add7dec338315b79",
+                            "Latitude": 29.458802,
+                            "Longitude": 119.898496,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330726",
+                            "Title": "浦江"
+                        },
+                        {
+                            "Id": "2bddc3814f3d4bd7890834ae4fb70fad",
+                            "Latitude": 29.481104,
+                            "Longitude": 119.287608,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330182",
+                            "Title": "建德"
+                        },
+                        {
+                            "Id": "31fd8634aafc4a48be8c8969c8da50d7",
+                            "Latitude": 29.458802,
+                            "Longitude": 119.898496,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330726",
+                            "Title": "浦江"
+                        },
+                        {
+                            "Id": "daf31dfd0ec14ff1a199cd85cbd4fd95",
+                            "Latitude": 29.481104,
+                            "Longitude": 119.287608,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330182",
+                            "Title": "建德"
+                        },
+                        {
+                            "Id": "02004a55e0c2463898c334fda017ee6b",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "0e2cd75f8c884bf9a404e0ada80e9db5",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "dec93120e2554e6689a3d5fdc664ff3a",
+                            "Latitude": 30.036519,
+                            "Longitude": 120.586673,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3306",
+                            "Title": "绍兴"
+                        },
+                        {
+                            "Id": "f3101e8323f54ff7b68b8dfef0215d2d",
+                            "Latitude": 29.458802,
+                            "Longitude": 119.898496,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330726",
+                            "Title": "浦江"
+                        },
+                        {
+                            "Id": "d1d5ca6cf4e54c6c9bb7161277464c2c",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 26.891516,
+                    "Longitude": 120.011988,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350921",
+                    "Title": "霞浦 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dcae847355d945169ad7955147034a66\");'><span id='dcae847355d945169ad7955147034a66_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1264')\">1249-1264年</a>，1-16岁</div><div id='dcae847355d945169ad7955147034a66' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1264')\">1249-1264年</a>　居乡。<br /></div>"
+                },
+                {
+                    "Latitude": 30.239732,
+                    "Longitude": 119.731318,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330185",
+                    "Title": "临安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"19ac54d57ffa495daa4ff576c4334e81\");'><span id='19ac54d57ffa495daa4ff576c4334e81_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1267')\">1265-1267年</a>，17-19岁</div><div id='19ac54d57ffa495daa4ff576c4334e81' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1265')\">1265年</a>　世父业，既冠有声，从父如临安，初登钓台。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1266&endYear=1266')\">1266年</a>　侍父寓临安。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')\">1267年</a>　试进士不第，因作《宋铙歌鼓吹曲十二篇》，又为《宋骑吹曲十篇》<br /></div>"
+                },
+                {
+                    "Latitude": 24.519197,
+                    "Longitude": 117.653827,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3506",
+                    "Title": "漳州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"08575d41e7d24686b67ed7647086df3f\");'><span id='08575d41e7d24686b67ed7647086df3f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1275')\">1268-1275年</a>，20-27岁</div><div id='08575d41e7d24686b67ed7647086df3f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1275')\">1268-1275年</a>　落魄漳泉间，具体行迹无考。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9bd2dcdebbef4e0baa87dea58f5efd32\");'><span id='9bd2dcdebbef4e0baa87dea58f5efd32_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年</a>，29岁</div><div id='9bd2dcdebbef4e0baa87dea58f5efd32' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年1月</a>　从汀州移漳州。<br /></div>"
+                },
+                {
+                    "Latitude": 26.647662,
+                    "Longitude": 118.1843,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3507",
+                    "Title": "南平",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"be2e09e57d5644abaafe5c728af802fd\");'><span id='be2e09e57d5644abaafe5c728af802fd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')\">1276年</a>，28岁</div><div id='be2e09e57d5644abaafe5c728af802fd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')\">1276年</a>　倾家资，率乡兵数百人赴文天祥幕，遂署咨议参军。<br /></div>"
+                },
+                {
+                    "Latitude": 24.294311,
+                    "Longitude": 116.129179,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4414",
+                    "Title": "梅州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4ff25a9c61a3497e8dd1385e495828af\");'><span id='4ff25a9c61a3497e8dd1385e495828af_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年</a>，29岁</div><div id='4ff25a9c61a3497e8dd1385e495828af' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年3月</a>　三月入梅州。<br /></div>"
+                },
+                {
+                    "Latitude": 25.606652,
+                    "Longitude": 115.79246,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN360733",
+                    "Title": "会昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4274de120bb6458480614e1fd4859a25\");'><span id='4274de120bb6458480614e1fd4859a25_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年</a>，29岁</div><div id='4274de120bb6458480614e1fd4859a25' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年5月</a>　五月兵出梅岭，入赣州会昌县。<br /></div>"
+                },
+                {
+                    "Latitude": 27.119751,
+                    "Longitude": 115.00027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3608",
+                    "Title": "吉安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e91023d30d02489686425a97431a6990\");'><span id='e91023d30d02489686425a97431a6990_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年</a>，29岁</div><div id='e91023d30d02489686425a97431a6990' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年6月</a>　引兵至吉州，战于终步，不利。<br /></div>"
+                },
+                {
+                    "Latitude": 25.837179,
+                    "Longitude": 114.94126,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3607",
+                    "Title": "赣州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c349564b36934441aedf17f00ccc733a\");'><span id='c349564b36934441aedf17f00ccc733a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年</a>，29岁</div><div id='c349564b36934441aedf17f00ccc733a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')\">1277年6月</a>　谢翱与文天祥别于赣。<br /></div>"
+                },
+                {
+                    "Latitude": 27.923406,
+                    "Longitude": 118.547818,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350722",
+                    "Title": "浦城",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d9c84fb5daf3430ca5f2d48607a59e50\");'><span id='d9c84fb5daf3430ca5f2d48607a59e50_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>，30岁</div><div id='d9c84fb5daf3430ca5f2d48607a59e50' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')\">1278年</a>　归浦城后，家室散亡。<br /></div>"
+                },
+                {
+                    "Latitude": 28.001095,
+                    "Longitude": 120.705869,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3303",
+                    "Title": "温州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"79f990446716408a8ca6872bff291e9b\");'><span id='79f990446716408a8ca6872bff291e9b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')\">1279年</a>，31岁</div><div id='79f990446716408a8ca6872bff291e9b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')\">1279年</a>　力作自给，因委而出游。<br /></div>"
+                },
+                {
+                    "Latitude": 28.861854,
+                    "Longitude": 120.995266,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331082107",
+                    "Title": "括苍",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4fb23708b01c4d96bba62ba1310c60ef\");'><span id='4fb23708b01c4d96bba62ba1310c60ef_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1280')\">1280年</a>，32岁</div><div id='4fb23708b01c4d96bba62ba1310c60ef' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1280')\">1280年</a>　避地浙东永嘉括苍，游乐清之雁山，缙云之鼎湖。<br /></div>"
+                },
+                {
+                    "Latitude": 27.028915,
+                    "Longitude": 118.311441,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350783",
+                    "Title": "建瓯",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2c9bec0e2c4a48b3834fe9e066450eae\");'><span id='2c9bec0e2c4a48b3834fe9e066450eae_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1280')\">1280年</a>，32岁</div><div id='2c9bec0e2c4a48b3834fe9e066450eae' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1280')\">1280年</a>　留瓯括间。<br /></div>"
+                },
+                {
+                    "Latitude": 28.662297,
+                    "Longitude": 121.426996,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331",
+                    "Title": "台州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"296c32a5f6b84577b2f25a785199d258\");'><span id='296c32a5f6b84577b2f25a785199d258_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1281&endYear=1281')\">1281年</a>，33岁</div><div id='296c32a5f6b84577b2f25a785199d258' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1281&endYear=1281')\">1281年</a>　留瓯括间。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"fc8faacf12914886a9d480f534961995\");'><span id='fc8faacf12914886a9d480f534961995_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1282&endYear=1282')\">1282年</a>，34岁</div><div id='fc8faacf12914886a9d480f534961995' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1282&endYear=1282')\">1282年</a>　因文天祥死节，悲不能禁，游浙东失声痛哭。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2406810b127e4f13a1be034b82500904\");'><span id='2406810b127e4f13a1be034b82500904_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1285')\">1284-1285年</a>，36-37岁</div><div id='2406810b127e4f13a1be034b82500904' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1284')\">1284年</a>　往来鄞越。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1284&endYear=1284')\">1284年</a>　在越，住王修文竹家。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　致《西台恸哭记》，过姑苏望夫差之台而始哭文天祥。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　与唐玉潜、林景熙、郑宗仁协谋收掩帝后陵骨。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　与唐玉潜别，作《冬青树引》以纪其事。<span class='label'>作品：</span>《冬青树引别玉潜》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　林景熙有诗答谢翱。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"63500403fdd942d18e241ab72c797155\");'><span id='63500403fdd942d18e241ab72c797155_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>，38岁</div><div id='63500403fdd942d18e241ab72c797155' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　寓越，哭文天祥于越台。<span class='label'>作品：</span>《冬青树引》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f7d014f1d7274db2b824bf5799bdc5ff\");'><span id='f7d014f1d7274db2b824bf5799bdc5ff_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>，40岁</div><div id='f7d014f1d7274db2b824bf5799bdc5ff' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　西入杭，慕屈原，自号晞发子，又称宋累者。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0e2cd75f8c884bf9a404e0ada80e9db5\");'><span id='0e2cd75f8c884bf9a404e0ada80e9db5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1294&endYear=1294')\">1294年</a>，46岁</div><div id='0e2cd75f8c884bf9a404e0ada80e9db5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1294&endYear=1294')\">1294年</a>　寓杭，娶遗民刘氏女，买屋西山。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"d1d5ca6cf4e54c6c9bb7161277464c2c\");'><span id='d1d5ca6cf4e54c6c9bb7161277464c2c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1295&endYear=1295')\">1295年</a>，47岁</div><div id='d1d5ca6cf4e54c6c9bb7161277464c2c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1295&endYear=1295')\">1295年</a>　夏由睦入杭，肺疾，八月壬子卒于刘氏舍。<br /></div>"
+                },
+                {
+                    "Latitude": 29.880177,
+                    "Longitude": 121.556686,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3302",
+                    "Title": "宁波",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"41767f16ef6141ceaef1381367187397\");'><span id='41767f16ef6141ceaef1381367187397_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>，35岁</div><div id='41767f16ef6141ceaef1381367187397' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1283&endYear=1283')\">1283年</a>　往来鄞越，依附会稽王英孙。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9e2031916a2847309cf8dd1b7ec0877b\");'><span id='9e2031916a2847309cf8dd1b7ec0877b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>，38岁</div><div id='9e2031916a2847309cf8dd1b7ec0877b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　间乘舟至鄞，过由门，登侯潮山，则又哭。<br /></div>"
+                },
+                {
+                    "Latitude": 30.036519,
+                    "Longitude": 120.586673,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3306",
+                    "Title": "绍兴",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5b487281a2744f1986a003ef017a30bd\");'><span id='5b487281a2744f1986a003ef017a30bd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>，37岁</div><div id='5b487281a2744f1986a003ef017a30bd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')\">1285年</a>　与唐玉潜、林景熙、郑宗仁协谋收掩宋帝后陵骨。<span class='label'>作品：</span>《冬青树引》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"02004a55e0c2463898c334fda017ee6b\");'><span id='02004a55e0c2463898c334fda017ee6b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1294&endYear=1294')\">1294年</a>，46岁</div><div id='02004a55e0c2463898c334fda017ee6b' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>复由鄞入越，与钱塘、邓牧，遇于会稽。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>往见元大都会文士。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"dec93120e2554e6689a3d5fdc664ff3a\");'><span id='dec93120e2554e6689a3d5fdc664ff3a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1294&endYear=1294')\">1294年</a>，46岁</div><div id='dec93120e2554e6689a3d5fdc664ff3a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1294&endYear=1294')\">1294年9月</a>　九月，为吴谦作诗。<span class='label'>作品：</span>《乐闻山房记》<br /></div>"
+                },
+                {
+                    "Latitude": 29.505471,
+                    "Longitude": 120.91042,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330624",
+                    "Title": "新昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"dc81069adaa746a2aa5eb8babe20084a\");'><span id='dc81069adaa746a2aa5eb8babe20084a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>，38岁</div><div id='dc81069adaa746a2aa5eb8babe20084a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　游四明诸胜及新昌之沃洲、天姥。<br /></div>"
+                },
+                {
+                    "Latitude": 29.458802,
+                    "Longitude": 119.898496,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330726",
+                    "Title": "浦江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"0c7a0b65cb3a41ab92aa4f7fd2a94961\");'><span id='0c7a0b65cb3a41ab92aa4f7fd2a94961_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1288')\">1286-1288年</a>，38-40岁</div><div id='0c7a0b65cb3a41ab92aa4f7fd2a94961' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年10月</a>　吴渭同作月泉吟社。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　方凤同作月泉吟社。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')\">1286年</a>　吴思齐同作月泉吟社。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')\">1287年</a>　应为参校月泉吟社四方吟卷。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')\">1287年</a>　月泉吟社开卷之首。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')\">1287年</a>　月泉吟社开卷之次。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')\">1287年</a>　月泉吟社开卷之又次。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　住吴渭家授业，游月泉仙华严麓诸胜。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　吴功父素严事翱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　吴贵受翱《春秋》业。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　方凤命其子从翱学。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　吴谦与翱相善。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　吴似孙从翱游。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b0140e4cc0e346c4add7dec338315b79\");'><span id='b0140e4cc0e346c4add7dec338315b79_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1291')\">1288-1291年</a>，40-43岁</div><div id='b0140e4cc0e346c4add7dec338315b79' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　岁晚归浦阳，为文祭文公，复赋《短歌行》以寄悲。<div id='poem_561788' class='_poem'><div id='poem_title_561788' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=561788' class='poemCommentLink' target='_blank'>短歌行</a><a href='javascript: ShowPoemAuthorProfile(32291, \"宋\", \"谢翱\", \"poem_title_561788\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>谢翱</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_561788_comment'></div><div class='poemContent' id='poem_content_561788'><div class='poemSentence' id='poem_sentence_0_561788'>秦淮没日如没鹘，白波摇空湿弦月。</div><div id='poem_sentence_0_561788_comment'></div><div class='poemSentence' id='poem_sentence_1_561788'>舟人倚棹商声发，洞庭脱木如脱发。</div><div id='poem_sentence_1_561788_comment'></div><div class='poemSentence' id='poem_sentence_2_561788'>寒螀哀啼众芳歇，晨梳青林望吴越。</div><div id='poem_sentence_2_561788_comment'></div><div class='poemSentence' id='poem_sentence_3_561788'>吴歈越吟浪花舞，秋槎湿剑归无所。</div><div id='poem_sentence_3_561788_comment'></div><div class='poemSentence' id='poem_sentence_4_561788'>愁生酒醒闻山鸡，石镜飞花汗如雨。</div><div id='poem_sentence_4_561788_comment'></div><div class='poemSentence' id='poem_sentence_5_561788'>起招如意击树枝，为君悲歌君泪垂。</div><div id='poem_sentence_5_561788_comment'></div><div class='poemSentence' id='poem_sentence_6_561788'></div><div id='poem_sentence_6_561788_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　翁衡俱执弟子礼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>　冯桂芳俱执弟子礼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年1月5日</a>　携方凤、肖翁、陈公凯、公举、吴似孙等同游金华仙洞。<span class='label'>作品：</span>《游录》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')\">1289年</a>　寓浦江，授徒著书。<span class='label'>作品：</span>《除岁诗》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')\">1290年</a>　寓浦江，冬，过严陵，登西台，设文公主酹酒哭奠。<span class='label'>作品：</span>《西台恸哭记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')\">1290年</a>　以竹如意击石，歌招魂之词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')\">1290年</a>　《西台恸哭记》记三友人之一吴思齐。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')\">1290年</a>　《西台恸哭记》记三友人之一冯桂芳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')\">1290年</a>　《西台恸哭记》记三友人之一翁衡。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1291&endYear=1291')\">1291年</a>　寓浦江，元旦立春有诗，作《浦阳先民传》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"31fd8634aafc4a48be8c8969c8da50d7\");'><span id='31fd8634aafc4a48be8c8969c8da50d7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1292&endYear=1292')\">1292年</a>，44岁</div><div id='31fd8634aafc4a48be8c8969c8da50d7' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>过严陵，于钓台南得唐方干旧隐处，名白云原。<span class='label'>作品：</span>《许剑录思集》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>于秋暮载炭至杭易米，以充游资。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f3101e8323f54ff7b68b8dfef0215d2d\");'><span id='f3101e8323f54ff7b68b8dfef0215d2d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1295&endYear=1295')\">1295年</a>，47岁</div><div id='f3101e8323f54ff7b68b8dfef0215d2d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1295&endYear=1295')\">1295年</a>　复过婺睦，寻汐社旧盟。<br /></div>"
+                },
+                {
+                    "Latitude": 29.481104,
+                    "Longitude": 119.287608,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330182",
+                    "Title": "建德",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c813424c472846888fb41416a0c4b7d4\");'><span id='c813424c472846888fb41416a0c4b7d4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')\">1288年</a>，40岁</div><div id='c813424c472846888fb41416a0c4b7d4' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>西至睦，住翁登家。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>拟四亭二桥名。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2bddc3814f3d4bd7890834ae4fb70fad\");'><span id='2bddc3814f3d4bd7890834ae4fb70fad_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1292&endYear=1292')\">1292年</a>，44岁</div><div id='2bddc3814f3d4bd7890834ae4fb70fad' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1292&endYear=1292')\">1292年</a>　往来婺、睦间，憩睦，住翁登兄弟家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"daf31dfd0ec14ff1a199cd85cbd4fd95\");'><span id='daf31dfd0ec14ff1a199cd85cbd4fd95_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1293&endYear=1293')\">1293年</a>，45岁</div><div id='daf31dfd0ec14ff1a199cd85cbd4fd95' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1293&endYear=1293')\">1293年</a>　憩睦，游迹无考。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "谢翱 <span class='inlineComment2'>(1249-1295)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：徐沁《谢皋羽年谱》　录入整理：陈小青</p><p><a href=\"javascript: ViewRoute(0, 15, 118.184128, 27.287185, 8, 0)\">1-34岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">霞浦</a> → <a href=\"javascript: ViewPoint(1, 0)\">临安</a> → <a href=\"javascript: ViewPoint(2, 0)\">漳州</a> → <a href=\"javascript: ViewPoint(3, 0)\">南平</a> → <a href=\"javascript: ViewPoint(4, 0)\">漳州</a> → <a href=\"javascript: ViewPoint(5, 0)\">梅州</a> → <a href=\"javascript: ViewPoint(6, 0)\">会昌</a> → <a href=\"javascript: ViewPoint(7, 0)\">吉安</a> → <a href=\"javascript: ViewPoint(8, 0)\">赣州</a> → <a href=\"javascript: ViewPoint(9, 0)\">浦城</a> → <a href=\"javascript: ViewPoint(10, 0)\">温州</a> → <a href=\"javascript: ViewPoint(11, 0)\">括苍</a> → <a href=\"javascript: ViewPoint(12, 0)\">建瓯</a> → <a href=\"javascript: ViewPoint(13, 0)\">台州</a> → <a href=\"javascript: ViewPoint(14, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(15, 20, 120.8591895, 30.080118, 10, 0)\">35-38岁</a><br /><a href=\"javascript: ViewPoint(15, 0)\">宁波</a> → <a href=\"javascript: ViewPoint(16, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(17, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(18, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(19, 0)\">宁波</a></p><p><a href=\"javascript: ViewRoute(20, 25, 120.099014, 29.8694305, 10, 0)\">38-43岁</a><br /><a href=\"javascript: ViewPoint(20, 0)\">新昌</a> → <a href=\"javascript: ViewPoint(21, 0)\">浦江</a> → <a href=\"javascript: ViewPoint(22, 0)\">建德</a> → <a href=\"javascript: ViewPoint(23, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(24, 0)\">浦江</a></p><p><a href=\"javascript: ViewRoute(25, 29, 119.9371405, 29.7476605, 10, 0)\">44-46岁</a><br /><a href=\"javascript: ViewPoint(25, 0)\">建德</a> → <a href=\"javascript: ViewPoint(26, 0)\">浦江</a> → <a href=\"javascript: ViewPoint(27, 0)\">建德</a> → <a href=\"javascript: ViewPoint(28, 0)\">绍兴</a></p><p><a href=\"javascript: ViewRoute(29, 33, 120.2425845, 29.8694305, 11, 0)\">46-47岁</a><br /><a href=\"javascript: ViewPoint(29, 0)\">杭州</a> → <a href=\"javascript: ViewPoint(30, 0)\">绍兴</a> → <a href=\"javascript: ViewPoint(31, 0)\">浦江</a> → <a href=\"javascript: ViewPoint(32, 0)\">杭州</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": 54,
+    "name": "释保暹",
+    "dynasty": "宋",
+    "lifeDuration": [
+        980,
+        1070
+    ],
+    "mapConfig": {
+        "center": {
+            "lat": 29.07812,
+            "lng": 119.64759
+        },
+        "scaleLevel": 8
+    },
+    "reference": [
+        "《宋初九僧诗研究》",
+        "《宋初九僧宗派考》",
+        "《“九僧”生卒年限及群体形成考》"
+    ],
+    "agesDetail": [
+        {
+            "agesDuration": [
+                1,
+                70
+            ],
+            "correspondPath": [
+                "金华",
+                "开封",
+                "长兴"
+            ]
+        }
+    ],
+    "travelDetail": {
+        "lines": [
+            {
+                "markers": [
+                    {
+                        "id": "00100400100008",
+                        "lat": 29.07812,
+                        "lng": 119.64759,
+                        "regionId": "00100400100008",
+                        "location": "金华",
+                        "city": "金华市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": 980
+                    },
+                    {
+                        "id": "00100100060002",
+                        "lat": 34.79726,
+                        "lng": 114.30731,
+                        "regionId": "00100100060002",
+                        "location": "开封",
+                        "city": "开封市",
+                        "province": "河南省",
+                        "country": "中国",
+                        "visitYear": 1002
+                    },
+                    {
+                        "id": "00100400070004",
+                        "lat": 31.02663,
+                        "lng": 119.91011,
+                        "regionId": "00100400070004",
+                        "location": "长兴",
+                        "city": "湖州市",
+                        "province": "浙江省",
+                        "country": "中国",
+                        "visitYear": 1034
+                    }
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "lat": 29.07812,
+                "lng": 119.64759,
+                "id": "00100400100008",
+                "regionId": "00100400100008",
+                "location": "金华",
+                "city": "金华市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "980年 ，出生",
+                    "980年 约于本年，出生于金华。"
+                ]
+            },
+            {
+                "lat": 34.79726,
+                "lng": 114.30731,
+                "id": "00100100060002",
+                "regionId": "00100100060002",
+                "location": "开封",
+                "city": "开封市",
+                "province": "河南省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1002-1004年 ，23-25岁",
+                    "1002年 约于本年，至京师。",
+                    "1003-1004年 本年，居京师。"
+                ]
+            },
+            {
+                "lat": 31.02663,
+                "lng": 119.91011,
+                "id": "00100400070004",
+                "regionId": "00100400070004",
+                "location": "长兴",
+                "city": "湖州市",
+                "province": "浙江省",
+                "country": "中国",
+                "visitTimes": null,
+                "visitYears": [],
+                "detail": [
+                    "1034-1049年 ，55-70岁",
+                    "1034年 本年，居吴山解空院。",
+                    "1035年 本年，居吴山解空院，收净端为徒。",
+                    "1036-1049年 本年，居吴山解空院。"
+                ]
+            }
+        ]
+    },
+    "trajectoryEmbedding": {}
+}

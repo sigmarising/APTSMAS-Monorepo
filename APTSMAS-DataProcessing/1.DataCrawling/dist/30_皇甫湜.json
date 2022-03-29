@@ -1,0 +1,640 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 29.61521,
+            "CenterLongitude": 119.048462,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "8fc7b3ac5b3041cbac6ba4e08767bbe4",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "4e46376e5847433b913e47b70c691eb3",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "3a81326c9eee46a8b03a80d43f3629e9",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "62f85fd0907840b6ab8af1b109161da6",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "d024c5b5b71844ee95020b4c6d55713d",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "de36ff3cbeec4f3fb2a1b61a3dbf4146",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4f6e891a552e42b0a9f69c0933efb1ad",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "b6666a24b257489ab13571068442fcee",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "d8ff3d73554f4215a3146e36cf14524d",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "8c27297e8fdd42baaba9af2d41ee2df8",
+                            "Latitude": 34.550316,
+                            "Longitude": 110.253065,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN610522",
+                            "Title": "潼关"
+                        },
+                        {
+                            "Id": "42189b58a2df4c7eb61bfc9df0c61c5c",
+                            "Latitude": 34.778442,
+                            "Longitude": 111.206832,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4112",
+                            "Title": "三门峡"
+                        },
+                        {
+                            "Id": "c5812047b3f3460292fc87ec21eb9dfb",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "f7b1501df08248abb0ce6cbee1797671",
+                            "Latitude": 34.459775,
+                            "Longitude": 113.056704,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410185",
+                            "Title": "登封"
+                        },
+                        {
+                            "Id": "b48d874642bc4c81bcf7e80fbbd6140b",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "edc93d6bebf948cc86ad9c7e349955e1",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "f659ef59ec5f4f4b90f9f19a39c98fd8",
+                            "Latitude": 28.687675,
+                            "Longitude": 115.864528,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3601",
+                            "Title": "南昌"
+                        },
+                        {
+                            "Id": "0af82eab3c37434eb905d2ddb6a6be3d",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "00cde71fe2a8411a98b0d146505cc094",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "203caa190aae49a6a15326d7ccc3d3c7",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "b98bb6c7d593490593f1d659a4a0a2d5",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "be7bde478e344d6eba8908a833e4df6f",
+                            "Latitude": 34.140833,
+                            "Longitude": 112.092107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410325",
+                            "Title": "嵩县"
+                        },
+                        {
+                            "Id": "ca81adc18c224b45a004b02d7195563c",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "4211fdfaf4724a8ca40298f1d010b1f5",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "814162bf029d4a7c81bfb55f8b64bb8d",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "67f7bff7b33846fd8774a88f3248f30a",
+                            "Latitude": 26.586455,
+                            "Longitude": 111.84657,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN431121",
+                            "Title": "祁阳"
+                        },
+                        {
+                            "Id": "4f6e7cf235be4fa18ca28cfb65fce669",
+                            "Latitude": 29.61521,
+                            "Longitude": 119.048462,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN330127",
+                            "Title": "淳安"
+                        },
+                        {
+                            "Id": "2e32e66381da4ca68a37daeabcecfd43",
+                            "Latitude": 24.816174,
+                            "Longitude": 113.603757,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4402",
+                            "Title": "韶关"
+                        },
+                        {
+                            "Id": "193df2cee0344016a15828f2555904b7",
+                            "Latitude": 27.119751,
+                            "Longitude": 115.00027,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3608",
+                            "Title": "吉安"
+                        },
+                        {
+                            "Id": "613b33eb2cda42f7b8136273a98ab8bc",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "b9c319ee08aa4fbdbeb2fd214ad0f75b",
+                            "Latitude": 30.06431,
+                            "Longitude": 112.235979,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421022",
+                            "Title": "公安"
+                        },
+                        {
+                            "Id": "555d364d2ea94f06ad5cb7e366cdc19b",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "58591cf7d2794ce6861d32c6dfe90e0c",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "474a9fb802944dacba854c274d6aaedb",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "1fa05d9f65e5431cbcccbd7c94549f50",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "27b5cc7c1d4a4321956538b9128df1cd",
+                            "Latitude": 32.39986,
+                            "Longitude": 119.419107,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN321",
+                            "Title": "扬州"
+                        },
+                        {
+                            "Id": "b4c095a75d9e42edb19328e0c2928eab",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "300d3fea2762406a91b8f199d4cb7fc8",
+                            "Latitude": 25.279893,
+                            "Longitude": 110.296442,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4503",
+                            "Title": "桂林"
+                        },
+                        {
+                            "Id": "2b69f681416f43a4bb227404e270c4b3",
+                            "Latitude": 34.793837,
+                            "Longitude": 113.389911,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN410182",
+                            "Title": "荥阳"
+                        },
+                        {
+                            "Id": "f169937d5f844948a8cda8a38a62b64f",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "578b96f8d2d34a3381fb9e06d520ae9c",
+                            "Latitude": 32.014789,
+                            "Longitude": 112.129089,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4206",
+                            "Title": "襄阳"
+                        },
+                        {
+                            "Id": "982a6254d24e4bb9a7423ffbac5b6cd1",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        },
+                        {
+                            "Id": "9b1856ce88934f0995a488287dd10429",
+                            "Latitude": 34.347436,
+                            "Longitude": 108.946306,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6101",
+                            "Title": "西安"
+                        },
+                        {
+                            "Id": "1246fcb55b814c098424ccade98ecb6d",
+                            "Latitude": 34.624376,
+                            "Longitude": 112.460033,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4103",
+                            "Title": "洛阳"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 29.61521,
+                    "Longitude": 119.048462,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN330127",
+                    "Title": "淳安 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8fc7b3ac5b3041cbac6ba4e08767bbe4\");'><span id='8fc7b3ac5b3041cbac6ba4e08767bbe4_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=787&endYear=799')\">787-799年</a>，1-13岁</div><div id='8fc7b3ac5b3041cbac6ba4e08767bbe4' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=787&endYear=787')\">787年</a>　皇甫湜生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=788&endYear=799')\">788-799年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"3a81326c9eee46a8b03a80d43f3629e9\");'><span id='3a81326c9eee46a8b03a80d43f3629e9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=801&endYear=801')\">801年</a>，15岁</div><div id='3a81326c9eee46a8b03a80d43f3629e9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=801&endYear=801')\">801年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"edc93d6bebf948cc86ad9c7e349955e1\");'><span id='edc93d6bebf948cc86ad9c7e349955e1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='edc93d6bebf948cc86ad9c7e349955e1' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，归家小住后，决意远赴岭南，行前作《答刘敦质书》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，家居数月，不耐其寂，作《东还赋》以明志。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"0af82eab3c37434eb905d2ddb6a6be3d\");'><span id='0af82eab3c37434eb905d2ddb6a6be3d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='0af82eab3c37434eb905d2ddb6a6be3d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　本年，入江西未能遂愿，后返家，作《让风》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"203caa190aae49a6a15326d7ccc3d3c7\");'><span id='203caa190aae49a6a15326d7ccc3d3c7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>，22岁</div><div id='203caa190aae49a6a15326d7ccc3d3c7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　本年，10月前，曾南返还家，作《公是》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4f6e7cf235be4fa18ca28cfb65fce669\");'><span id='4f6e7cf235be4fa18ca28cfb65fce669_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=814')\">813-814年</a>，27-28岁</div><div id='4f6e7cf235be4fa18ca28cfb65fce669' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=813')\">813年4月3日</a>　四月，贬睦州(今浙江淳安)，作《睦州录事参军厅壁记》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=813')\">813年</a>　本年，寄文李翱，与翱、愈等书信相往。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=813')\">813年</a>　本年，撰《池州大厅壁记》一篇。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=813&endYear=813')\">813年</a>　另湜集有《鹤处鸡群赋》一篇，疑为此间之作。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=814&endYear=814')\">814年</a>　疑仍在睦州。<br /></div>"
+                },
+                {
+                    "Latitude": 32.39986,
+                    "Longitude": 119.419107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN321",
+                    "Title": "扬州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4e46376e5847433b913e47b70c691eb3\");'><span id='4e46376e5847433b913e47b70c691eb3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=800&endYear=800')\">800年</a>，14岁</div><div id='4e46376e5847433b913e47b70c691eb3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=800&endYear=800')\">800年</a>　本年，于扬州拜谒顾况。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b48d874642bc4c81bcf7e80fbbd6140b\");'><span id='b48d874642bc4c81bcf7e80fbbd6140b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='b48d874642bc4c81bcf7e80fbbd6140b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　途经扬州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"27b5cc7c1d4a4321956538b9128df1cd\");'><span id='27b5cc7c1d4a4321956538b9128df1cd_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')\">821年</a>，35岁</div><div id='27b5cc7c1d4a4321956538b9128df1cd' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')\">821年</a>　本年，居李夷简幕中。<br /></div>"
+                },
+                {
+                    "Latitude": 34.347436,
+                    "Longitude": 108.946306,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6101",
+                    "Title": "西安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"62f85fd0907840b6ab8af1b109161da6\");'><span id='62f85fd0907840b6ab8af1b109161da6_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>，16岁</div><div id='62f85fd0907840b6ab8af1b109161da6' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　本年，西赴长安，以应来年试。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"de36ff3cbeec4f3fb2a1b61a3dbf4146\");'><span id='de36ff3cbeec4f3fb2a1b61a3dbf4146_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=803')\">802-803年</a>，16-17岁</div><div id='de36ff3cbeec4f3fb2a1b61a3dbf4146' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　本年，初识韩愈，并同愈共访牛僧孺。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　本年，与独孤申叔交，四月，申叔卒，湜作文以悼之。<span class='label'>作品：</span>《伤独孤赋》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年</a>　本年，初次应举，落第后羁留长安。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"d8ff3d73554f4215a3146e36cf14524d\");'><span id='d8ff3d73554f4215a3146e36cf14524d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=804&endYear=805')\">804-805年</a>，18-19岁</div><div id='d8ff3d73554f4215a3146e36cf14524d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=804&endYear=804')\">804年</a>　本年停贡举，疑仍滞京师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　本年，三度赴试，终以榜落，愤而返家。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"00cde71fe2a8411a98b0d146505cc094\");'><span id='00cde71fe2a8411a98b0d146505cc094_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=808')\">805-808年</a>，19-22岁</div><div id='00cde71fe2a8411a98b0d146505cc094' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　本年，再度赴京求售，马异作《送皇甫湜赴举》一诗以送。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=806&endYear=806')\">806年2月</a>　本年二月，登进士第。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=807&endYear=807')\">807年</a>　本年，李贺赴省试，十月前以《雁门太守行》诗谒韩愈，时有谤议，以为贺当避父讳，不宜举进士，愈、湜以时议为非，愈作《讳辨》以辨之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　本年，湜赴制举，韦处厚作《上宰相荐皇甫湜书》，随进湜文八篇。<span class='label'>作品：</span>《山鸡舞镜赋》<span class='inlineComment2'>（作者指出，今人杨军《皇甫提评传》一文系此赋于贞元十一年，并认为该文值得商榷，有不妥之处。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　在京，有《论进奉书》文。<span class='label'>作品：</span>《论进奉书》<span class='inlineComment2'>（作年不详，暂置于此。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年3月</a>　三月，登直言极谏、贤良方正科，擢居异等；然因苦诋时政，未能按常例调选，出为陆浑尉，考、覆官亦随之贬。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年5月</a>　五月，左拾遗充翰林学士白居易上《论制科人状》，为皇甫湜等抗辩。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　本年，释褐陆浑尉。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"ca81adc18c224b45a004b02d7195563c\");'><span id='ca81adc18c224b45a004b02d7195563c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=810')\">810年</a>，24岁</div><div id='ca81adc18c224b45a004b02d7195563c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=810')\">810年</a>　本年，迁殿中侍御史。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"814162bf029d4a7c81bfb55f8b64bb8d\");'><span id='814162bf029d4a7c81bfb55f8b64bb8d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=811&endYear=812')\">811-812年</a>，25-26岁</div><div id='814162bf029d4a7c81bfb55f8b64bb8d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=811&endYear=811')\">811年</a>　疑已返京。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=812&endYear=812')\">812年</a>　约于本年迁职内供奉。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"474a9fb802944dacba854c274d6aaedb\");'><span id='474a9fb802944dacba854c274d6aaedb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=818&endYear=820')\">818-820年</a>，32-34岁</div><div id='474a9fb802944dacba854c274d6aaedb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=818&endYear=818')\">818年</a>　疑在京师。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=819&endYear=819')\">819年1月</a>　正月，韩愈贬潮州，有僧简师，欲相追随，问序于湜，湜作《送简师序》以送之。<span class='label'>作品：</span>《送简师序》<span class='inlineComment2'>（疑居于京洛一带，暂置于京师。）</span><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=819&endYear=819')\">819年1月</a>　本年，湜集有《送孙生序》一篇，疑亦作于宪宗迎佛骨事、韩愈上书被贬之际。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=819&endYear=819')\">819年1月</a>　本年，湜子皇甫松约生于本年。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=820&endYear=820')\">820年7月</a>　上年柳宗元卒于柳州，本年归葬长安。七月左右，湜作《祭柳子厚文》，临水悼之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=820&endYear=820')\">820年7月</a>　七月后，从李夷简于淮南。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b4c095a75d9e42edb19328e0c2928eab\");'><span id='b4c095a75d9e42edb19328e0c2928eab_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=822&endYear=825')\">822-825年</a>，36-39岁</div><div id='b4c095a75d9e42edb19328e0c2928eab' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=822&endYear=822')\">822年3月</a>　三月，府罢，随夷简入京，擢(左、右)补阙。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=823&endYear=823')\">823年</a>　本年，当在京任职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年</a>　本年，擢四门博士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=824&endYear=824')\">824年8月</a>　八月，韩愈疾剧，知其不免，寄书言皇甫湜，嘱其叙铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年1月</a>　正月，韩愈之子韩昶持父生平仕录往赴湜所，敦请为铭。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年3月</a>　三月，愈葬河阳，湜作《韩文公墓志铭》等以祭之。<span class='label'>作品：</span>《韩文公墓志铭》《韩愈神道碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年3月</a>　三月，愈葬河阳，湜作《韩愈神道碑》等以祭之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9b1856ce88934f0995a488287dd10429\");'><span id='9b1856ce88934f0995a488287dd10429_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=833')\">830-833年</a>，44-47岁</div><div id='9b1856ce88934f0995a488287dd10429' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')\">830年</a>　本年，入为员外郎。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=831&endYear=832')\">831-832年</a>　本年，在京任职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=833&endYear=833')\">833年</a>　本年，迁祠部郎中，因数忤同省，自求分司。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"d024c5b5b71844ee95020b4c6d55713d\");'><span id='d024c5b5b71844ee95020b4c6d55713d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>，16岁</div><div id='d024c5b5b71844ee95020b4c6d55713d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')\">802年</a>　本年，西赴长安途中取道湖北，于江陵作《荆南节度判官壁记》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"555d364d2ea94f06ad5cb7e366cdc19b\");'><span id='555d364d2ea94f06ad5cb7e366cdc19b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>，31岁</div><div id='555d364d2ea94f06ad5cb7e366cdc19b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>　游江陵，与王胶善。<br /></div>"
+                },
+                {
+                    "Latitude": 34.624376,
+                    "Longitude": 112.460033,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4103",
+                    "Title": "洛阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4f6e891a552e42b0a9f69c0933efb1ad\");'><span id='4f6e891a552e42b0a9f69c0933efb1ad_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年</a>，17岁</div><div id='4f6e891a552e42b0a9f69c0933efb1ad' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年10月</a>　十月，历游河南一带。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c5812047b3f3460292fc87ec21eb9dfb\");'><span id='c5812047b3f3460292fc87ec21eb9dfb_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='c5812047b3f3460292fc87ec21eb9dfb' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　途经洛阳。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b98bb6c7d593490593f1d659a4a0a2d5\");'><span id='b98bb6c7d593490593f1d659a4a0a2d5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>，22岁</div><div id='b98bb6c7d593490593f1d659a4a0a2d5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年10月</a>　十月，经洛阳，李贺作《仁和里杂叙皇甫湜》送之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4211fdfaf4724a8ca40298f1d010b1f5\");'><span id='4211fdfaf4724a8ca40298f1d010b1f5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=810&endYear=810')\">810年</a>，24岁</div><div id='4211fdfaf4724a8ca40298f1d010b1f5' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>湜迁殿中侍御史后，右巡东都，与愈联袂同访李贺，贺作《高轩过》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，冬与李贺别，贺有《洛阳城外别皇甫湜》一诗，为留别之作。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"f169937d5f844948a8cda8a38a62b64f\");'><span id='f169937d5f844948a8cda8a38a62b64f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=827&endYear=828')\">827-828年</a>，41-42岁</div><div id='f169937d5f844948a8cda8a38a62b64f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=827&endYear=827')\">827年</a>　本年，游洛下，诲谕邱生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=828')\">828年3月</a>　本年，三月左右，送邱生赴京，作《送邱儒生序》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"982a6254d24e4bb9a7423ffbac5b6cd1\");'><span id='982a6254d24e4bb9a7423ffbac5b6cd1_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=829')\">828-829年</a>，42-43岁</div><div id='982a6254d24e4bb9a7423ffbac5b6cd1' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=828')\">828年10月</a>　十月后，返洛阳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年</a>　本年，居洛阳。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=829&endYear=829')\">829年9月</a>　九月，顾非熊北上敦请，湜遂作《唐故著作佐郎顾况集序》<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"1246fcb55b814c098424ccade98ecb6d\");'><span id='1246fcb55b814c098424ccade98ecb6d_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=835')\">834-835年</a>，48-49岁</div><div id='1246fcb55b814c098424ccade98ecb6d' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年3月</a>　三月，从裴度东都留守府判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年</a>　本年，皇甫湜在入裴度幕初，作《醉赋》以自省。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年</a>　本年，裴度修福先寺，湜自请作《福先寺碑》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=834&endYear=834')\">834年</a>　本年，与白居易游，乐天有《访皇甫七》一诗，当作于是时。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年9月</a>　九月左右，作《谕业》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=835&endYear=835')\">835年11月</a>　十一月，卒，白居易有诗哭之。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b6666a24b257489ab13571068442fcee\");'><span id='b6666a24b257489ab13571068442fcee_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年</a>，17岁</div><div id='b6666a24b257489ab13571068442fcee' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=803&endYear=803')\">803年</a>　本年，于宋州遇周子桑卒，作《悲汝南周子桑文》以哀之。<span class='label'>作品：</span>《悲汝南周子桑文》<span class='inlineComment2'>（按：周子桑死于当年十月初十，该文应该作于此后，但具体日期不详。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 34.550316,
+                    "Longitude": 110.253065,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN610522",
+                    "Title": "潼关",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8c27297e8fdd42baaba9af2d41ee2df8\");'><span id='8c27297e8fdd42baaba9af2d41ee2df8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='8c27297e8fdd42baaba9af2d41ee2df8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　返家时途经潼关。<br /></div>"
+                },
+                {
+                    "Latitude": 34.778442,
+                    "Longitude": 111.206832,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4112",
+                    "Title": "三门峡",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"42189b58a2df4c7eb61bfc9df0c61c5c\");'><span id='42189b58a2df4c7eb61bfc9df0c61c5c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='42189b58a2df4c7eb61bfc9df0c61c5c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　途经河南硖石。<br /></div>"
+                },
+                {
+                    "Latitude": 34.459775,
+                    "Longitude": 113.056704,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410185",
+                    "Title": "登封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f7b1501df08248abb0ce6cbee1797671\");'><span id='f7b1501df08248abb0ce6cbee1797671_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='f7b1501df08248abb0ce6cbee1797671' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　途经嵩山。<br /></div>"
+                },
+                {
+                    "Latitude": 28.687675,
+                    "Longitude": 115.864528,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3601",
+                    "Title": "南昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f659ef59ec5f4f4b90f9f19a39c98fd8\");'><span id='f659ef59ec5f4f4b90f9f19a39c98fd8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>，19岁</div><div id='f659ef59ec5f4f4b90f9f19a39c98fd8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=805&endYear=805')\">805年</a>　本年，入江西，投刺观察使李巽，作《上江西李大夫书》，以期叙用，未能遂愿。<br /></div>"
+                },
+                {
+                    "Latitude": 34.140833,
+                    "Longitude": 112.092107,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410325",
+                    "Title": "嵩县",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"be7bde478e344d6eba8908a833e4df6f\");'><span id='be7bde478e344d6eba8908a833e4df6f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=809')\">808-809年</a>，22-23岁</div><div id='be7bde478e344d6eba8908a833e4df6f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　本年，至陆浑，与愈歌诗往来。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=808&endYear=808')\">808年</a>　工史论，作《东晋元魏正闰论》<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=809&endYear=809')\">809年</a>　秋，李贺往陆浑访湜，有《官不来，题皇甫湜先辈厅》一诗。<br /></div>"
+                },
+                {
+                    "Latitude": 26.586455,
+                    "Longitude": 111.84657,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN431121",
+                    "Title": "祁阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"67f7bff7b33846fd8774a88f3248f30a\");'><span id='67f7bff7b33846fd8774a88f3248f30a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=812&endYear=812')\">812年</a>，26岁</div><div id='67f7bff7b33846fd8774a88f3248f30a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=812&endYear=812')\">812年</a>　湜迁职内供奉后，游永州祁阳，题石痦亭，作《题浯溪石》<div id='poem_41239' class='_poem'><div id='poem_title_41239' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=41239' class='poemCommentLink' target='_blank'>题浯溪石</a><a href='javascript: ShowPoemAuthorProfile(18842, \"唐\", \"皇甫湜\", \"poem_title_41239\")'><span class='poemAuthor'><span class='inlineComment1'> 唐·</span>皇甫湜</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_41239_comment'></div><div class='poemContent' id='poem_content_41239'><div class='poemSentence' id='poem_sentence_0_41239'>次山有文章，可惋只在碎。</div><div id='poem_sentence_0_41239_comment'></div><div class='poemSentence' id='poem_sentence_1_41239'>然长于指叙，约洁有馀态。</div><div id='poem_sentence_1_41239_comment'></div><div class='poemSentence' id='poem_sentence_2_41239'>心语适相应，出句多分外。</div><div id='poem_sentence_2_41239_comment'></div><div class='poemSentence' id='poem_sentence_3_41239'>于诸作者间，<span class='link' onclick='ShowWordComment(\"poem_sentence_3_41239\", 41239, \"Clauses/7/Comments/0\")'>拔戟成一队</span>。</div><div id='poem_sentence_3_41239_comment'></div><div class='poemSentence' id='poem_sentence_4_41239'>中行虽富剧，<span class='link' onclick='ShowWordComment(\"poem_sentence_4_41239\", 41239, \"Clauses/9/Comments/1\")'>粹美</span>若<span class='inlineComment2'>（一作君）</span>可盖。</div><div id='poem_sentence_4_41239_comment'></div><div class='poemSentence' id='poem_sentence_5_41239'>子昂感遇佳，未若君雅裁。</div><div id='poem_sentence_5_41239_comment'></div><div class='poemSentence' id='poem_sentence_6_41239'>退之全而神，上与千载对。</div><div id='poem_sentence_6_41239_comment'></div><div class='poemSentence' id='poem_sentence_7_41239'>李杜才海翻，高下非可概。</div><div id='poem_sentence_7_41239_comment'></div><div class='poemSentence' id='poem_sentence_8_41239'>文与<span class='inlineComment2'>（一作于）</span>一气间，为物莫与大。</div><div id='poem_sentence_8_41239_comment'></div><div class='poemSentence' id='poem_sentence_9_41239'>先王路不荒，岂不仰吾辈。</div><div id='poem_sentence_9_41239_comment'></div><div class='poemSentence' id='poem_sentence_10_41239'>石屏立<span class='link' onclick='ShowWordComment(\"poem_sentence_10_41239\", 41239, \"Clauses/20/Comments/0\")'>衙衙</span>，溪口扬素濑。</div><div id='poem_sentence_10_41239_comment'></div><div class='poemSentence' id='poem_sentence_11_41239'>我思何人知，徙倚如有待。</div><div id='poem_sentence_11_41239_comment'></div><div class='poemSentence' id='poem_sentence_12_41239'></div><div id='poem_sentence_12_41239_comment'></div></div><div class='poemComment' id='poem_comment_41239'><a href='javascript: ShowPoemComment(41239)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 24.816174,
+                    "Longitude": 113.603757,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4402",
+                    "Title": "韶关",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2e32e66381da4ca68a37daeabcecfd43\");'><span id='2e32e66381da4ca68a37daeabcecfd43_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=815&endYear=815')\">815年</a>，29岁</div><div id='2e32e66381da4ca68a37daeabcecfd43' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，在韶州(今广东韶关)，作《朝阳楼记》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，在韶州(今广东韶关)，作《春心》<br /></div>"
+                },
+                {
+                    "Latitude": 27.119751,
+                    "Longitude": 115.00027,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3608",
+                    "Title": "吉安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"193df2cee0344016a15828f2555904b7\");'><span id='193df2cee0344016a15828f2555904b7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=816&endYear=816')\">816年</a>，30岁</div><div id='193df2cee0344016a15828f2555904b7' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，贬吉州(今江西吉安)，作《吉州庐陵县令厅壁记》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，贬吉州(今江西吉安)，作《吉州刺史厅壁记》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，贬吉州(今江西吉安)，作《庐陵香城寺碣》<br /></div>"
+                },
+                {
+                    "Latitude": 32.014789,
+                    "Longitude": 112.129089,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4206",
+                    "Title": "襄阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"613b33eb2cda42f7b8136273a98ab8bc\");'><span id='613b33eb2cda42f7b8136273a98ab8bc_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>，31岁</div><div id='613b33eb2cda42f7b8136273a98ab8bc' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>　本年，从山南东道节度使李恕于襄阳。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"58591cf7d2794ce6861d32c6dfe90e0c\");'><span id='58591cf7d2794ce6861d32c6dfe90e0c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>，31岁</div><div id='58591cf7d2794ce6861d32c6dfe90e0c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年5月</a>　五月，府罢，北返。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"1fa05d9f65e5431cbcccbd7c94549f50\");'><span id='1fa05d9f65e5431cbcccbd7c94549f50_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=820&endYear=820')\">820年</a>，34岁</div><div id='1fa05d9f65e5431cbcccbd7c94549f50' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=820&endYear=820')\">820年</a>　途经襄阳时，贾岛作《送皇甫侍御》诗送之。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"578b96f8d2d34a3381fb9e06d520ae9c\");'><span id='578b96f8d2d34a3381fb9e06d520ae9c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=828&endYear=828')\">828年</a>，42岁</div><div id='578b96f8d2d34a3381fb9e06d520ae9c' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，复从山南东道节度使李逢吉于襄阳。遇顾况之子非熊，允其代作顾况文集序之请。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>疑本年十月以前，皇甫湜尚佐襄阳之际，作有《唐衡岳寺大德瑗公碑》<br /></div>"
+                },
+                {
+                    "Latitude": 30.06431,
+                    "Longitude": 112.235979,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421022",
+                    "Title": "公安",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b9c319ee08aa4fbdbeb2fd214ad0f75b\");'><span id='b9c319ee08aa4fbdbeb2fd214ad0f75b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>，31岁</div><div id='b9c319ee08aa4fbdbeb2fd214ad0f75b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=817&endYear=817')\">817年</a>　本年，四月，游公安园池，寄诗韩愈、白居易。<br /></div>"
+                },
+                {
+                    "Latitude": 25.279893,
+                    "Longitude": 110.296442,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4503",
+                    "Title": "桂林",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"300d3fea2762406a91b8f199d4cb7fc8\");'><span id='300d3fea2762406a91b8f199d4cb7fc8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>，39岁</div><div id='300d3fea2762406a91b8f199d4cb7fc8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=825&endYear=825')\">825年</a>　本年，赴桂州，为李渤桂管节度使府从事。<br /></div>"
+                },
+                {
+                    "Latitude": 34.793837,
+                    "Longitude": 113.389911,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN410182",
+                    "Title": "荥阳",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2b69f681416f43a4bb227404e270c4b3\");'><span id='2b69f681416f43a4bb227404e270c4b3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=826&endYear=826')\">826年</a>，40岁</div><div id='2b69f681416f43a4bb227404e270c4b3' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，返河阴，与邱生游。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>本年，湜有《护国寺威师碣》一篇，未知确年，疑作于本年。因《护国寺威师碣》曰:“诏置护国寺于河阴”，此与皇甫湜之居地同，疑为此间之作。<br /></div>"
+                },
+                {
+                    "Latitude": 34.523694,
+                    "Longitude": 113.014821,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4101 嵩山",
+                    "Title": "嵩山",
+                    "RequestUri": "scope=当代/登封市嵩山&author=皇甫湜&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "皇甫湜 <span class='inlineComment2'>(787-835)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：李芊《皇甫湜年谱简编》　录入整理：王秀林</p><p><a href=\"javascript: ViewRoute(0, 4, 114.1827065, 31.981323, 7, 0)\">1-16岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">淳安</a> → <a href=\"javascript: ViewPoint(1, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(2, 0)\">淳安</a> → <a href=\"javascript: ViewPoint(3, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(4, 15, 114.1827065, 32.196826, 7, 0)\">16-19岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(5, 0)\">西安</a> → <a href=\"javascript: ViewPoint(6, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(7, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(8, 0)\">西安</a> → <a href=\"javascript: ViewPoint(9, 0)\">潼关</a> → <a href=\"javascript: ViewPoint(10, 0)\">三门峡</a> → <a href=\"javascript: ViewPoint(11, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(12, 0)\">登封</a> → <a href=\"javascript: ViewPoint(13, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(14, 0)\">淳安</a></p><p><a href=\"javascript: ViewRoute(15, 20, 113.997384, 31.6560255, 7, 0)\">19-22岁</a><br /><a href=\"javascript: ViewPoint(15, 0)\">南昌</a> → <a href=\"javascript: ViewPoint(16, 0)\">淳安</a> → <a href=\"javascript: ViewPoint(17, 0)\">西安</a> → <a href=\"javascript: ViewPoint(18, 0)\">淳安</a> → <a href=\"javascript: ViewPoint(19, 0)\">洛阳</a></p><p><a href=\"javascript: ViewRoute(20, 29, 113.997384, 29.720275, 7, 0)\">22-31岁</a><br /><a href=\"javascript: ViewPoint(20, 0)\">嵩县</a> → <a href=\"javascript: ViewPoint(21, 0)\">西安</a> → <a href=\"javascript: ViewPoint(22, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(23, 0)\">西安</a> → <a href=\"javascript: ViewPoint(24, 0)\">祁阳</a> → <a href=\"javascript: ViewPoint(25, 0)\">淳安</a> → <a href=\"javascript: ViewPoint(26, 0)\">韶关</a> → <a href=\"javascript: ViewPoint(27, 0)\">吉安</a> → <a href=\"javascript: ViewPoint(28, 0)\">襄阳</a></p><p><a href=\"javascript: ViewRoute(29, 33, 110.6887295, 32.1977575, 8, 0)\">31-34岁</a><br /><a href=\"javascript: ViewPoint(29, 0)\">公安</a> → <a href=\"javascript: ViewPoint(30, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(31, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(32, 0)\">西安</a></p><p><a href=\"javascript: ViewRoute(33, 40, 114.1827065, 30.036865, 7, 0)\">34-42岁</a><br /><a href=\"javascript: ViewPoint(33, 0)\">襄阳</a> → <a href=\"javascript: ViewPoint(34, 0)\">扬州</a> → <a href=\"javascript: ViewPoint(35, 0)\">西安</a> → <a href=\"javascript: ViewPoint(36, 0)\">桂林</a> → <a href=\"javascript: ViewPoint(37, 0)\">荥阳</a> → <a href=\"javascript: ViewPoint(38, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(39, 0)\">襄阳</a></p><p><a href=\"javascript: ViewRoute(40, 43, 110.7031695, 34.485906, 9, 0)\">42-49岁</a><br /><a href=\"javascript: ViewPoint(40, 0)\">洛阳</a> → <a href=\"javascript: ViewPoint(41, 0)\">西安</a> → <a href=\"javascript: ViewPoint(42, 0)\">洛阳</a></p>"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.aptsmas.dataservice.mapper.EmbMapper">
+    <select id="getNormalPoetIdsById" resultType="java.lang.Integer">
+        SELECT poetId FROM emb_result
+        WHERE type = #{id} AND normal = 1
+        ORDER BY poetId ASC
+    </select>
+
+    <select id="getAbnormalPoetIdsById" resultType="java.lang.Integer">
+        SELECT poetId FROM emb_result
+        WHERE type = #{id} AND normal = 0
+        ORDER BY poetId ASC
+    </select>
+
+    <select id="getTypeNameById" resultType="java.lang.String">
+        SELECT name FROM emb_detail
+        WHERE type = #{id}
+    </select>
+</mapper>

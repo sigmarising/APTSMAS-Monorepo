@@ -1,0 +1,370 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 31.473364,
+            "CenterLongitude": 104.686164,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "31382775650e4ef3a594718f25d46d3f",
+                            "Latitude": 31.473364,
+                            "Longitude": 104.686164,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5107",
+                            "Title": "绵阳"
+                        },
+                        {
+                            "Id": "86e56bbf442d428c861069a04ba6a725",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "17dda647be0243f388ca90f02bece8ea",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "20e6e28c25ab420f91e293492d8449a9",
+                            "Latitude": 31.473364,
+                            "Longitude": 104.686164,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5107",
+                            "Title": "绵阳"
+                        },
+                        {
+                            "Id": "c5cc7fc5e8654cd3b63368bc2ee00359",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "26b244ff1e184155b25abc4962d8d47b",
+                            "Latitude": 30.081369,
+                            "Longitude": 103.85507,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN5114",
+                            "Title": "眉山"
+                        },
+                        {
+                            "Id": "de55457c964142fc9ebffbf8878fb2f3",
+                            "Latitude": 33.07382,
+                            "Longitude": 107.030197,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN6107",
+                            "Title": "汉中"
+                        },
+                        {
+                            "Id": "2570d5f2edd24ff2af9bcf0429b49371",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "a2186cd74392481d906e367b7bed60d8",
+                            "Latitude": 33.850774,
+                            "Longitude": 115.785767,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3416",
+                            "Title": "亳州"
+                        },
+                        {
+                            "Id": "32ae97af7e13401d963215363257b63f",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "52504171963844b19d34521680195f49",
+                            "Latitude": 31.304566,
+                            "Longitude": 120.589613,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3205",
+                            "Title": "苏州"
+                        },
+                        {
+                            "Id": "4bce30a024794df7b633d2e66a5335f3",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        },
+                        {
+                            "Id": "edbf9c54b960443993ed9d0a37d1af97",
+                            "Latitude": 31.014847,
+                            "Longitude": 120.639402,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN320509",
+                            "Title": "吴江"
+                        },
+                        {
+                            "Id": "f77d6510f701450db5ee8f61670df18e",
+                            "Latitude": 32.195688,
+                            "Longitude": 119.431494,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3211",
+                            "Title": "镇江"
+                        },
+                        {
+                            "Id": "918ee01681fb41aba2fc28cab4fd7d4c",
+                            "Latitude": 34.802941,
+                            "Longitude": 114.313904,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4102",
+                            "Title": "开封"
+                        },
+                        {
+                            "Id": "b81a1ef08b9a4ad48c269c31a9eab07a",
+                            "Latitude": 30.048079,
+                            "Longitude": 112.431153,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN421024",
+                            "Title": "江陵"
+                        },
+                        {
+                            "Id": "9bbf7e7429d346f8a256e455d485dd08",
+                            "Latitude": 34.420378,
+                            "Longitude": 115.662798,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4114",
+                            "Title": "商丘"
+                        },
+                        {
+                            "Id": "8d2a50f9e0054092890a70fb7b07e85e",
+                            "Latitude": 29.836628,
+                            "Longitude": 115.221728,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN420222",
+                            "Title": "阳新"
+                        },
+                        {
+                            "Id": "8a062f4f779349c5b31d0c5897390685",
+                            "Latitude": 34.210143,
+                            "Longitude": 117.29235,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3203",
+                            "Title": "徐州"
+                        },
+                        {
+                            "Id": "6af0c4004adb4454bea3d3448db0b666",
+                            "Latitude": 30.280059,
+                            "Longitude": 120.161693,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN3301",
+                            "Title": "杭州"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 31.473364,
+                    "Longitude": 104.686164,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5107",
+                    "Title": "绵阳 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"31382775650e4ef3a594718f25d46d3f\");'><span id='31382775650e4ef3a594718f25d46d3f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1052')\">1027-1052年</a>，1-26岁</div><div id='31382775650e4ef3a594718f25d46d3f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')\">1027年</a>　是年杨绘生。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1052')\">1028-1052年</a>　居乡。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"20e6e28c25ab420f91e293492d8449a9\");'><span id='20e6e28c25ab420f91e293492d8449a9_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1058')\">1056-1058年</a>，30-32岁</div><div id='20e6e28c25ab420f91e293492d8449a9' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1058')\">1056-1058年</a>　在绵竹丁父忧。<br /></div>"
+                },
+                {
+                    "Latitude": 34.802941,
+                    "Longitude": 114.313904,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4102",
+                    "Title": "开封",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"86e56bbf442d428c861069a04ba6a725\");'><span id='86e56bbf442d428c861069a04ba6a725_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年</a>，27岁</div><div id='86e56bbf442d428c861069a04ba6a725' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')\">1053年</a>　参加御试，擢进士第二人。授大理评事、通判荆南府。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"c5cc7fc5e8654cd3b63368bc2ee00359\");'><span id='c5cc7fc5e8654cd3b63368bc2ee00359_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1061')\">1058-1061年</a>，32-35岁</div><div id='c5cc7fc5e8654cd3b63368bc2ee00359' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年</a>　丁父忧，服除，召试学士院，改太子中允。献《书意》、《诗旨》、《春秋辨要》十卷。<span class='label'>作品：</span>书意。诗旨。春秋辨要。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')\">1058年12月26日</a>　闰十二月二十六日，命为集贤校理。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')\">1059年</a>　以集贤校理任开封府推官，赐服绯鱼，权判官，剖决如流。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')\">1060年</a>　仁宗欲置之侍从，执政以其年少不用，改判三司户部勾院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')\">1061年</a>　判三司户部勾院。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"2570d5f2edd24ff2af9bcf0429b49371\");'><span id='2570d5f2edd24ff2af9bcf0429b49371_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1071')\">1067-1071年</a>，41-45岁</div><div id='2570d5f2edd24ff2af9bcf0429b49371' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年2月</a>　神宗召修起居注，进知制诰、知谏院，赐服金紫。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')\">1067年</a>　知谏院，有奏。<span class='label'>作品：</span>上神宗乞放内人景氏。上神宗论向传范知郓州。上神宗论不当差王中正等往外干事。上神宗乞因转对召访以事阅其能否。乞议祀章惠太后之礼奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年1月</a>　知谏院，正月丙申，上奏唐介除参知政事权三司使。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年2月</a>　知谏院，有奏。<span class='label'>作品：</span>上神宗论种谔擅入西界。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　知谏院，是年有奏。<span class='label'>作品：</span>乞因转对召访以事阅其能否奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　公亮以其子判登闻鼓院，用所厚曾巩为史官，杨绘上奏以为曾公亮存私心，帝为寝其命，绘亦罢谏职。除兼侍读，辞不受。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年4月</a>　再知谏院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')\">1068年</a>　以母忧去官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　杨绘言章惠太后事，乞下有司详议礼官复申治平之义，神宗听其言，别祭章惠太后于奉慈庙。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')\">1069年</a>　再知谏院。有奏。<span class='label'>作品：</span>上神宗乞酌古今之宜限服纪之礼。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年9月</a>　杨绘为翰林学士。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')\">1070年12月</a>　杨绘东免役有难行者五。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年2月5日</a>　任翰林学士。有奏。<span class='label'>作品：</span>论检正官奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年4月</a>　杨绘权御使中丞。有奏。<span class='label'>作品：</span>论王安石奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年5月</a>　权御使中丞，上言论权盐铁副使潘宿非材，勿使权户部副使。有奏。<span class='label'>作品：</span>论助役奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年5月</a>　权御使中丞，有奏。<span class='label'>作品：</span>论旧臣多求退奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年5月</a>　权御使中丞。附议刘挚奏，乞重行贬窜以谢疲民，上未听。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年6月</a>　权御使中丞，有奏。<span class='label'>作品：</span>再论助役奏。上神宗论谏官当人主自择。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年6月</a>　王安石奏杨绘不宜在言职。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年6月</a>　绘为富弼草词“天付忠纯”而忤王安石。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年7月</a>　权御使中丞，有奏。<span class='label'>作品：</span>言助役之法奏。又言助役之法奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年7月</a>　王安石怒，令曾布作《十难》且劾绘，绘作奏固执前议。<span class='label'>作品：</span>自辩论助役法四奏疏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>　权御使中丞，有奏。<span class='label'>作品：</span>论王安石之文有异志奏。京城公事并须送开封府奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年7月</a>　又言当复《春秋》，八月帝特命复《春秋三传》。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"918ee01681fb41aba2fc28cab4fd7d4c\");'><span id='918ee01681fb41aba2fc28cab4fd7d4c_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1077')\">1075-1077年</a>，49-51岁</div><div id='918ee01681fb41aba2fc28cab4fd7d4c' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年2月</a>　权发遣开封府，数旬有政声。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年12月</a>　十二月立春日肆筵，与陈汝义酬唱，陈汝义即席赋《减字木兰花》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')\">1075年12月</a>　绘兼侍读。是月有奏。<span class='label'>作品：</span>上神宗论李宪讨交趾奏。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年3月1日</a>　在翰林学士兼侍读任，有文。<span class='label'>作品：</span>婉容周氏进封贤妃册文。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')\">1076年3月</a>　三月辛巳，坐考校第一甲进士不当，罚铜十斤。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年3月</a>　在提举在京诸司库务任。蔡承禧《劾杨绘奏》，劾绘挟朝廷荐举之令，阴为奸利；绘亦奏王永年持执臣受珠事。<br /></div>"
+                },
+                {
+                    "Latitude": 30.048079,
+                    "Longitude": 112.431153,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN421024",
+                    "Title": "江陵",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"17dda647be0243f388ca90f02bece8ea\");'><span id='17dda647be0243f388ca90f02bece8ea_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1055')\">1054-1055年</a>，28-29岁</div><div id='17dda647be0243f388ca90f02bece8ea' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1055')\">1054-1055年</a>　任授大理评事，通判荆南府。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"b81a1ef08b9a4ad48c269c31a9eab07a\");'><span id='b81a1ef08b9a4ad48c269c31a9eab07a_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>，51岁</div><div id='b81a1ef08b9a4ad48c269c31a9eab07a' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年5月</a>　五月，责绘荆南节度副使。<br /></div>"
+                },
+                {
+                    "Latitude": 30.081369,
+                    "Longitude": 103.85507,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN5114",
+                    "Title": "眉山",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"26b244ff1e184155b25abc4962d8d47b\");'><span id='26b244ff1e184155b25abc4962d8d47b_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>，36岁</div><div id='26b244ff1e184155b25abc4962d8d47b' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')\">1062年</a>　以母老，得知眉州，奏课第一，徙知兴元府，在郡狱无系囚。<br /></div>"
+                },
+                {
+                    "Latitude": 33.07382,
+                    "Longitude": 107.030197,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN6107",
+                    "Title": "汉中",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"de55457c964142fc9ebffbf8878fb2f3\");'><span id='de55457c964142fc9ebffbf8878fb2f3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1066')\">1063-1066年</a>，37-40岁</div><div id='de55457c964142fc9ebffbf8878fb2f3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')\">1063年</a>　徙知兴元府，在郡狱无系囚。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')\">1064年</a>　十二月，中书进杨绘为修起居注，未准。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1066')\">1065-1066年</a>　知兴元府。<br /></div>"
+                },
+                {
+                    "Latitude": 33.850774,
+                    "Longitude": 115.785767,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3416",
+                    "Title": "亳州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a2186cd74392481d906e367b7bed60d8\");'><span id='a2186cd74392481d906e367b7bed60d8_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年</a>，45岁</div><div id='a2186cd74392481d906e367b7bed60d8' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')\">1071年7月</a>　杨绘罢学士、中丞二职，以翰林侍读贬知郑州，未行，改知亳州。<br /></div>"
+                },
+                {
+                    "Latitude": 34.420378,
+                    "Longitude": 115.662798,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4114",
+                    "Title": "商丘",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"32ae97af7e13401d963215363257b63f\");'><span id='32ae97af7e13401d963215363257b63f_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1074')\">1072-1074年</a>，46-48岁</div><div id='32ae97af7e13401d963215363257b63f' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')\">1072年</a>　徙知应天府，兼南京留守司事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')\">1073年</a>　知应天府，兼南京留守司事。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年6月</a>　六月己巳，知杭州。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"9bbf7e7429d346f8a256e455d485dd08\");'><span id='9bbf7e7429d346f8a256e455d485dd08_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1081')\">1077-1081年</a>，51-55岁</div><div id='9bbf7e7429d346f8a256e455d485dd08' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　数月，分司南京留守司事，改提举江州太平观。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')\">1077年</a>　过池阳见丘浚，浚语及改元为元丰之卦。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1080')\">1078-1080年</a>　提举江州太平观。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')\">1081年</a>　提举江州太平观。苏轼黄州临皋亭夜作《书游垂虹亭》，忆与杨绘、子野、鲁有开、陈舜俞、张子野过李公择于湖事。<br /></div>"
+                },
+                {
+                    "Latitude": 31.304566,
+                    "Longitude": 120.589613,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3205",
+                    "Title": "苏州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"52504171963844b19d34521680195f49\");'><span id='52504171963844b19d34521680195f49_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>，48岁</div><div id='52504171963844b19d34521680195f49' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年7月</a>　七月，杭妓往苏州，迓新守杨绘，苏轼赋《诉衷情》（钱塘风景古今奇）送陈襄，迎新守杨绘。<br /></div>"
+                },
+                {
+                    "Latitude": 30.280059,
+                    "Longitude": 120.161693,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301",
+                    "Title": "杭州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4bce30a024794df7b633d2e66a5335f3\");'><span id='4bce30a024794df7b633d2e66a5335f3_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>，48岁</div><div id='4bce30a024794df7b633d2e66a5335f3' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年8月</a>　杨绘到杭州任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年8月17日</a>　苏轼天竺山送桂花，分赠绘，作诗《次韵答元素》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年8月</a>　苏轼作《醉落魄》（分携如昨）赠绘。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>　绘知杭州有政绩。上言不必加孔子帝号、不宜用大辽历改闰月，神宗悉从之。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月</a>　复拜翰林学士兼侍读。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月8日</a>　苏轼由杭州通判密州，绘召为翰林学士，与苏轼饮别，苏轼赋《浣溪沙》（缥缈危楼紫翠间）。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月9日</a>　苏轼由杭州通判密州，绘召为翰林学士，与苏轼饮别，苏轼复赋《浣溪沙》（白雪清词出坐间）一首。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月17日</a>　与苏轼、宝臣游法惠寺，至法言舍同观王羲之《敬和帖》，有题。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月20日</a>　与鲁有开、陈舜愈、苏轼同游灵鹫山并题名。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月</a>　将行，杨绘与苏轼、张先饮于流杯堂，绘自撰腔《泛金船》，苏轼有和，张先唱以《劝金船》、《更漏子》。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年9月</a>　将行，杨绘再为饯别于西湖上，苏轼作《南乡子  和杨元素》。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"6af0c4004adb4454bea3d3448db0b666\");'><span id='6af0c4004adb4454bea3d3448db0b666_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1088')\">1087-1088年</a>，61-62岁</div><div id='6af0c4004adb4454bea3d3448db0b666' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年11月</a>　十一月庚申，以知徐州朝散大夫天章阁待制再知杭州，吏事敏给，主于爱下。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')\">1088年6月</a>　六月丁丑，杨绘卒于任。<br /></div>"
+                },
+                {
+                    "Latitude": 31.014847,
+                    "Longitude": 120.639402,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN320509",
+                    "Title": "吴江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"edbf9c54b960443993ed9d0a37d1af97\");'><span id='edbf9c54b960443993ed9d0a37d1af97_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>，48岁</div><div id='edbf9c54b960443993ed9d0a37d1af97' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>秋末去杭，与苏轼同舟，陈舜俞、张先从，过李公择于湖州。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>与苏轼、陈舜俞、张先、李常、刘述至松江，夜置酒垂虹亭上，诗词酬唱。<br /></div>"
+                },
+                {
+                    "Latitude": 32.195688,
+                    "Longitude": 119.431494,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3211",
+                    "Title": "镇江",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"f77d6510f701450db5ee8f61670df18e\");'><span id='f77d6510f701450db5ee8f61670df18e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年</a>，48岁</div><div id='f77d6510f701450db5ee8f61670df18e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')\">1074年10月</a>　赴翰林任与苏轼同行，至润州与苏轼别，以《菩萨蛮》词唱和。<span class='label'>作品：</span>菩萨蛮。<span class='inlineComment2'>（绘此去京师赴翰林学士任，所作词不传。）</span><br /></div>"
+                },
+                {
+                    "Latitude": 29.836628,
+                    "Longitude": 115.221728,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN420222",
+                    "Title": "阳新",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8d2a50f9e0054092890a70fb7b07e85e\");'><span id='8d2a50f9e0054092890a70fb7b07e85e_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1086')\">1082-1086年</a>，56-60岁</div><div id='8d2a50f9e0054092890a70fb7b07e85e' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')\">1082年</a>　起知兴国军。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')\">1083年</a>　在知兴国军任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')\">1084年4月7日</a>　在知兴国军任。与苏轼相聚后离别，苏轼不及石田已暮，作诗《自兴国往筠宿石田驿南二十五里野人舍》及词。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')\">1085年</a>　在知兴国军任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年4月</a>　在知兴国军任。四月，孙升上《乞令取索杨绘等诖误元案看详奏》。<br /></div>"
+                },
+                {
+                    "Latitude": 34.210143,
+                    "Longitude": 117.29235,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3203",
+                    "Title": "徐州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"8a062f4f779349c5b31d0c5897390685\");'><span id='8a062f4f779349c5b31d0c5897390685_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1087')\">1086-1087年</a>，60-61岁</div><div id='8a062f4f779349c5b31d0c5897390685' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')\">1086年</a>　是年知徐州至十一月。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1087&endYear=1087')\">1087年</a>　在知徐州任。春正月丁丑，复天章阁待制。<br /></div>"
+                },
+                {
+                    "Latitude": 30.225103,
+                    "Longitude": 120.097518,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301 天竺山",
+                    "Title": "天竺山",
+                    "RequestUri": "scope=当代/杭州市天竺山&author=杨绘&beginYear=0&endYear=0"
+                },
+                {
+                    "Latitude": 30.251772,
+                    "Longitude": 120.139058,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN3301 西湖",
+                    "Title": "西湖",
+                    "RequestUri": "scope=当代/杭州市西湖&author=杨绘&beginYear=0&endYear=0"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "杨绘 <span class='inlineComment2'>(1027-1088)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：柯贞金《杨绘行年考》、《杨绘行年考》　录入整理：柯贞金</p><p><a href=\"javascript: ViewRoute(0, 4, 109.500034, 32.42551, 7, 0)\">1-32岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">绵阳</a> → <a href=\"javascript: ViewPoint(1, 0)\">开封</a> → <a href=\"javascript: ViewPoint(2, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(3, 0)\">绵阳</a></p><p><a href=\"javascript: ViewRoute(4, 8, 109.084487, 32.442155, 7, 0)\">32-45岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">开封</a> → <a href=\"javascript: ViewPoint(5, 0)\">眉山</a> → <a href=\"javascript: ViewPoint(6, 0)\">汉中</a> → <a href=\"javascript: ViewPoint(7, 0)\">开封</a></p><p><a href=\"javascript: ViewRoute(8, 12, 118.1262055, 32.3502185, 8, 0)\">45-48岁</a><br /><a href=\"javascript: ViewPoint(8, 0)\">亳州</a> → <a href=\"javascript: ViewPoint(9, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(10, 0)\">苏州</a> → <a href=\"javascript: ViewPoint(11, 0)\">杭州</a></p><p><a href=\"javascript: ViewRoute(12, 20, 116.5352775, 32.3197845, 8, 0)\">48-62岁</a><br /><a href=\"javascript: ViewPoint(12, 0)\">吴江</a> → <a href=\"javascript: ViewPoint(13, 0)\">镇江</a> → <a href=\"javascript: ViewPoint(14, 0)\">开封</a> → <a href=\"javascript: ViewPoint(15, 0)\">江陵</a> → <a href=\"javascript: ViewPoint(16, 0)\">商丘</a> → <a href=\"javascript: ViewPoint(17, 0)\">阳新</a> → <a href=\"javascript: ViewPoint(18, 0)\">徐州</a> → <a href=\"javascript: ViewPoint(19, 0)\">杭州</a></p>"
+        }
+    ]
+}

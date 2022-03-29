@@ -1,0 +1,240 @@
+{
+    "Traces": [
+        {
+            "CenterLatitude": 28.080544,
+            "CenterLongitude": 119.148126,
+            "ZoomLevel": 7,
+            "Lines": [
+                {
+                    "Markers": [
+                        {
+                            "Id": "b1b83b0bc9dd4f4d913a1f0b4accb083",
+                            "Latitude": 28.080544,
+                            "Longitude": 119.148126,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN331181",
+                            "Title": "龙泉"
+                        },
+                        {
+                            "Id": "2d33f8e4e9f646b8b318d6b67eebccf7",
+                            "Latitude": 27.953603,
+                            "Longitude": 116.364627,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361",
+                            "Title": "抚州"
+                        },
+                        {
+                            "Id": "22bb4f65e6b74e64a7b7f4749b413187",
+                            "Latitude": 26.905781,
+                            "Longitude": 117.182396,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350429",
+                            "Title": "泰宁"
+                        },
+                        {
+                            "Id": "49b9953a5fe4455f9bcfc415e7d384c5",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "c5163d367cab4c6f9fa6726bf9056394",
+                            "Latitude": 27.028915,
+                            "Longitude": 118.311441,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN350783",
+                            "Title": "建瓯"
+                        },
+                        {
+                            "Id": "4cdb489f37d04ee4af7f0b2d6f71af86",
+                            "Latitude": 27.953603,
+                            "Longitude": 116.364627,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN361",
+                            "Title": "抚州"
+                        },
+                        {
+                            "Id": "7e629bc7238c45ca9bef6371014da865",
+                            "Latitude": 30.697602,
+                            "Longitude": 111.292971,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4205",
+                            "Title": "宜昌"
+                        },
+                        {
+                            "Id": "a0216f2c34824bb2b57b35f584536b07",
+                            "Latitude": 25.934353,
+                            "Longitude": 111.079609,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN450324",
+                            "Title": "全州"
+                        },
+                        {
+                            "Id": "8a5056d2346145b9b91ab1a0f0152be5",
+                            "Latitude": 28.251769,
+                            "Longitude": 113.087489,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN430121",
+                            "Title": "长沙"
+                        },
+                        {
+                            "Id": "4584a293cd054f24a24e05e3bcc97958",
+                            "Latitude": 24.816174,
+                            "Longitude": 113.603757,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4402",
+                            "Title": "韶关"
+                        },
+                        {
+                            "Id": "e786b15d3d7d48a2b751ccfd67294f18",
+                            "Latitude": 23.135308,
+                            "Longitude": 113.270793,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4401",
+                            "Title": "广州"
+                        },
+                        {
+                            "Id": "5badf71f35814544a1db2e6902427cad",
+                            "Latitude": 30.598428,
+                            "Longitude": 114.311831,
+                            "OffsetLeft": 0,
+                            "OffsetTop": 0,
+                            "Invisible": true,
+                            "RegionId": "CN4201",
+                            "Title": "武汉"
+                        }
+                    ]
+                }
+            ],
+            "Markers": [
+                {
+                    "Latitude": 28.080544,
+                    "Longitude": 119.148126,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN331181",
+                    "Title": "龙泉 (出生地)",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"b1b83b0bc9dd4f4d913a1f0b4accb083\");'><span id='b1b83b0bc9dd4f4d913a1f0b4accb083_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1151')\">1133-1151年</a>，1-19岁</div><div id='b1b83b0bc9dd4f4d913a1f0b4accb083' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')\">1133年</a>　居乡？约生于本年，本表所标年岁均为虚拟数，非实数。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1151')\">1134-1151年</a>　居乡？<br /></div>"
+                },
+                {
+                    "Latitude": 27.953603,
+                    "Longitude": 116.364627,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN361",
+                    "Title": "抚州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"2d33f8e4e9f646b8b318d6b67eebccf7\");'><span id='2d33f8e4e9f646b8b318d6b67eebccf7_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')\">1152年</a>，20岁</div><div id='2d33f8e4e9f646b8b318d6b67eebccf7' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')\">1152年</a>　管鉴初以父荫补官，调江西常平提干。具体时间不详，姑系于此。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"4cdb489f37d04ee4af7f0b2d6f71af86\");'><span id='4cdb489f37d04ee4af7f0b2d6f71af86_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>，41岁</div><div id='4cdb489f37d04ee4af7f0b2d6f71af86' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')\">1173年</a>　重阳登金石台，有词抒怀。<span class='label'>作品：</span>念奴娇（登高作赋）<div id='poem_248235' class='_poem'><div id='poem_title_248235' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=248235' class='poemCommentLink' target='_blank'>念奴娇<span style='margin: 0 0.5em'> 其一 </span>癸巳重九，同陈汉卿、张叔信、王任道登金石台作</a><a href='javascript: ShowPoemAuthorProfile(30927, \"宋\", \"管鉴\", \"poem_title_248235\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>管鉴</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_248235_comment'></div><div class='poemContent' id='poem_content_248235'><div class='poemSentence' id='poem_sentence_0_248235'>登高作赋，叹老来笔力，都非年少。</div><div id='poem_sentence_0_248235_comment'></div><div class='poemSentence' id='poem_sentence_1_248235'>古观重游秋色里，冷怯西风吹帽。</div><div id='poem_sentence_1_248235_comment'></div><div class='poemSentence' id='poem_sentence_2_248235'>千里江山，一时人物，迥出尘埃表。</div><div id='poem_sentence_2_248235_comment'></div><div class='poemSentence' id='poem_sentence_3_248235'>危阑同凭，皎然玉树相照。</div><div id='poem_sentence_3_248235_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_248235'>惆怅紫菊红萸，年年簪发、应笑人空老。</div><div id='poem_sentence_4_248235_comment'></div><div class='poemSentence' id='poem_sentence_5_248235'>北阙西江君赐远，难得一枝来到。</div><div id='poem_sentence_5_248235_comment'></div><div class='poemSentence' id='poem_sentence_6_248235'>莫话升沈，且乘闲暇，赢得清尊倒。</div><div id='poem_sentence_6_248235_comment'></div><div class='poemSentence' id='poem_sentence_7_248235'>饮酣归暮，浩歌声振林杪。</div><div id='poem_sentence_7_248235_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 26.905781,
+                    "Longitude": 117.182396,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350429",
+                    "Title": "泰宁",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"22bb4f65e6b74e64a7b7f4749b413187\");'><span id='22bb4f65e6b74e64a7b7f4749b413187_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年</a>，21岁</div><div id='22bb4f65e6b74e64a7b7f4749b413187' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')\">1153年</a>　管鉴初以父荫补官，调江西常平提干，改知泰宁县。具体时间不详，姑系于此。<br /></div>"
+                },
+                {
+                    "Latitude": 28.251769,
+                    "Longitude": 113.087489,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN430121",
+                    "Title": "长沙",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"49b9953a5fe4455f9bcfc415e7d384c5\");'><span id='49b9953a5fe4455f9bcfc415e7d384c5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>，33岁</div><div id='49b9953a5fe4455f9bcfc415e7d384c5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')\">1165年</a>　为湖南帅机，佐刘珙平定李金之乱。<br /></div><div class='label1'><a href='javascript: DetailSwitch(\"8a5056d2346145b9b91ab1a0f0152be5\");'><span id='8a5056d2346145b9b91ab1a0f0152be5_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1186')\">1183-1186年</a>，51-54岁</div><div id='8a5056d2346145b9b91ab1a0f0152be5' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')\">1183年</a>　除湖南提举，劝民浚坡地，溉田万六千顷，蠲郴州和籴，新石鼓书院。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')\">1184年</a>　在湖南提举任上。本年生日有词抒怀。<span class='label'>作品：</span>洞仙歌·甲辰生日醉书示儿辈（老来生日）<div id='poem_248265' class='_poem'><div id='poem_title_248265' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=248265' class='poemCommentLink' target='_blank'>蓦山溪<span style='margin: 0 0.5em'> 其二 </span>甲辰生日醉书示儿辈</a><a href='javascript: ShowPoemAuthorProfile(30927, \"宋\", \"管鉴\", \"poem_title_248265\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>管鉴</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_248265_comment'></div><div class='poemContent' id='poem_content_248265'><div class='poemSentence' id='poem_sentence_0_248265'>老来生日，渐觉心情懒。</div><div id='poem_sentence_0_248265_comment'></div><div class='poemSentence' id='poem_sentence_1_248265'>卯酒带春酲，更昨来、东风已转。</div><div id='poem_sentence_1_248265_comment'></div><div class='poemSentence' id='poem_sentence_2_248265'>衰颜易改，不用看传神，欢意浅，酒肠悭，孤负深深劝。</div><div id='poem_sentence_2_248265_comment'></div><br /><div class='poemSentence' id='poem_sentence_3_248265'>浮云富贵，本自无心羡。</div><div id='poem_sentence_3_248265_comment'></div><div class='poemSentence' id='poem_sentence_4_248265'>金带便围腰，也应似、休文瘦减。</div><div id='poem_sentence_4_248265_comment'></div><div class='poemSentence' id='poem_sentence_5_248265'>君恩未报，何日赋归欤，三径乐，五湖游，趁取身强健。</div><div id='poem_sentence_5_248265_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')\">1185年</a>　在湖南提举任上。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年5月</a>　在湖南提举任上。本年五月，臧否全州守臣赵昌裔；六月癸丑，诏昌裔奉祠。<br /></div>"
+                },
+                {
+                    "Latitude": 27.028915,
+                    "Longitude": 118.311441,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN350783",
+                    "Title": "建瓯",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"c5163d367cab4c6f9fa6726bf9056394\");'><span id='c5163d367cab4c6f9fa6726bf9056394_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年</a>，34岁</div><div id='c5163d367cab4c6f9fa6726bf9056394' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')\">1166年</a>　因佐刘珙平定李金之乱有功，迁建宁府通判，具体时间不详，当在乾道二、三年间。<br /></div>"
+                },
+                {
+                    "Latitude": 30.697602,
+                    "Longitude": 111.292971,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4205",
+                    "Title": "宜昌",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"7e629bc7238c45ca9bef6371014da865\");'><span id='7e629bc7238c45ca9bef6371014da865_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1177')\">1174-1177年</a>，42-45岁</div><div id='7e629bc7238c45ca9bef6371014da865' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')\">1174年9月9日</a>　时为峡州守，重阳日有词抒怀。<span class='label'>作品：</span>念奴娇（楚山万叠）<div id='poem_248237' class='_poem'><div id='poem_title_248237' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=248237' class='poemCommentLink' target='_blank'>念奴娇<span style='margin: 0 0.5em'> 其二 </span></a><a href='javascript: ShowPoemAuthorProfile(30927, \"宋\", \"管鉴\", \"poem_title_248237\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>管鉴</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_248237_comment'></div><div class='titleComment' id='poem_preface_248237'>序：夷陵九日忆去岁金石之游，用旧韵寄汉卿、叔信。盖尝归饮任道家，故有徐娘及悲欢之句</div><div id='poem_preface_248237_comment'></div><div class='poemContent' id='poem_content_248237'><div class='poemSentence' id='poem_sentence_0_248237'>楚山万叠，怅高情、不比当年嵩少。</div><div id='poem_sentence_0_248237_comment'></div><div class='poemSentence' id='poem_sentence_1_248237'>官况全如秋淡薄，枉却尘侵乌帽。</div><div id='poem_sentence_1_248237_comment'></div><div class='poemSentence' id='poem_sentence_2_248237'>菊蕊犹青，茱萸未紫，节意凭谁表。</div><div id='poem_sentence_2_248237_comment'></div><div class='poemSentence' id='poem_sentence_3_248237'>故园何处，暮云低尽残照。</div><div id='poem_sentence_3_248237_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_248237'>追念往昔佳辰，尊前绝唱，未觉徐娘老。</div><div id='poem_sentence_4_248237_comment'></div><div class='poemSentence' id='poem_sentence_5_248237'>聚散悲欢回首异，今岁古台谁到。</div><div id='poem_sentence_5_248237_comment'></div><div class='poemSentence' id='poem_sentence_6_248237'>藉甚声名，难忘风味，何日重倾倒。</div><div id='poem_sentence_6_248237_comment'></div><div class='poemSentence' id='poem_sentence_7_248237'>交情好在，雁书频寄云杪。</div><div id='poem_sentence_7_248237_comment'></div></div></div><br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1176')\">1175-1176年</a>　时为峡州守。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　时为峡州守，范成大道经峡州，遵范大大之嘱募集民夫修治道路。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')\">1177年</a>　时为峡州守，期间作词多首。<span class='label'>作品：</span>水龙吟·夷陵雪作（晓来密雪如筛）<span class='inlineComment2'>（此词乃管鉴在峡州夷陵作，具体时间不详，姑系于此。）</span>水调歌头·夷陵九日（举俗爱重九）<span class='inlineComment2'>（此词乃管鉴在峡州夷陵作，具体时间不详，姑系于此。）</span><div id='poem_248218' class='_poem'><div id='poem_title_248218' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=248218' class='poemCommentLink' target='_blank'>水龙吟<span style='margin: 0 0.5em'> 其二 </span>夷陵雪作</a><a href='javascript: ShowPoemAuthorProfile(30927, \"宋\", \"管鉴\", \"poem_title_248218\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>管鉴</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_248218_comment'></div><div class='poemContent' id='poem_content_248218'><div class='poemSentence' id='poem_sentence_0_248218'>晓来密雪如筛，望中莹彻还如洗。</div><div id='poem_sentence_0_248218_comment'></div><div class='poemSentence' id='poem_sentence_1_248218'>梅花过了，东风未放，满城桃李。</div><div id='poem_sentence_1_248218_comment'></div><div class='poemSentence' id='poem_sentence_2_248218'>碎剪琼英，高林低树，巧装匀缀。</div><div id='poem_sentence_2_248218_comment'></div><div class='poemSentence' id='poem_sentence_3_248218'>更江山秀发，田畴清润，满眼是、丰年意。</div><div id='poem_sentence_3_248218_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_248218'>谁念危楼独倚。</div><div id='poem_sentence_4_248218_comment'></div><div class='poemSentence' id='poem_sentence_5_248218'>共飘零、茫茫天外。</div><div id='poem_sentence_5_248218_comment'></div><div class='poemSentence' id='poem_sentence_6_248218'>毫端句涩，杯中酒减，欢情难寄。</div><div id='poem_sentence_6_248218_comment'></div><div class='poemSentence' id='poem_sentence_7_248218'>天为凄凉，暂时遮尽，黄茅白苇。</div><div id='poem_sentence_7_248218_comment'></div><div class='poemSentence' id='poem_sentence_8_248218'>但神州目断，珠宫玉阙，缈三千里。</div><div id='poem_sentence_8_248218_comment'></div></div></div><div id='poem_248220' class='_poem'><div id='poem_title_248220' class='poemTitle showDetail'><a href='/Query.aspx?type=poem1&id=248220' class='poemCommentLink' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其六 </span>夷陵九日</a><a href='javascript: ShowPoemAuthorProfile(30927, \"宋\", \"管鉴\", \"poem_title_248220\")'><span class='poemAuthor'><span class='inlineComment1'> 宋·</span>管鉴</span></a><br /><div class='titleIndent'></div></div><div id='poem_title_248220_comment'></div><div class='poemContent' id='poem_content_248220'><div class='poemSentence' id='poem_sentence_0_248220'>举俗爱重九，秋至不须悲。</div><div id='poem_sentence_0_248220_comment'></div><div class='poemSentence' id='poem_sentence_1_248220'>登临昔贤胜地，空愧主人谁。</div><div id='poem_sentence_1_248220_comment'></div><div class='poemSentence' id='poem_sentence_2_248220'>滚滚长江不尽，叠叠青山无数，千载揖高姿。</div><div id='poem_sentence_2_248220_comment'></div><div class='poemSentence' id='poem_sentence_3_248220'>况有贤宾客，同醉此佳时。</div><div id='poem_sentence_3_248220_comment'></div><br /><div class='poemSentence' id='poem_sentence_4_248220'>坐间菊，青作袂，玉为肌。</div><div id='poem_sentence_4_248220_comment'></div><div class='poemSentence' id='poem_sentence_5_248220'>香英泛酒，风流绝胜酌酴醾。</div><div id='poem_sentence_5_248220_comment'></div><div class='poemSentence' id='poem_sentence_6_248220'>莫话龙山高会，只作东篱幽想，应有故人思。</div><div id='poem_sentence_6_248220_comment'></div><div class='poemSentence' id='poem_sentence_7_248220'>北望江南路，回首暮云披。</div><div id='poem_sentence_7_248220_comment'></div></div></div><br /></div>"
+                },
+                {
+                    "Latitude": 25.934353,
+                    "Longitude": 111.079609,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN450324",
+                    "Title": "全州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"a0216f2c34824bb2b57b35f584536b07\");'><span id='a0216f2c34824bb2b57b35f584536b07_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1182')\">1181-1182年</a>，49-50岁</div><div id='a0216f2c34824bb2b57b35f584536b07' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')\">1181年12月</a>　以朝请大夫知全州，本年十二月到任。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')\">1182年</a>　知全州。<br /></div>"
+                },
+                {
+                    "Latitude": 24.816174,
+                    "Longitude": 113.603757,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4402",
+                    "Title": "韶关",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"4584a293cd054f24a24e05e3bcc97958\");'><span id='4584a293cd054f24a24e05e3bcc97958_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1187')\">1186-1187年</a>，54-55岁</div><div id='4584a293cd054f24a24e05e3bcc97958' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')\">1186年5月</a>　改广东提点刑狱。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年1月</a>　知韶州。<br /></div>"
+                },
+                {
+                    "Latitude": 23.135308,
+                    "Longitude": 113.270793,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4401",
+                    "Title": "广州",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"e786b15d3d7d48a2b751ccfd67294f18\");'><span id='e786b15d3d7d48a2b751ccfd67294f18_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1194')\">1187-1194年</a>，55-62岁</div><div id='e786b15d3d7d48a2b751ccfd67294f18' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')\">1187年</a>　旋除广东转运判官。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')\">1188年</a>　在广东转运判官任上。减潮、惠七郡丁租，置广安宅，买田以给士大夫南迁不能还者。<br /><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1194')\">1189-1194年</a>　在广东转运判官任上。<br /></div>"
+                },
+                {
+                    "Latitude": 30.598428,
+                    "Longitude": 114.311831,
+                    "OffsetLeft": 0,
+                    "OffsetTop": 0,
+                    "Invisible": false,
+                    "RegionId": "CN4201",
+                    "Title": "武汉",
+                    "Detail": "<div class='label1'><a href='javascript: DetailSwitch(\"5badf71f35814544a1db2e6902427cad\");'><span id='5badf71f35814544a1db2e6902427cad_link' class='switch'>—</span></a><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>，63岁</div><div id='5badf71f35814544a1db2e6902427cad' class='detail'><a href=\"javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')\">1195年</a>　移湖北转运使，寻卒。<br /></div>"
+                }
+            ],
+            "IsMarked": false,
+            "Title": "管鉴 <span class='inlineComment2'>(1133-1195)</span>",
+            "Detail": "<p class='inlineComment2'>引用书目：王兆鹏、邓建《南宋管鉴生平考索》　录入整理：邓建</p><p><a href=\"javascript: ViewRoute(0, 4, 116.1178075, 27.578775, 8, 0)\">1-33岁</a><br /><a href=\"javascript: ViewPoint(0, 0)\">龙泉</a> → <a href=\"javascript: ViewPoint(1, 0)\">抚州</a> → <a href=\"javascript: ViewPoint(2, 0)\">泰宁</a> → <a href=\"javascript: ViewPoint(3, 0)\">长沙</a></p><p><a href=\"javascript: ViewRoute(4, 12, 114.695525, 26.916455, 7, 0)\">34-63岁</a><br /><a href=\"javascript: ViewPoint(4, 0)\">建瓯</a> → <a href=\"javascript: ViewPoint(5, 0)\">抚州</a> → <a href=\"javascript: ViewPoint(6, 0)\">宜昌</a> → <a href=\"javascript: ViewPoint(7, 0)\">全州</a> → <a href=\"javascript: ViewPoint(8, 0)\">长沙</a> → <a href=\"javascript: ViewPoint(9, 0)\">韶关</a> → <a href=\"javascript: ViewPoint(10, 0)\">广州</a> → <a href=\"javascript: ViewPoint(11, 0)\">武汉</a></p>"
+        }
+    ]
+}
